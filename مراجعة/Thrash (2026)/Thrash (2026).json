@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:08.091078+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Thrash (2026)",
+    "image_path": "مراجعة/Thrash (2026)/poster.png",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Thrash%20%282026%29/poster.png",
+    "original_image_path": "Thrash (2026)/poster.png"
+  },
+  "original": {
+    "folder_name": "Thrash (2026)",
+    "title_hint": "Thrash",
+    "year_hint": 2026
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2026,
+    "tmdb_year": 2026,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 1290417,
+    "candidate_title": "Thrash"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "1290417": [
+          "folder_search"
+        ],
+        "1695276": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Thrash (2026)/Thrash (2026).json"
+}

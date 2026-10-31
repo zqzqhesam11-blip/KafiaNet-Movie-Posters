@@ -1,0 +1,77 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:12.395946+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Thursday (1998)",
+    "image_path": "مراجعة/Thursday (1998)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Thursday%20%281998%29/poster.jpg",
+    "original_image_path": "Thursday (1998)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Thursday (1998)",
+    "title_hint": "Thursday",
+    "year_hint": 1998
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1998,
+    "tmdb_year": 1998,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 9812,
+    "candidate_title": "Thursday"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "9812": [
+          "folder_search"
+        ],
+        "1295766": [
+          "folder_search"
+        ],
+        "1295760": [
+          "folder_search"
+        ],
+        "1295768": [
+          "folder_search"
+        ],
+        "1295762": [
+          "folder_search"
+        ],
+        "1295770": [
+          "folder_search"
+        ],
+        "1295758": [
+          "folder_search"
+        ],
+        "1295750": [
+          "folder_search"
+        ],
+        "1295754": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Thursday (1998)/Thursday (1998).json"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:15.135872+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Time Bandits (1981)",
+    "image_path": "مراجعة/Time Bandits (1981)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Time%20Bandits%20%281981%29/poster.jpg",
+    "original_image_path": "Time Bandits (1981)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Time Bandits (1981)",
+    "title_hint": "Time Bandits",
+    "year_hint": 1981
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1981,
+    "tmdb_year": 1981,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 36819,
+    "candidate_title": "Time Bandits"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "36819": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Time Bandits (1981)/Time Bandits (1981).json"
+}

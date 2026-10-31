@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:13.476828+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tiger Claws II (1996)",
+    "image_path": "مراجعة/Tiger Claws II (1996)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tiger%20Claws%20II%20%281996%29/poster.jpg",
+    "original_image_path": "Tiger Claws II (1996)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tiger Claws II (1996)",
+    "title_hint": "Tiger Claws II",
+    "year_hint": 1996
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1996,
+    "tmdb_year": 1996,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 37677,
+    "candidate_title": "Tiger Claws II"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "37677": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tiger Claws II (1996)/Tiger Claws II (1996).json"
+}

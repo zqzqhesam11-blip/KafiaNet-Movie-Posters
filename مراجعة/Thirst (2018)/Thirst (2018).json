@@ -1,0 +1,77 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:04.473110+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Thirst (2018)",
+    "image_path": "مراجعة/Thirst (2018)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Thirst%20%282018%29/poster.jpg",
+    "original_image_path": "Thirst (2018)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Thirst (2018)",
+    "title_hint": "Thirst",
+    "year_hint": 2018
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2018,
+    "tmdb_year": 2018,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 520562,
+    "candidate_title": "Thirst"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "520562": [
+          "folder_search"
+        ],
+        "536742": [
+          "folder_search"
+        ],
+        "513948": [
+          "folder_search"
+        ],
+        "426259": [
+          "folder_search"
+        ],
+        "46812": [
+          "folder_search"
+        ],
+        "504275": [
+          "folder_search"
+        ],
+        "615584": [
+          "folder_search"
+        ],
+        "535300": [
+          "folder_search"
+        ],
+        "477576": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Thirst (2018)/Thirst (2018).json"
+}

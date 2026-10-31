@@ -1,0 +1,62 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:29.964774+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tora! Tora! Tora! (1970)",
+    "image_path": "مراجعة/Tora! Tora! Tora! (1970)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tora%21%20Tora%21%20Tora%21%20%281970%29/poster.jpg",
+    "original_image_path": "Tora! Tora! Tora! (1970)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tora! Tora! Tora! (1970)",
+    "title_hint": "Tora! Tora! Tora!",
+    "year_hint": 1970
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1970,
+    "tmdb_year": 1970,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 11165,
+    "candidate_title": "Tora! Tora! Tora!"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "11165": [
+          "folder_search"
+        ],
+        "250451": [
+          "folder_search"
+        ],
+        "251428": [
+          "folder_search"
+        ],
+        "201044": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tora! Tora! Tora! (1970)/Tora! Tora! Tora! (1970).json"
+}

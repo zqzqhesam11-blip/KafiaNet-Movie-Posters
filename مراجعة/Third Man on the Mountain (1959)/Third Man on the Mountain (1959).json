@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:03.840865+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Third Man on the Mountain (1959)",
+    "image_path": "مراجعة/Third Man on the Mountain (1959)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Third%20Man%20on%20the%20Mountain%20%281959%29/poster.jpg",
+    "original_image_path": "Third Man on the Mountain (1959)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Third Man on the Mountain (1959)",
+    "title_hint": "Third Man on the Mountain",
+    "year_hint": 1959
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1959,
+    "tmdb_year": 1959,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 64867,
+    "candidate_title": "Third Man on the Mountain"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "64867": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Third Man on the Mountain (1959)/Third Man on the Mountain (1959).json"
+}

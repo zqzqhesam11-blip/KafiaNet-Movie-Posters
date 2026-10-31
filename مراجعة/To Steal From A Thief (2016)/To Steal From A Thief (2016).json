@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:22.715538+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "To Steal From A Thief (2016)",
+    "image_path": "مراجعة/To Steal From A Thief (2016)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/To%20Steal%20From%20A%20Thief%20%282016%29/poster.jpg",
+    "original_image_path": "To Steal From A Thief (2016)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "To Steal From A Thief (2016)",
+    "title_hint": "To Steal From A Thief",
+    "year_hint": 2016
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2016,
+    "tmdb_year": 2016,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 351809,
+    "candidate_title": "To Steal from a Thief"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "351809": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/To Steal From A Thief (2016)/To Steal From A Thief (2016).json"
+}

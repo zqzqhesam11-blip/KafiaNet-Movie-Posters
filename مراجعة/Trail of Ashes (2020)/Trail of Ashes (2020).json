@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:34.985496+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Trail of Ashes (2020)",
+    "image_path": "مراجعة/Trail of Ashes (2020)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Trail%20of%20Ashes%20%282020%29/poster.jpg",
+    "original_image_path": "Trail of Ashes (2020)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Trail of Ashes (2020)",
+    "title_hint": "Trail of Ashes",
+    "year_hint": 2020
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2020,
+    "tmdb_year": 2020,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 770489,
+    "candidate_title": "Trail of Ashes"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "770489": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Trail of Ashes (2020)/Trail of Ashes (2020).json"
+}

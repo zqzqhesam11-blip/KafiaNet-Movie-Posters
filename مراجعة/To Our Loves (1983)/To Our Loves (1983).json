@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:22.022549+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "To Our Loves (1983)",
+    "image_path": "مراجعة/To Our Loves (1983)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/To%20Our%20Loves%20%281983%29/poster.jpg",
+    "original_image_path": "To Our Loves (1983)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "To Our Loves (1983)",
+    "title_hint": "To Our Loves",
+    "year_hint": 1983
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.55,
+    "title_similarity": 0.5,
+    "folder_title_similarity": 0.5,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1983,
+    "tmdb_year": 1983,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 2282,
+    "candidate_title": "A Nos Amours"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "2282": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/To Our Loves (1983)/To Our Loves (1983).json"
+}

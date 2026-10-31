@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:25.626301+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tom Sawyer & Huckleberry Finn (2014)",
+    "image_path": "مراجعة/Tom Sawyer & Huckleberry Finn (2014)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tom%20Sawyer%20%26%20Huckleberry%20Finn%20%282014%29/poster.jpg",
+    "original_image_path": "Tom Sawyer & Huckleberry Finn (2014)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tom Sawyer & Huckleberry Finn (2014)",
+    "title_hint": "Tom Sawyer & Huckleberry Finn",
+    "year_hint": 2014
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2014,
+    "tmdb_year": 2014,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 172390,
+    "candidate_title": "Tom Sawyer & Huckleberry Finn"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "172390": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tom Sawyer & Huckleberry Finn (2014)/Tom Sawyer & Huckleberry Finn (2014).json"
+}

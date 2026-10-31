@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:17.162083+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tin Soldier (2025)",
+    "image_path": "مراجعة/Tin Soldier (2025)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tin%20Soldier%20%282025%29/poster.jpg",
+    "original_image_path": "Tin Soldier (2025)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tin Soldier (2025)",
+    "title_hint": "Tin Soldier",
+    "year_hint": 2025
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2025,
+    "tmdb_year": 2025,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 977294,
+    "candidate_title": "Tin Soldier"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "977294": [
+          "folder_search"
+        ],
+        "1489310": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tin Soldier (2025)/Tin Soldier (2025).json"
+}

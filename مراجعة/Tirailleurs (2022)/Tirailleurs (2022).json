@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:18.591074+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tirailleurs (2022)",
+    "image_path": "مراجعة/Tirailleurs (2022)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tirailleurs%20%282022%29/poster.jpg",
+    "original_image_path": "Tirailleurs (2022)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tirailleurs (2022)",
+    "title_hint": "Tirailleurs",
+    "year_hint": 2022
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.9,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2022,
+    "tmdb_year": 2023,
+    "year_delta": 1,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 967874,
+    "candidate_title": "Father & Soldier"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "967874": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tirailleurs (2022)/Tirailleurs (2022).json"
+}

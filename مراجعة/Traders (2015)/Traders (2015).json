@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:33.546436+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Traders (2015)",
+    "image_path": "مراجعة/Traders (2015)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Traders%20%282015%29/poster.jpg",
+    "original_image_path": "Traders (2015)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Traders (2015)",
+    "title_hint": "Traders",
+    "year_hint": 2015
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.9,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2015,
+    "tmdb_year": 2016,
+    "year_delta": 1,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 347647,
+    "candidate_title": "Traders"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "347647": [
+          "folder_search"
+        ],
+        "510206": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Traders (2015)/Traders (2015).json"
+}

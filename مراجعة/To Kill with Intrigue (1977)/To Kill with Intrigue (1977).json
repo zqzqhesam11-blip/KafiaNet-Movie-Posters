@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:21.123665+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "To Kill with Intrigue (1977)",
+    "image_path": "مراجعة/To Kill with Intrigue (1977)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/To%20Kill%20with%20Intrigue%20%281977%29/poster.jpg",
+    "original_image_path": "To Kill with Intrigue (1977)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "To Kill with Intrigue (1977)",
+    "title_hint": "To Kill with Intrigue",
+    "year_hint": 1977
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1977,
+    "tmdb_year": 1977,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 18758,
+    "candidate_title": "To Kill with Intrigue"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "18758": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/To Kill with Intrigue (1977)/To Kill with Intrigue (1977).json"
+}

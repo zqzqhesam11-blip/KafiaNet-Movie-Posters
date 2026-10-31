@@ -1,0 +1,65 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:14.559548+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tilt (2017)",
+    "image_path": "مراجعة/Tilt (2017)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tilt%20%282017%29/poster.jpg",
+    "original_image_path": "Tilt (2017)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tilt (2017)",
+    "title_hint": "Tilt",
+    "year_hint": 2017
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2017,
+    "tmdb_year": 2017,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 453203,
+    "candidate_title": "Tilt"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "453203": [
+          "folder_search"
+        ],
+        "571522": [
+          "folder_search"
+        ],
+        "701097": [
+          "folder_search"
+        ],
+        "826": [
+          "folder_search"
+        ],
+        "299340": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tilt (2017)/Tilt (2017).json"
+}

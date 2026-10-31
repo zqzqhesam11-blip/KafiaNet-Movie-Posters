@@ -1,0 +1,56 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:25.798780+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Tom Sawyer (1973)",
+    "image_path": "مراجعة/Tom Sawyer (1973)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Tom%20Sawyer%20%281973%29/poster.jpg",
+    "original_image_path": "Tom Sawyer (1973)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Tom Sawyer (1973)",
+    "title_hint": "Tom Sawyer",
+    "year_hint": 1973
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 1973,
+    "tmdb_year": 1973,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 42473,
+    "candidate_title": "Tom Sawyer"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "42473": [
+          "folder_search"
+        ],
+        "598299": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Tom Sawyer (1973)/Tom Sawyer (1973).json"
+}

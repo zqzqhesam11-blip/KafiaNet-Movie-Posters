@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:19.295653+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Titanium (2015)",
+    "image_path": "مراجعة/Titanium (2015)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Titanium%20%282015%29/poster.jpg",
+    "original_image_path": "Titanium (2015)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Titanium (2015)",
+    "title_hint": "Titanium",
+    "year_hint": 2015
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.1,
+    "title_similarity": 0.1111,
+    "folder_title_similarity": 0.1111,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2015,
+    "tmdb_year": 2014,
+    "year_delta": 1,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 316269,
+    "candidate_title": "Calculator"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "316269": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Titanium (2015)/Titanium (2015).json"
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:23:19.653247+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "TKG The Kids of Grove (2020)",
+    "image_path": "مراجعة/TKG The Kids of Grove (2020)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/TKG%20The%20Kids%20of%20Grove%20%282020%29/poster.jpg",
+    "original_image_path": "TKG The Kids of Grove (2020)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "TKG The Kids of Grove (2020)",
+    "title_hint": "TKG The Kids of Grove",
+    "year_hint": 2020
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2020,
+    "tmdb_year": 2020,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 746180,
+    "candidate_title": "TKG: The Kids of Grove"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "746180": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/TKG The Kids of Grove (2020)/TKG The Kids of Grove (2020).json"
+}

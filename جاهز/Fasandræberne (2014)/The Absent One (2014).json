@@ -1,0 +1,760 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T19:57:44.255938+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Fasandræberne (2014)",
+    "image_path": "جاهز/Fasandræberne (2014)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/Fasandr%C3%A6berne%20%282014%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Fasandræberne (2014)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Fasandræberne (2014)",
+    "title_hint": "Fasandræberne",
+    "year_hint": 2014
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.4828,
+    "best_tineye_hint": "fasandraeberne the absent one 150221524 mmed",
+    "source_year": 2014,
+    "tmdb_year": 2014,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search",
+      "tineye_imdb"
+    ],
+    "reason": "TinEye backlink resolved to a single trusted IMDb/TMDB movie ID"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "the-absent-one-aka-department-q-the-absent-one-aka-fasandraeberne-HC9XJY.jpg",
+        "url": "https://www.alamy.com/stock-photo-the-absent-one-aka-department-q-the-absent-one-aka-fasandraeberne-128066931.html",
+        "source": "https://c8.alamy.com/comp/HC9XJY/the-absent-one-aka-department-q-the-absent-one-aka-fasandraeberne-HC9XJY.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://m.imdb.com/title/tt3140100/",
+        "source": "https://m.media-amazon.com/images/M/MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_FMjpg_UX1000_.jpg",
+        "content": ""
+      },
+      {
+        "title": "fasandraeberne_the_absent_one-150221524-mmed.jpg",
+        "url": "https://www.filmaffinity.com/en/film914096.html",
+        "source": "https://pics.filmaffinity.com/fasandraeberne_the_absent_one-150221524-mmed.jpg",
+        "content": ""
+      },
+      {
+        "title": "The_Absent_One-150221524-large.jpg",
+        "url": "https://www.filmaffinity.com/en/filmimages.php?movie_id=914096",
+        "source": "https://pics.filmaffinity.com/The_Absent_One-150221524-large.jpg",
+        "content": ""
+      },
+      {
+        "title": "Profanaci_n_Los_casos_del_Departamento_Q-150221524-large.jpg",
+        "url": "http://www.criticasen8mm.com/2015/07/profanacion-los-casos-del-departamento.html",
+        "source": "http://4.bp.blogspot.com/-EZ6zFeyUT-M/VZSJZ6Msv1I/AAAAAAAAALg/qram_gKbucY/s1600/Profanaci_n_Los_casos_del_Departamento_Q-150221524-large.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_.jpg",
+        "url": "https://www.imdb.com/name/nm7146328/",
+        "source": "https://m.media-amazon.com/images/M/MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "1462105852-1090667247_l.jpg",
+        "url": "http://justinean0508.pixnet.net/blog/post/216225143",
+        "source": "https://pic.pimg.tw/justinean0508/1462105852-1090667247_l.jpg?v=1462105886",
+        "content": ""
+      },
+      {
+        "title": "tt3140100.jpg",
+        "url": "http://www.nca4.com/people/538814-lars-thiesgaard",
+        "source": "http://www.nca4.com/imdb/posters/tt3140100.jpg",
+        "content": ""
+      },
+      {
+        "title": "the-absent-one-426x640.jpg",
+        "url": "http://mainstream.dk/references/",
+        "source": "https://www-static.mainstream.dk/wp-content/uploads/2018/03/the-absent-one-426x640.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://www.imdb.com/title/tt3140100/",
+        "source": "https://m.media-amazon.com/images/M/MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE@._V1_FMjpg_UX1000_.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "the absent one aka department the absent one aka fasandraeberne HC9XJY",
+        "MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE V1 FMjpg UX1000",
+        "fasandraeberne the absent one 150221524 mmed",
+        "The Absent One 150221524",
+        "Profanaci Los casos del Departamento 150221524",
+        "MV5BMTUwMTI0NDcxMF5BMl5BanBnXkFtZTgwNDAxNTI4MjE V1",
+        "the absent one 426x640"
+      ],
+      "imdb_ids": [
+        "tt3140100"
+      ],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "254201": [
+          "folder_search",
+          "tineye_imdb"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 254201,
+    "media_type": "movie",
+    "title": "The Absent One",
+    "original_title": "Fasandræberne",
+    "release_date": "2014-10-02",
+    "year": 2014,
+    "original_language": "da",
+    "origin_country": [
+      "DK"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "DK",
+        "name": "Denmark"
+      },
+      {
+        "iso_3166_1": "DE",
+        "name": "Germany"
+      },
+      {
+        "iso_3166_1": "NO",
+        "name": "Norway"
+      },
+      {
+        "iso_3166_1": "SE",
+        "name": "Sweden"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 8288,
+        "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+        "name": "Zentropa International Sweden",
+        "origin_country": "SE"
+      },
+      {
+        "id": 76,
+        "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+        "name": "Zentropa Entertainments",
+        "origin_country": "DK"
+      },
+      {
+        "id": 2801,
+        "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+        "name": "Film i Väst",
+        "origin_country": "SE"
+      },
+      {
+        "id": 758,
+        "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+        "name": "TV 2",
+        "origin_country": "DK"
+      },
+      {
+        "id": 4606,
+        "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+        "name": "ZDF",
+        "origin_country": "DE"
+      },
+      {
+        "id": 2802,
+        "logo_path": "/7L7VUXTBLiHruhUjYJebV46uw3c.png",
+        "name": "TV4",
+        "origin_country": "SE"
+      },
+      {
+        "id": 3389,
+        "logo_path": "/ppNofD7TAGZPbCWqdRZL10D7Yg9.png",
+        "name": "TV 2",
+        "origin_country": "NO"
+      },
+      {
+        "id": 105392,
+        "logo_path": "/hgmt6qtFTWqnSfbpuBWdphNKfUu.png",
+        "name": "TrustNordisk",
+        "origin_country": "DK"
+      }
+    ],
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      }
+    ],
+    "runtime": 116,
+    "status": "Released",
+    "overview": "Denmark, 2014. A former police officer asks Carl Mørck, head of Department Q, to find out who brutally killed his young twins in 1994. Although a local inhabitant confessed and was convicted of murder, Carl and his partner Assad soon realize that there is something in the case resolution that is terribly wrong.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/gnXZXx5rDHfymhB7jCDdBjWgm2j.jpg",
+    "backdrop_path": "/1BqoXxXahujGXSLUfefs3bmUSZy.jpg",
+    "popularity": 3.9846,
+    "vote_average": 7.0,
+    "vote_count": 722,
+    "collection": {
+      "id": 319850,
+      "name": "Department Q Collection",
+      "poster_path": "/i8H4xtfPVx6OYPgixSF41Envzhl.jpg",
+      "backdrop_path": "/mrgykjULNOZavn9xw9bp98aH1Rc.jpg"
+    },
+    "external_ids": {
+      "imdb_id": "tt3140100",
+      "wikidata_id": "Q16635884",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "El ausente",
+        "country": "AR",
+        "type": ""
+      },
+      {
+        "title": "Pheasant Killers",
+        "country": "DK",
+        "type": "Literal English title"
+      },
+      {
+        "title": "Profanation",
+        "country": "DK",
+        "type": "English title"
+      },
+      {
+        "title": "Fasanjägarna",
+        "country": "SE",
+        "type": ""
+      },
+      {
+        "title": "Jussi Adler-Olsen - Schändung",
+        "country": "DE",
+        "type": ""
+      },
+      {
+        "title": "Department Q 2 - The Absent One",
+        "country": "US",
+        "type": ""
+      },
+      {
+        "title": "Fasandræberne",
+        "country": "DK",
+        "type": ""
+      },
+      {
+        "title": "Fasandraeberne",
+        "country": "DK",
+        "type": ""
+      },
+      {
+        "title": "Department Q: The Absent One",
+        "country": "GB",
+        "type": ""
+      },
+      {
+        "title": "Мистериум: Убийцы фазана",
+        "country": "RU",
+        "type": ""
+      },
+      {
+        "title": "Erbarmen",
+        "country": "DE",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "CZ": [
+        {
+          "certification": "",
+          "release_date": "2015-05-14T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "DE": [
+        {
+          "certification": "",
+          "release_date": "2014-09-26T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "16",
+          "release_date": "2015-01-15T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "DK": [
+        {
+          "certification": "15",
+          "release_date": "2014-10-02T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "15",
+          "release_date": "2015-01-20T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "ES": [
+        {
+          "certification": "18",
+          "release_date": "2015-06-03T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "FR": [
+        {
+          "certification": "",
+          "release_date": "2015-03-28T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "12",
+          "release_date": "2015-04-08T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "GB": [
+        {
+          "certification": "18",
+          "release_date": "2016-04-08T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "HU": [
+        {
+          "certification": "18",
+          "release_date": "2015-03-19T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "JP": [
+        {
+          "certification": "R15+",
+          "release_date": "2016-02-25T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NL": [
+        {
+          "certification": "16",
+          "release_date": "2015-08-06T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NO": [
+        {
+          "certification": "15",
+          "release_date": "2014-11-28T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "SE": [
+        {
+          "certification": "15",
+          "release_date": "2016-11-05T00:00:00.000Z",
+          "type": 6
+        }
+      ],
+      "US": [
+        {
+          "certification": "",
+          "release_date": "2014-09-18T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "NR",
+          "release_date": "2016-06-17T00:00:00.000Z",
+          "type": 2
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 1018,
+        "name": "Nikolaj Lie Kaas",
+        "character": "Carl Mørck",
+        "order": 0
+      },
+      {
+        "id": 57012,
+        "name": "Fares Fares",
+        "character": "Hafez el-Assad",
+        "order": 1
+      },
+      {
+        "id": 90060,
+        "name": "Pilou Asbæk",
+        "character": "Ditlev Pram",
+        "order": 2
+      },
+      {
+        "id": 93236,
+        "name": "David Dencik",
+        "character": "Ulrik Dybbøl",
+        "order": 3
+      },
+      {
+        "id": 1078979,
+        "name": "Danica Ćurčić",
+        "character": "Kirsten Marie 'Kimmie' Lassen",
+        "order": 4
+      },
+      {
+        "id": 1090062,
+        "name": "Sarah-Sofie Boussnina",
+        "character": "Kimmie som ung",
+        "order": 5
+      },
+      {
+        "id": 1297500,
+        "name": "Johanne Louise Schmidt",
+        "character": "Rose Knudsen",
+        "order": 6
+      },
+      {
+        "id": 1372317,
+        "name": "Marco Ilsø",
+        "character": "Ditlev som ung",
+        "order": 7
+      },
+      {
+        "id": 74756,
+        "name": "Beate Bille",
+        "character": "Thelma",
+        "order": 8
+      },
+      {
+        "id": 1460359,
+        "name": "Peter Christoffersen",
+        "character": "Alberg",
+        "order": 9
+      },
+      {
+        "id": 64122,
+        "name": "Søren Pilmark",
+        "character": "Marcus Jacobsen",
+        "order": 10
+      },
+      {
+        "id": 1208770,
+        "name": "Michael Brostrup",
+        "character": "Børge Bak",
+        "order": 11
+      },
+      {
+        "id": 588177,
+        "name": "Morten Kirkskov",
+        "character": "Lars Bjørn",
+        "order": 12
+      },
+      {
+        "id": 1460360,
+        "name": "Phillip Stilling",
+        "character": "Ulrik som ung",
+        "order": 13
+      },
+      {
+        "id": 1388459,
+        "name": "Adam Ild Rohweder",
+        "character": "Bjarne som ung",
+        "order": 14
+      },
+      {
+        "id": 1460361,
+        "name": "Anton Honik",
+        "character": "Jesper",
+        "order": 15
+      },
+      {
+        "id": 1444696,
+        "name": "Kristian Høgh Jeppesen",
+        "character": "Bjarne Thøgersen",
+        "order": 16
+      },
+      {
+        "id": 1460362,
+        "name": "Katrine Greis-Rosenthal",
+        "character": "Tine",
+        "order": 17
+      },
+      {
+        "id": 202581,
+        "name": "Hans Henrik Voetmann",
+        "character": "Henning Jørgensen",
+        "order": 18
+      },
+      {
+        "id": 6140,
+        "name": "Hans Henrik Clemensen",
+        "character": "Bent Krum",
+        "order": 19
+      },
+      {
+        "id": 1180798,
+        "name": "Dan Zahle",
+        "character": "Frank Helmond",
+        "order": 20
+      },
+      {
+        "id": 544860,
+        "name": "Henning Valin Jakobsen",
+        "character": "Klavs",
+        "order": 21
+      },
+      {
+        "id": 1150862,
+        "name": "Diana Axelsen",
+        "character": "Kassandra",
+        "order": 22
+      },
+      {
+        "id": 1441839,
+        "name": "Zeev Sevik Perl",
+        "character": "Milo",
+        "order": 23
+      },
+      {
+        "id": 1460363,
+        "name": "Kasper Løfvall Stensbirk",
+        "character": "Præfekten",
+        "order": 24
+      },
+      {
+        "id": 1460364,
+        "name": "Peter Damm-Ottesen",
+        "character": "Betjent i arkivet",
+        "order": 25
+      },
+      {
+        "id": 1460365,
+        "name": "Nikolaj Groth",
+        "character": "Thomas",
+        "order": 26
+      },
+      {
+        "id": 1460366,
+        "name": "Katrine Bruun",
+        "character": "Marie",
+        "order": 27
+      },
+      {
+        "id": 89962,
+        "name": "Emma Sehested Høeg",
+        "character": "Pigen i skoven",
+        "order": 28
+      },
+      {
+        "id": 1443385,
+        "name": "Marie Lydie Melono Nokouda",
+        "character": "Nihla",
+        "order": 29
+      },
+      {
+        "id": 1066130,
+        "name": "Lars Thiesgaard",
+        "character": "Griffenholm Rektor",
+        "order": 30
+      },
+      {
+        "id": 1165102,
+        "name": "Elena Arndt-Jensen",
+        "character": "Kimmie's Roommate",
+        "order": 31
+      },
+      {
+        "id": 1460367,
+        "name": "Martine Ølbye Hjejle",
+        "character": "Pige på Griffenholm",
+        "order": 32
+      },
+      {
+        "id": 121541,
+        "name": "Frederikke Thomassen",
+        "character": "Pige 2 på Griffenholm",
+        "order": 33
+      },
+      {
+        "id": 1460368,
+        "name": "Jennifer Bülow",
+        "character": "Rengøringsdame",
+        "order": 34
+      },
+      {
+        "id": 145866,
+        "name": "Casper Steffensen",
+        "character": "Pædagog på legeplads",
+        "order": 35
+      },
+      {
+        "id": 1460369,
+        "name": "Simon Papousek",
+        "character": "Betjent 1",
+        "order": 36
+      },
+      {
+        "id": 1460370,
+        "name": "Stig Reggelsen Skjold",
+        "character": "Betjent 2",
+        "order": 37
+      },
+      {
+        "id": 1441930,
+        "name": "Anders Budde",
+        "character": "Betjent i Hennings lejlighed",
+        "order": 38
+      },
+      {
+        "id": 1442314,
+        "name": "Mads Rømer",
+        "character": "Betjent i celle",
+        "order": 39
+      },
+      {
+        "id": 1460372,
+        "name": "Peder Bille",
+        "character": "Tekniker i Albergs lejlighed",
+        "order": 40
+      },
+      {
+        "id": 1460373,
+        "name": "Klaus Barfod",
+        "character": "Hjemløs mand",
+        "order": 41
+      },
+      {
+        "id": 1460374,
+        "name": "Hugo Holmblad",
+        "character": "Ditlevs søn",
+        "order": 42
+      },
+      {
+        "id": 1460375,
+        "name": "Lillian Albeck",
+        "character": "Posedame på Hovedbanegården",
+        "order": 43
+      },
+      {
+        "id": 1460376,
+        "name": "Falke Mikailsen",
+        "character": "Alkoholiker på Hovedbanegården",
+        "order": 44
+      },
+      {
+        "id": 1460377,
+        "name": "Divya Das",
+        "character": "Nyhedsvært",
+        "order": 45
+      }
+    ],
+    "directors": [
+      {
+        "id": 206476,
+        "name": "Mikkel Nørgaard",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 74758,
+        "name": "Rasmus Heisterberg",
+        "job": "Screenplay",
+        "department": "Writing"
+      },
+      {
+        "id": 74752,
+        "name": "Nikolaj Arcel",
+        "job": "Screenplay",
+        "department": "Writing"
+      },
+      {
+        "id": 1305379,
+        "name": "Jussi Adler-Olsen",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 509,
+        "name": "denmark"
+      },
+      {
+        "id": 6271,
+        "name": "boarding school"
+      },
+      {
+        "id": 14522,
+        "name": "co-workers relationship"
+      },
+      {
+        "id": 191820,
+        "name": "nordic noir"
+      },
+      {
+        "id": 208155,
+        "name": "hunting party"
+      },
+      {
+        "id": 210662,
+        "name": "cold case"
+      },
+      {
+        "id": 251600,
+        "name": "afdeling q"
+      },
+      {
+        "id": 253807,
+        "name": "traumatized woman"
+      }
+    ],
+    "worldwide_title": "The Absent One",
+    "worldwide_title_selection": {
+      "title": "The Absent One",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "The Absent One (2014)",
+    "worldwide_title": "The Absent One",
+    "title_selection": {
+      "title": "The Absent One",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": true,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Fasandræberne (2014)/The Absent One (2014).json"
+}

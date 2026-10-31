@@ -1,0 +1,431 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T19:57:47.936985+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Hyväveli (2022)",
+    "image_path": "جاهز/Hyväveli (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/Hyv%C3%A4veli%20%282022%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Hyväveli (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Hyväveli (2022)",
+    "title_hint": "Hyväveli",
+    "year_hint": 2022
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.1714,
+    "best_tineye_hint": "5yA9SydbcSVXBgjgOuPCCR87yjT",
+    "source_year": 2022,
+    "tmdb_year": 2022,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search",
+      "tineye_imdb"
+    ],
+    "reason": "TinEye backlink resolved to a single trusted IMDb/TMDB movie ID"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "5yA9SydbcSVXBgjgOuPCCR87yjT.jpg",
+        "url": "https://historiccabarrus.org/film/860347/hyvaveli/",
+        "source": "https://image.tmdb.org/t/p/w300/5yA9SydbcSVXBgjgOuPCCR87yjT.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BZjhmZDZkYzUtZDJmNC00MmRiLWFhYzUtY2ViMjcxMjhjYTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://www.imdb.com/title/tt23942082/",
+        "source": "https://m.media-amazon.com/images/M/MV5BZjhmZDZkYzUtZDJmNC00MmRiLWFhYzUtY2ViMjcxMjhjYTYxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BZjhmZDZkYzUtZDJmNC00MmRiLWFhYzUtY2ViMjcxMjhjYTYxXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://www.imdb.com/name/nm1311267/",
+        "source": "https://m.media-amazon.com/images/M/MV5BZjhmZDZkYzUtZDJmNC00MmRiLWFhYzUtY2ViMjcxMjhjYTYxXkEyXkFqcGc@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "66299fb1dacec5f44c958078851c020a.jpg",
+        "url": "https://www.iltalehti.fi/telkku/ohjelmat/poliisit/137423?pub=12471670",
+        "source": "https://thumbor.prod.telkku.com/e0uYtxLOsK4mIyDaGv7pFBLHX7I=/612x382/smart/filters:quality(86):format(jpeg)/img.prod.telkku.com/program-images/66299fb1dacec5f44c958078851c020a.jpg",
+        "content": ""
+      },
+      {
+        "title": "66299fb1dacec5f44c958078851c020a.jpg",
+        "url": "https://www.iltalehti.fi/telkku/ohjelmat/poliisit/137423?pub=12471670",
+        "source": "https://thumbor.prod.telkku.com/p7ovCogCjoF6LzB8PPqlY_vAOeg=/510x318/smart/filters:quality(86):format(jpeg)/img.prod.telkku.com/program-images/66299fb1dacec5f44c958078851c020a.jpg",
+        "content": ""
+      },
+      {
+        "title": "66299fb1dacec5f44c958078851c020a.jpg",
+        "url": "https://www.iltalehti.fi/telkku/ohjelmat/poliisit/137423?pub=12471670",
+        "source": "https://thumbor.prod.telkku.com/8lVHD-sCXbTjdX9TwwUKwz8w2vI=/820x512/smart/filters:quality(86):format(jpeg)/img.prod.telkku.com/program-images/66299fb1dacec5f44c958078851c020a.jpg",
+        "content": ""
+      },
+      {
+        "title": "66299fb1dacec5f44c958078851c020a.jpg",
+        "url": "https://www.iltalehti.fi/telkku/ohjelmat/poliisit/137423?pub=12471670",
+        "source": "https://thumbor.prod.telkku.com/_c8fyt55bq8fgYWdSsmOPfoEX8o=/1200x630/smart/filters:quality(86):format(jpeg)/img.prod.telkku.com/program-images/66299fb1dacec5f44c958078851c020a.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "5yA9SydbcSVXBgjgOuPCCR87yjT",
+        "MV5BZjhmZDZkYzUtZDJmNC00MmRiLWFhYzUtY2ViMjcxMjhjYTYxXkEyXkFqcGc V1 FMjpg UX1000",
+        "MV5BZjhmZDZkYzUtZDJmNC00MmRiLWFhYzUtY2ViMjcxMjhjYTYxXkEyXkFqcGc V1"
+      ],
+      "imdb_ids": [
+        "tt23942082"
+      ],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "860347": [
+          "folder_search",
+          "tineye_imdb"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 860347,
+    "media_type": "movie",
+    "title": "Hyväveli",
+    "original_title": "Hyväveli",
+    "release_date": "2022-12-09",
+    "year": 2022,
+    "original_language": "fi",
+    "origin_country": [
+      "FI"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FI",
+        "name": "Finland"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 33389,
+        "logo_path": "/u3M4P96gbfON4lKiJVruOnhreFh.png",
+        "name": "Inland Film Company",
+        "origin_country": "FI"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 113,
+    "status": "Released",
+    "overview": "Patrolman Loyan tries to find his place in the new police department while keeping his friend Warsame, newly released from prison, on the right track. Loyan's ambition is to get into detective training, but his supervisor Jokisalo  thinks he'd be better off patrolling the familiar neighbourhoods with his partner Johanna. The patrol gets down to business when they start investigating what looks like a suicide. Antero Päiviö, a professional criminal and racial bigot involved in drug trafficking, has jumped from his balcony. The man who was first pronounced dead suddenly wakes up and is taken to hospital. Loyan finds it hard to believe the man's story and decides to find out the truth at any cost. As the plot unravels, it's hard to know who to trust anymore, when Warsame seems to be up to something behind Loyan's back.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/5yA9SydbcSVXBgjgOuPCCR87yjT.jpg",
+    "backdrop_path": "/4UaKFwFyWt6Erjxeut3RB7LoT9W.jpg",
+    "popularity": 2.555,
+    "vote_average": 0.0,
+    "vote_count": 0,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt23942082",
+      "wikidata_id": "Q115673203",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Musta enkeli",
+        "country": "FI",
+        "type": "working title"
+      },
+      {
+        "title": "Bästebroder",
+        "country": "FI",
+        "type": "Swedish title"
+      }
+    ],
+    "certifications_by_country": {
+      "FI": [
+        {
+          "certification": "K-12",
+          "release_date": "2022-12-09T00:00:00.000Z",
+          "type": 3
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 3729001,
+        "name": "Abdirahman Bile",
+        "character": "Loyan",
+        "order": 0
+      },
+      {
+        "id": 3729002,
+        "name": "Kamaludin Ahmed Abdulla",
+        "character": "Warsame",
+        "order": 1
+      },
+      {
+        "id": 1974191,
+        "name": "Heli Sutela",
+        "character": "Johanna",
+        "order": 2
+      },
+      {
+        "id": 3029647,
+        "name": "Riku Kemppinen",
+        "character": "Antero Päiviö",
+        "order": 3
+      },
+      {
+        "id": 125629,
+        "name": "Sampo Sarkola",
+        "character": "Jokisalo",
+        "order": 4
+      },
+      {
+        "id": 148019,
+        "name": "Kari-Pekka Toivonen",
+        "character": "Roine",
+        "order": 5
+      },
+      {
+        "id": 1034492,
+        "name": "Kari Sorvali",
+        "character": "Maavaara",
+        "order": 6
+      },
+      {
+        "id": 93004,
+        "name": "Tommi Korpela",
+        "character": "Havukainen",
+        "order": 7
+      },
+      {
+        "id": 4128521,
+        "name": "Najma Abdirahman",
+        "character": "Fadumo",
+        "order": 8
+      },
+      {
+        "id": 1297266,
+        "name": "Deogracias Masomi",
+        "character": "Maula",
+        "order": 9
+      },
+      {
+        "id": 2966508,
+        "name": "Fathi Ahmed",
+        "character": "Muhis",
+        "order": 10
+      },
+      {
+        "id": 1154880,
+        "name": "Jan-Christian Söderholm",
+        "character": "Juha",
+        "order": 11
+      },
+      {
+        "id": 2304124,
+        "name": "Farhia Mohamed",
+        "character": "Loyan lapsena",
+        "order": 12
+      },
+      {
+        "id": 4128525,
+        "name": "Abdirashid Mao",
+        "character": "Warsame lapsena",
+        "order": 13
+      },
+      {
+        "id": 1883013,
+        "name": "Lauri Untamo",
+        "character": "Poliisi konttorissa",
+        "order": 14
+      },
+      {
+        "id": 1956344,
+        "name": "Anton Kettunen",
+        "character": "Havukaisen pari",
+        "order": 15
+      },
+      {
+        "id": 4128527,
+        "name": "Mukhtar Abdi",
+        "character": "Diileri Liban",
+        "order": 16
+      },
+      {
+        "id": 1261440,
+        "name": "Marc Gassot",
+        "character": "Talonmies",
+        "order": 17
+      },
+      {
+        "id": 4128529,
+        "name": "Regina Laitinen",
+        "character": "Liisa",
+        "order": 18
+      },
+      {
+        "id": 4128532,
+        "name": "Abdihamid Bile",
+        "character": "Abu",
+        "order": 19
+      },
+      {
+        "id": 4128536,
+        "name": "Eliab Banza",
+        "character": "Muhiksen roadman",
+        "order": 20
+      },
+      {
+        "id": 4128537,
+        "name": "Samuel Kokkinen",
+        "character": "Muhiksen roadman",
+        "order": 21
+      },
+      {
+        "id": 3409002,
+        "name": "Mohamed El-Waber",
+        "character": "Roadman",
+        "order": 22
+      },
+      {
+        "id": 3377709,
+        "name": "Salah Isse Mohamed",
+        "character": "Roadman",
+        "order": 23
+      },
+      {
+        "id": 3377707,
+        "name": "Amira Rchidi",
+        "character": "Roadman",
+        "order": 24
+      },
+      {
+        "id": 4128542,
+        "name": "Kirsi Lindholm",
+        "character": "Oikeusavustaja",
+        "order": 25
+      },
+      {
+        "id": 4128543,
+        "name": "Jaakko Grönfors",
+        "character": "Sähkömies",
+        "order": 26
+      },
+      {
+        "id": 3444696,
+        "name": "Pirre Toikkanen",
+        "character": "Lääkäri",
+        "order": 27
+      },
+      {
+        "id": 4128545,
+        "name": "Abdullahi Khadar",
+        "character": "Abdi",
+        "order": 28
+      },
+      {
+        "id": 4128546,
+        "name": "Khadra Ahmed Abdi",
+        "character": "Abdin äiti",
+        "order": 29
+      },
+      {
+        "id": 4128547,
+        "name": "Mohamed Mohamud Abdi",
+        "character": "Abdin isä",
+        "order": 30
+      },
+      {
+        "id": 4128548,
+        "name": "Ilkka Hautala",
+        "character": "Iso rikollinen",
+        "order": 31
+      },
+      {
+        "id": 4128549,
+        "name": "Irina Ljan",
+        "character": "Baarimikko",
+        "order": 32
+      }
+    ],
+    "directors": [
+      {
+        "id": 1365273,
+        "name": "Sami Laitinen",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1365273,
+        "name": "Sami Laitinen",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1787,
+        "name": "helsinki, finland"
+      },
+      {
+        "id": 6149,
+        "name": "police"
+      },
+      {
+        "id": 163080,
+        "name": "finland"
+      },
+      {
+        "id": 195739,
+        "name": "somali"
+      },
+      {
+        "id": 279544,
+        "name": "police women"
+      }
+    ],
+    "worldwide_title": "Hyväveli",
+    "worldwide_title_selection": {
+      "title": "Hyväveli",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "Hyväveli (2022)",
+    "worldwide_title": "Hyväveli",
+    "title_selection": {
+      "title": "Hyväveli",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Hyväveli (2022)/Hyväveli (2022).json"
+}

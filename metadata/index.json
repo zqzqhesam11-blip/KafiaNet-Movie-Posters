@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-10-31T18:55:42.385196+00:00",
+  "updated_utc": "2026-10-31T19:57:52.172746+00:00",
   "source_repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
   "items": [
     {
@@ -74,6 +74,33 @@
       "canonical_folder_name": "Dìdi (弟弟) (2024)",
       "status": "ready",
       "output_path": "جاهز/Dìdi (2024)/Dìdi (弟弟) (2024).json"
+    },
+    {
+      "source_folder": "Fasandræberne (2014)",
+      "image_path": "جاهز/Fasandræberne (2014)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Fasandræberne (2014)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": 254201,
+      "canonical_folder_name": "The Absent One (2014)",
+      "status": "ready",
+      "output_path": "جاهز/Fasandræberne (2014)/The Absent One (2014).json"
+    },
+    {
+      "source_folder": "Hyväveli (2022)",
+      "image_path": "جاهز/Hyväveli (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Hyväveli (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": 860347,
+      "canonical_folder_name": "Hyväveli (2022)",
+      "status": "ready",
+      "output_path": "جاهز/Hyväveli (2022)/Hyväveli (2022).json"
+    },
+    {
+      "source_folder": "Juanpis González The Peoples President (2024)",
+      "image_path": "مراجعة/Juanpis González The Peoples President (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Juanpis González The Peoples President (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Juanpis González The Peoples President (2024)/Juanpis González The Peoples President (2024).json"
     }
   ]
 }

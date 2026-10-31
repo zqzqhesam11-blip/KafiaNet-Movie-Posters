@@ -1,0 +1,479 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T18:24:34.565776+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
+    "image_path": "A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/A%20Short%20Film%20About%20Killing%20%28Kr%C3%B3tki%20film%20o%20zabijaniu%29%20%281988%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29_4.jpg"
+  },
+  "original": {
+    "folder_name": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
+    "title_hint": "A Short Film About Killing (Krótki film o zabijaniu)",
+    "year_hint": 1988
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 0.8936,
+    "folder_title_similarity": 0.6842,
+    "tineye_title_similarity": 0.8936,
+    "best_tineye_hint": "A Short About Killing",
+    "source_year": 1988,
+    "tmdb_year": 1988,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search",
+      "tineye_imdb",
+      "tineye_title"
+    ],
+    "reason": "TinEye backlink resolved to a single trusted IMDb/TMDB movie ID"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "A-Short-Film-About-Killing-.jpg",
+        "url": "http://www.geocities.ws/cool_dvd2/dvdlistssep2007.html",
+        "source": "http://i114.photobucket.com/albums/n273/cooldvd/cooldvd3/A-Short-Film-About-Killing-.jpg",
+        "content": ""
+      },
+      {
+        "title": "index.aspx",
+        "url": "http://link.clevnet.org/resource/RvNVqk8YK8c/",
+        "source": "https://secure.syndetics.com/index.aspx?type=xw12&client=216-623-2800&isbn=&upc=738329034122&oclc=%28Sirsi%29%20o55491481/LC.JPG",
+        "content": ""
+      },
+      {
+        "title": "0028c73d_medium.jpeg",
+        "url": "http://avaxsearch.com/?q=a+serbian+film",
+        "source": "http://pixhost.me/avaxhome/3d/c7/0028c73d_medium.jpeg",
+        "content": ""
+      },
+      {
+        "title": "A-Short-Film-About-Killing-1988.jpg",
+        "url": "http://shahid4u.tv/%d9%85%d8%b4%d8%a7%d9%87%d8%af%d8%a9-%d9%81%d9%8a%d9%84%d9%85-a-short-film-about-killing-1988-%d9%85%d8%aa%d8%b1%d8%ac%d9%85",
+        "source": "http://shahid4u.tv/wp-content/uploads/2017/05/A-Short-Film-About-Killing-1988.jpg",
+        "content": ""
+      },
+      {
+        "title": "131507040637.jpg",
+        "url": "http://www.filmfront.no/omtale/6363/du-skal-ikke-slaa-ihjel",
+        "source": "http://img.filmfront.no/pictures/release/large/131507040637.jpg",
+        "content": ""
+      },
+      {
+        "title": "a-short-film-about-killing-894998l-175x0-w-3460ddd0.jpg",
+        "url": "https://www.cinemagia.ro/filme/a-short-film-about-killing-21684/",
+        "source": "https://static.cinemagia.ro/img/resize/db/movie/02/16/84/a-short-film-about-killing-894998l-175x0-w-3460ddd0.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BOTI5NzU3NTY0MF5BMl5BanBnXkFtZTcwNjcwNDUyMQ@@._V1_QL75_UX308_.jpg",
+        "url": "https://www.imdb.com/title/tt0095468/",
+        "source": "https://m.media-amazon.com/images/M/MV5BOTI5NzU3NTY0MF5BMl5BanBnXkFtZTcwNjcwNDUyMQ@@._V1_QL75_UX308_.jpg",
+        "content": ""
+      },
+      {
+        "title": "1329200433_korotkiy-film-ob-ubiystve.jpg",
+        "url": "http://filmix.net/fantastika/33038-zaklyatie-doliny-zmey-klatwa-doliny-wezy-1987.html",
+        "source": "http://filmix.net/uploads/posts/2012-02/thumbs/1329200433_korotkiy-film-ob-ubiystve.jpg",
+        "content": ""
+      },
+      {
+        "title": "cov%20Krzysztof%20Kieslowski%20A%20Short%20Film%20About%20Killing%20Krtki%20film%20o%20zabijaniu%20DVD%20Review.jpg",
+        "url": "http://www.dvdbeaver.com/film/DVDReview/short-killing.htm",
+        "source": "http://www.dvdbeaver.com/film/DVDReviews17/a%20Krzysztof%20Kieslowski%20A%20Short%20Film%20About%20Killing%20DVD%20Review/cov%20Krzysztof%20Kieslowski%20A%20Short%20Film%20About%20Killing%20Krtki%20film%20o%20zabijaniu%20DVD%20Review.jpg",
+        "content": ""
+      },
+      {
+        "title": "10164.jpg",
+        "url": "https://ciatr.jp/movie/10164",
+        "source": "https://res.cloudinary.com/viviane/image/upload/f_auto%2Cw_320%2Ch_450%2Cc_pad%2Cb_auto:border%2Cd_defaultposter.png/10164.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "A Short About Killing",
+        "index aspx",
+        "0028c73d",
+        "a short about killing 894998l 175x0 3460ddd0",
+        "MV5BOTI5NzU3NTY0MF5BMl5BanBnXkFtZTcwNjcwNDUyMQ V1 QL75 UX308",
+        "1329200433 korotkiy ob ubiystve",
+        "cov Krzysztof Kieslowski A Short About Killing Krtki zabijaniu DVD Review"
+      ],
+      "imdb_ids": [
+        "tt0095468"
+      ],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "31056": [
+          "folder_search",
+          "tineye_title"
+        ],
+        "10754": [
+          "folder_search",
+          "tineye_imdb",
+          "tineye_title"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 10754,
+    "media_type": "movie",
+    "title": "A Short Film About Killing",
+    "original_title": "Krótki film o zabijaniu",
+    "release_date": "1988-03-11",
+    "year": 1988,
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 19356,
+        "logo_path": "/9Ted1p5fSDVl12wJa3JgVagYNCr.png",
+        "name": "PRF \"Zespoły Filmowe\"",
+        "origin_country": "PL"
+      },
+      {
+        "id": 266296,
+        "logo_path": null,
+        "name": "Zespół Filmowy \"Tor\"",
+        "origin_country": "PL"
+      }
+    ],
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 85,
+    "status": "Released",
+    "overview": "Jacek climbs into the taxi driven by Waldemar, tells him to drive to a remote location, then brutally strangles him, seemingly without motive.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+    "backdrop_path": "/wsZm5xX4r2ARPsjz5sRxHh3hA6D.jpg",
+    "popularity": 2.5703,
+    "vote_average": 7.6,
+    "vote_count": 417,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt0095468",
+      "wikidata_id": "Q72325",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Breve film sull'uccidere",
+        "country": "IT",
+        "type": ""
+      },
+      {
+        "title": "Tu ne tueras point",
+        "country": "FR",
+        "type": ""
+      },
+      {
+        "title": "살인에 관한 짧은 필름",
+        "country": "KR",
+        "type": ""
+      },
+      {
+        "title": "En lille film om kunsten at dræbe",
+        "country": "DK",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "CH": [
+        {
+          "certification": "16",
+          "release_date": "1988-08-01T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "DE": [
+        {
+          "certification": "16",
+          "release_date": "1989-01-26T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "FI": [
+        {
+          "certification": "K-16",
+          "release_date": "1990-08-03T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "GR": [
+        {
+          "certification": "",
+          "release_date": "2024-08-22T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "KR": [
+        {
+          "certification": "18",
+          "release_date": "2016-09-17T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "18",
+          "release_date": "1997-07-05T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NL": [
+        {
+          "certification": "16",
+          "release_date": "1989-02-09T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "16",
+          "release_date": "2008-11-24T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "PL": [
+        {
+          "certification": "",
+          "release_date": "1988-03-11T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "RU": [
+        {
+          "certification": "18+",
+          "release_date": "2026-07-16T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "",
+          "release_date": "2006-10-25T00:00:00.000Z",
+          "type": 5
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 66459,
+        "name": "Mirosław Baka",
+        "character": "Jacek Łazar",
+        "order": 0
+      },
+      {
+        "id": 66460,
+        "name": "Krzysztof Globisz",
+        "character": "Piotr Balicki",
+        "order": 1
+      },
+      {
+        "id": 66462,
+        "name": "Jan Tesarz",
+        "character": "Waldemar Rekowski",
+        "order": 2
+      },
+      {
+        "id": 1405,
+        "name": "Zbigniew Zapasiewicz",
+        "character": "Committee Chairman",
+        "order": 3
+      },
+      {
+        "id": 66463,
+        "name": "Barbara Dziekan",
+        "character": "Cashier",
+        "order": 4
+      },
+      {
+        "id": 66464,
+        "name": "Aleksander Bednarz",
+        "character": "The Executioner",
+        "order": 5
+      },
+      {
+        "id": 66465,
+        "name": "Jerzy Zass",
+        "character": "Police Commander",
+        "order": 6
+      },
+      {
+        "id": 66466,
+        "name": "Zdzisław Tobiasz",
+        "character": "Judge",
+        "order": 7
+      },
+      {
+        "id": 1387,
+        "name": "Artur Barciś",
+        "character": "Young Man",
+        "order": 8
+      },
+      {
+        "id": 2807,
+        "name": "Krystyna Janda",
+        "character": "Dorota",
+        "order": 9
+      },
+      {
+        "id": 66469,
+        "name": "Olgierd Łukaszewicz",
+        "character": "Andrzej",
+        "order": 10
+      },
+      {
+        "id": 66470,
+        "name": "Leonard Andrzejewski",
+        "character": "",
+        "order": 11
+      },
+      {
+        "id": 66471,
+        "name": "Wieslaw Bednarz",
+        "character": "",
+        "order": 12
+      },
+      {
+        "id": 66472,
+        "name": "Zbigniew Borek",
+        "character": "",
+        "order": 13
+      },
+      {
+        "id": 66473,
+        "name": "Ryszard W. Borsucki",
+        "character": "",
+        "order": 14
+      },
+      {
+        "id": 66474,
+        "name": "Władysław Byrdy",
+        "character": "",
+        "order": 15
+      },
+      {
+        "id": 2225423,
+        "name": "Andrzej Gawroński",
+        "character": "",
+        "order": 16
+      },
+      {
+        "id": 66477,
+        "name": "Henryk Guzek",
+        "character": "",
+        "order": 17
+      },
+      {
+        "id": 66476,
+        "name": "Iwona Głębicka",
+        "character": "Photo Store Clerk",
+        "order": 18
+      },
+      {
+        "id": 66478,
+        "name": "Elżbieta Helman",
+        "character": "Beatka",
+        "order": 19
+      },
+      {
+        "id": 1281779,
+        "name": "Marzena Manteska",
+        "character": "Piotr's Wife",
+        "order": 20
+      },
+      {
+        "id": 144694,
+        "name": "Małgorzata Pieczyńska",
+        "character": "Fortune Teller",
+        "order": 21
+      },
+      {
+        "id": 1139825,
+        "name": "Zdzisław Rychter",
+        "character": "Cartoonist",
+        "order": 22
+      }
+    ],
+    "directors": [
+      {
+        "id": 1126,
+        "name": "Krzysztof Kieślowski",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1126,
+        "name": "Krzysztof Kieślowski",
+        "job": "Screenplay",
+        "department": "Writing"
+      },
+      {
+        "id": 1132,
+        "name": "Krzysztof Piesiewicz",
+        "job": "Screenplay",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 378,
+        "name": "prison"
+      },
+      {
+        "id": 6148,
+        "name": "court"
+      },
+      {
+        "id": 1749,
+        "name": "taxi driver"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 10909,
+        "name": "lawyer"
+      },
+      {
+        "id": 212914,
+        "name": "warsaw, poland"
+      },
+      {
+        "id": 309029,
+        "name": "psychological drama"
+      }
+    ]
+  },
+  "correction": {
+    "canonical_folder_name": "A Short Film About Killing (1988)",
+    "rename_required": true,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/A Short Film About Killing (Krótki film o zabijaniu) (1988)/movie.json"
+}

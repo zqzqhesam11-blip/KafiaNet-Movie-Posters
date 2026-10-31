@@ -1,0 +1,277 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T18:24:38.539790+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Biz Size Döneriz (2017)",
+    "image_path": "Biz Size Döneriz (2017)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/Biz%20Size%20D%C3%B6neriz%20%282017%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg"
+  },
+  "original": {
+    "folder_name": "Biz Size Döneriz (2017)",
+    "title_hint": "Biz Size Döneriz",
+    "year_hint": 2017
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 1.0,
+    "best_tineye_hint": "biz size doneriz",
+    "source_year": 2017,
+    "tmdb_year": 2017,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "High-confidence folder title or TinEye image-title match"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "biz-size-doneriz.jpg",
+        "url": "http://www.tekfilmizle.org/destere-yerli-filmi-full-izle/",
+        "source": "http://www.tekfilmizle.org/wp-content/uploads/2018/12/biz-size-doneriz.jpg",
+        "content": ""
+      },
+      {
+        "title": "Biz-Size-D%C3%B6neriz-poster-210x300.jpg",
+        "url": "http://bh-vjesnik.net/biz-size-doneriz-2017/",
+        "source": "http://bh-vjesnik.net/wp-content/uploads/2017/08/Biz-Size-D%C3%B6neriz-poster-210x300.jpg",
+        "content": ""
+      },
+      {
+        "title": "613279746_640.jpg",
+        "url": "http://www.color-up.net/projelerimiz/",
+        "source": "https://i.vimeocdn.com/video/613279746_640.jpg",
+        "content": ""
+      },
+      {
+        "title": "7be80a01e44db6b4e83f1cde8f46d0c6-q-350x501.jpeg",
+        "url": "https://itv.uz/ru/detail/44601/miss-amerikana",
+        "source": "https://files.itv.uz/uploads/content/poster/2018/12/31/7be80a01e44db6b4e83f1cde8f46d0c6-q-350x501.jpeg",
+        "content": ""
+      },
+      {
+        "title": "biz-size-doneriz-2017.jpg",
+        "url": "http://yerlifilm.mobi/biz-size-doneriz-2017-indir-mobil.html",
+        "source": "http://yerlifilm.mobi/afis/biz-size-doneriz-2017.jpg",
+        "content": ""
+      },
+      {
+        "title": "5d79332b45d2a023a0dc416f.jpg",
+        "url": "https://www.hurriyet.com.tr/mahmure/galeri-mart-ayinda-vizyona-girecek-filmler-34941789",
+        "source": "https://image.hurimg.com/i/hurriyet/90/0x0/5d79332b45d2a023a0dc416f.jpg",
+        "content": ""
+      },
+      {
+        "title": "141936.jpg",
+        "url": "http://www.beyazperde.com/videolar/fragmanlar/",
+        "source": "http://tr.web.img1.acsta.net/c_160_214/pictures/17/01/16/13/17/141936.jpg",
+        "content": ""
+      },
+      {
+        "title": "bsd.jpg",
+        "url": "https://www.cinemaximum.com.tr/biz-size-doneriz-filmi",
+        "source": "https://media.cinemaximum.com.tr/255/files/POSTER/bsd.jpg",
+        "content": ""
+      },
+      {
+        "title": "141936.jpg",
+        "url": "http://www.beyazperde.com/filmler/en-merak-edilenler/",
+        "source": "http://tr.web.img3.acsta.net/cx_160_213/b_1_d6d6d6/pictures/17/01/16/13/17/141936.jpg",
+        "content": ""
+      },
+      {
+        "title": "58b01f0918c7763914d3f78a.jpg",
+        "url": "https://www.hurriyet.com.tr/kelebek/hayat/onyargili-degilim-herkese-bir-sans-veririm-40376467",
+        "source": "https://image.hurimg.com/i/hurriyet/75/305x435/58b01f0918c7763914d3f78a.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "biz size doneriz",
+        "Biz Size Döneriz 210x300",
+        "613279746 640",
+        "7be80a01e44db6b4e83f1cde8f46d0c6 350x501",
+        "bsd"
+      ],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "450456": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 450456,
+    "media_type": "movie",
+    "title": "We'll Get Back to You",
+    "original_title": "Biz Size Döneriz",
+    "release_date": "2017-03-31",
+    "year": 2017,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TR",
+        "name": "Turkey"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 47231,
+        "logo_path": "/fFnXcpc9G34LbHg6Fayrio49yPH.png",
+        "name": "Pinema",
+        "origin_country": "TR"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 105,
+    "status": "Released",
+    "overview": "The only cure of being jobelessness, unhappy and hopelessness is friendship, life is beautiful together.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/xXtco41oFrZy0cuREcbnakrD9iw.jpg",
+    "backdrop_path": "/dvISyhsOylrSDWLEcuH8G9ekjHp.jpg",
+    "popularity": 1.4142,
+    "vote_average": 5.2,
+    "vote_count": 13,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt6559642",
+      "wikidata_id": "Q29022411",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [],
+    "certifications_by_country": {
+      "RO": [
+        {
+          "certification": "15",
+          "release_date": "2017-03-31T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "TR": [
+        {
+          "certification": "13A",
+          "release_date": "2017-03-31T00:00:00.000Z",
+          "type": 3
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 1556546,
+        "name": "Hande Soral",
+        "character": "Lale",
+        "order": 0
+      },
+      {
+        "id": 1282320,
+        "name": "Çağlar Ertuğrul",
+        "character": "Akın",
+        "order": 1
+      },
+      {
+        "id": 1749768,
+        "name": "Fırat Albayram",
+        "character": "Cahit",
+        "order": 2
+      },
+      {
+        "id": 1789115,
+        "name": "Bestemsu Özdemir",
+        "character": "Defne",
+        "order": 3
+      },
+      {
+        "id": 1570722,
+        "name": "Tuğçe Kurşunoğlu",
+        "character": "Nur",
+        "order": 4
+      },
+      {
+        "id": 1789117,
+        "name": "Tarık Ündüz",
+        "character": "Yusuf",
+        "order": 5
+      },
+      {
+        "id": 1652977,
+        "name": "Ceyda Kasabalı",
+        "character": "Didem",
+        "order": 6
+      },
+      {
+        "id": 2342736,
+        "name": "Tuana Naz Tiryaki",
+        "character": "Child Lale",
+        "order": 7
+      },
+      {
+        "id": 1584596,
+        "name": "Erşan Utku Ölmez",
+        "character": "Yapımcı",
+        "order": 8
+      }
+    ],
+    "directors": [
+      {
+        "id": 1789118,
+        "name": "Doğa Can Anafarta",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1789118,
+        "name": "Doğa Can Anafarta",
+        "job": "Screenplay",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 156052,
+        "name": "unemployment"
+      }
+    ]
+  },
+  "correction": {
+    "canonical_folder_name": "We'll Get Back to You (2017)",
+    "rename_required": true,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Biz Size Döneriz (2017)/movie.json"
+}

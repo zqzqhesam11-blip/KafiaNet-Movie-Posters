@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:35:42.448310+00:00",
+  "processed_utc": "2026-10-31T20:23:00.862616+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -16,31 +16,108 @@
   },
   "match": {
     "status": "review",
-    "confidence": 1.0,
-    "title_similarity": 1.0,
-    "folder_title_similarity": 1.0,
-    "tineye_title_similarity": 0.0,
-    "best_tineye_hint": null,
+    "confidence": 0.1949,
+    "title_similarity": 0.2642,
+    "folder_title_similarity": 0.2449,
+    "tineye_title_similarity": 0.2642,
+    "best_tineye_hint": "220px There No Business Like Show Business",
     "source_year": 1954,
-    "tmdb_year": 1954,
-    "year_delta": 0,
+    "tmdb_year": 1961,
+    "year_delta": 7,
     "evidence_sources": [
-      "folder_search"
+      "tineye_imdb"
     ],
-    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
-    "candidate_id": 21468,
-    "candidate_title": "There's No Business Like Show Business"
+    "reason": "TinEye external ID conflicts with a high-confidence folder-title match",
+    "candidate_ids": [
+      "11536",
+      "21468"
+    ]
   },
   "tineye": {
     "enabled": true,
-    "results": [],
+    "results": [
+      {
+        "title": "theres-no-business-like-show-business-1954-20th-century-fox-film-with-marilyn-monroe-3DBXTFT.jpg",
+        "url": "https://www.alamy.com/theres-no-business-like-show-business-1954-20th-century-fox-film-with-marilyn-monroe-image712976316.html",
+        "source": "https://c8.alamy.com/comp/3DBXTFT/theres-no-business-like-show-business-1954-20th-century-fox-film-with-marilyn-monroe-3DBXTFT.jpg",
+        "content": ""
+      },
+      {
+        "title": "220px-There%27s_No_Business_Like_Show_Business_movie_poster.jpg",
+        "url": "https://en.wikipedia.org/wiki/There%27s_No_Business_Like_Show_Business_(film)",
+        "source": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/There%27s_No_Business_Like_Show_Business_movie_poster.jpg/220px-There%27s_No_Business_Like_Show_Business_movie_poster.jpg",
+        "content": ""
+      },
+      {
+        "title": "theresnobusinesslikeshowbusiness1.jpg",
+        "url": "https://newslang89.wordpress.com/category/comedy/classic-comedies/",
+        "source": "https://newslang89.files.wordpress.com/2014/02/theresnobusinesslikeshowbusiness1.jpg",
+        "content": ""
+      },
+      {
+        "title": "0TheresNoBusinessLike.jpg",
+        "url": "http://www.mediafilm.ca/fr/classiques-cinema.sn?g=11",
+        "source": "http://www.mediafilm.ca/multimedias/0TheresNoBusinessLike.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BZDcxMGJmOGYtOTcwMy00MWYxLTlkZjItNThkOTJiZDgxMTlhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+        "url": "https://www.imdb.com/title/tt0055184/",
+        "source": "https://m.media-amazon.com/images/M/MV5BZDcxMGJmOGYtOTcwMy00MWYxLTlkZjItNThkOTJiZDgxMTlhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "full_size.jpg",
+        "url": "https://wanelo.co/p/22835908/there-s-no-business-like-show-business-11x17-movie-poster-1954",
+        "source": "https://cdn-img-0.wanelo.com/p/001/961/9ec/383b019d62d382a3fa3a3f9/full_size.jpg",
+        "content": ""
+      },
+      {
+        "title": "theresnobusinesslikeshowbusiness1.jpg",
+        "url": "https://newslang89.wordpress.com/category/comedy/classic-comedies/",
+        "source": "https://newslang89.files.wordpress.com/2014/02/theresnobusinesslikeshowbusiness1.jpg?w=640",
+        "content": ""
+      },
+      {
+        "title": "MOVGC7876__77069.1679573119.jpg",
+        "url": "https://www.posterazzi.com/theres-no-business-like-show-business-movie-poster-print-11-x-17-item-movei5644/",
+        "source": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/500x659/products/2884310/5923141/MOVGC7876__77069.1679573119.jpg?c=2",
+        "content": ""
+      },
+      {
+        "title": "MOVGC7876__77069.1679573119.jpg",
+        "url": "https://www.posterazzi.com/theres-no-business-like-show-business-movie-poster-print-11-x-17-item-movgc7876/",
+        "source": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2884310/5923141/MOVGC7876__77069.1679573119.jpg?c=2",
+        "content": ""
+      },
+      {
+        "title": "250full.jpg",
+        "url": "http://www.listal.com/movie/theres-no-business-like-show",
+        "source": "http://pthumb.lisimg.com/image/643618/250full.jpg",
+        "content": ""
+      }
+    ],
     "evidence": {
-      "title_hints": [],
-      "imdb_ids": [],
+      "title_hints": [
+        "theres no business like show business 20th century fox with marilyn monroe 3DBXTFT",
+        "220px There No Business Like Show Business",
+        "theresnobusinesslikeshowbusiness1",
+        "0TheresNoBusinessLike",
+        "MV5BZDcxMGJmOGYtOTcwMy00MWYxLTlkZjItNThkOTJiZDgxMTlhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY V1",
+        "size",
+        "MOVGC7876 77069 1679573119",
+        "250full"
+      ],
+      "imdb_ids": [
+        "tt0055184"
+      ],
       "tmdb_ids": [],
       "resolved_sources": {
         "21468": [
           "folder_search"
+        ],
+        "11536": [
+          "tineye_imdb"
         ]
       },
       "resolution_errors": []

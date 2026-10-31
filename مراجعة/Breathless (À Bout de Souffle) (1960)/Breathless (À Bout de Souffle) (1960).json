@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:35:41.951792+00:00",
+  "processed_utc": "2026-10-31T20:22:48.221642+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -16,26 +16,94 @@
   },
   "match": {
     "status": "review",
-    "confidence": 0.78,
-    "title_similarity": 0.7556,
+    "confidence": 0.85,
+    "title_similarity": 0.8333,
     "folder_title_similarity": 0.7556,
-    "tineye_title_similarity": 0.0,
-    "best_tineye_hint": null,
+    "tineye_title_similarity": 0.8333,
+    "best_tineye_hint": "breathless web",
     "source_year": 1960,
     "tmdb_year": 1960,
     "year_delta": 0,
     "evidence_sources": [
       "folder_search"
     ],
-    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "reason": "Combined folder/TinEye title and year confidence is below the automatic-accept threshold",
     "candidate_id": 269,
     "candidate_title": "Breathless"
   },
   "tineye": {
     "enabled": true,
-    "results": [],
+    "results": [
+      {
+        "title": "breathless-movie-poster-1960-3E314GT.jpg",
+        "url": "https://www.alamy.com/breathless-movie-poster-1960-image724704984.html",
+        "source": "https://c8.alamy.com/comp/3E314GT/breathless-movie-poster-1960-3E314GT.jpg",
+        "content": ""
+      },
+      {
+        "title": "breathless_web.jpg",
+        "url": "http://shop.bfi.org.uk/dvd-blu-ray/bfi-top-50-greatest-films.html",
+        "source": "http://shop.bfi.org.uk/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/b/r/breathless_web.jpg",
+        "content": ""
+      },
+      {
+        "title": "01-581000.jpg",
+        "url": "https://store.hmv.com/film-tv/hmv-loves-world-cinema",
+        "source": "https://images.store.hmv.com/HMVStore/media/product/581000/01-581000.jpg",
+        "content": ""
+      },
+      {
+        "title": "Breathless-50th-Anniversary-DVD--62470.jpg",
+        "url": "http://www.moviemail.com/film/dvd/Breathless-50th-Anniversary/",
+        "source": "http://www.moviemail.com/sleeve/large/Breathless-50th-Anniversary-DVD--62470.jpg",
+        "content": ""
+      },
+      {
+        "title": "9007000095259_1.jpg",
+        "url": "http://www.whsmith.co.uk/products/breathless-%5Bpg%5D/9007000095259",
+        "source": "http://btmedia.whsmith.co.uk/pws/client/images/catalogue/products/9007/00/0095259/xlarge/9007000095259_1.jpg",
+        "content": ""
+      },
+      {
+        "title": "7500774.%24.jpg",
+        "url": "https://www.filmweb.pl/film/Do+utraty+tchu-1960-100640/posters",
+        "source": "https://fwcdn.pl/fpo/06/40/100640/7500774.%24.jpg",
+        "content": ""
+      },
+      {
+        "title": "msHezSlVoxdpk0E3a-OS-BA.jpg",
+        "url": "http://www.ebay.co.uk/sch/sis.html?_itemId=221468713329&_nkw=FARAH+DIBA+EDY+CAMPAGNOLI+LAURETTA+MASIERO+JEAN+SEBERG+SORAYA+MICHELE+MORGAN",
+        "source": "http://thumbs4.ebaystatic.com/d/l225/m/msHezSlVoxdpk0E3a-OS-BA.jpg",
+        "content": ""
+      },
+      {
+        "title": "7500774.3.jpg",
+        "url": "https://www.filmweb.pl/film/Do+utraty+tchu-1960-100640/posters",
+        "source": "https://fwcdn.pl/fpo/06/40/100640/7500774.3.jpg",
+        "content": ""
+      },
+      {
+        "title": "breathless_dvd.jpg",
+        "url": "http://www.cine-vue.com/2010/09/dvd-releases-breathless-50th.html",
+        "source": "http://1.bp.blogspot.com/-uspCyafpaNo/ThjMiwsP1LI/AAAAAAAAAs0/Cvs_vSRIFwA/s320/breathless_dvd.jpg",
+        "content": ""
+      },
+      {
+        "title": "breathless_dvd.jpg",
+        "url": "http://www.cine-vue.com/2010/09/dvd-releases-breathless-50th.html",
+        "source": "http://1.bp.blogspot.com/-uspCyafpaNo/ThjMiwsP1LI/AAAAAAAAAs0/Cvs_vSRIFwA/s1600/breathless_dvd.jpg",
+        "content": ""
+      }
+    ],
     "evidence": {
-      "title_hints": [],
+      "title_hints": [
+        "breathless 3E314GT",
+        "breathless web",
+        "01 581000",
+        "Breathless 50th Anniversary DVD 62470",
+        "msHezSlVoxdpk0E3a OS BA",
+        "breathless dvd"
+      ],
       "imdb_ids": [],
       "tmdb_ids": [],
       "resolved_sources": {

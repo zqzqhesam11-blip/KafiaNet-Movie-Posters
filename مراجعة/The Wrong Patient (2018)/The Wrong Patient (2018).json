@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:35:42.286495+00:00",
+  "processed_utc": "2026-10-31T20:22:55.162032+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -17,30 +17,99 @@
   "match": {
     "status": "review",
     "confidence": 1.0,
-    "title_similarity": 1.0,
-    "folder_title_similarity": 1.0,
-    "tineye_title_similarity": 0.0,
-    "best_tineye_hint": null,
-    "source_year": 2018,
-    "tmdb_year": 2018,
-    "year_delta": 0,
-    "evidence_sources": [
-      "folder_search"
-    ],
-    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
-    "candidate_id": 571768,
-    "candidate_title": "The Wrong Patient"
+    "reason": "TinEye backlinks resolved to multiple different TMDB movie IDs",
+    "candidate_ids": [
+      "129531",
+      "571768"
+    ]
   },
   "tineye": {
     "enabled": true,
-    "results": [],
+    "results": [
+      {
+        "title": "MV5BYzY3MGZhMjctMDA2OC00ZWNhLWFhMGMtOTYwYjA3MzUxMDYwXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://www.imdb.com/title/tt2072276/",
+        "source": "https://m.media-amazon.com/images/M/MV5BYzY3MGZhMjctMDA2OC00ZWNhLWFhMGMtOTYwYjA3MzUxMDYwXkEyXkFqcGc@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "the_wrong_patient-446748868-msmall.jpg",
+        "url": "https://www.filmaffinity.com/en/search.php?stext=Matt+Mason&stype=cast",
+        "source": "https://pics.filmaffinity.com/the_wrong_patient-446748868-msmall.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BYzY3MGZhMjctMDA2OC00ZWNhLWFhMGMtOTYwYjA3MzUxMDYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://www.imdb.com/title/tt8771590/",
+        "source": "https://m.media-amazon.com/images/M/MV5BYzY3MGZhMjctMDA2OC00ZWNhLWFhMGMtOTYwYjA3MzUxMDYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "content": ""
+      },
+      {
+        "title": "e2nzYYg7XnVoFFIB2lvCasvCjBt.jpg",
+        "url": "https://series.streamingvf.cc/annee/2018",
+        "source": "https://image.tmdb.org/t/p/w185/e2nzYYg7XnVoFFIB2lvCasvCjBt.jpg",
+        "content": ""
+      },
+      {
+        "title": "e2nzYYg7XnVoFFIB2lvCasvCjBt.jpg",
+        "url": "http://jlmphotoblog.com",
+        "source": "http://image.tmdb.org/t/p/w185/e2nzYYg7XnVoFFIB2lvCasvCjBt.jpg",
+        "content": ""
+      },
+      {
+        "title": "0-7425.jpg",
+        "url": "http://cima4u.tv/types/%d8%a7%d8%ab%d8%a7%d8%b1%d8%a9-thriller/page/13/",
+        "source": "http://cima4u.tv/wp-content/uploads/0-7425.jpg",
+        "content": ""
+      },
+      {
+        "title": "La-mort-tira-si-bien-film.jpg",
+        "url": "https://filmzenstream.top/Categorie/2019-films/",
+        "source": "https://filmzenstream.top/wp-content/uploads/2019/08/La-mort-tira-si-bien-film.jpg",
+        "content": ""
+      },
+      {
+        "title": "e2nzYYg7XnVoFFIB2lvCasvCjBt-185x278.jpg",
+        "url": "https://wwv.filmenfr.com/annee/2018",
+        "source": "https://wwv.filmenfr.com/wp-content/uploads/2019/07/e2nzYYg7XnVoFFIB2lvCasvCjBt-185x278.jpg",
+        "content": ""
+      },
+      {
+        "title": "main_13302.jpg",
+        "url": "https://zombie-film.com/film-proniknovenie",
+        "source": "https://img-c.videobalancer.net/contents/information/1/3/3/0/2/0/0/0/0/0/main_13302.jpg?t=1556889083",
+        "content": ""
+      },
+      {
+        "title": "the-wrong-patient-2018-89520.jpg",
+        "url": "http://www1.sockshare.net/?movie=%2Fplay%2FvJYDlDyd%2Fthe-case-for-christ",
+        "source": "http://cdn.sockshare.net/the-wrong-patient-2018-89520.jpg",
+        "content": ""
+      }
+    ],
     "evidence": {
-      "title_hints": [],
-      "imdb_ids": [],
+      "title_hints": [
+        "MV5BYzY3MGZhMjctMDA2OC00ZWNhLWFhMGMtOTYwYjA3MzUxMDYwXkEyXkFqcGc V1",
+        "the wrong patient 446748868 msmall",
+        "MV5BYzY3MGZhMjctMDA2OC00ZWNhLWFhMGMtOTYwYjA3MzUxMDYwXkEyXkFqcGc V1 FMjpg UX1000",
+        "e2nzYYg7XnVoFFIB2lvCasvCjBt",
+        "7425",
+        "La mort tira si bien",
+        "e2nzYYg7XnVoFFIB2lvCasvCjBt 185x278",
+        "main 13302"
+      ],
+      "imdb_ids": [
+        "tt2072276",
+        "tt8771590"
+      ],
       "tmdb_ids": [],
       "resolved_sources": {
         "571768": [
-          "folder_search"
+          "folder_search",
+          "tineye_imdb"
+        ],
+        "129531": [
+          "tineye_imdb"
         ]
       },
       "resolution_errors": []

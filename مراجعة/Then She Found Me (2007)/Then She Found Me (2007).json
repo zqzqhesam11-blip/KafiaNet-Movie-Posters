@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:35:42.392405+00:00",
+  "processed_utc": "2026-10-31T20:22:59.403667+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -17,30 +17,98 @@
   "match": {
     "status": "review",
     "confidence": 1.0,
-    "title_similarity": 1.0,
-    "folder_title_similarity": 1.0,
-    "tineye_title_similarity": 0.0,
-    "best_tineye_hint": null,
-    "source_year": 2007,
-    "tmdb_year": 2007,
-    "year_delta": 0,
-    "evidence_sources": [
-      "folder_search"
-    ],
-    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
-    "candidate_id": 13196,
-    "candidate_title": "Then She Found Me"
+    "reason": "TinEye backlinks resolved to multiple different TMDB movie IDs",
+    "candidate_ids": [
+      "13196",
+      "16511"
+    ]
   },
   "tineye": {
     "enabled": true,
-    "results": [],
+    "results": [
+      {
+        "title": "then-she-found-me-bette-midler-helen-hunt-2007-thinkfilmcourtesy-everett-E5MTXX.jpg",
+        "url": "https://www.alamy.com/stock-photo-then-she-found-me-bette-midler-helen-hunt-2007-thinkfilmcourtesy-everett-72373362.html",
+        "source": "https://c8.alamy.com/comp/E5MTXX/then-she-found-me-bette-midler-helen-hunt-2007-thinkfilmcourtesy-everett-E5MTXX.jpg",
+        "content": ""
+      },
+      {
+        "title": "220px-Then_She_Found_Me.jpg",
+        "url": "http://en.wikipedia.org/wiki/Then_She_Found_Me",
+        "source": "http://upload.wikimedia.org/wikipedia/en/thumb/6/60/Then_She_Found_Me.jpg/220px-Then_She_Found_Me.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_.jpg",
+        "url": "https://www.imdb.com/title/tt0848281/",
+        "source": "https://m.media-amazon.com/images/M/MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://www.imdb.com/title/tt0455805/",
+        "source": "https://m.media-amazon.com/images/M/MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_FMjpg_UX1000_.jpg",
+        "content": ""
+      },
+      {
+        "title": "144A5410ADDD189284C187",
+        "url": "http://watericious.tistory.com/tag/%EA%B0%80%EC%A1%B1",
+        "source": "http://cfile89.uf.daum.net/image/144A5410ADDD189284C187",
+        "content": ""
+      },
+      {
+        "title": "Then_She_Found_Me.jpg",
+        "url": "http://wikivisually.com/wiki/Bette_Midler",
+        "source": "http://upload.wikimedia.org/wikipedia/en/6/60/Then_She_Found_Me.jpg",
+        "content": ""
+      },
+      {
+        "title": "Then_She_Found_Me.jpg",
+        "url": "http://www.adventuresofholly.com/2008_08_01_archive.html",
+        "source": "http://upload.wikimedia.org/wikipedia/en/6/60/Then_She_Found_Me.jpg",
+        "content": ""
+      },
+      {
+        "title": "tt0455805.jpg",
+        "url": "http://dreamfilmhd.io/720/genres/romance/?page=2",
+        "source": "http://dreamfilmhd.io/images/imdb/tt0455805.jpg",
+        "content": ""
+      },
+      {
+        "title": "Then_She_Found_Me_2572306.jpg",
+        "url": "http://www.contactmusic.com/colin-firth/film",
+        "source": "http://www.contactmusic.com/images/poster/Then_She_Found_Me_2572306.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_SX300.jpg",
+        "url": "http://www1.sockshare.net/?movie=%2Fplay%2FdPVZPwyx%2Fin-dubious-battle",
+        "source": "http://cdn.sockshare.net/MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ@@._V1_SX300.jpg",
+        "content": ""
+      }
+    ],
     "evidence": {
-      "title_hints": [],
-      "imdb_ids": [],
+      "title_hints": [
+        "then she found me bette midler helen hunt thinkfilmcourtesy everett E5MTXX",
+        "220px Then She Found Me",
+        "MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ V1",
+        "MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ V1 FMjpg UX1000",
+        "Then She Found Me",
+        "Then She Found Me 2572306",
+        "MV5BMTk4ODYxNTYzOF5BMl5BanBnXkFtZTcwNjMwODg2MQ V1 SX300"
+      ],
+      "imdb_ids": [
+        "tt0848281",
+        "tt0455805"
+      ],
       "tmdb_ids": [],
       "resolved_sources": {
         "13196": [
-          "folder_search"
+          "folder_search",
+          "tineye_imdb"
+        ],
+        "16511": [
+          "tineye_imdb"
         ]
       },
       "resolution_errors": []

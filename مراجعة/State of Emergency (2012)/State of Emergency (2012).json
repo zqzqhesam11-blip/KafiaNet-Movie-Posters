@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:22:52.477987+00:00",
+  "processed_utc": "2026-10-31T20:35:42.151252+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -19,104 +19,28 @@
     "confidence": 1.0,
     "title_similarity": 1.0,
     "folder_title_similarity": 1.0,
-    "tineye_title_similarity": 0.8571,
-    "best_tineye_hint": "state of emergency 90407",
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
     "source_year": 2012,
     "tmdb_year": 2012,
     "year_delta": 0,
     "evidence_sources": [
-      "folder_search",
-      "tineye_imdb"
+      "folder_search"
     ],
-    "reason": "TinEye external ID conflicts with a high-confidence folder-title match",
-    "candidate_ids": [
-      "136476",
-      "520975"
-    ]
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 136476,
+    "candidate_title": "State of Emergency"
   },
   "tineye": {
     "enabled": true,
-    "results": [
-      {
-        "title": "1363180473.jpg",
-        "url": "http://kinobanda.net/modules.php?actor=%D0%94%D0%B6%D0%B8%D0%B4%D0%B0+%D0%9A%D0%BE%D0%BB%D0%BE%D0%BD%D0%BD%D0%B0&file=prod&name=Search",
-        "source": "http://kinobanda.net/uploads/1363180473.jpg",
-        "content": ""
-      },
-      {
-        "title": "ecM2H.jpg",
-        "url": "http://www.yaske.net/es/peliculas/letra/p",
-        "source": "http://www.dmtinc.cl/imagenes/ecM2H.jpg",
-        "content": ""
-      },
-      {
-        "title": "State%2Bof%2BEmergency%2B%282010%29%2BBDRip%2B400MB%2Bhnmovies.jpg",
-        "url": "http://hnmovies.me/quality/bdrip/",
-        "source": "http://4.bp.blogspot.com/-3eJTClgJHxA/UOBryQidc4I/AAAAAAAAPY8/hJodrqC_uq8/s1600/State%2Bof%2BEmergency%2B%282010%29%2BBDRip%2B400MB%2Bhnmovies.jpg",
-        "content": ""
-      },
-      {
-        "title": "state-of-emergency-90407.jpg",
-        "url": "https://libertyvf.com/films/acteur/andy-on.html",
-        "source": "https://img.libertyvf.com/movies/state-of-emergency-90407.jpg?v=39",
-        "content": ""
-      },
-      {
-        "title": "MV5BMTg5MDY4MzgwOF5BMl5BanBnXkFtZTcwMzE1NDE4OA@@._V1_.jpg",
-        "url": "https://www.imdb.com/name/nm1979997/",
-        "source": "https://m.media-amazon.com/images/M/MV5BMTg5MDY4MzgwOF5BMl5BanBnXkFtZTcwMzE1NDE4OA@@._V1_.jpg",
-        "content": ""
-      },
-      {
-        "title": "mdhTX546s-Nko4mz0pkToRA.jpg",
-        "url": "http://www.benl.ebay.be/sch/sis.html?_itemId=191036739619&_nkw=Decomissioned+Queensland+State+Emergency+Service+Cadets+Patch+SMALL",
-        "source": "http://thumbs.ebaystatic.com/d/l225/m/mdhTX546s-Nko4mz0pkToRA.jpg",
-        "content": ""
-      },
-      {
-        "title": "State-of-Emergency-2010.jpg",
-        "url": "http://peliculas-y-series.programasfull.com/descargar/1-descargar-peliculas-gratis/peliculas-brrip-ligero/page/27",
-        "source": "http://peliculas-y-series.programasfull.com/wp-content/uploads/State-of-Emergency-2010.jpg",
-        "content": ""
-      },
-      {
-        "title": "MV5BMTg5MDY4MzgwOF5BMl5BanBnXkFtZTcwMzE1NDE4OA@@._V1_FMjpg_UX1000_.jpg",
-        "url": "https://www.imdb.com/title/tt1705134/",
-        "source": "https://m.media-amazon.com/images/M/MV5BMTg5MDY4MzgwOF5BMl5BanBnXkFtZTcwMzE1NDE4OA@@._V1_FMjpg_UX1000_.jpg",
-        "content": ""
-      },
-      {
-        "title": "s-l225.jpg",
-        "url": "https://www.ebay.ie/sch/DVDs-Films-TV/11232/i.html?_nkw=stahl&_sop=14",
-        "source": "https://i.ebayimg.com/thumbs/images/g/57oAAOSweW5VJ7VK/s-l225.jpg",
-        "content": ""
-      },
-      {
-        "title": "2273596331_scrt1363180473.jpg",
-        "url": "http://1kino.com/thriller/38319-chrezvychajnoe-polozhenie.html",
-        "source": "http://1kino.com/uploads/posts/2014-07/2273596331_scrt1363180473.jpg",
-        "content": ""
-      }
-    ],
+    "results": [],
     "evidence": {
-      "title_hints": [
-        "ecM2H",
-        "State of Emergency 2010 BDRip 400MB hnmovies",
-        "state of emergency 90407",
-        "MV5BMTg5MDY4MzgwOF5BMl5BanBnXkFtZTcwMzE1NDE4OA V1",
-        "mdhTX546s Nko4mz0pkToRA",
-        "State of Emergency",
-        "MV5BMTg5MDY4MzgwOF5BMl5BanBnXkFtZTcwMzE1NDE4OA V1 FMjpg UX1000",
-        "l225"
-      ],
-      "imdb_ids": [
-        "tt1705134"
-      ],
+      "title_hints": [],
+      "imdb_ids": [],
       "tmdb_ids": [],
       "resolved_sources": {
         "136476": [
-          "folder_search",
-          "tineye_imdb"
+          "folder_search"
         ],
         "520975": [
           "folder_search"

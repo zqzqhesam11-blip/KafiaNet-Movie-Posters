@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:22:50.999359+00:00",
+  "processed_utc": "2026-10-31T20:35:42.054096+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -16,102 +16,31 @@
   },
   "match": {
     "status": "review",
-    "confidence": 0.205,
-    "title_similarity": 0.2778,
-    "folder_title_similarity": 0.25,
-    "tineye_title_similarity": 0.2778,
-    "best_tineye_hint": "RMOA2WBGLVEKFBVSRNRSH7F3HU",
+    "confidence": 0.9883,
+    "title_similarity": 0.987,
+    "folder_title_similarity": 0.987,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
     "source_year": 2024,
-    "tmdb_year": 2020,
-    "year_delta": 4,
+    "tmdb_year": 2024,
+    "year_delta": 0,
     "evidence_sources": [
-      "tineye_imdb"
+      "folder_search"
     ],
-    "reason": "TinEye external ID conflicts with a high-confidence folder-title match",
-    "candidate_ids": [
-      "725649",
-      "1300182"
-    ]
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 1300182,
+    "candidate_title": "Juanpis González: The People's President"
   },
   "tineye": {
     "enabled": true,
-    "results": [
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/-tEyB-eJGWFVh3bo3GD3PbCjGIk=/768x1152/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/afGBeVofhCadnRr04SMwzlPD8TE=/1200x1800/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/RyhAD5bPVNyMGARdIzL2muaG6rM=/420x630/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/5Nc3l9Y4zavkgFrqfGCJupgJS6U=/992x1488/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/gsV6RY-o5y1eNXQzJ-2piKO5mUg=/420x747/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "MV5BNjU0MjQ1MzktZDdmYy00YmQ0LTkwODEtZmRjZTZlOWFlNTFiXkEyXkFqcGc@._V1_.jpg",
-        "url": "https://www.imdb.com/title/tt13248198/",
-        "source": "https://m.media-amazon.com/images/M/MV5BNjU0MjQ1MzktZDdmYy00YmQ0LTkwODEtZmRjZTZlOWFlNTFiXkEyXkFqcGc@._V1_.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/ZeDSPaWA4AS4tubxru4NHYsvBiM=/1200x2700/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/TLlzs2OhAlYMRONLdcxXNpIZX1A=/768x1728/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/D0IDl93WYkN8dLAO1mWPqZ9rL-I=/992x2232/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      },
-      {
-        "title": "RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "url": "https://www.infobae.com/america/mexico/2022/03/18/mario-delgado-aseguro-que-amlo-es-un-perseguido-politico-y-no-sandra-cuevas-el-prian-tienen-poca-memoria/",
-        "source": "https://www.infobae.com/new-resizer/jRexBAbCxGnUgaZL34VM0wKj5yE=/420x945/filters:format(webp):quality(85)/cloudfront-us-east-1.images.arcpublishing.com/infobae/RMOA2WBGLVEKFBVSRNRSH7F3HU.jpg",
-        "content": ""
-      }
-    ],
+    "results": [],
     "evidence": {
-      "title_hints": [
-        "RMOA2WBGLVEKFBVSRNRSH7F3HU",
-        "MV5BNjU0MjQ1MzktZDdmYy00YmQ0LTkwODEtZmRjZTZlOWFlNTFiXkEyXkFqcGc V1"
-      ],
-      "imdb_ids": [
-        "tt13248198"
-      ],
+      "title_hints": [],
+      "imdb_ids": [],
       "tmdb_ids": [],
       "resolved_sources": {
         "1300182": [
           "folder_search"
-        ],
-        "725649": [
-          "tineye_imdb"
         ]
       },
       "resolution_errors": []

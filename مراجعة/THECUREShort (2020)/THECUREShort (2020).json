@@ -1,6 +1,6 @@
 {
   "schema_version": 2,
-  "processed_utc": "2026-10-31T20:22:56.412678+00:00",
+  "processed_utc": "2026-10-31T20:35:42.342305+00:00",
   "source": {
     "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
     "branch": "main",
@@ -21,53 +21,9 @@
   },
   "tineye": {
     "enabled": true,
-    "results": [
-      {
-        "title": "GMCoOR8Fn00eAABmQAEHabO7.jpg",
-        "url": "http://gnarks.com/vodshow/1-----J------2020.html",
-        "source": "https://aod.cos.tx.xmcdn.com/storages/a7f4-audiofreehighqps/26/09/GMCoOR8Fn00eAABmQAEHabO7.jpg",
-        "content": ""
-      },
-      {
-        "title": "MV5BYTgyMmRhYWMtZDM3Mi00YjFjLWEyZmUtOWRhN2EyOTU5ZjA5XkEyXkFqcGc@._V1_.jpg",
-        "url": "https://www.imdb.com/name/nm0046617/",
-        "source": "https://m.media-amazon.com/images/M/MV5BYTgyMmRhYWMtZDM3Mi00YjFjLWEyZmUtOWRhN2EyOTU5ZjA5XkEyXkFqcGc@._V1_.jpg",
-        "content": ""
-      },
-      {
-        "title": "mv5bn2m1odcwzwutntgwzi00mdqxltk1otkty2mynzqwytk4yzzixkeyxkfqcgdeqxvymtiymdewotk_v1_fmjpg_ux1000_.jpg",
-        "url": "http://www.file.ge/?p=61783",
-        "source": "http://www.file.ge/wp-content/uploads/mv5bn2m1odcwzwutntgwzi00mdqxltk1otkty2mynzqwytk4yzzixkeyxkfqcgdeqxvymtiymdewotk_v1_fmjpg_ux1000_.jpg",
-        "content": ""
-      },
-      {
-        "title": "the_cure-137053579-msmall.jpg",
-        "url": "https://www.filmaffinity.com/en/search.php?stext=Glen+Baggerly&stype=cast",
-        "source": "https://pics.filmaffinity.com/the_cure-137053579-msmall.jpg",
-        "content": ""
-      },
-      {
-        "title": "mov_39984_816-m.jpg",
-        "url": "https://www.aparat.com/v/R7hNu/%D9%86%D8%B4%D8%B3%D8%AA_%D8%AE%D8%A8%D8%B1%DB%8C_%D8%A8%D8%A7_%D8%AE%D8%A8%D8%B1%D9%86%DA%AF%D8%A7%D8%B1%D8%A7%D9%86_%D8%B1%D8%B3%D8%A7%D9%86%D9%87_%D9%87%D8%A7",
-        "source": "https://static.cdn.asset.filimo.com/flmt/mov_39984_816-m.jpg",
-        "content": ""
-      },
-      {
-        "title": "the_cure-137053579-mtiny.jpg",
-        "url": "https://www.filmaffinity.com/en/search.php?stext=Glen+Baggerly&stype=cast",
-        "source": "https://pics.filmaffinity.com/the_cure-137053579-mtiny.jpg",
-        "content": ""
-      }
-    ],
+    "results": [],
     "evidence": {
-      "title_hints": [
-        "GMCoOR8Fn00eAABmQAEHabO7",
-        "MV5BYTgyMmRhYWMtZDM3Mi00YjFjLWEyZmUtOWRhN2EyOTU5ZjA5XkEyXkFqcGc V1",
-        "mv5bn2m1odcwzwutntgwzi00mdqxltk1otkty2mynzqwytk4yzzixkeyxkfqcgdeqxvymtiymdewotk v1 fmjpg ux1000",
-        "the cure 137053579 msmall",
-        "mov 39984 816",
-        "the cure 137053579 mtiny"
-      ],
+      "title_hints": [],
       "imdb_ids": [],
       "tmdb_ids": [],
       "resolved_sources": {},

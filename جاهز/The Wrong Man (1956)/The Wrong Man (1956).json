@@ -1,0 +1,606 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:02:05.217239+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "The Wrong Man (1956)",
+    "image_path": "جاهز/The Wrong Man (1956)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/The%20Wrong%20Man%20%281956%29/poster.jpg",
+    "original_image_path": "The Wrong Man (1956)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "The Wrong Man (1956)",
+    "title_hint": "The Wrong Man",
+    "year_hint": 1956
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.1739,
+    "best_tineye_hint": "B0002HOER6",
+    "source_year": 1956,
+    "tmdb_year": 1956,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "High-confidence folder title or TinEye image-title match"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "511M26LcwiL._SY445_.jpg",
+        "url": "https://www.amazon.com/Wrong-Man-Henry-Fonda/dp/B0002HOER6",
+        "source": "https://images-na.ssl-images-amazon.com/images/I/511M26LcwiL._SY445_.jpg",
+        "content": ""
+      },
+      {
+        "title": "002428955.jpg",
+        "url": "http://www.spun.com/movies/product-detail.jsp?id=2428955",
+        "source": "http://www.spun.com/scover/full/002/428/002428955.jpg",
+        "content": ""
+      },
+      {
+        "title": "3bce632165efbedab14067e7bdebd72a.jpg",
+        "url": "http://rutor.org/torrent/67127",
+        "source": "http://i10.fastpic.ru/big/2010/0921/2a/3bce632165efbedab14067e7bdebd72a.jpg",
+        "content": ""
+      },
+      {
+        "title": "B0002HOER6.jpg",
+        "url": "http://researchguides.law.quinnipiac.edu/DVD",
+        "source": "http://images.amazon.com/images/P/B0002HOER6.jpg",
+        "content": ""
+      },
+      {
+        "title": "511M26LcwiL.jpg",
+        "url": "https://www.amazon.com/Wrong-Man-Henry-Fonda/dp/B0002HOER6",
+        "source": "https://images-na.ssl-images-amazon.com/images/I/511M26LcwiL.jpg",
+        "content": ""
+      },
+      {
+        "title": "Y2Y3ZTNhZWQ1OTBlNjhkYWMwZDJjZjVkMTMwOTQ4ZTQ6TyXSVjcwC2rshs2FLytNaHR0cDovL21lZGlhLmFkc2ltZy5jb20vNjI4MDZmYjg3NGU0NDAwM2ZhMzg3YWU0NmNkMDU0ZTg2MDM4NWE1YWU4NDkyN2ZjM2FiMjQyODhhMjlhYTU1MC5qcGd8fHx8fHwxODd4 …",
+        "url": "https://www.adverts.ie/dvd/the-wrong-man-alfred-hitchcock-henry-fonda-vera-miles/12134041",
+        "source": "https://a1.amlimg.com/Y2Y3ZTNhZWQ1OTBlNjhkYWMwZDJjZjVkMTMwOTQ4ZTQ6TyXSVjcwC2rshs2FLytNaHR0cDovL21lZGlhLmFkc2ltZy5jb20vNjI4MDZmYjg3NGU0NDAwM2ZhMzg3YWU0NmNkMDU0ZTg2MDM4NWE1YWU4NDkyN2ZjM2FiMjQyODhhMjlhYTU1MC5qcGd8fHx8fHwxODd4MjY5fGh0dHA6Ly93d3cuYWR2ZXJ0cy5pZS9zdGF0aWMvaS93YXRlcm1hcmsucG5nfHx8.jpg",
+        "content": ""
+      },
+      {
+        "title": "511M26LcwiL._SY300_.jpg",
+        "url": "https://www.amazon.com/Wrong-Man-Henry-Fonda/dp/B0002HOER6",
+        "source": "https://images-na.ssl-images-amazon.com/images/I/511M26LcwiL._SY300_.jpg",
+        "content": ""
+      },
+      {
+        "title": "511M26LcwiL._SY300_QL70_.jpg",
+        "url": "https://www.amazon.com/Wrong-Man-Henry-Fonda/dp/B0002HOER6",
+        "source": "https://images-na.ssl-images-amazon.com/images/I/511M26LcwiL._SY300_QL70_.jpg",
+        "content": ""
+      },
+      {
+        "title": "mv_hLGlOyoidMANDkXZiRmg.jpg",
+        "url": "http://www.ebay.it/sch/sis.html?_itemId=170618562897&_nkw=Il+ladro+1957+Alfred+Hitchcock+Henry+Fonda+imballato",
+        "source": "http://thumbs.ebaystatic.com/d/l225/m/mv_hLGlOyoidMANDkXZiRmg.jpg",
+        "content": ""
+      },
+      {
+        "title": "1299255038_ne-tot-chelovek.jpg",
+        "url": "http://filmix.net/dramy/64210-oni-shli-v-korduru-oni-priehali-v-kordura-they-came-to-cordura-1959.html",
+        "source": "http://filmix.net/uploads/posts/2011-03/thumbs/1299255038_ne-tot-chelovek.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "511M26LcwiL SY445",
+        "B0002HOER6",
+        "511M26LcwiL",
+        "Y2Y3ZTNhZWQ1OTBlNjhkYWMwZDJjZjVkMTMwOTQ4ZTQ6TyXSVjcwC2rshs2FLytNaHR0cDovL21lZGlhLmFkc2ltZy5jb20vNjI4MDZmYjg3NGU0NDAwM2ZhMzg3YWU0NmNkMDU0ZTg2MDM4NWE1YWU4NDkyN2ZjM2FiMjQyODhhMjlhYTU1MC5qcGd8fHx8fHwxODd4",
+        "Y2Y3ZTNhZWQ1OTBlNjhkYWMwZDJjZjVkMTMwOTQ4ZTQ6TyXSVjcwC2rshs2FLytNaHR0cDovL21lZGlhLmFkc2ltZy5jb20vNjI4MDZmYjg3NGU0NDAwM2ZhMzg3YWU0NmNkMDU0ZTg2MDM4NWE1YWU4NDkyN2ZjM2FiMjQyODhhMjlhYTU1MC5qcGd8fHx8fHwxODd4MjY5fGh0dHA6Ly93d3cuYWR2ZXJ0cy5pZS9zdGF0aWMvaS93YXRlcm1hcmsucG5nfHx8",
+        "511M26LcwiL SY300",
+        "511M26LcwiL SY300 QL70",
+        "mv hLGlOyoidMANDkXZiRmg"
+      ],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "22527": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 22527,
+    "media_type": "movie",
+    "title": "The Wrong Man",
+    "original_title": "The Wrong Man",
+    "release_date": "1956-12-22",
+    "year": 1956,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 174,
+        "logo_path": "/zhD3hhtKB5qyv7ZeL4uLpNxgMVU.png",
+        "name": "Warner Bros. Pictures",
+        "origin_country": "US"
+      }
+    ],
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 105,
+    "status": "Released",
+    "overview": "In 1953, an innocent man named Christopher Emmanuel \"Manny\" Balestrero is arrested after being mistaken for an armed robber.",
+    "tagline": "HITCHCOCK'S FIRST REAL-LIFE THRILLER!",
+    "homepage": "",
+    "poster_path": "/pO5XR2R56RAbVjdks9gGGn0fbOa.jpg",
+    "backdrop_path": "/e0tZ5Kjg5mukFGcxEddCZymAxH4.jpg",
+    "popularity": 3.5172,
+    "vote_average": 7.14,
+    "vote_count": 640,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt0051207",
+      "wikidata_id": "Q472390",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "오인",
+        "country": "KR",
+        "type": ""
+      },
+      {
+        "title": "Սխալ Մարդը",
+        "country": "AM",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "AT": [
+        {
+          "certification": "12",
+          "release_date": "1957-09-06T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "BR": [
+        {
+          "certification": "16",
+          "release_date": "2004-11-04T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "DE": [
+        {
+          "certification": "12",
+          "release_date": "1957-08-02T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "DK": [
+        {
+          "certification": "",
+          "release_date": "1959-03-12T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "FI": [
+        {
+          "certification": "K-16",
+          "release_date": "1957-10-11T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "FR": [
+        {
+          "certification": "U",
+          "release_date": "1957-04-24T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "GB": [
+        {
+          "certification": "PG",
+          "release_date": "1957-01-23T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "IE": [
+        {
+          "certification": "PG",
+          "release_date": "1957-05-31T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "IT": [
+        {
+          "certification": "",
+          "release_date": "1957-04-20T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NL": [
+        {
+          "certification": "12",
+          "release_date": "1958-01-03T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "12",
+          "release_date": "2002-05-07T00:00:00.000Z",
+          "type": 6
+        }
+      ],
+      "PT": [
+        {
+          "certification": "M/12",
+          "release_date": "1957-10-15T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "SE": [
+        {
+          "certification": "15",
+          "release_date": "1956-12-22T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "US": [
+        {
+          "certification": "",
+          "release_date": "1956-12-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "NR",
+          "release_date": "1956-12-23T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "",
+          "release_date": "1956-12-22T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "NR",
+          "release_date": "1957-01-26T00:00:00.000Z",
+          "type": 3
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 4958,
+        "name": "Henry Fonda",
+        "character": "Manny Balestrero",
+        "order": 0
+      },
+      {
+        "id": 7303,
+        "name": "Vera Miles",
+        "character": "Rose Balestrero",
+        "order": 1
+      },
+      {
+        "id": 14371,
+        "name": "Anthony Quayle",
+        "character": "Frank D. O'Connor",
+        "order": 2
+      },
+      {
+        "id": 14505,
+        "name": "Harold J. Stone",
+        "character": ". Bowers",
+        "order": 3
+      },
+      {
+        "id": 2078,
+        "name": "Charles Cooper",
+        "character": "Matthews",
+        "order": 4
+      },
+      {
+        "id": 88881,
+        "name": "John Heldabrand",
+        "character": "Tomasini",
+        "order": 5
+      },
+      {
+        "id": 78935,
+        "name": "Esther Minciotti",
+        "character": "Mama Balestrero",
+        "order": 6
+      },
+      {
+        "id": 2745,
+        "name": "Doreen Lang",
+        "character": "Ann James",
+        "order": 7
+      },
+      {
+        "id": 88449,
+        "name": "Laurinda Barrett",
+        "character": "Constance Willis",
+        "order": 8
+      },
+      {
+        "id": 88882,
+        "name": "Norma Connolly",
+        "character": "Betty Todd",
+        "order": 9
+      },
+      {
+        "id": 3160,
+        "name": "Nehemiah Persoff",
+        "character": "Gene Conforti",
+        "order": 10
+      },
+      {
+        "id": 88883,
+        "name": "Lola D'Annunzio",
+        "character": "Olga Conforti",
+        "order": 11
+      },
+      {
+        "id": 88884,
+        "name": "Kippy Campbell",
+        "character": "Robert Balestrero",
+        "order": 12
+      },
+      {
+        "id": 88885,
+        "name": "Robert Essen",
+        "character": "Gregory Balestrero",
+        "order": 13
+      },
+      {
+        "id": 88886,
+        "name": "Richard Robbins",
+        "character": "Daniel",
+        "order": 14
+      },
+      {
+        "id": 88887,
+        "name": "Dayton Lummis",
+        "character": "Judge Groat",
+        "order": 15
+      },
+      {
+        "id": 88888,
+        "name": "Peggy Webber",
+        "character": "Miss Dennerly",
+        "order": 16
+      },
+      {
+        "id": 2636,
+        "name": "Alfred Hitchcock",
+        "character": "Prologue Narrator (voice) (uncredited)",
+        "order": 17
+      },
+      {
+        "id": 61150,
+        "name": "Charles Aidman",
+        "character": "Jail Medical Attendant (uncredited)",
+        "order": 18
+      },
+      {
+        "id": 142244,
+        "name": "Mary Boylan",
+        "character": "Curious Deli Customer (uncredited)",
+        "order": 19
+      },
+      {
+        "id": 162279,
+        "name": "Bonnie Franklin",
+        "character": "Young Girl (uncredited)",
+        "order": 20
+      },
+      {
+        "id": 1045,
+        "name": "Bernard Herrmann",
+        "character": "Stork Club Piano Player (uncredited)",
+        "order": 21
+      },
+      {
+        "id": 12152,
+        "name": "Werner Klemperer",
+        "character": "Dr. Bannay (uncredited)",
+        "order": 22
+      },
+      {
+        "id": 1225419,
+        "name": "Patricia Morrow",
+        "character": "Young Girl (uncredited)",
+        "order": 23
+      },
+      {
+        "id": 5048,
+        "name": "Harry Dean Stanton",
+        "character": "Department of Corrections Employee (uncredited)",
+        "order": 24
+      },
+      {
+        "id": 4514,
+        "name": "Tuesday Weld",
+        "character": "Giggly Girl (uncredited)",
+        "order": 25
+      },
+      {
+        "id": 153482,
+        "name": "Maurice Wells",
+        "character": "Department of Corrections Employee (uncredited)",
+        "order": 26
+      },
+      {
+        "id": 33479,
+        "name": "Henry Beckman",
+        "character": "Prisoner at Arraignment Hearing (uncredited)",
+        "order": 27
+      },
+      {
+        "id": 34609,
+        "name": "Paul Bryar",
+        "character": "Interrogation Officer (uncredited)",
+        "order": 28
+      },
+      {
+        "id": 1282,
+        "name": "David Kelly",
+        "character": "Policeman (uncredited)",
+        "order": 29
+      },
+      {
+        "id": 1213024,
+        "name": "Donald May",
+        "character": "Arresting Patrolman (uncredited)",
+        "order": 30
+      },
+      {
+        "id": 86344,
+        "name": "Frances Reid",
+        "character": "Mrs. O'Connor (voice) (uncredited)",
+        "order": 31
+      },
+      {
+        "id": 80599,
+        "name": "Penny Santon",
+        "character": "Spanish Woman (uncredited)",
+        "order": 32
+      },
+      {
+        "id": 153237,
+        "name": "Clarence Straight",
+        "character": "Policeman (uncredited)",
+        "order": 33
+      },
+      {
+        "id": 89660,
+        "name": "Emerson Treacy",
+        "character": "Mr. Wendon (uncredited)",
+        "order": 34
+      },
+      {
+        "id": 1221266,
+        "name": "John Vivyan",
+        "character": "Detective Holman (uncredited)",
+        "order": 35
+      },
+      {
+        "id": 215709,
+        "name": "Ray Bennett",
+        "character": "Policeman (uncredited)",
+        "order": 36
+      },
+      {
+        "id": 84330,
+        "name": "Dee Carroll",
+        "character": "(uncredited)",
+        "order": 37
+      }
+    ],
+    "directors": [
+      {
+        "id": 2636,
+        "name": "Alfred Hitchcock",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 67807,
+        "name": "Maxwell Anderson",
+        "job": "Screenplay",
+        "department": "Writing"
+      },
+      {
+        "id": 88880,
+        "name": "Angus MacPhail",
+        "job": "Screenplay",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 242,
+        "name": "new york city"
+      },
+      {
+        "id": 642,
+        "name": "robbery"
+      },
+      {
+        "id": 818,
+        "name": "based on novel or book"
+      },
+      {
+        "id": 4048,
+        "name": "musician"
+      },
+      {
+        "id": 769,
+        "name": "falsely accused"
+      },
+      {
+        "id": 6139,
+        "name": "innocence"
+      },
+      {
+        "id": 12999,
+        "name": "black and white"
+      },
+      {
+        "id": 156938,
+        "name": "insurance"
+      }
+    ],
+    "worldwide_title": "The Wrong Man",
+    "worldwide_title_selection": {
+      "title": "The Wrong Man",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "The Wrong Man (1956)",
+    "worldwide_title": "The Wrong Man",
+    "title_selection": {
+      "title": "The Wrong Man",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/The Wrong Man (1956)/The Wrong Man (1956).json"
+}

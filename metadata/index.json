@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-10-31T19:57:52.172746+00:00",
+  "updated_utc": "2026-10-31T20:03:20.125428+00:00",
   "source_repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
   "items": [
     {
@@ -101,6 +101,429 @@
       "canonical_folder_name": null,
       "status": "review",
       "output_path": "مراجعة/Juanpis González The Peoples President (2024)/Juanpis González The Peoples President (2024).json"
+    },
+    {
+      "source_folder": "My Dearest Señorita (2026)",
+      "image_path": "جاهز/My Dearest Señorita (2026)/My Dearest Señorita 2026.jpg",
+      "original_image_path": "My Dearest Señorita (2026)/My Dearest Señorita 2026.jpg",
+      "tmdb_id": 1239198,
+      "canonical_folder_name": "My Dearest Señorita (2026)",
+      "status": "ready",
+      "output_path": "جاهز/My Dearest Señorita (2026)/My Dearest Señorita (2026).json"
+    },
+    {
+      "source_folder": "Música (2024)",
+      "image_path": "جاهز/Música (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Música (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": 968441,
+      "canonical_folder_name": "Música (2024)",
+      "status": "ready",
+      "output_path": "جاهز/Música (2024)/Música (2024).json"
+    },
+    {
+      "source_folder": "Pedro Páramo (2024)",
+      "image_path": "جاهز/Pedro Páramo (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Pedro Páramo (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": 1069387,
+      "canonical_folder_name": "Pedro Páramo (2024)",
+      "status": "ready",
+      "output_path": "جاهز/Pedro Páramo (2024)/Pedro Páramo (2024).json"
+    },
+    {
+      "source_folder": "State of Emergency (2012)",
+      "image_path": "مراجعة/State of Emergency (2012)/images.jpg",
+      "original_image_path": "State of Emergency (2012)/images.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/State of Emergency (2012)/State of Emergency (2012).json"
+    },
+    {
+      "source_folder": "State of Siege (État de siège) (1972)",
+      "image_path": "مراجعة/State of Siege (État de siège) (1972)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "State of Siege (État de siège) (1972)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/State of Siege (État de siège) (1972)/State of Siege (État de siège) (1972).json"
+    },
+    {
+      "source_folder": "The Wrong Car (2016)",
+      "image_path": "جاهز/The Wrong Car (2016)/poster.jpg",
+      "original_image_path": "The Wrong Car (2016)/poster.jpg",
+      "tmdb_id": 378291,
+      "canonical_folder_name": "The Wrong Car (2016)",
+      "status": "ready",
+      "output_path": "جاهز/The Wrong Car (2016)/The Wrong Car (2016).json"
+    },
+    {
+      "source_folder": "The Wrong Girls (2026)",
+      "image_path": "جاهز/The Wrong Girls (2026)/poster.jpg",
+      "original_image_path": "The Wrong Girls (2026)/poster.jpg",
+      "tmdb_id": 1226699,
+      "canonical_folder_name": "The Wrong Girls (2026)",
+      "status": "ready",
+      "output_path": "جاهز/The Wrong Girls (2026)/The Wrong Girls (2026).json"
+    },
+    {
+      "source_folder": "The Wrong Man (1956)",
+      "image_path": "جاهز/The Wrong Man (1956)/poster.jpg",
+      "original_image_path": "The Wrong Man (1956)/poster.jpg",
+      "tmdb_id": 22527,
+      "canonical_folder_name": "The Wrong Man (1956)",
+      "status": "ready",
+      "output_path": "جاهز/The Wrong Man (1956)/The Wrong Man (1956).json"
+    },
+    {
+      "source_folder": "The Wrong Paris (2025)",
+      "image_path": "جاهز/The Wrong Paris (2025)/poster.jpg",
+      "original_image_path": "The Wrong Paris (2025)/poster.jpg",
+      "tmdb_id": 1321439,
+      "canonical_folder_name": "The Wrong Paris (2025)",
+      "status": "ready",
+      "output_path": "جاهز/The Wrong Paris (2025)/The Wrong Paris (2025).json"
+    },
+    {
+      "source_folder": "The Wrong Patient (2018)",
+      "image_path": "مراجعة/The Wrong Patient (2018)/poster.jpg",
+      "original_image_path": "The Wrong Patient (2018)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/The Wrong Patient (2018)/The Wrong Patient (2018).json"
+    },
+    {
+      "source_folder": "The-15-17-to-Paris (2018)",
+      "image_path": "جاهز/The-15-17-to-Paris (2018)/poster.jpg",
+      "original_image_path": "The-15-17-to-Paris (2018)/poster.jpg",
+      "tmdb_id": 453201,
+      "canonical_folder_name": "The 15:17 to Paris (2018)",
+      "status": "ready",
+      "output_path": "جاهز/The-15-17-to-Paris (2018)/The 15_17 to Paris (2018).json"
+    },
+    {
+      "source_folder": "The-Ballad-of-Lefty-Brown- (2017)",
+      "image_path": "جاهز/The-Ballad-of-Lefty-Brown- (2017)/poster.jpg",
+      "original_image_path": "The-Ballad-of-Lefty-Brown- (2017)/poster.jpg",
+      "tmdb_id": 438457,
+      "canonical_folder_name": "The Ballad of Lefty Brown (2017)",
+      "status": "ready",
+      "output_path": "جاهز/The-Ballad-of-Lefty-Brown- (2017)/The Ballad of Lefty Brown (2017).json"
+    },
+    {
+      "source_folder": "The-Ritual- (2017)",
+      "image_path": "جاهز/The-Ritual- (2017)/poster.jpg",
+      "original_image_path": "The-Ritual- (2017)/poster.jpg",
+      "tmdb_id": 433808,
+      "canonical_folder_name": "The Ritual (2017)",
+      "status": "ready",
+      "output_path": "جاهز/The-Ritual- (2017)/The Ritual (2017).json"
+    },
+    {
+      "source_folder": "The.Life.Ahead (2020)",
+      "image_path": "جاهز/The.Life.Ahead (2020)/poster.jpg",
+      "original_image_path": "The.Life.Ahead (2020)/poster.jpg",
+      "tmdb_id": 667869,
+      "canonical_folder_name": "The Life Ahead (2020)",
+      "status": "ready",
+      "output_path": "جاهز/The.Life.Ahead (2020)/The Life Ahead (2020).json"
+    },
+    {
+      "source_folder": "THECUREShort (2020)",
+      "image_path": "مراجعة/THECUREShort (2020)/poster.jpg",
+      "original_image_path": "THECUREShort (2020)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/THECUREShort (2020)/THECUREShort (2020).json"
+    },
+    {
+      "source_folder": "Thelma & Louise (1991)",
+      "image_path": "جاهز/Thelma & Louise (1991)/poster.jpg",
+      "original_image_path": "Thelma & Louise (1991)/poster.jpg",
+      "tmdb_id": 1541,
+      "canonical_folder_name": "Thelma & Louise (1991)",
+      "status": "ready",
+      "output_path": "جاهز/Thelma & Louise (1991)/Thelma & Louise (1991).json"
+    },
+    {
+      "source_folder": "Thelma (2024)",
+      "image_path": "جاهز/Thelma (2024)/poster.jpg",
+      "original_image_path": "Thelma (2024)/poster.jpg",
+      "tmdb_id": 1051891,
+      "canonical_folder_name": "Thelma (2024)",
+      "status": "ready",
+      "output_path": "جاهز/Thelma (2024)/Thelma (2024).json"
+    },
+    {
+      "source_folder": "Then Came You (2018)",
+      "image_path": "جاهز/Then Came You (2018)/poster.jpg",
+      "original_image_path": "Then Came You (2018)/poster.jpg",
+      "tmdb_id": 375785,
+      "canonical_folder_name": "Then Came You (2018)",
+      "status": "ready",
+      "output_path": "جاهز/Then Came You (2018)/Then Came You (2018).json"
+    },
+    {
+      "source_folder": "Then She Found Me (2007)",
+      "image_path": "مراجعة/Then She Found Me (2007)/poster.jpg",
+      "original_image_path": "Then She Found Me (2007)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Then She Found Me (2007)/Then She Found Me (2007).json"
+    },
+    {
+      "source_folder": "There Will Be Blood (2007)",
+      "image_path": "جاهز/There Will Be Blood (2007)/poster.jpg",
+      "original_image_path": "There Will Be Blood (2007)/poster.jpg",
+      "tmdb_id": 7345,
+      "canonical_folder_name": "There Will Be Blood (2007)",
+      "status": "ready",
+      "output_path": "جاهز/There Will Be Blood (2007)/There Will Be Blood (2007).json"
+    },
+    {
+      "source_folder": "There's No Business Like Show Business (1954)",
+      "image_path": "مراجعة/There's No Business Like Show Business (1954)/poster.jpg",
+      "original_image_path": "There's No Business Like Show Business (1954)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/There's No Business Like Show Business (1954)/There's No Business Like Show Business (1954).json"
+    },
+    {
+      "source_folder": "There's Someone Inside Your House (2021)",
+      "image_path": "مراجعة/There's Someone Inside Your House (2021)/poster.jpg",
+      "original_image_path": "There's Someone Inside Your House (2021)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/There's Someone Inside Your House (2021)/There's Someone Inside Your House (2021).json"
+    },
+    {
+      "source_folder": "There's Something About Mary (1998)",
+      "image_path": "مراجعة/There's Something About Mary (1998)/poster.jpg",
+      "original_image_path": "There's Something About Mary (1998)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/There's Something About Mary (1998)/There's Something About Mary (1998).json"
+    },
+    {
+      "source_folder": "There’s Still Tomorrow (2023)",
+      "image_path": "مراجعة/There’s Still Tomorrow (2023)/poster.jpg",
+      "original_image_path": "There’s Still Tomorrow (2023)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/There’s Still Tomorrow (2023)/There’s Still Tomorrow (2023).json"
+    },
+    {
+      "source_folder": "TheVindicator (2020)",
+      "image_path": "مراجعة/TheVindicator (2020)/poster.jpg",
+      "original_image_path": "TheVindicator (2020)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/TheVindicator (2020)/TheVindicator (2020).json"
+    },
+    {
+      "source_folder": "They Call Me Jeeg Robot (2015)",
+      "image_path": "مراجعة/They Call Me Jeeg Robot (2015)/poster.jpg",
+      "original_image_path": "They Call Me Jeeg Robot (2015)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Call Me Jeeg Robot (2015)/They Call Me Jeeg Robot (2015).json"
+    },
+    {
+      "source_folder": "They Call Me Trinity (1970)",
+      "image_path": "مراجعة/They Call Me Trinity (1970)/poster.jpg",
+      "original_image_path": "They Call Me Trinity (1970)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Call Me Trinity (1970)/They Call Me Trinity (1970).json"
+    },
+    {
+      "source_folder": "They Cloned Tyrone (2023)",
+      "image_path": "مراجعة/They Cloned Tyrone (2023)/poster.jpg",
+      "original_image_path": "They Cloned Tyrone (2023)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Cloned Tyrone (2023)/They Cloned Tyrone (2023).json"
+    },
+    {
+      "source_folder": "They Drive by Night (1940)",
+      "image_path": "مراجعة/They Drive by Night (1940)/poster.jpg",
+      "original_image_path": "They Drive by Night (1940)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Drive by Night (1940)/They Drive by Night (1940).json"
+    },
+    {
+      "source_folder": "They Fight (2026)",
+      "image_path": "مراجعة/They Fight (2026)/poster.jpg",
+      "original_image_path": "They Fight (2026)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Fight (2026)/They Fight (2026).json"
+    },
+    {
+      "source_folder": "They Live (1988)",
+      "image_path": "مراجعة/They Live (1988)/poster.jpg",
+      "original_image_path": "They Live (1988)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Live (1988)/They Live (1988).json"
+    },
+    {
+      "source_folder": "They Reach (2020)",
+      "image_path": "مراجعة/They Reach (2020)/poster.jpg",
+      "original_image_path": "They Reach (2020)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Reach (2020)/They Reach (2020).json"
+    },
+    {
+      "source_folder": "They Talk to Me (2022)",
+      "image_path": "مراجعة/They Talk to Me (2022)/poster.jpg",
+      "original_image_path": "They Talk to Me (2022)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Talk to Me (2022)/They Talk to Me (2022).json"
+    },
+    {
+      "source_folder": "They Turned Us Into Killers (2024)",
+      "image_path": "مراجعة/They Turned Us Into Killers (2024)/poster.jpg",
+      "original_image_path": "They Turned Us Into Killers (2024)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Turned Us Into Killers (2024)/They Turned Us Into Killers (2024).json"
+    },
+    {
+      "source_folder": "They Want Me Gone (2022)",
+      "image_path": "مراجعة/They Want Me Gone (2022)/poster.jpg",
+      "original_image_path": "They Want Me Gone (2022)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Want Me Gone (2022)/They Want Me Gone (2022).json"
+    },
+    {
+      "source_folder": "They Will Kill You (2026)",
+      "image_path": "مراجعة/They Will Kill You (2026)/poster.webp",
+      "original_image_path": "They Will Kill You (2026)/poster.webp",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/They Will Kill You (2026)/They Will Kill You (2026).json"
+    },
+    {
+      "source_folder": "Thick As Thieves (2009)",
+      "image_path": "مراجعة/Thick As Thieves (2009)/poster.jpg",
+      "original_image_path": "Thick As Thieves (2009)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Thick As Thieves (2009)/Thick As Thieves (2009).json"
+    },
+    {
+      "source_folder": "Thief Someday You Will Pay (2017)",
+      "image_path": "مراجعة/Thief Someday You Will Pay (2017)/poster.jpg",
+      "original_image_path": "Thief Someday You Will Pay (2017)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Thief Someday You Will Pay (2017)/Thief Someday You Will Pay (2017).json"
+    },
+    {
+      "source_folder": "Thieves Highway (2025)",
+      "image_path": "مراجعة/Thieves Highway (2025)/poster.jpg",
+      "original_image_path": "Thieves Highway (2025)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Thieves Highway (2025)/Thieves Highway (2025).json"
+    },
+    {
+      "source_folder": "Thin Ice (2011)",
+      "image_path": "مراجعة/Thin Ice (2011)/poster.jpg",
+      "original_image_path": "Thin Ice (2011)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Thin Ice (2011)/Thin Ice (2011).json"
+    },
+    {
+      "source_folder": "Things Heard & Seen (2021)",
+      "image_path": "مراجعة/Things Heard & Seen (2021)/poster.jpg",
+      "original_image_path": "Things Heard & Seen (2021)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Things Heard & Seen (2021)/Things Heard & Seen (2021).json"
+    },
+    {
+      "source_folder": "Things We Lost in the Fire (2007)",
+      "image_path": "مراجعة/Things We Lost in the Fire (2007)/poster.jpg",
+      "original_image_path": "Things We Lost in the Fire (2007)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Things We Lost in the Fire (2007)/Things We Lost in the Fire (2007).json"
+    },
+    {
+      "source_folder": "Things Will Be Different (2024)",
+      "image_path": "مراجعة/Things Will Be Different (2024)/poster.jpg",
+      "original_image_path": "Things Will Be Different (2024)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Things Will Be Different (2024)/Things Will Be Different (2024).json"
+    },
+    {
+      "source_folder": "Thingy (2026)",
+      "image_path": "مراجعة/Thingy (2026)/poster.jpg",
+      "original_image_path": "Thingy (2026)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Thingy (2026)/Thingy (2026).json"
+    },
+    {
+      "source_folder": "Think Like a Man (2012)",
+      "image_path": "مراجعة/Think Like a Man (2012)/poster.jpg",
+      "original_image_path": "Think Like a Man (2012)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Think Like a Man (2012)/Think Like a Man (2012).json"
+    },
+    {
+      "source_folder": "Think Like A Man Too (2014)",
+      "image_path": "مراجعة/Think Like A Man Too (2014)/poster.jpg",
+      "original_image_path": "Think Like A Man Too (2014)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Think Like A Man Too (2014)/Think Like A Man Too (2014).json"
+    },
+    {
+      "source_folder": "Thir13en Ghosts (2001)",
+      "image_path": "مراجعة/Thir13en Ghosts (2001)/poster.jpg",
+      "original_image_path": "Thir13en Ghosts (2001)/poster.jpg",
+      "tmdb_id": null,
+      "canonical_folder_name": null,
+      "status": "review",
+      "output_path": "مراجعة/Thir13en Ghosts (2001)/Thir13en Ghosts (2001).json"
     }
   ]
 }

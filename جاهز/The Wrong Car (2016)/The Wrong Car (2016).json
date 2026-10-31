@@ -1,0 +1,461 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:01:58.354856+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "The Wrong Car (2016)",
+    "image_path": "جاهز/The Wrong Car (2016)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/The%20Wrong%20Car%20%282016%29/poster.jpg",
+    "original_image_path": "The Wrong Car (2016)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "The Wrong Car (2016)",
+    "title_hint": "The Wrong Car",
+    "year_hint": 2016
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.6667,
+    "best_tineye_hint": "The Wrong Car TV 595452768",
+    "source_year": 2016,
+    "tmdb_year": 2016,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search",
+      "tineye_imdb"
+    ],
+    "reason": "TinEye backlink resolved to a single trusted IMDb/TMDB movie ID"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "The_Wrong_Car_TV-595452768-large.jpg",
+        "url": "https://www.filmaffinity.com/en/filmimages.php?movie_id=700077",
+        "source": "https://pics.filmaffinity.com/The_Wrong_Car_TV-595452768-large.jpg",
+        "content": ""
+      },
+      {
+        "title": "nL6PJ7R.jpg",
+        "url": "http://shahid4u.tv/%d9%81%d9%8a%d9%84%d9%85-km-31-2-2016-%d9%85%d8%aa%d8%b1%d8%ac%d9%85?watch=1",
+        "source": "http://shahid4u.tv/wp-content/uploads/2016/02/nL6PJ7R.jpg",
+        "content": ""
+      },
+      {
+        "title": "b8e08c2fjw1f47oudnr56j20c00hrmyj.jpg",
+        "url": "http://zhan.renren.com/zhan/671083473?from=ownerfollowing",
+        "source": "http://ww3.sinaimg.cn/mw690/b8e08c2fjw1f47oudnr56j20c00hrmyj.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BNjE2OTA5MDY2MF5BMl5BanBnXkFtZTgwNjQwMTk2NzE@._V1_.jpg",
+        "url": "https://www.imdb.com/title/tt4770142/",
+        "source": "https://m.media-amazon.com/images/M/MV5BNjE2OTA5MDY2MF5BMl5BanBnXkFtZTgwNjQwMTk2NzE@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "5746d4738ebaf.jpg",
+        "url": "http://www.mx456.com/vod-show-id-14.html",
+        "source": "http://www.mx456.com/Upload/video/2016-05/5746d4738ebaf.jpg",
+        "content": ""
+      },
+      {
+        "title": "the_wrong_car_tv-595452768-mmed.jpg",
+        "url": "https://www.filmaffinity.com/en/filmimages.php?movie_id=700077",
+        "source": "https://pics.filmaffinity.com/the_wrong_car_tv-595452768-mmed.jpg",
+        "content": ""
+      },
+      {
+        "title": "rokovaja_poezd1.jpg",
+        "url": "http://dostfilms.net/publ/trillery/vykhodja_2017/9-1-0-4331",
+        "source": "http://dostfilms.net/uploads/posts/2016-10/rokovaja_poezd1.jpg",
+        "content": ""
+      },
+      {
+        "title": "poster-the-wrong-car-2016.jpg",
+        "url": "http://moviesub.net/watch/the-one-2001.html",
+        "source": "http://img.moviesub.net/upload/2016/12/poster-the-wrong-car-2016.jpg",
+        "content": ""
+      },
+      {
+        "title": "the_wrong_car_tv_aka_black_car_tv-595452768-msmall.jpg",
+        "url": "https://www.filmaffinity.com/en/search.php?stext=Christina+Diaz&stype=cast",
+        "source": "https://pics.filmaffinity.com/the_wrong_car_tv_aka_black_car_tv-595452768-msmall.jpg",
+        "content": ""
+      },
+      {
+        "title": "23b4e1db4b1adbf0.jpg",
+        "url": "http://www.songshifu.com/mg/76414.html",
+        "source": "http://ik.ucgps.com.cn/video/201605/25/23b4e1db4b1adbf0.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "The Wrong Car TV 595452768",
+        "nL6PJ7R",
+        "b8e08c2fjw1f47oudnr56j20c00hrmyj",
+        "MV5BNjE2OTA5MDY2MF5BMl5BanBnXkFtZTgwNjQwMTk2NzE V1",
+        "5746d4738ebaf",
+        "the wrong car tv 595452768 mmed",
+        "rokovaja poezd1",
+        "the wrong car"
+      ],
+      "imdb_ids": [
+        "tt4770142"
+      ],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "378291": [
+          "folder_search",
+          "tineye_imdb"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 378291,
+    "media_type": "movie",
+    "title": "The Wrong Car",
+    "original_title": "The Wrong Car",
+    "release_date": "2016-01-16",
+    "year": 2016,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 38977,
+        "logo_path": null,
+        "name": "Moody Independent",
+        "origin_country": "US"
+      },
+      {
+        "id": 3431,
+        "logo_path": "/bVTF0p5xlPfQhQIuBLr9BFtrKip.png",
+        "name": "Lifetime",
+        "origin_country": "US"
+      }
+    ],
+    "genres": [
+      {
+        "id": 53,
+        "name": "Thriller"
+      },
+      {
+        "id": 10770,
+        "name": "TV Movie"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      }
+    ],
+    "runtime": 84,
+    "status": "Released",
+    "overview": "A woman who was raped by a NetCar driver takes a job with the company to exact her revenge on her attacker after she becomes frustrated with the slow pace of the criminal Justice system.",
+    "tagline": "Who's driving you home?",
+    "homepage": "",
+    "poster_path": "/bGk7jpanb4udD2z63kscE9VDfaJ.jpg",
+    "backdrop_path": "/2d2FvR3UxELrEHnEY767ny6U1kA.jpg",
+    "popularity": 1.291,
+    "vote_average": 5.7,
+    "vote_count": 39,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt4770142",
+      "wikidata_id": "Q112960778",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Black Car",
+        "country": "US",
+        "type": ""
+      },
+      {
+        "title": "Den forkerte bil",
+        "country": "DK",
+        "type": ""
+      },
+      {
+        "title": "The Wrong Car",
+        "country": "CA",
+        "type": ""
+      },
+      {
+        "title": "La Chauffeuse",
+        "country": "CA",
+        "type": ""
+      },
+      {
+        "title": "Un Taxi inquiétant",
+        "country": "FR",
+        "type": ""
+      },
+      {
+        "title": "Vehicle for Revenge",
+        "country": "US",
+        "type": ""
+      },
+      {
+        "title": "Rosszkor és rossz helyen",
+        "country": "HU",
+        "type": ""
+      },
+      {
+        "title": "Nicht mit mir! - Ein Sexopfer schlägt zurück",
+        "country": "DE",
+        "type": ""
+      },
+      {
+        "title": "In cerca di vendetta",
+        "country": "IT",
+        "type": ""
+      },
+      {
+        "title": "Nocny kierowca",
+        "country": "PL",
+        "type": ""
+      },
+      {
+        "title": "Роковая поездка",
+        "country": "RU",
+        "type": ""
+      },
+      {
+        "title": "El cotxe equivocat",
+        "country": "ES",
+        "type": ""
+      },
+      {
+        "title": "El auto equivocado",
+        "country": "US",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "DE": [
+        {
+          "certification": "16",
+          "release_date": "2017-09-15T00:00:00.000Z",
+          "type": 6
+        }
+      ],
+      "PL": [
+        {
+          "certification": "",
+          "release_date": "2020-12-08T00:00:00.000Z",
+          "type": 6
+        }
+      ],
+      "US": [
+        {
+          "certification": "PG-13",
+          "release_date": "2016-01-16T00:00:00.000Z",
+          "type": 6
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 154955,
+        "name": "Danielle Savre",
+        "character": "Trudy",
+        "order": 0
+      },
+      {
+        "id": 1585116,
+        "name": "Jackson Davis",
+        "character": "Donovan",
+        "order": 1
+      },
+      {
+        "id": 1276317,
+        "name": "Francia Raísa",
+        "character": "Gretchen",
+        "order": 2
+      },
+      {
+        "id": 1295290,
+        "name": "Christina Elmore",
+        "character": "Det. Jackson",
+        "order": 3
+      },
+      {
+        "id": 1750078,
+        "name": "Jesse Gabbard",
+        "character": "Juan",
+        "order": 4
+      },
+      {
+        "id": 2010885,
+        "name": "Kevin G. Cox",
+        "character": "Charles",
+        "order": 5
+      },
+      {
+        "id": 1724915,
+        "name": "Walley Walkker",
+        "character": "Carlos",
+        "order": 6
+      },
+      {
+        "id": 1292533,
+        "name": "Erin Cole",
+        "character": "Elise",
+        "order": 7
+      },
+      {
+        "id": 1435189,
+        "name": "Rhet Kidd",
+        "character": "Roger",
+        "order": 8
+      },
+      {
+        "id": 1355923,
+        "name": "Jeremiah Kissel",
+        "character": "Dr. Bell",
+        "order": 9
+      },
+      {
+        "id": 1360005,
+        "name": "Chris Neville",
+        "character": "Police Officer",
+        "order": 10
+      },
+      {
+        "id": 4384670,
+        "name": "Adrienne Montezinos",
+        "character": "Nurse",
+        "order": 11
+      },
+      {
+        "id": 1945794,
+        "name": "Molly Bettencourt",
+        "character": "Girl #1",
+        "order": 12
+      },
+      {
+        "id": 4384672,
+        "name": "Caitlin Cremins",
+        "character": "Girl #2",
+        "order": 13
+      },
+      {
+        "id": 4384673,
+        "name": "Mateo Diaz",
+        "character": "Manuel",
+        "order": 14
+      },
+      {
+        "id": 4146343,
+        "name": "Misael Reyes",
+        "character": "Clubgoer",
+        "order": 15
+      },
+      {
+        "id": 4384676,
+        "name": "Remington Keyes",
+        "character": "Bouncer / College Student",
+        "order": 16
+      },
+      {
+        "id": 1702790,
+        "name": "Adrian M. Mompoint",
+        "character": "Security Guard",
+        "order": 17
+      },
+      {
+        "id": 4384680,
+        "name": "Anne Turgeon",
+        "character": "Law School Professor",
+        "order": 18
+      }
+    ],
+    "directors": [
+      {
+        "id": 236510,
+        "name": "John Stimpson",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 236510,
+        "name": "John Stimpson",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 570,
+        "name": "rape"
+      },
+      {
+        "id": 11527,
+        "name": "rape victim"
+      },
+      {
+        "id": 231544,
+        "name": "uber"
+      },
+      {
+        "id": 235069,
+        "name": "rape kit"
+      },
+      {
+        "id": 286552,
+        "name": "drugged water"
+      },
+      {
+        "id": 361958,
+        "name": "raped"
+      }
+    ],
+    "worldwide_title": "The Wrong Car",
+    "worldwide_title_selection": {
+      "title": "The Wrong Car",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "The Wrong Car (2016)",
+    "worldwide_title": "The Wrong Car",
+    "title_selection": {
+      "title": "The Wrong Car",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/The Wrong Car (2016)/The Wrong Car (2016).json"
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:03:18.819039+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Thin Ice (2011)",
+    "image_path": "مراجعة/Thin Ice (2011)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Thin%20Ice%20%282011%29/poster.jpg",
+    "original_image_path": "Thin Ice (2011)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "Thin Ice (2011)",
+    "title_hint": "Thin Ice",
+    "year_hint": 2011
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.9,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "source_year": 2011,
+    "tmdb_year": 2012,
+    "year_delta": 1,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye returned no reverse-image matches; title-only candidate requires review",
+    "candidate_id": 51996,
+    "candidate_title": "Thin Ice"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [],
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "51996": [
+          "folder_search"
+        ],
+        "22555": [
+          "folder_search"
+        ],
+        "136739": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Thin Ice (2011)/Thin Ice (2011).json"
+}

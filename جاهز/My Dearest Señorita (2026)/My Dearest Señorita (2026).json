@@ -1,0 +1,2198 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:01:39.676160+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "My Dearest Señorita (2026)",
+    "image_path": "جاهز/My Dearest Señorita (2026)/My Dearest Señorita 2026.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/My%20Dearest%20Se%C3%B1orita%20%282026%29/My%20Dearest%20Se%C3%B1orita%202026.jpg",
+    "original_image_path": "My Dearest Señorita (2026)/My Dearest Señorita 2026.jpg"
+  },
+  "original": {
+    "folder_name": "My Dearest Señorita (2026)",
+    "title_hint": "My Dearest Señorita",
+    "year_hint": 2026
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.2323,
+    "best_tineye_hint": "elisabeth martinez in my dearest seorita title mi querida seorita directed by fernando gonzalez molina credit suma content album 3E2AECP",
+    "source_year": 2026,
+    "tmdb_year": 2026,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "High-confidence folder title or TinEye image-title match"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "elisabeth-martinez-in-my-dearest-seorita-2026-original-title-mi-querida-seorita-directed-by-fernando-gonzalez-molina-credit-suma-content-album-3E2AECP.jpg",
+        "url": "https://www.alamy.com/elisabeth-martinez-in-my-dearest-seorita-2026-original-title-mi-querida-seorita-directed-by-fernando-gonzalez-molina-credit-suma-content-album-image724295622.html",
+        "source": "https://c8.alamy.com/comp/3E2AECP/elisabeth-martinez-in-my-dearest-seorita-2026-original-title-mi-querida-seorita-directed-by-fernando-gonzalez-molina-credit-suma-content-album-3E2AECP.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BZmQ4YzQ0NDMtZGQ5Zi00NGI0LTk2YjAtZGNhYjdkZDBkNTVlXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://www.imdb.com/name/nm4718779/",
+        "source": "https://m.media-amazon.com/images/M/MV5BZmQ4YzQ0NDMtZGQ5Zi00NGI0LTk2YjAtZGNhYjdkZDBkNTVlXkEyXkFqcGc@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "fac509bd4f78178f98aed012dc6ed873.webp",
+        "url": "https://www.jsfpkj.com/vodtype/dianying/aiqing/",
+        "source": "https://img.picbf.com/upload/vod/20260501-1/fac509bd4f78178f98aed012dc6ed873.webp",
+        "content": ""
+      },
+      {
+        "title": "1385e020aa4173b018e9f14dd94364fb.jpg",
+        "url": "https://nauriz.com/vod/1/area/%E8%A5%BF%E7%8F%AD%E7%89%99.html",
+        "source": "https://pic.youkupic.com/upload/vod/20260501-1/1385e020aa4173b018e9f14dd94364fb.jpg",
+        "content": ""
+      },
+      {
+        "title": "69e1e9f349515__310x443.jpg",
+        "url": "https://cartelera.laverdad.es/peliculas/mi-querida-senorita-20260417001736",
+        "source": "https://cartelera.laverdad.es/img/carteles/2026/04/69e1e9f349515__310x443.jpg",
+        "content": ""
+      },
+      {
+        "title": "my-dearest-senorita.jpg",
+        "url": "https://www.justwatch.com/ca/movie/the-sound-of-music-1965",
+        "source": "https://images.justwatch.com/poster/342651643/s332/my-dearest-senorita.jpg",
+        "content": ""
+      },
+      {
+        "title": "Mi_querida_senorita.jpg",
+        "url": "https://mrgabogados.com/",
+        "source": "https://mrgabogados.com/themes/media-lawyers/assets/img/carteles/Mi_querida_senorita.jpg",
+        "content": ""
+      },
+      {
+        "title": "202605011777627745.jpg",
+        "url": "http://gnarks.com/search/-HINA------------.html",
+        "source": "https://pic3.yzzyimg.online/upload/vod/2026-05-01/202605011777627745.jpg",
+        "content": ""
+      },
+      {
+        "title": "my-dearest-senorita.webp",
+        "url": "https://www.justwatch.com/ca/movie/the-sound-of-music-1965",
+        "source": "https://images.justwatch.com/poster/342651643/s332/my-dearest-senorita.webp,%20https:/images.justwatch.com/poster/342651643/s332/my-dearest-senorita.webp",
+        "content": ""
+      },
+      {
+        "title": "my-dearest-senorita.avif",
+        "url": "https://www.justwatch.com/ca/movie/the-sound-of-music-1965",
+        "source": "https://images.justwatch.com/poster/342651643/s332/my-dearest-senorita.avif,%20https:/images.justwatch.com/poster/342651643/s332/my-dearest-senorita.avif",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "elisabeth martinez in my dearest seorita title mi querida seorita directed by fernando gonzalez molina credit suma content album 3E2AECP",
+        "MV5BZmQ4YzQ0NDMtZGQ5Zi00NGI0LTk2YjAtZGNhYjdkZDBkNTVlXkEyXkFqcGc V1",
+        "69e1e9f349515 310x443",
+        "my dearest senorita",
+        "Mi querida senorita"
+      ],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "1239198": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 1239198,
+    "media_type": "movie",
+    "title": "My Dearest Señorita",
+    "original_title": "Mi querida señorita",
+    "release_date": "2026-04-17",
+    "year": 2026,
+    "original_language": "es",
+    "origin_country": [
+      "ES"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "ES",
+        "name": "Spain"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 204802,
+        "logo_path": "/2OexMEM9tU63n8DrwkO8u1JC7ne.png",
+        "name": "Suma Content",
+        "origin_country": "ES"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 116,
+    "status": "Released",
+    "overview": "A young woman from a traditional family learns she's intersex, sparking a journey of self-discovery, gender identity and love found in unexpected places.",
+    "tagline": "",
+    "homepage": "https://www.netflix.com/title/81714543",
+    "poster_path": "/cTcJs2bEsJDhQEpeYSOZD3yayZI.jpg",
+    "backdrop_path": "/u0FLlb0vKQLvKmiGE6nyhHODFWH.jpg",
+    "popularity": 3.4648,
+    "vote_average": 6.556,
+    "vote_count": 45,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt31116965",
+      "wikidata_id": "Q132192624",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "我亲爱的小姐",
+        "country": "CN",
+        "type": ""
+      },
+      {
+        "title": "Minha Querida Menina",
+        "country": "PT",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "AD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AF": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AL": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AQ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AR": [
+        {
+          "certification": "+16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AS": [
+        {
+          "certification": "",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AT": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AU": [
+        {
+          "certification": "MA 15+",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BB": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BE": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BF": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BG": [
+        {
+          "certification": "D",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BJ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BR": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CA": [
+        {
+          "certification": "R",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CF": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CH": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CK": [
+        {
+          "certification": "",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CL": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CU": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CV": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CX": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DE": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DJ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "EC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "EE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "EG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "EH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ER": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ES": [
+        {
+          "certification": "",
+          "release_date": "2026-03-08T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2026-04-17T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ET": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FI": [
+        {
+          "certification": "K-16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FJ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FR": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GB": [
+        {
+          "certification": "15",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GF": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GL": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GP": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GQ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GU": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HU": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ID": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IE": [
+        {
+          "certification": "15",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IL": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IN": [
+        {
+          "certification": "A",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IQ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "JM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "JO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "JP": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KR": [
+        {
+          "certification": "19",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LB": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LT": [
+        {
+          "certification": "N-16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LU": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LV": [
+        {
+          "certification": "16+",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "LY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ME": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ML": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MP": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MQ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MU": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MV": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MX": [
+        {
+          "certification": "C",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MY": [
+        {
+          "certification": "18SG",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NF": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NL": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NP": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NU": [
+        {
+          "certification": "",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NZ": [
+        {
+          "certification": "R16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "OM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PF": [
+        {
+          "certification": "",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PH": [
+        {
+          "certification": "R-16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PL": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PN": [
+        {
+          "certification": "",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PR": [
+        {
+          "certification": "R",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PT": [
+        {
+          "certification": "M/16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "QA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "RE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "RO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "RS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "RW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SB": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SG": [
+        {
+          "certification": "R21",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SI": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SL": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SR": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ST": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SV": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TD": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TH": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TJ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TK": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TL": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TO": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TR": [
+        {
+          "certification": "18+",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "UA": [
+        {
+          "certification": "16+",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "UG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "UM": [
+        {
+          "certification": "",
+          "release_date": "2026-04-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "US": [
+        {
+          "certification": "R",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "UY": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "UZ": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VA": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VC": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VG": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VI": [
+        {
+          "certification": "R",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VN": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VU": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "WF": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "WS": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "YE": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "YT": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ZA": [
+        {
+          "certification": "16",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ZM": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ZW": [
+        {
+          "certification": "",
+          "release_date": "2026-05-01T00:00:00.000Z",
+          "type": 4
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 4810867,
+        "name": "Elisabeth Martínez",
+        "character": "Adela/A.D.",
+        "order": 0
+      },
+      {
+        "id": 1031914,
+        "name": "Anna Castillo",
+        "character": "Isabel",
+        "order": 1
+      },
+      {
+        "id": 1303016,
+        "name": "Nagore Aranburu",
+        "character": "Cruz",
+        "order": 2
+      },
+      {
+        "id": 1658652,
+        "name": "Eneko Sagardoy",
+        "character": "Santiago",
+        "order": 3
+      },
+      {
+        "id": 3128586,
+        "name": "Manu Ríos",
+        "character": "Gato",
+        "order": 4
+      },
+      {
+        "id": 1655012,
+        "name": "Lola Rodríguez",
+        "character": "Ángela",
+        "order": 5
+      },
+      {
+        "id": 5229369,
+        "name": "Delphina Bianco",
+        "character": "Patricia",
+        "order": 6
+      },
+      {
+        "id": 224870,
+        "name": "Paco León",
+        "character": "Padre José María",
+        "order": 7
+      },
+      {
+        "id": 132441,
+        "name": "María Galiana",
+        "character": "Adelina",
+        "order": 8
+      },
+      {
+        "id": 1438775,
+        "name": "Rodrigo Cuevas",
+        "character": "Alonso",
+        "order": 9
+      },
+      {
+        "id": 1493627,
+        "name": "Felipe Loza",
+        "character": "César",
+        "order": 10
+      },
+      {
+        "id": 2943724,
+        "name": "Maria Redondo",
+        "character": "Cruz (Joven)",
+        "order": 11
+      },
+      {
+        "id": 3377528,
+        "name": "Jon Ander Urresti",
+        "character": "César (Joven)",
+        "order": 12
+      },
+      {
+        "id": 2887552,
+        "name": "Usue Álvarez",
+        "character": "Begoña",
+        "order": 13
+      },
+      {
+        "id": 5718176,
+        "name": "Idoia Tapia",
+        "character": "Iratxe",
+        "order": 14
+      },
+      {
+        "id": 2828107,
+        "name": "Ainhoa Artetxe",
+        "character": "Ane",
+        "order": 15
+      },
+      {
+        "id": 4954085,
+        "name": "Nerea Sanz",
+        "character": "Lucía",
+        "order": 16
+      },
+      {
+        "id": 1892378,
+        "name": "Iñigo de la Iglesia",
+        "character": "Dr. Calvo",
+        "order": 17
+      },
+      {
+        "id": 3776283,
+        "name": "Nico Montoya",
+        "character": "Isidoro",
+        "order": 18
+      },
+      {
+        "id": 6202895,
+        "name": "Azucena de la Cerda",
+        "character": "Farmacéutica",
+        "order": 19
+      },
+      {
+        "id": 3643980,
+        "name": "Mina Serrano",
+        "character": "Madame Vega",
+        "order": 20
+      },
+      {
+        "id": 2366951,
+        "name": "Esperanza Guardado",
+        "character": "Madame Deneb",
+        "order": 21
+      },
+      {
+        "id": 6144424,
+        "name": "Alina Razumenko",
+        "character": "Madame Altair",
+        "order": 22
+      },
+      {
+        "id": 2291979,
+        "name": "La Prohibida",
+        "character": "La Prohibida",
+        "order": 23
+      },
+      {
+        "id": 4653926,
+        "name": "Alana S. Portero",
+        "character": "Alana",
+        "order": 24
+      },
+      {
+        "id": 6202901,
+        "name": "Yogurinha Borova",
+        "character": "Yogurinha",
+        "order": 25
+      },
+      {
+        "id": 5544082,
+        "name": "Miguel Agnes",
+        "character": "Miguel",
+        "order": 26
+      },
+      {
+        "id": 6202904,
+        "name": "Glenda Galore",
+        "character": "Glenda",
+        "order": 27
+      },
+      {
+        "id": 2634666,
+        "name": "Geena Román",
+        "character": "Roberta DJ",
+        "order": 28
+      },
+      {
+        "id": 4627757,
+        "name": "Yenesi",
+        "character": "Camarera",
+        "order": 29
+      },
+      {
+        "id": 5201300,
+        "name": "Jaime García Machín",
+        "character": "Amadeo Valcarcel",
+        "order": 30
+      },
+      {
+        "id": 4018312,
+        "name": "Pablo Gar",
+        "character": "Vecino",
+        "order": 31
+      },
+      {
+        "id": 5094769,
+        "name": "Ian Cortegoso",
+        "character": "Javier",
+        "order": 32
+      },
+      {
+        "id": 2798544,
+        "name": "Nuria Valiente",
+        "character": "Médica Accidente",
+        "order": 33
+      },
+      {
+        "id": 3311823,
+        "name": "Isabel Miguel Hernanz",
+        "character": "Celadora",
+        "order": 34
+      },
+      {
+        "id": 6202907,
+        "name": "Mikel Aldave García",
+        "character": "Carnicero",
+        "order": 35
+      },
+      {
+        "id": 3258532,
+        "name": "Heren de Lucas",
+        "character": "Mamen",
+        "order": 36
+      },
+      {
+        "id": 1493648,
+        "name": "Esther Velasco",
+        "character": "Karmele",
+        "order": 37
+      },
+      {
+        "id": 4045254,
+        "name": "Koldo Martínez",
+        "character": "Miguel",
+        "order": 38
+      },
+      {
+        "id": 6202912,
+        "name": "Jorge Santos Pérez",
+        "character": "Bear",
+        "order": 39
+      },
+      {
+        "id": 6202915,
+        "name": "Ernesto Sánchez Hernández",
+        "character": "Bear",
+        "order": 40
+      },
+      {
+        "id": 4914548,
+        "name": "Juan José Maestu",
+        "character": "Travesti",
+        "order": 41
+      },
+      {
+        "id": 6202924,
+        "name": "Sebastián Romero",
+        "character": "Dr. Álvarez",
+        "order": 42
+      },
+      {
+        "id": 6202928,
+        "name": "Emilio Gálvez",
+        "character": "Vendedor de Cupones",
+        "order": 43
+      },
+      {
+        "id": 3203382,
+        "name": "Lourdes Zamalloa",
+        "character": "Clienta Farmacia",
+        "order": 44
+      },
+      {
+        "id": 6202933,
+        "name": "Vicente Aguado Cabellos",
+        "character": "Cliente Bar 1",
+        "order": 45
+      },
+      {
+        "id": 6202936,
+        "name": "Rodrigo Arahuetes",
+        "character": "Cliente Bar 2",
+        "order": 46
+      },
+      {
+        "id": 6202938,
+        "name": "Susana Zabara",
+        "character": "Recepcionista",
+        "order": 47
+      },
+      {
+        "id": 4612182,
+        "name": "María José Rodríguez",
+        "character": "Fisioterapeuta",
+        "order": 48
+      },
+      {
+        "id": 3888732,
+        "name": "David Sancho",
+        "character": "Cliente Pandora",
+        "order": 49
+      },
+      {
+        "id": 25257,
+        "name": "Julieta Serrano",
+        "character": "Isabelita (uncredited)",
+        "order": 50
+      }
+    ],
+    "directors": [
+      {
+        "id": 82724,
+        "name": "Fernando González Molina",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 4653926,
+        "name": "Alana S. Portero",
+        "job": "Screenplay",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 514,
+        "name": "spain"
+      },
+      {
+        "id": 744,
+        "name": "madrid, spain"
+      },
+      {
+        "id": 2796,
+        "name": "self-discovery"
+      },
+      {
+        "id": 9331,
+        "name": "intersexuality"
+      },
+      {
+        "id": 9714,
+        "name": "remake"
+      },
+      {
+        "id": 205041,
+        "name": "pamplona"
+      },
+      {
+        "id": 210039,
+        "name": "gender identity"
+      },
+      {
+        "id": 240109,
+        "name": "intersex"
+      }
+    ],
+    "worldwide_title": "My Dearest Señorita",
+    "worldwide_title_selection": {
+      "title": "My Dearest Señorita",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "My Dearest Señorita (2026)",
+    "worldwide_title": "My Dearest Señorita",
+    "title_selection": {
+      "title": "My Dearest Señorita",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/My Dearest Señorita (2026)/My Dearest Señorita (2026).json"
+}

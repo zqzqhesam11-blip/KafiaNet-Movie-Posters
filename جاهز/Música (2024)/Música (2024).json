@@ -1,0 +1,603 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:01:43.626630+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Música (2024)",
+    "image_path": "جاهز/Música (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/M%C3%BAsica%20%282024%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Música (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Música (2024)",
+    "title_hint": "Música",
+    "year_hint": 2024
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.4615,
+    "best_tineye_hint": "musica camila mendes",
+    "source_year": 2024,
+    "tmdb_year": 2024,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search",
+      "tineye_imdb"
+    ],
+    "reason": "TinEye backlink resolved to a single trusted IMDb/TMDB movie ID"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "musica-poster-rudy-mancuso-camila-mendes-2X5N5J8.jpg",
+        "url": "https://www.alamy.com/musica-poster-rudy-mancuso-camila-mendes-image605901584.html",
+        "source": "https://c8.alamy.com/comp/2X5N5J8/musica-poster-rudy-mancuso-camila-mendes-2X5N5J8.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BYTVhZjM3YWMtMjc1MC00MjY5LWJhYzItNWI4MjZhOTU3MTQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "url": "https://www.imdb.com/title/tt19853698/",
+        "source": "https://m.media-amazon.com/images/M/MV5BYTVhZjM3YWMtMjc1MC00MjY5LWJhYzItNWI4MjZhOTU3MTQyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+        "content": ""
+      },
+      {
+        "title": "musica-camila-mendes.jpg",
+        "url": "https://www.brit.co/best-new-movies-2024/",
+        "source": "https://www.brit.co/media-library/musica-camila-mendes.jpg?id=51874806&width=980",
+        "content": ""
+      },
+      {
+        "title": "camila-mendes-musica.jpg",
+        "url": "https://www.brit.co/camila-mendes-musica-interview/",
+        "source": "https://www.brit.co/media-library/camila-mendes-musica.jpg?id=51889881&width=980",
+        "content": ""
+      },
+      {
+        "title": "musica-camila-mendes.jpg",
+        "url": "https://www.brit.co/april-movies-2024/",
+        "source": "https://www.brit.co/media-library/musica-camila-mendes.jpg?id=51787393&width=980",
+        "content": ""
+      },
+      {
+        "title": "MV5BYTVhZjM3YWMtMjc1MC00MjY5LWJhYzItNWI4MjZhOTU3MTQyXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://www.imdb.com/name/nm5590588/",
+        "source": "https://m.media-amazon.com/images/M/MV5BYTVhZjM3YWMtMjc1MC00MjY5LWJhYzItNWI4MjZhOTU3MTQyXkEyXkFqcGc@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNGNhNjdjLWE2YTYtNGIwNy04OTEzLWJiZWNlNTVlM2QzMy5qcGc=",
+        "url": "https://www.rottentomatoes.com/m/musica",
+        "source": "https://resizing.flixster.com/v_9M4jbVP8YQ2O5EDz6HIitp_qE=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNGNhNjdjLWE2YTYtNGIwNy04OTEzLWJiZWNlNTVlM2QzMy5qcGc=",
+        "content": ""
+      },
+      {
+        "title": "sub-buzz-447-1709764807-1.jpg",
+        "url": "https://www.buzzfeed.com/josephlongo/new-movies-to-watch-march-april-may",
+        "source": "https://img.buzzfeed.com/buzzfeed-static/static/2024-03/6/22/asset/2ecde1a0289c/sub-buzz-447-1709764807-1.jpg",
+        "content": ""
+      },
+      {
+        "title": "sub-buzz-447-1709764807-1.jpg",
+        "url": "https://www.buzzfeed.com/josephlongo/new-movies-to-watch-march-april-may",
+        "source": "https://img.buzzfeed.com/buzzfeed-static/static/2024-03/6/22/asset/2ecde1a0289c/sub-buzz-447-1709764807-1.jpg?resize=625:926",
+        "content": ""
+      },
+      {
+        "title": "msica-2024-directed-by-rudy-mancuso-and-starring-rudy-mancuso-camila-mendes-and-francesca-reale-a-young-man-plagued-by-the-music-in-his-head-has-to-come-to-terms-with-an-uncertain-future-while-balanci …",
+        "url": "https://www.alamy.com/msica-2024-directed-by-rudy-mancuso-and-starring-rudy-mancuso-camila-mendes-and-francesca-reale-a-young-man-plagued-by-the-music-in-his-head-has-to-come-to-terms-with-an-uncertain-future-while-balancing-love-family-and-brazilian-culture-in-newark-new-jersey-us-poster-editorial-use-only-credit-bfa-amazon-prime-video-image598517935.html",
+        "source": "https://c8.alamy.com/comp/2WNMRMF/msica-2024-directed-by-rudy-mancuso-and-starring-rudy-mancuso-camila-mendes-and-francesca-reale-a-young-man-plagued-by-the-music-in-his-head-has-to-come-to-terms-with-an-uncertain-future-while-balancing-love-family-and-brazilian-culture-in-newark-new-jersey-us-poster-editorial-use-only-credit-bfa-amazon-prime-video-2WNMRMF.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "musica rudy mancuso camila mendes 2X5N5J8",
+        "MV5BYTVhZjM3YWMtMjc1MC00MjY5LWJhYzItNWI4MjZhOTU3MTQyXkEyXkFqcGc V1 FMjpg UX1000",
+        "musica camila mendes",
+        "camila mendes musica",
+        "MV5BYTVhZjM3YWMtMjc1MC00MjY5LWJhYzItNWI4MjZhOTU3MTQyXkEyXkFqcGc V1",
+        "ems cHJkLWVtcy1hc3NldHMvbW92aWVzL2ZjNGNhNjdjLWE2YTYtNGIwNy04OTEzLWJiZWNlNTVlM2QzMy5qcGc",
+        "sub buzz 447 1709764807",
+        "msica directed by rudy mancuso and starring rudy mancuso camila mendes and francesca reale a young man plagued by the music in his head has to come to terms with an uncertain future while balanci"
+      ],
+      "imdb_ids": [
+        "tt19853698"
+      ],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "968441": [
+          "folder_search",
+          "tineye_imdb"
+        ],
+        "1171826": [
+          "folder_search"
+        ],
+        "1205041": [
+          "folder_search"
+        ],
+        "285413": [
+          "folder_search"
+        ],
+        "1174034": [
+          "folder_search"
+        ],
+        "1299720": [
+          "folder_search"
+        ],
+        "1297544": [
+          "folder_search"
+        ],
+        "988419": [
+          "folder_search"
+        ],
+        "1256069": [
+          "folder_search"
+        ],
+        "1337019": [
+          "folder_search"
+        ],
+        "1393155": [
+          "folder_search"
+        ],
+        "1415547": [
+          "folder_search"
+        ],
+        "1374927": [
+          "folder_search"
+        ],
+        "1161394": [
+          "folder_search"
+        ],
+        "1592404": [
+          "folder_search"
+        ],
+        "666942": [
+          "folder_search"
+        ],
+        "244786": [
+          "folder_search"
+        ],
+        "1562069": [
+          "folder_search"
+        ],
+        "962537": [
+          "folder_search"
+        ],
+        "1180629": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 968441,
+    "media_type": "movie",
+    "title": "Música",
+    "original_title": "Música",
+    "release_date": "2024-03-13",
+    "year": 2024,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 4022,
+        "logo_path": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+        "name": "Wonderland Sound and Vision",
+        "origin_country": "US"
+      },
+      {
+        "id": 110801,
+        "logo_path": "/aPWJhPps8l904WdyUZAaOgHgGOC.png",
+        "name": "Shots Studios",
+        "origin_country": "US"
+      },
+      {
+        "id": 210099,
+        "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+        "name": "Amazon MGM Studios",
+        "origin_country": "US"
+      }
+    ],
+    "genres": [
+      {
+        "id": 10749,
+        "name": "Romance"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10402,
+        "name": "Music"
+      }
+    ],
+    "runtime": 91,
+    "status": "Released",
+    "overview": "A young man, plagued by the music in his head, has to come to terms with an uncertain future while balancing love, family and Brazilian culture in Newark, New Jersey.",
+    "tagline": "Face the music.",
+    "homepage": "https://www.amazon.com/dp/B0CL367CPJ",
+    "poster_path": "/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+    "backdrop_path": "/9l3oDzswSC5rlCWAfGWerIvPxMD.jpg",
+    "popularity": 1.8702,
+    "vote_average": 6.479,
+    "vote_count": 146,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt19853698",
+      "wikidata_id": "Q124052917",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Musica",
+        "country": "US",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "BR": [
+        {
+          "certification": "16",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "CA": [
+        {
+          "certification": "18A",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DE": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ES": [
+        {
+          "certification": "16",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FR": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "GB": [
+        {
+          "certification": "12",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "ID": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IL": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IT": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KR": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MX": [
+        {
+          "certification": "C",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NL": [
+        {
+          "certification": "12",
+          "release_date": "2024-04-05T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PL": [
+        {
+          "certification": "",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PR": [
+        {
+          "certification": "PG-13",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SG": [
+        {
+          "certification": "NC16",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "US": [
+        {
+          "certification": "",
+          "release_date": "2024-03-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "PG-13",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "VI": [
+        {
+          "certification": "PG-13",
+          "release_date": "2024-04-04T00:00:00.000Z",
+          "type": 4
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 1727045,
+        "name": "Rudy Mancuso",
+        "character": "Rudy",
+        "order": 0
+      },
+      {
+        "id": 1721740,
+        "name": "Camila Mendes",
+        "character": "Isabella",
+        "order": 1
+      },
+      {
+        "id": 1688664,
+        "name": "Francesca Reale",
+        "character": "Haley",
+        "order": 2
+      },
+      {
+        "id": 3654421,
+        "name": "Maria Mancuso",
+        "character": "Maria",
+        "order": 3
+      },
+      {
+        "id": 65920,
+        "name": "JB Smoove",
+        "character": "Anwar",
+        "order": 4
+      },
+      {
+        "id": 1653354,
+        "name": "Andy Grotelueschen",
+        "character": "Professor",
+        "order": 5
+      },
+      {
+        "id": 3975106,
+        "name": "Camila Senna",
+        "character": "Luana",
+        "order": 6
+      },
+      {
+        "id": 1786429,
+        "name": "Regina Schneider",
+        "character": "Claire Dombeck",
+        "order": 7
+      },
+      {
+        "id": 1015892,
+        "name": "Gregory Jones",
+        "character": "Bruce Dombeck",
+        "order": 8
+      },
+      {
+        "id": 4643442,
+        "name": "Finn Brown",
+        "character": "Wyatt Dombeck",
+        "order": 9
+      },
+      {
+        "id": 1945267,
+        "name": "Milly Guzman",
+        "character": "Carla",
+        "order": 10
+      },
+      {
+        "id": 4643445,
+        "name": "The Silvin G",
+        "character": "Fish Market Employee",
+        "order": 11
+      },
+      {
+        "id": 1968170,
+        "name": "Bia Borin",
+        "character": "Maria's Friend 1",
+        "order": 12
+      },
+      {
+        "id": 2579828,
+        "name": "Beatriz Cavalieri",
+        "character": "Maria's Friend 2",
+        "order": 13
+      },
+      {
+        "id": 3862861,
+        "name": "Josanna Vaz",
+        "character": "Maria's Friend 3",
+        "order": 14
+      },
+      {
+        "id": 1113116,
+        "name": "Andy Muschietti",
+        "character": "Subway Busker",
+        "order": 15
+      },
+      {
+        "id": 3414027,
+        "name": "Gabriela Amerth",
+        "character": "Jill",
+        "order": 16
+      },
+      {
+        "id": 931850,
+        "name": "Bianca Comparato",
+        "character": "Cocktail Waitress",
+        "order": 17
+      },
+      {
+        "id": 2038117,
+        "name": "Etienne Stadwijk",
+        "character": "Marcio",
+        "order": 18
+      },
+      {
+        "id": 4136104,
+        "name": "Miles Coreas",
+        "character": "Young Rudy",
+        "order": 19
+      },
+      {
+        "id": 4229076,
+        "name": "Antony Kalathara",
+        "character": "Salon Customer",
+        "order": 20
+      },
+      {
+        "id": 4456909,
+        "name": "Anthony Ferrara",
+        "character": "Ferry Street Customer",
+        "order": 21
+      },
+      {
+        "id": 2444500,
+        "name": "Amie Enriquez",
+        "character": "Puppeteer",
+        "order": 22
+      },
+      {
+        "id": 4405592,
+        "name": "William Barletta",
+        "character": "Montclair Matt",
+        "order": 23
+      }
+    ],
+    "directors": [
+      {
+        "id": 1727045,
+        "name": "Rudy Mancuso",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1493837,
+        "name": "Dan Lagana",
+        "job": "Writer",
+        "department": "Writing"
+      },
+      {
+        "id": 1727045,
+        "name": "Rudy Mancuso",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 233291,
+        "name": "synesthesia"
+      },
+      {
+        "id": 285182,
+        "name": "newark, new jersey"
+      },
+      {
+        "id": 324429,
+        "name": "romantic"
+      },
+      {
+        "id": 324713,
+        "name": "whimsical"
+      },
+      {
+        "id": 325765,
+        "name": "amused"
+      },
+      {
+        "id": 325784,
+        "name": "comforting"
+      },
+      {
+        "id": 340582,
+        "name": "brazilian american"
+      }
+    ],
+    "worldwide_title": "Música",
+    "worldwide_title_selection": {
+      "title": "Música",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "Música (2024)",
+    "worldwide_title": "Música",
+    "title_selection": {
+      "title": "Música",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Música (2024)/Música (2024).json"
+}

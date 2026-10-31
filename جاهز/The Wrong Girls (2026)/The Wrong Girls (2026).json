@@ -1,0 +1,477 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T20:02:01.152029+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "The Wrong Girls (2026)",
+    "image_path": "جاهز/The Wrong Girls (2026)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/The%20Wrong%20Girls%20%282026%29/poster.jpg",
+    "original_image_path": "The Wrong Girls (2026)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "The Wrong Girls (2026)",
+    "title_hint": "The Wrong Girls",
+    "year_hint": 2026
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "tineye_title_similarity": 0.5455,
+    "best_tineye_hint": "1784132064 the wrong girls key art 27x40",
+    "source_year": 2026,
+    "tmdb_year": 2026,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "High-confidence folder title or TinEye image-title match"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "the-wrong-girls-us-poster-from-left-kristen-stewart-alia-shawkat-alia-shawkat-kristen-stewart-2026-neon-courtesy-everett-collection-3F35C74.jpg",
+        "url": "https://www.alamy.com/the-wrong-girls-us-poster-from-left-kristen-stewart-alia-shawkat-alia-shawkat-kristen-stewart-2026-neon-courtesy-everett-collection-image742009160.html",
+        "source": "https://c8.alamy.com/comp/3F35C74/the-wrong-girls-us-poster-from-left-kristen-stewart-alia-shawkat-alia-shawkat-kristen-stewart-2026-neon-courtesy-everett-collection-3F35C74.jpg",
+        "content": ""
+      },
+      {
+        "title": "1784132064-the-wrong-girls-key-art-poster-27x40-small.jpg",
+        "url": "https://www.neonrated.com/shop/collection/anora-collection",
+        "source": "https://www.datocms-assets.com/148598/1784132064-the-wrong-girls-key-art-poster-27x40-small.jpg",
+        "content": ""
+      },
+      {
+        "title": "iEJshwO6g4WKTP4HJgCHRTJMWEd-scaled.jpg",
+        "url": "https://popsarttheater.com/movies/the-wrong-girls/",
+        "source": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/414/2026/07/20200403/iEJshwO6g4WKTP4HJgCHRTJMWEd-scaled.jpg",
+        "content": ""
+      },
+      {
+        "title": "iEJshwO6g4WKTP4HJgCHRTJMWEd-683x1024.jpg",
+        "url": "https://popsarttheater.com/movies/the-wrong-girls/",
+        "source": "https://s3.amazonaws.com/nightjarprod/content/uploads/sites/414/2026/07/20200403/iEJshwO6g4WKTP4HJgCHRTJMWEd-683x1024.jpg",
+        "content": ""
+      },
+      {
+        "title": "32fba84e0b7e7e158a3c9819c511836b.jpg",
+        "url": "https://www.alliancebrh.com/vodshow/11---%E5%89%A7%E6%83%85--------.html",
+        "source": "https://feifan.51weizhang.cn/upload/vod/20260901-1/32fba84e0b7e7e158a3c9819c511836b.jpg",
+        "content": ""
+      },
+      {
+        "title": "fcebaf73f7bad1603925e3f858eb05cc.jpg",
+        "url": "https://www.pswa.net/t/552256.html",
+        "source": "https://img.pswa.net/upload/img/20260817-1/fcebaf73f7bad1603925e3f858eb05cc.jpg",
+        "content": ""
+      },
+      {
+        "title": "the-wrong-girls-2026-english-audio-camrip-720p--480p--1080p.webp",
+        "url": "https://katmoviehdonline.com/sci-fi/",
+        "source": "https://katmoviehdonline.com/uploads/posts/covers/the-wrong-girls-2026-english-audio-camrip-720p--480p--1080p.webp",
+        "content": ""
+      },
+      {
+        "title": "alia-shawkat-and-kristen-stewart-in-the-wrong-girls-2026-directed-by-dylan-meyer-credit-curious-gremlin-nevermind-productions-point-grey-pictures-savage-rose-films-album-3F2TC8N.jpg",
+        "url": "https://www.alamy.com/alia-shawkat-and-kristen-stewart-in-the-wrong-girls-2026-directed-by-dylan-meyer-credit-curious-gremlin-nevermind-productions-point-grey-pictures-savage-rose-films-album-image741811637.html",
+        "source": "https://c8.alamy.com/comp/3F2TC8N/alia-shawkat-and-kristen-stewart-in-the-wrong-girls-2026-directed-by-dylan-meyer-credit-curious-gremlin-nevermind-productions-point-grey-pictures-savage-rose-films-album-3F2TC8N.jpg",
+        "content": ""
+      },
+      {
+        "title": "2026_8_4_11_53_26_795.webp",
+        "url": "https://www.masrawy.com/arts/zoom/details/2021/8/14/2072557/-%D9%87%D8%AA%D8%A8%D9%82%D9%89-%D9%83%D9%88%D9%8A%D8%B3-%D9%82%D8%B1%D9%8A%D8%A8-%D9%8A%D8%A7-%D8%AD%D8%A8%D9%8A%D8%A8%D9%8A-%D8%A7%D8%A8%D9%86%D8%A9-%D8%B7%D8%A7%D8%B1%D9%82-%D8%A7%D9%84%D8%AF%D8%B3%D9%88%D9%82%D9%8A-%D8%AA%D9%88%D8%AC%D9%87-%D8%B1%D8%B3%D8%A7%D9%84%D8%A9-%D9%84%D9%88%D8%A7%D9%84%D8%AF%D9%87%D8%A7",
+        "source": "https://media.gemini.media/img/large/2026/8/4/2026_8_4_11_53_26_795.webp",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "the wrong girls us from left kristen stewart alia shawkat alia shawkat kristen stewart neon courtesy everett collection 3F35C74",
+        "1784132064 the wrong girls key art 27x40",
+        "iEJshwO6g4WKTP4HJgCHRTJMWEd scaled",
+        "iEJshwO6g4WKTP4HJgCHRTJMWEd 683x1024",
+        "the wrong girls english audio camrip",
+        "alia shawkat and kristen stewart in the wrong girls directed by dylan meyer credit curious gremlin nevermind productions point grey pictures savage rose album 3F2TC8N",
+        "2026 11 53 26 795"
+      ],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "1226699": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 1226699,
+    "media_type": "movie",
+    "title": "The Wrong Girls",
+    "original_title": "The Wrong Girls",
+    "release_date": "2026-08-14",
+    "year": 2026,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 223375,
+        "logo_path": null,
+        "name": "Nevermind",
+        "origin_country": "US"
+      },
+      {
+        "id": 16615,
+        "logo_path": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png",
+        "name": "Point Grey Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 183820,
+        "logo_path": "/5ZB3wEMBoOjHvWx2Yek5JM1EvUp.png",
+        "name": "Savage Rose Films",
+        "origin_country": "US"
+      },
+      {
+        "id": 90733,
+        "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+        "name": "NEON",
+        "origin_country": "US"
+      },
+      {
+        "id": 234649,
+        "logo_path": null,
+        "name": "100 Zeros",
+        "origin_country": "US"
+      }
+    ],
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 878,
+        "name": "Science Fiction"
+      }
+    ],
+    "runtime": 99,
+    "status": "Released",
+    "overview": "Two codependent best friends living paycheck to paycheck and bong rip to bong rip get caught in a case of mistaken identity that throws their lives into chaos.",
+    "tagline": "Best buds. Worst adults.",
+    "homepage": "https://www.neonrated.com/film/the-wrong-girls",
+    "poster_path": "/iEJshwO6g4WKTP4HJgCHRTJMWEd.jpg",
+    "backdrop_path": "/opubkXrPWbXKXIv8hBsiamTmKoM.jpg",
+    "popularity": 3.4116,
+    "vote_average": 6.2,
+    "vote_count": 34,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt35060353",
+      "wikidata_id": "Q132560837",
+      "facebook_id": null,
+      "instagram_id": "thewronggirlsmovie",
+      "twitter_id": "wronggirlsmovie"
+    },
+    "alternative_titles": [
+      {
+        "title": "שבורות",
+        "country": "IL",
+        "type": ""
+      },
+      {
+        "title": "Valed tüdrukud",
+        "country": "EE",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "BG": [
+        {
+          "certification": "",
+          "release_date": "2026-09-25T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "CA": [
+        {
+          "certification": "",
+          "release_date": "2026-08-14T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "EE": [
+        {
+          "certification": "",
+          "release_date": "2026-09-25T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "IL": [
+        {
+          "certification": "",
+          "release_date": "2026-12-03T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "PL": [
+        {
+          "certification": "",
+          "release_date": "2026-08-21T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "PR": [
+        {
+          "certification": "R",
+          "release_date": "2026-08-27T00:00:00.000Z",
+          "type": 2
+        }
+      ],
+      "US": [
+        {
+          "certification": "R",
+          "release_date": "2026-08-05T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "R",
+          "release_date": "2026-08-14T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "R",
+          "release_date": "2026-09-01T00:00:00.000Z",
+          "type": 4
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 37917,
+        "name": "Kristen Stewart",
+        "character": "Frankie / Frances",
+        "order": 0
+      },
+      {
+        "id": 61178,
+        "name": "Alia Shawkat",
+        "character": "Molly",
+        "order": 1
+      },
+      {
+        "id": 1200864,
+        "name": "LaKeith Stanfield",
+        "character": "Not Metalhead Dave",
+        "order": 2
+      },
+      {
+        "id": 2220282,
+        "name": "Zack Fox",
+        "character": "Josh",
+        "order": 3
+      },
+      {
+        "id": 25147,
+        "name": "Tony Hale",
+        "character": "Martin Flynn",
+        "order": 4
+      },
+      {
+        "id": 2743857,
+        "name": "Chris Estrada",
+        "character": "Jose",
+        "order": 5
+      },
+      {
+        "id": 2800617,
+        "name": "Thomas La Barbera Christensen",
+        "character": "Axel",
+        "order": 6
+      },
+      {
+        "id": 1590291,
+        "name": "Thor Knai",
+        "character": "Dagmar",
+        "order": 7
+      },
+      {
+        "id": 2048719,
+        "name": "Thomas Nicholson",
+        "character": "Fritz",
+        "order": 8
+      },
+      {
+        "id": 19274,
+        "name": "Seth Rogen",
+        "character": "Dio (voice)",
+        "order": 9
+      },
+      {
+        "id": 466505,
+        "name": "Kumail Nanjiani",
+        "character": "GG (voice)",
+        "order": 10
+      },
+      {
+        "id": 1240487,
+        "name": "Kate McKinnon",
+        "character": "Dr. Olsen",
+        "order": 11
+      },
+      {
+        "id": 16935,
+        "name": "Geena Davis",
+        "character": "Dr. Chapman",
+        "order": 12
+      },
+      {
+        "id": 2938269,
+        "name": "Taj Cross",
+        "character": "Kai",
+        "order": 13
+      },
+      {
+        "id": 1090375,
+        "name": "Morgan Krantz",
+        "character": "Mike Z",
+        "order": 14
+      },
+      {
+        "id": 1281758,
+        "name": "Sugar Lyn Beard",
+        "character": "Mr. Kock",
+        "order": 15
+      },
+      {
+        "id": 1260966,
+        "name": "Zed Cutsinger",
+        "character": "Young Martin Flynn",
+        "order": 16
+      },
+      {
+        "id": 5314303,
+        "name": "Marisa Dabice",
+        "character": "Mannequin Pussy",
+        "order": 17
+      },
+      {
+        "id": 5330359,
+        "name": "Kaleen Reading",
+        "character": "Mannequin Pussy",
+        "order": 18
+      },
+      {
+        "id": 5330360,
+        "name": "Colins Regisford",
+        "character": "Mannequin Pussy",
+        "order": 19
+      },
+      {
+        "id": 5330361,
+        "name": "Maxine Steen",
+        "character": "Mannequin Pussy",
+        "order": 20
+      },
+      {
+        "id": 112,
+        "name": "Cate Blanchett",
+        "character": "Deep Sea Expert (voice)",
+        "order": 21
+      }
+    ],
+    "directors": [
+      {
+        "id": 1492313,
+        "name": "Dylan Meyer",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1492313,
+        "name": "Dylan Meyer",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 1475,
+        "name": "telepathy"
+      },
+      {
+        "id": 10325,
+        "name": "mistaken identity"
+      },
+      {
+        "id": 5248,
+        "name": "female friendship"
+      },
+      {
+        "id": 12670,
+        "name": "los angeles, california"
+      },
+      {
+        "id": 54169,
+        "name": "stoner"
+      },
+      {
+        "id": 187056,
+        "name": "woman director"
+      },
+      {
+        "id": 188748,
+        "name": "talking cat"
+      },
+      {
+        "id": 249845,
+        "name": "experimental drug"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      }
+    ],
+    "worldwide_title": "The Wrong Girls",
+    "worldwide_title_selection": {
+      "title": "The Wrong Girls",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    }
+  },
+  "title_policy_version": 1,
+  "correction": {
+    "canonical_folder_name": "The Wrong Girls (2026)",
+    "worldwide_title": "The Wrong Girls",
+    "title_selection": {
+      "title": "The Wrong Girls",
+      "source": "tmdb_primary_title",
+      "market_count": 0,
+      "markets": [],
+      "policy_version": 1
+    },
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/The Wrong Girls (2026)/The Wrong Girls (2026).json"
+}

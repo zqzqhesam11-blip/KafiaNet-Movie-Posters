@@ -1,0 +1,93 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T21:57:40.016686+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Fasandræberne (2014)",
+    "image_path": "مراجعة/Fasandræberne (2014)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Fasandr%C3%A6berne%20%282014%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Fasandræberne (2014)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Fasandræberne (2014)",
+    "title_hint": "Fasandræberne",
+    "year_hint": 2014
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "best_folder_title_variant": "Fasandræberne",
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "title_match_score": 1.0,
+    "title_match_source": "source_folder",
+    "matched_source_title": "Fasandræberne",
+    "matched_tmdb_title": "Fasandræberne",
+    "title_match_required": true,
+    "title_match_passed": true,
+    "source_year": 2014,
+    "tmdb_year": 2014,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye reverse-image request failed; folder-only candidate must be reviewed",
+    "candidate_id": 254201,
+    "candidate_title": "The Absent One"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "error": "RuntimeError",
+        "message": "TinEye engine unresponsive: Suspended: HTTP error"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "error",
+      "errors": [
+        {
+          "error": "RuntimeError",
+          "message": "TinEye engine unresponsive: Suspended: HTTP error"
+        }
+      ]
+    },
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "year_hints": [],
+      "country_hints": [],
+      "director_hints": [],
+      "backlinks": [
+        {
+          "title": "",
+          "url": "",
+          "source": "",
+          "content": "",
+          "imdb_ids": [],
+          "tmdb_ids": []
+        }
+      ],
+      "folder_title_variants": [
+        "Fasandræberne"
+      ],
+      "resolved_sources": {
+        "254201": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": [],
+      "rejected_external_ids": [],
+      "results_source": "live"
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Fasandræberne (2014)/Fasandræberne (2014).json"
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T21:57:38.902446+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Apollo 101⁄2 A Space Age Childhood (2022)",
+    "image_path": "مراجعة/Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Apollo%20101%E2%81%842%20A%20Space%20Age%20Childhood%20%282022%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29%20%281%29.jpg",
+    "original_image_path": "Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg"
+  },
+  "original": {
+    "folder_name": "Apollo 101⁄2 A Space Age Childhood (2022)",
+    "title_hint": "Apollo 101⁄2 A Space Age Childhood",
+    "year_hint": 2022
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "best_folder_title_variant": "Apollo 101⁄2 A Space Age Childhood",
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "title_match_score": 1.0,
+    "title_match_source": "source_folder",
+    "matched_source_title": "Apollo 101⁄2 A Space Age Childhood",
+    "matched_tmdb_title": "Apollo 10½: A Space Age Childhood",
+    "title_match_required": true,
+    "title_match_passed": true,
+    "source_year": 2022,
+    "tmdb_year": 2022,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye reverse-image request failed; folder-only candidate must be reviewed",
+    "candidate_id": 664996,
+    "candidate_title": "Apollo 10½: A Space Age Childhood"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "error": "RuntimeError",
+        "message": "TinEye engine unresponsive: Suspended: HTTP error"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "error",
+      "errors": [
+        {
+          "error": "RuntimeError",
+          "message": "TinEye engine unresponsive: Suspended: HTTP error"
+        }
+      ]
+    },
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "year_hints": [],
+      "country_hints": [],
+      "director_hints": [],
+      "backlinks": [
+        {
+          "title": "",
+          "url": "",
+          "source": "",
+          "content": "",
+          "imdb_ids": [],
+          "tmdb_ids": []
+        }
+      ],
+      "folder_title_variants": [
+        "Apollo 101⁄2 A Space Age Childhood"
+      ],
+      "resolved_sources": {
+        "664996": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": [],
+      "rejected_external_ids": [],
+      "results_source": "live"
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Apollo 101⁄2 A Space Age Childhood (2022)/Apollo 101⁄2 A Space Age Childhood (2022).json"
+}

@@ -1,0 +1,93 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T21:57:40.861671+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "The Wrong Man (1956)",
+    "image_path": "مراجعة/The Wrong Man (1956)/poster.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/The%20Wrong%20Man%20%281956%29/poster.jpg",
+    "original_image_path": "The Wrong Man (1956)/poster.jpg"
+  },
+  "original": {
+    "folder_name": "The Wrong Man (1956)",
+    "title_hint": "The Wrong Man",
+    "year_hint": 1956
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "best_folder_title_variant": "The Wrong Man",
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "title_match_score": 1.0,
+    "title_match_source": "source_folder",
+    "matched_source_title": "The Wrong Man",
+    "matched_tmdb_title": "The Wrong Man",
+    "title_match_required": true,
+    "title_match_passed": true,
+    "source_year": 1956,
+    "tmdb_year": 1956,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye reverse-image request failed; folder-only candidate must be reviewed",
+    "candidate_id": 22527,
+    "candidate_title": "The Wrong Man"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "error": "RuntimeError",
+        "message": "TinEye engine unresponsive: Suspended: HTTP error"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "error",
+      "errors": [
+        {
+          "error": "RuntimeError",
+          "message": "TinEye engine unresponsive: Suspended: HTTP error"
+        }
+      ]
+    },
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "year_hints": [],
+      "country_hints": [],
+      "director_hints": [],
+      "backlinks": [
+        {
+          "title": "",
+          "url": "",
+          "source": "",
+          "content": "",
+          "imdb_ids": [],
+          "tmdb_ids": []
+        }
+      ],
+      "folder_title_variants": [
+        "The Wrong Man"
+      ],
+      "resolved_sources": {
+        "22527": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": [],
+      "rejected_external_ids": [],
+      "results_source": "live"
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/The Wrong Man (1956)/The Wrong Man (1956).json"
+}

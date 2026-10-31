@@ -1,0 +1,93 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T21:57:39.747455+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Dalíland (2022)",
+    "image_path": "مراجعة/Dalíland (2022)/folder.jpeg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Dal%C3%ADland%20%282022%29/folder.jpeg",
+    "original_image_path": "Dalíland (2022)/folder.jpeg"
+  },
+  "original": {
+    "folder_name": "Dalíland (2022)",
+    "title_hint": "Dalíland",
+    "year_hint": 2022
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "best_folder_title_variant": "Dalíland",
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "title_match_score": 1.0,
+    "title_match_source": "source_folder",
+    "matched_source_title": "Dalíland",
+    "matched_tmdb_title": "Dalíland",
+    "title_match_required": true,
+    "title_match_passed": true,
+    "source_year": 2022,
+    "tmdb_year": 2022,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye reverse-image request failed; folder-only candidate must be reviewed",
+    "candidate_id": 522925,
+    "candidate_title": "Dalíland"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "error": "RuntimeError",
+        "message": "TinEye engine unresponsive: Suspended: HTTP error"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "error",
+      "errors": [
+        {
+          "error": "RuntimeError",
+          "message": "TinEye engine unresponsive: Suspended: HTTP error"
+        }
+      ]
+    },
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "year_hints": [],
+      "country_hints": [],
+      "director_hints": [],
+      "backlinks": [
+        {
+          "title": "",
+          "url": "",
+          "source": "",
+          "content": "",
+          "imdb_ids": [],
+          "tmdb_ids": []
+        }
+      ],
+      "folder_title_variants": [
+        "Dalíland"
+      ],
+      "resolved_sources": {
+        "522925": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": [],
+      "rejected_external_ids": [],
+      "results_source": "live"
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Dalíland (2022)/Dalíland (2022).json"
+}

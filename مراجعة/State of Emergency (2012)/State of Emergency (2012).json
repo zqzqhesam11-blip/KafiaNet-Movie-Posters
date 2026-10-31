@@ -1,0 +1,99 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T21:57:40.515099+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "State of Emergency (2012)",
+    "image_path": "مراجعة/State of Emergency (2012)/images.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/State%20of%20Emergency%20%282012%29/images.jpg",
+    "original_image_path": "State of Emergency (2012)/images.jpg"
+  },
+  "original": {
+    "folder_name": "State of Emergency (2012)",
+    "title_hint": "State of Emergency",
+    "year_hint": 2012
+  },
+  "match": {
+    "status": "review",
+    "confidence": 1.0,
+    "title_similarity": 1.0,
+    "folder_title_similarity": 1.0,
+    "best_folder_title_variant": "State of Emergency",
+    "tineye_title_similarity": 0.0,
+    "best_tineye_hint": null,
+    "title_match_score": 1.0,
+    "title_match_source": "source_folder",
+    "matched_source_title": "State of Emergency",
+    "matched_tmdb_title": "State of Emergency",
+    "title_match_required": true,
+    "title_match_passed": true,
+    "source_year": 2012,
+    "tmdb_year": 2012,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search"
+    ],
+    "reason": "TinEye reverse-image request failed; folder-only candidate must be reviewed",
+    "candidate_id": 136476,
+    "candidate_title": "State of Emergency"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "error": "RuntimeError",
+        "message": "TinEye engine unresponsive: Suspended: HTTP error"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "error",
+      "errors": [
+        {
+          "error": "RuntimeError",
+          "message": "TinEye engine unresponsive: Suspended: HTTP error"
+        }
+      ]
+    },
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "year_hints": [],
+      "country_hints": [],
+      "director_hints": [],
+      "backlinks": [
+        {
+          "title": "",
+          "url": "",
+          "source": "",
+          "content": "",
+          "imdb_ids": [],
+          "tmdb_ids": []
+        }
+      ],
+      "folder_title_variants": [
+        "State of Emergency"
+      ],
+      "resolved_sources": {
+        "136476": [
+          "folder_search"
+        ],
+        "520975": [
+          "folder_search"
+        ],
+        "1021379": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": [],
+      "rejected_external_ids": [],
+      "results_source": "live"
+    }
+  },
+  "tmdb": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/State of Emergency (2012)/State of Emergency (2012).json"
+}

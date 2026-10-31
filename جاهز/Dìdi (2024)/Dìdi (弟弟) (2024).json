@@ -1,0 +1,801 @@
+{
+  "schema_version": 2,
+  "processed_utc": "2026-10-31T18:55:42.254009+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Dìdi (2024)",
+    "image_path": "جاهز/Dìdi (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/D%C3%ACdi%20%282024%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Dìdi (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Dìdi (2024)",
+    "title_hint": "Dìdi",
+    "year_hint": 2024
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "title_similarity": 0.7273,
+    "folder_title_similarity": 0.7273,
+    "tineye_title_similarity": 0.7273,
+    "best_tineye_hint": "didi",
+    "source_year": 2024,
+    "tmdb_year": 2024,
+    "year_delta": 0,
+    "evidence_sources": [
+      "folder_search",
+      "tineye_imdb"
+    ],
+    "reason": "TinEye backlink resolved to a single trusted IMDb/TMDB movie ID"
+  },
+  "tineye": {
+    "enabled": true,
+    "results": [
+      {
+        "title": "didi-us-poster-izaac-wang-2024-focus-features-courtesy-everett-collection-2XDW880.jpg",
+        "url": "https://www.alamy.com/didi-us-poster-izaac-wang-2024-focus-features-courtesy-everett-collection-image610908704.html",
+        "source": "https://c8.alamy.com/comp/2XDW880/didi-us-poster-izaac-wang-2024-focus-features-courtesy-everett-collection-2XDW880.jpg",
+        "content": ""
+      },
+      {
+        "title": "didi-di-di",
+        "url": "https://www.justwatch.com/us/movie/janet-planet",
+        "source": "https://www.justwatch.com/images/poster/317723231/s332/didi-di-di",
+        "content": ""
+      },
+      {
+        "title": "didi_film_poster.jpg",
+        "url": "https://www.psychologytoday.com/za/blog/the-pacific-heart?page=2",
+        "source": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2024-08/didi_film_poster.jpg?itok=5XnK8CyS",
+        "content": ""
+      },
+      {
+        "title": "Didi%20film%20poster.jpg",
+        "url": "https://www.psychologytoday.com/us/contributors/ravi-chandra-md-dfapa",
+        "source": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_1_288x288/public/teaser_image/blog_entry/2024-08/Didi%20film%20poster.jpg?itok=8m1gyi_w",
+        "content": ""
+      },
+      {
+        "title": "1718395032152_355360_cops_0.jpg",
+        "url": "https://www.atomtickets.com/movies/didi/355360?irgwc=1&ref=ir&mpid=10915",
+        "source": "https://images.atomtickets.com/image/upload/w_520,h_780,q_auto/v1718395032/ingestion-images-archive-prod/archive/1718395032152_355360_cops_0.jpg",
+        "content": ""
+      },
+      {
+        "title": "didi_1-691x1024.jpg",
+        "url": "https://grandsonla.com/all-work/",
+        "source": "https://grandsonla.com/wp-content/uploads/2024/07/didi_1-691x1024.jpg",
+        "content": ""
+      },
+      {
+        "title": "widget_GS_FOCUS_DID_Teaser_Digital_1080_x_1600_FIN01.jpg",
+        "url": "https://www.rogerebert.com/reviews/kingdom-of-the-planet-of-the-apes-film-review-2024",
+        "source": "https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/d%C3%ACdi--2024/widget_GS_FOCUS_DID_Teaser_Digital_1080_x_1600_FIN01.jpg",
+        "content": ""
+      },
+      {
+        "title": "Didi-%E5%BC%9F%E5%BC%9F.jpg",
+        "url": "https://www.rogerebert.com/festivals/sundance-2024-sue-bird-in-the-clutch-luther-never-too-much-superman-the-christopher-reeve-story",
+        "source": "https://www.rogerebert.com/wp-content/uploads/2024/07/Didi-%E5%BC%9F%E5%BC%9F.jpg",
+        "content": ""
+      },
+      {
+        "title": "MV5BMjUxMWU0ODItMzFlOS00ODVlLTk2NDUtMTA3MmUxMDAxYTNlXkEyXkFqcGc@._V1_.jpg",
+        "url": "https://www.imdb.com/title/tt30319503/",
+        "source": "https://m.media-amazon.com/images/M/MV5BMjUxMWU0ODItMzFlOS00ODVlLTk2NDUtMTA3MmUxMDAxYTNlXkEyXkFqcGc@._V1_.jpg",
+        "content": ""
+      },
+      {
+        "title": "didi_1-600x889.jpg",
+        "url": "https://grandsonla.com/all-work/",
+        "source": "https://grandsonla.com/wp-content/uploads/2024/07/didi_1-600x889.jpg",
+        "content": ""
+      }
+    ],
+    "evidence": {
+      "title_hints": [
+        "didi us izaac wang focus features courtesy everett collection 2XDW880",
+        "didi di di",
+        "didi",
+        "1718395032152 355360 cops",
+        "didi 691x1024",
+        "widget GS FOCUS DID Teaser Digital 1080 1600 FIN01",
+        "Didi 弟弟",
+        "MV5BMjUxMWU0ODItMzFlOS00ODVlLTk2NDUtMTA3MmUxMDAxYTNlXkEyXkFqcGc V1"
+      ],
+      "imdb_ids": [
+        "tt30319503"
+      ],
+      "tmdb_ids": [],
+      "resolved_sources": {
+        "1158915": [
+          "folder_search",
+          "tineye_imdb"
+        ],
+        "1186823": [
+          "folder_search"
+        ],
+        "1670787": [
+          "folder_search"
+        ]
+      },
+      "resolution_errors": []
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 1158915,
+    "media_type": "movie",
+    "title": "Dìdi (弟弟)",
+    "original_title": "Dìdi (弟弟)",
+    "release_date": "2024-07-26",
+    "year": 2024,
+    "original_language": "en",
+    "origin_country": [
+      "US"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 216060,
+        "logo_path": "/h42S9Av3sIaHMGF8egYrAN1elo0.png",
+        "name": "Unapologetic Projects",
+        "origin_country": "US"
+      },
+      {
+        "id": 191842,
+        "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+        "name": "Spark Features",
+        "origin_country": "US"
+      },
+      {
+        "id": 205236,
+        "logo_path": "/yETnxIFACP6UYFgV8BmINw4xbGU.png",
+        "name": "Antigravity Academy",
+        "origin_country": "US"
+      },
+      {
+        "id": 41641,
+        "logo_path": "/rBlfMlCcxulmS25zTQwmXDHZmnB.png",
+        "name": "Maiden Voyage Pictures",
+        "origin_country": "US"
+      },
+      {
+        "id": 218427,
+        "logo_path": null,
+        "name": "Cedar Road",
+        "origin_country": "US"
+      },
+      {
+        "id": 218428,
+        "logo_path": "/kN6S7kKIAFUyV2MyUveUhO3955Y.png",
+        "name": "Liucrative Media",
+        "origin_country": "US"
+      }
+    ],
+    "genres": [
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 94,
+    "status": "Released",
+    "overview": "In 2008, during the last month of summer before high school begins, an impressionable 13-year-old Taiwanese American boy learns what his family can't teach him: how to skate, how to flirt, and how to love your mom.",
+    "tagline": "For anyone who's ever been a teenager.",
+    "homepage": "https://www.focusfeatures.com/didi",
+    "poster_path": "/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg",
+    "backdrop_path": "/jD1oLRnLSKiLhutjiZ6OzgCgBsr.jpg",
+    "popularity": 3.7908,
+    "vote_average": 7.234,
+    "vote_count": 252,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt30319503",
+      "wikidata_id": "Q123855936",
+      "facebook_id": null,
+      "instagram_id": "didithemovie",
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Little Brother",
+        "country": "US",
+        "type": "English translation of Chinese characters"
+      },
+      {
+        "title": "Didi",
+        "country": "US",
+        "type": ""
+      },
+      {
+        "title": "Dìdi",
+        "country": "US",
+        "type": ""
+      },
+      {
+        "title": "디디",
+        "country": "KR",
+        "type": ""
+      },
+      {
+        "title": "אח קטן",
+        "country": "IL",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "AS": [
+        {
+          "certification": "",
+          "release_date": "2024-09-02T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "AU": [
+        {
+          "certification": "MA 15+",
+          "release_date": "2024-08-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "MA 15+",
+          "release_date": "2024-10-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-11-25T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "MA 15+",
+          "release_date": "2024-11-29T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "MA 15+",
+          "release_date": "2024-12-04T00:00:00.000Z",
+          "type": 4
+        },
+        {
+          "certification": "MA 15+",
+          "release_date": "2024-12-11T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "BR": [
+        {
+          "certification": "16",
+          "release_date": "2024-07-26T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "CA": [
+        {
+          "certification": "",
+          "release_date": "2024-08-09T00:00:00.000Z",
+          "type": 2
+        }
+      ],
+      "CN": [
+        {
+          "certification": "",
+          "release_date": "2024-04-19T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "DE": [
+        {
+          "certification": "",
+          "release_date": "2024-06-30T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "12",
+          "release_date": "2024-08-15T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "ES": [
+        {
+          "certification": "16",
+          "release_date": "2025-01-03T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FR": [
+        {
+          "certification": "",
+          "release_date": "2024-06-23T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2025-07-16T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "GB": [
+        {
+          "certification": "",
+          "release_date": "2024-06-09T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "15",
+          "release_date": "2024-08-02T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "15",
+          "release_date": "2024-11-11T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "GR": [
+        {
+          "certification": "",
+          "release_date": "2024-07-26T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "GU": [
+        {
+          "certification": "",
+          "release_date": "2024-09-03T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "HK": [
+        {
+          "certification": "",
+          "release_date": "2024-10-17T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "ID": [
+        {
+          "certification": "",
+          "release_date": "2025-01-29T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "IT": [
+        {
+          "certification": "",
+          "release_date": "2025-06-13T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "KR": [
+        {
+          "certification": "19",
+          "release_date": "2026-04-26T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "MP": [
+        {
+          "certification": "",
+          "release_date": "2024-09-03T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "NL": [
+        {
+          "certification": "",
+          "release_date": "2024-08-14T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-10-11T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "NZ": [
+        {
+          "certification": "",
+          "release_date": "2024-08-01T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "PH": [
+        {
+          "certification": "",
+          "release_date": "2025-01-29T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PR": [
+        {
+          "certification": "R",
+          "release_date": "2024-09-03T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "RO": [
+        {
+          "certification": "15",
+          "release_date": "2026-03-16T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "SG": [
+        {
+          "certification": "NC16",
+          "release_date": "2024-08-01T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "",
+          "release_date": "2025-01-29T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "TW": [
+        {
+          "certification": "",
+          "release_date": "2024-08-21T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "US": [
+        {
+          "certification": "",
+          "release_date": "2024-01-19T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-03-12T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-05-04T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-05-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-04-24T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-06-13T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "",
+          "release_date": "2024-07-16T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "R",
+          "release_date": "2024-07-26T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "R",
+          "release_date": "2024-08-16T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "R",
+          "release_date": "2024-09-03T00:00:00.000Z",
+          "type": 4
+        },
+        {
+          "certification": "R",
+          "release_date": "2024-10-04T00:00:00.000Z",
+          "type": 4
+        },
+        {
+          "certification": "R",
+          "release_date": "2026-04-04T00:00:00.000Z",
+          "type": 4
+        },
+        {
+          "certification": "R",
+          "release_date": "2024-10-29T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "VI": [
+        {
+          "certification": "R",
+          "release_date": "2024-09-03T00:00:00.000Z",
+          "type": 4
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 2362044,
+        "name": "Izaac Wang",
+        "character": "Chris Wang",
+        "order": 0
+      },
+      {
+        "id": 6720,
+        "name": "Joan Chen",
+        "character": "Chungsing Wang",
+        "order": 1
+      },
+      {
+        "id": 1714809,
+        "name": "Shirley Chen",
+        "character": "Vivian Wang",
+        "order": 2
+      },
+      {
+        "id": 3917790,
+        "name": "Chang Li Hua",
+        "character": "Nǎi Nai",
+        "order": 3
+      },
+      {
+        "id": 4492447,
+        "name": "Mahaela Park",
+        "character": "Madi",
+        "order": 4
+      },
+      {
+        "id": 4492448,
+        "name": "Raul Dial",
+        "character": "Fahad",
+        "order": 5
+      },
+      {
+        "id": 4266275,
+        "name": "Aaron Chang",
+        "character": "Soup",
+        "order": 6
+      },
+      {
+        "id": 4492449,
+        "name": "Chiron Cillia Denk",
+        "character": "Donovan",
+        "order": 7
+      },
+      {
+        "id": 4492450,
+        "name": "Sunil Mukherjee Maurillo",
+        "character": "Cory",
+        "order": 8
+      },
+      {
+        "id": 4492451,
+        "name": "Montay Boseman",
+        "character": "Nugget",
+        "order": 9
+      },
+      {
+        "id": 4492452,
+        "name": "Alysha Syed",
+        "character": "Jade",
+        "order": 10
+      },
+      {
+        "id": 4492453,
+        "name": "Alaysia Simmons",
+        "character": "Ellie",
+        "order": 11
+      },
+      {
+        "id": 4492454,
+        "name": "Tarnvir Kamboj",
+        "character": "Hardeep",
+        "order": 12
+      },
+      {
+        "id": 4492458,
+        "name": "Shiu Fang Wang",
+        "character": "Shiu Fang",
+        "order": 13
+      },
+      {
+        "id": 4492461,
+        "name": "Jayden Chiang",
+        "character": "Max",
+        "order": 14
+      },
+      {
+        "id": 2645955,
+        "name": "Joziah Lagonoy",
+        "character": "Josh",
+        "order": 15
+      },
+      {
+        "id": 4492464,
+        "name": "Joshua Hankerson",
+        "character": "Mack",
+        "order": 16
+      },
+      {
+        "id": 4492468,
+        "name": "Georgie August",
+        "character": "Georgia",
+        "order": 17
+      },
+      {
+        "id": 4492470,
+        "name": "Kade Hunter",
+        "character": "Colin",
+        "order": 18
+      },
+      {
+        "id": 4492471,
+        "name": "Jerri Bowen",
+        "character": "Mrs. Miller",
+        "order": 19
+      },
+      {
+        "id": 4492472,
+        "name": "David Leal",
+        "character": "Rent-A-Cop",
+        "order": 20
+      },
+      {
+        "id": 4492474,
+        "name": "Mackenzie Peters",
+        "character": "Visual Arts Club Rep",
+        "order": 21
+      },
+      {
+        "id": 4492476,
+        "name": "Da Marcus Da'Man Shigon Gray",
+        "character": "Tyshawn",
+        "order": 22
+      },
+      {
+        "id": 2090214,
+        "name": "Cameron Foxly",
+        "character": "Kissing Couple",
+        "order": 23
+      },
+      {
+        "id": 4492478,
+        "name": "Emma Foxly",
+        "character": "Kissing Couple",
+        "order": 24
+      },
+      {
+        "id": 5953,
+        "name": "Spike Jonze",
+        "character": "Dead Squirrel (voice)",
+        "order": 25
+      },
+      {
+        "id": 4492484,
+        "name": "Sheng Wang",
+        "character": "Dead Fish (voice)",
+        "order": 26
+      },
+      {
+        "id": 1381186,
+        "name": "Stephanie Hsu",
+        "character": "Kissing Tutorial Instructor (voice)",
+        "order": 27
+      }
+    ],
+    "directors": [
+      {
+        "id": 2602036,
+        "name": "Sean Wang",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 2602036,
+        "name": "Sean Wang",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 387,
+        "name": "california"
+      },
+      {
+        "id": 380,
+        "name": "sibling relationship"
+      },
+      {
+        "id": 390,
+        "name": "skateboarding"
+      },
+      {
+        "id": 3230,
+        "name": "male friendship"
+      },
+      {
+        "id": 10041,
+        "name": "dysfunctional family"
+      },
+      {
+        "id": 10683,
+        "name": "coming of age"
+      },
+      {
+        "id": 9914,
+        "name": "slice of life"
+      },
+      {
+        "id": 13088,
+        "name": "summer"
+      },
+      {
+        "id": 156925,
+        "name": "first crush"
+      },
+      {
+        "id": 165402,
+        "name": "semi autobiographical"
+      },
+      {
+        "id": 213899,
+        "name": "bay area"
+      },
+      {
+        "id": 240237,
+        "name": "mother son relationship"
+      },
+      {
+        "id": 240485,
+        "name": "brother sister relationship"
+      },
+      {
+        "id": 252104,
+        "name": "2000s"
+      },
+      {
+        "id": 280028,
+        "name": "asian american"
+      },
+      {
+        "id": 281237,
+        "name": "independent film"
+      },
+      {
+        "id": 295027,
+        "name": "absent father"
+      },
+      {
+        "id": 296608,
+        "name": "teenager"
+      },
+      {
+        "id": 327872,
+        "name": "fremont"
+      }
+    ]
+  },
+  "correction": {
+    "canonical_folder_name": "Dìdi (弟弟) (2024)",
+    "rename_required": true,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Dìdi (2024)/Dìdi (弟弟) (2024).json"
+}

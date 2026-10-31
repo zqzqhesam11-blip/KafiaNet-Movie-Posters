@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-10-31T18:52:06.903360+00:00",
+  "updated_utc": "2026-10-31T18:55:42.385196+00:00",
   "source_repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
   "items": [
     {
@@ -47,6 +47,33 @@
       "canonical_folder_name": null,
       "status": "review",
       "output_path": "مراجعة/Buladó (2020)/Buladó (2020).json"
+    },
+    {
+      "source_folder": "Daisies (Sedmikrásky)(1966)",
+      "image_path": "جاهز/Daisies (Sedmikrásky)(1966)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Daisies (Sedmikrásky)(1966)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": 46919,
+      "canonical_folder_name": "Daisies (1966)",
+      "status": "ready",
+      "output_path": "جاهز/Daisies (Sedmikrásky)(1966)/Daisies (1966).json"
+    },
+    {
+      "source_folder": "Dalíland (2022)",
+      "image_path": "جاهز/Dalíland (2022)/folder.jpeg",
+      "original_image_path": "Dalíland (2022)/folder.jpeg",
+      "tmdb_id": 522925,
+      "canonical_folder_name": "Dalíland (2022)",
+      "status": "ready",
+      "output_path": "جاهز/Dalíland (2022)/Dalíland (2022).json"
+    },
+    {
+      "source_folder": "Dìdi (2024)",
+      "image_path": "جاهز/Dìdi (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Dìdi (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "tmdb_id": 1158915,
+      "canonical_folder_name": "Dìdi (弟弟) (2024)",
+      "status": "ready",
+      "output_path": "جاهز/Dìdi (2024)/Dìdi (弟弟) (2024).json"
     }
   ]
 }

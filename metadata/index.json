@@ -1,47 +1,52 @@
 {
   "schema_version": 1,
-  "updated_utc": "2026-10-31T18:24:41.882482+00:00",
+  "updated_utc": "2026-10-31T18:52:06.903360+00:00",
   "source_repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
   "items": [
     {
       "source_folder": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
-      "image_path": "A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg",
+      "image_path": "جاهز/A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg",
+      "original_image_path": "A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg",
       "tmdb_id": 10754,
       "canonical_folder_name": "A Short Film About Killing (1988)",
       "status": "ready",
-      "output_path": "جاهز/A Short Film About Killing (Krótki film o zabijaniu) (1988)/movie.json"
+      "output_path": "جاهز/A Short Film About Killing (Krótki film o zabijaniu) (1988)/A Short Film About Killing (1988).json"
     },
     {
       "source_folder": "Apollo 101⁄2 A Space Age Childhood (2022)",
-      "image_path": "Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg",
+      "image_path": "جاهز/Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg",
+      "original_image_path": "Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg",
       "tmdb_id": 664996,
       "canonical_folder_name": "Apollo 10½: A Space Age Childhood (2022)",
       "status": "ready",
-      "output_path": "جاهز/Apollo 101⁄2 A Space Age Childhood (2022)/movie.json"
+      "output_path": "جاهز/Apollo 101⁄2 A Space Age Childhood (2022)/Apollo 10½_ A Space Age Childhood (2022).json"
     },
     {
       "source_folder": "Biz Size Döneriz (2017)",
-      "image_path": "Biz Size Döneriz (2017)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "image_path": "جاهز/Biz Size Döneriz (2017)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Biz Size Döneriz (2017)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
       "tmdb_id": 450456,
       "canonical_folder_name": "We'll Get Back to You (2017)",
       "status": "ready",
-      "output_path": "جاهز/Biz Size Döneriz (2017)/movie.json"
+      "output_path": "جاهز/Biz Size Döneriz (2017)/We'll Get Back to You (2017).json"
     },
     {
       "source_folder": "Breathless (À Bout de Souffle) (1960)",
-      "image_path": "Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "image_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
       "tmdb_id": null,
       "canonical_folder_name": null,
       "status": "review",
-      "output_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/movie.json"
+      "output_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/Breathless (À Bout de Souffle) (1960).json"
     },
     {
       "source_folder": "Buladó (2020)",
-      "image_path": "Buladó (2020)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "image_path": "مراجعة/Buladó (2020)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+      "original_image_path": "Buladó (2020)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
       "tmdb_id": null,
       "canonical_folder_name": null,
       "status": "review",
-      "output_path": "مراجعة/Buladó (2020)/movie.json"
+      "output_path": "مراجعة/Buladó (2020)/Buladó (2020).json"
     }
   ]
 }

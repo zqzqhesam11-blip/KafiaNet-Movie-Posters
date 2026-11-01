@@ -1,0 +1,69 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-01T15:55:14.236326+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Breathless (À Bout de Souffle) (1960)",
+    "image_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Breathless%20%28%C3%80%20Bout%20de%20Souffle%29%20%281960%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Breathless (À Bout de Souffle) (1960)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "Google Lens request failed; no folder-name fallback is permitted"
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "error": "BrightDataAPIError",
+        "message": "Bright Data service error; the image lookup did not return a usable response (HTTP 502)"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "error",
+      "errors": [
+        {
+          "error": "BrightDataAPIError",
+          "message": "Bright Data service error; the image lookup did not return a usable response (HTTP 502)"
+        }
+      ]
+    },
+    "evidence": {
+      "title_hints": [],
+      "imdb_ids": [],
+      "tmdb_ids": [],
+      "year_hints": [],
+      "country_hints": [],
+      "director_hints": [],
+      "backlinks": [],
+      "resolved_sources": {},
+      "id_resolution": {
+        "strategy": "official_imdb_tmdb_urls_only",
+        "folder_name_used": false,
+        "lens_title_hints_used_for_matching": false,
+        "imdb_ids_seen": [],
+        "tmdb_ids_seen": [],
+        "unresolved_imdb_ids": [],
+        "unresolved_tmdb_ids": [],
+        "errors": []
+      },
+      "results_source": "live"
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/Breathless (À Bout de Souffle) (1960).json"
+}

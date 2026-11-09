@@ -1,0 +1,1241 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:30:06.548399+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Dìdi (2024)",
+    "image_path": "مراجعة/Dìdi (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/D%C3%ACdi%20%282024%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Dìdi (2024)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Dìdi (2024)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "Neither Google Lens nor its title-derived search produced an official TMDB/IMDb movie ID",
+    "candidate_ids": []
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Dìdi (2024) - Filmaffinity",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXikkYloLE7kIKHEv8RR5f-JRZe7okwkmF6654mEUmb-7wiNkcTKdKyJ6O_Lli4Izby9fU2Wz8WLz-6ZGsqfLlAHXlvoppJ9aTuF1UDA1b-FfP9BnLnc3RUn9APfznEa4en57H7N2u3g&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXikkYloLE7kIKHEv8RR5f-JRZe7okwkmF6654mEUmb-7wiNkcTKdKyJ6O_Lli4Izby9fU2Wz8WLz-6ZGsqfLlAHXlvoppJ9aTuF1UDA1b-FfP9BnLnc3RUn9APfznEa4en57H7N2u3g&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Dìdi (弟弟)",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXJkrbfald6ktEL8_n-npvr5VWkUt-wILZ6ghmLapqPpAl0q07YUQ7cuRfWXFM6Bent6EDvrNJNhH61_7usCktRScBJAkEdJxmwXv_V3LHMY_RHYE_6PiWeka6vI82VMdn3FA9jVDpGrtItEFT2tu-YT-F8-0&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXJkrbfald6ktEL8_n-npvr5VWkUt-wILZ6ghmLapqPpAl0q07YUQ7cuRfWXFM6Bent6EDvrNJNhH61_7usCktRScBJAkEdJxmwXv_V3LHMY_RHYE_6PiWeka6vI82VMdn3FA9jVDpGrtItEFT2tu-YT-F8-0&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 2,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi Logo Dad Hat",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXEWxzRIx3XfQZx0QtxTQGQIAsKwKQ30pFBIsPmJ13sMMoXZTw1qIaU7hrNiXor9wOmMMxWLGf0yjjJCHuHBzXl2CsqCSpW6M3xFHNan4TqSqXH9Io9yihzqXCkl6iHgB2FErNuyxV3d2mkqA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXEWxzRIx3XfQZx0QtxTQGQIAsKwKQ30pFBIsPmJ13sMMoXZTw1qIaU7hrNiXor9wOmMMxWLGf0yjjJCHuHBzXl2CsqCSpW6M3xFHNan4TqSqXH9Io9yihzqXCkl6iHgB2FErNuyxV3d2mkqA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 3,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXX16UQHjVAbB01cl3VZA_cIWEic-GOL3btdw7L4ATRQIHnQ6NVn4eHDxuAGqncJ3II0tSQ8F90a0aSmMSymNzpjrvaQYiMvSAoanKtahO78QSxG_e3HjysnEScekZJLoD2eg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXX16UQHjVAbB01cl3VZA_cIWEic-GOL3btdw7L4ATRQIHnQ6NVn4eHDxuAGqncJ3II0tSQ8F90a0aSmMSymNzpjrvaQYiMvSAoanKtahO78QSxG_e3HjysnEScekZJLoD2eg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXa5zEvtFxuOwZrN-C_PNUiUHJy1IVPPSgm4MS3MAVdTbQp-ZrS3bxsV5uJjosN47wh4NzA9rCEdmWpj5stB1MK7CAvaqOGMc2YZVV6VGZ6enZ-bGv0bBNdt3gcPhyJhKjEp4R&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXa5zEvtFxuOwZrN-C_PNUiUHJy1IVPPSgm4MS3MAVdTbQp-ZrS3bxsV5uJjosN47wh4NzA9rCEdmWpj5stB1MK7CAvaqOGMc2YZVV6VGZ6enZ-bGv0bBNdt3gcPhyJhKjEp4R&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (弟弟) (@didithemovie) • Instagram photos and videos",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXHD1ckREOmD0zy8H_LF5If3-Ojod_bh07v1njari7pp0gWzWiiA3_GFrPvbP8qXD_7uyA5i-phT2RI7nSIQJatjk5GoSYa5M4rXyPPTz1aUpBSmY6CMyEX794lwNbP60&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXHD1ckREOmD0zy8H_LF5If3-Ojod_bh07v1njari7pp0gWzWiiA3_GFrPvbP8qXD_7uyA5i-phT2RI7nSIQJatjk5GoSYa5M4rXyPPTz1aUpBSmY6CMyEX794lwNbP60&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DÌDI (弟弟) Trailer Brings The Skateboarding Nostalgia to ...",
+        "url": "https://lens.google.com/goto?url=CAESngEBxCJF1xfRBFUV1dDeISqfNE_oPIf7q1ueKM88vEkDPQ-e8NeLTdmomFnM5bC_r8c0_qtjGd8Ur7FezpWKdn2OVGwj0_sFXKIrEPteGb6U2El4Q948wvcizauUFQV7g4nK6gg8HzWywh4DauoKj0DgxRYHON6QQik9WdwDwQrixd-q7ZSCscJEIECpKhAVEq1iOtDDTKfuU7PJM7q55w&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESngEBxCJF1xfRBFUV1dDeISqfNE_oPIf7q1ueKM88vEkDPQ-e8NeLTdmomFnM5bC_r8c0_qtjGd8Ur7FezpWKdn2OVGwj0_sFXKIrEPteGb6U2El4Q948wvcizauUFQV7g4nK6gg8HzWywh4DauoKj0DgxRYHON6QQik9WdwDwQrixd-q7ZSCscJEIECpKhAVEq1iOtDDTKfuU7PJM7q55w&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi | Premiere Pro Editor Spotlight | Adobe Video - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXIi0z_ff8UwCXWTxvJUtdNuXQrbIjFZbX5744CmRZPxy_d4vANKIMGEzf06Rso-XTtPd2TcES0eDcAsTKn9vxlyu_QknigNB4PIamTMkLVSMi4oefcYuhQNhpM1GXH0-CK4kH&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXIi0z_ff8UwCXWTxvJUtdNuXQrbIjFZbX5744CmRZPxy_d4vANKIMGEzf06Rso-XTtPd2TcES0eDcAsTKn9vxlyu_QknigNB4PIamTMkLVSMi4oefcYuhQNhpM1GXH0-CK4kH&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Dìdi (弟弟)",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXzUddOwwtQP4qQYM4_8NJgfejf8G18-CQwDi6Ai3jtxwv93bzqDorl5sJfvWwqOJXq06Uy0e3OLKYWtWMQ-mlleUQ9q4-CF6-tKbDC-W1cOS9qU8XrPZ0XRoCzHIwfPKEWkq4RhmAWBgg--zQB560aL69CYEPHZvSKw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXzUddOwwtQP4qQYM4_8NJgfejf8G18-CQwDi6Ai3jtxwv93bzqDorl5sJfvWwqOJXq06Uy0e3OLKYWtWMQ-mlleUQ9q4-CF6-tKbDC-W1cOS9qU8XrPZ0XRoCzHIwfPKEWkq4RhmAWBgg--zQB560aL69CYEPHZvSKw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi (2024) Movie Tickets & Showtimes Near You | Fandango",
+        "url": "https://lens.google.com/goto?url=CAESdQHEIkXXshUlybzwDvsh1gBmauDVh2YnbDBS2DPqx9h_Ds558f1YP6u18Ze69FqKYcJs_jy8PvW0BdgovBu_P1UDhlyfMi3qFxrFfLLlP8H0ke0PrO69FSKwJqVC8W5pE--5VGN54_WnkWKBdsxYBKihP6NMbA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdQHEIkXXshUlybzwDvsh1gBmauDVh2YnbDBS2DPqx9h_Ds558f1YP6u18Ze69FqKYcJs_jy8PvW0BdgovBu_P1UDhlyfMi3qFxrFfLLlP8H0ke0PrO69FSKwJqVC8W5pE--5VGN54_WnkWKBdsxYBKihP6NMbA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024), de Sean Wang | Tráiler - Vídeo Dailymotion",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXWD2mDfunwKEKOZqadAdOrLeN9SnEHG6dfxXCBpbjnbUa4VMZ-vx3YFELuBzOSsX39oxOfXxWJAHjyrCzaa62uCN9UPp_cJQraCy7ZhUhsDs3-wVPKcVLt6Jq78XMwMrGGg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXWD2mDfunwKEKOZqadAdOrLeN9SnEHG6dfxXCBpbjnbUa4VMZ-vx3YFELuBzOSsX39oxOfXxWJAHjyrCzaa62uCN9UPp_cJQraCy7ZhUhsDs3-wVPKcVLt6Jq78XMwMrGGg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "🚨 Attention pépite : DIDI, la révélation de Sundance (Prix ...",
+        "url": "https://lens.google.com/goto?url=CAES5gEBxCJF1xQUPNL-KfhDX3OQ3bH0TJHRjk2l3PWtgjM10ksUHgbO-HBxOH6Sj2Ni7t92f8MbZpMkGmb2SfMyiIDoFlraAbLnZIlc36afoB6O5yGyaVhyfGk1o0nuGSimoBIKWBOadmEMzzAGpv2Anyh7a60LvL5V_iZ9jUv5MZ3mh319yNHpTvPPAwG4lq7_GHUjIa3fA2xCC7rGLh3PgIa9WnOKYan9b2U26H67uMmKAcQbP6_bkbsH3hmGnqu4srx8ryzfbtt_Gu_MaZCx9pmqKfsq1h4VPMNa0A3Wzi8WYVZQPxdIwg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES5gEBxCJF1xQUPNL-KfhDX3OQ3bH0TJHRjk2l3PWtgjM10ksUHgbO-HBxOH6Sj2Ni7t92f8MbZpMkGmb2SfMyiIDoFlraAbLnZIlc36afoB6O5yGyaVhyfGk1o0nuGSimoBIKWBOadmEMzzAGpv2Anyh7a60LvL5V_iZ9jUv5MZ3mh319yNHpTvPPAwG4lq7_GHUjIa3fA2xCC7rGLh3PgIa9WnOKYan9b2U26H67uMmKAcQbP6_bkbsH3hmGnqu4srx8ryzfbtt_Gu_MaZCx9pmqKfsq1h4VPMNa0A3Wzi8WYVZQPxdIwg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXX0JY001ztnmE2U7cFuLnJVMfsZwFK_VIVsWOiihwJY0em8dXwCSMAChXLv3nNlwhpnLiNoThK-xN_uVXLDY67lpgCeTlSuXspeJ4nyagbsgcrcG-wJhbBkoVsqh3hP3c5KrPaNw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXX0JY001ztnmE2U7cFuLnJVMfsZwFK_VIVsWOiihwJY0em8dXwCSMAChXLv3nNlwhpnLiNoThK-xN_uVXLDY67lpgCeTlSuXspeJ4nyagbsgcrcG-wJhbBkoVsqh3hP3c5KrPaNw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAlK0TB0RGoX4GLQQz340fnepPO38-D3PBlQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Críticas de Dìdi (2024) - Filmaffinity",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXXC1KWzXLNqbphA8zFezYD2DIR6xE56YzIiUtZigVONbydIIwkqtyihx6vuhqqvvv3oVM6kyn46uI1TQYylTaH0M8whQn0BOlhwBpHfolAkjxRGgTiSr2XbBpYx-WzDkKlFgRW9eZJtO_AGTYvJQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXXC1KWzXLNqbphA8zFezYD2DIR6xE56YzIiUtZigVONbydIIwkqtyihx6vuhqqvvv3oVM6kyn46uI1TQYylTaH0M8whQn0BOlhwBpHfolAkjxRGgTiSr2XbBpYx-WzDkKlFgRW9eZJtO_AGTYvJQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_-T3vCmz3dm91N03us90Qu0-RXMd87vRwcA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Shop By Title",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXX9GVxO_xbShzFyvHjQxhLdNokhXgiS6r8nmRy6hXgBJwUB_AYRt712oh4IlgmZbqtroh9dNmTqO_0ifExRKxAfuWy0Ae8Rg3pVYMek1RO_aDxNbo-pKv7yN1i5kBreUCIB0uquA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXX9GVxO_xbShzFyvHjQxhLdNokhXgiS6r8nmRy6hXgBJwUB_AYRt712oh4IlgmZbqtroh9dNmTqO_0ifExRKxAfuWy0Ae8Rg3pVYMek1RO_aDxNbo-pKv7yN1i5kBreUCIB0uquA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3WN3s6kMdygd-LsvMlXSoU502qRnhzlqFug&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (Película 2024) - Feyno",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXkxQdlxBP16xsYfXdGX7ysNegEeASHN-4i9AnnVt8xo3LR0TQVqDl6f_sc96QNg3bzomdSUrqDFL_NyNsnHBHXsa6z_T5by3qEaTZCYSSd6P0P_T4Iyc-OVuZwUGj0K--Wg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXkxQdlxBP16xsYfXdGX7ysNegEeASHN-4i9AnnVt8xo3LR0TQVqDl6f_sc96QNg3bzomdSUrqDFL_NyNsnHBHXsa6z_T5by3qEaTZCYSSd6P0P_T4Iyc-OVuZwUGj0K--Wg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ65-6Bc9cAcs1hUTc_L_0NqJAlH5BPkN9RCQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi - película: Ver online completa en español",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXh42XXPPUBST82Fr0nTc1rqlDJQBDWdI7q35DMTUwmZckvERTVq5UXLiD_CANBZzXlmeidYxWiNIPBvVgbsqHMPpjAI97puRXmfIDXmPW__GxTGYVH5ZEZzq8TCc88KPVA2Y&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXh42XXPPUBST82Fr0nTc1rqlDJQBDWdI7q35DMTUwmZckvERTVq5UXLiD_CANBZzXlmeidYxWiNIPBvVgbsqHMPpjAI97puRXmfIDXmPW__GxTGYVH5ZEZzq8TCc88KPVA2Y&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS2aZAlMdKBO1yrucGmhCEamEfIOKbRiE_zA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi - Online kijken - VTM GO",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF13zjWtapFTBk6tXPvxr-74rXnrN0TFiad2qgr0xzlFjxTRrlo4RCsa36ORsXxrk_S6CLasDbMi0Hhk7t93CAVBX6LLOXM8kOC7p8VvJKoDn2LEefJHigY--TdI1G8NORV8FmiwbrP6hFqpoli4ONT4kL0SFl0YwcuEnRpHs&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF13zjWtapFTBk6tXPvxr-74rXnrN0TFiad2qgr0xzlFjxTRrlo4RCsa36ORsXxrk_S6CLasDbMi0Hhk7t93CAVBX6LLOXM8kOC7p8VvJKoDn2LEefJHigY--TdI1G8NORV8FmiwbrP6hFqpoli4ONT4kL0SFl0YwcuEnRpHs&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswRA-b60fYVupgvA0u8o7_ttVGNNwm51v9A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi - Película - 2024 - Crítica | Reparto | Estreno ...",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXNXYekWEA1fvpAoLLsoSYf6yb7GJbvqInhFFvV2wPkBqVNBWYjPHe2OwVPNmX-cvKJ1Iqg42-WTPG3AeD5hQqdxqT7dG6AX2se9d5O75_nu_EetjCLbh3T84ee5-6CLcxCA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXNXYekWEA1fvpAoLLsoSYf6yb7GJbvqInhFFvV2wPkBqVNBWYjPHe2OwVPNmX-cvKJ1Iqg42-WTPG3AeD5hQqdxqT7dG6AX2se9d5O75_nu_EetjCLbh3T84ee5-6CLcxCA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmM6QpC7ehqNaUQ0jIpFMKDg3oIAKsyHVqeg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi movie review telugu || Didi Telugu Review || Didi ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX58sxLIECYC8WzU04b1utw9rtRBZTfkdsZCQF_T7MlkajjGD5DvqeV4Fpoqj3ogFSIsS5ZkPp5q7poQEkXEpZobW7tXbKuvCHdLqhPgC_7ewr-4LoZmOSvpdODAe4e5DlQZq-&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX58sxLIECYC8WzU04b1utw9rtRBZTfkdsZCQF_T7MlkajjGD5DvqeV4Fpoqj3ogFSIsS5ZkPp5q7poQEkXEpZobW7tXbKuvCHdLqhPgC_7ewr-4LoZmOSvpdODAe4e5DlQZq-&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNTMWSaLslntJqo317iVPnjHkPNPhGptvqIw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi The Movie Review | TikTok",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXX0jN0YbSGrsQ5SlvdhQboTHAvFvsCqHLRRM0hPF2MP9GaBdX5TsotUV9qb6GbT8Ff6VbVDVVLoThF6yonZovOHGXhQxKYdfI0Dv1XTzKkAbzM4p0-OUebA7Zh8f7xwfV2OTUH4skCcFo3T-467Q&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXX0jN0YbSGrsQ5SlvdhQboTHAvFvsCqHLRRM0hPF2MP9GaBdX5TsotUV9qb6GbT8Ff6VbVDVVLoThF6yonZovOHGXhQxKYdfI0Dv1XTzKkAbzM4p0-OUebA7Zh8f7xwfV2OTUH4skCcFo3T-467Q&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDQdF77mx4tzDSoEC-Zr2g5zcV47nxl_P0AA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi | Películas y Series La Vanguardia",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF10bAyEi0TeFDm4ljPtIzxfXERImEQvDSGKezH0REoJt7hBaJz-ciIlKIgFLawtJDyE3r2tgIapEUNg27ek2vTDKgYoHk2fddSXPoV58O8qqoRm1BztgUPK4Z_zkLrtjVwgWbP4bs1G0vmA5BlVGhsHPjqsdyOR8pLgovVFs&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF10bAyEi0TeFDm4ljPtIzxfXERImEQvDSGKezH0REoJt7hBaJz-ciIlKIgFLawtJDyE3r2tgIapEUNg27ek2vTDKgYoHk2fddSXPoV58O8qqoRm1BztgUPK4Z_zkLrtjVwgWbP4bs1G0vmA5BlVGhsHPjqsdyOR8pLgovVFs&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCsQfwFA4dpzOXjocNuOXvQ2z9zpffB_LFAw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXQPqJWWOvAyOhhlKxJQ7ZY02kXMiod3yIQ-KUCJkrfnk8bJQhBtYyZGRUcK-HjzC4UIPhDd39ogYtWDDTSzdQDItSmN_y_XjrKLAqP4RDpFJ03sp-SBfzu-aXoHyEFGrl_Wgudg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXQPqJWWOvAyOhhlKxJQ7ZY02kXMiod3yIQ-KUCJkrfnk8bJQhBtYyZGRUcK-HjzC4UIPhDd39ogYtWDDTSzdQDItSmN_y_XjrKLAqP4RDpFJ03sp-SBfzu-aXoHyEFGrl_Wgudg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyDID01L1XBeBYqAiX3-l4hdEW-ohdJ3MCQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Gutter Monkey's review of Didi - Plex",
+        "url": "https://lens.google.com/goto?url=CAESkwEBxCJF102nNJlsEtbDiv9S0JdCIeVHWRGlf6nc-_MmJ4aoD_E418QH5GhRL1GKWYkwOzJsXpKVSeGh87DKJlXFljKAf2SsJZw0r2HdKgFoct4t1mnK7f1ziv885HJ4Ezhdu27XxgXL-5x38mDRGYn7DiI6afx636wTjocdYwmGGGKwii4dD_pOdilM0AlP0v20Aoc&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkwEBxCJF102nNJlsEtbDiv9S0JdCIeVHWRGlf6nc-_MmJ4aoD_E418QH5GhRL1GKWYkwOzJsXpKVSeGh87DKJlXFljKAf2SsJZw0r2HdKgFoct4t1mnK7f1ziv885HJ4Ezhdu27XxgXL-5x38mDRGYn7DiI6afx636wTjocdYwmGGGKwii4dD_pOdilM0AlP0v20Aoc&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4QhjNCN4Dc4LuE-lM3bYsaIelps-TA5Bjtw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Back Lot Music and Mondo are proud to present the Dìdi (弟弟 ...",
+        "url": "https://lens.google.com/goto?url=CAES4QEBxCJF15E_3pTg7fncx3Ll8LwLly9TJRsAV4AvjyqZJyEU0dwOLUfvBiVRW3LXBUhMFxJwxxdrFMrd05P1skN0ofvlHR7RRaZw-sOsakTO7YN4ewqmGqemR-ae3tsK8PIaWqqYGIwEvrfohguzRhSh_9ciL19Yg-VoFXlWRM99iaExRqrvP6qPj74Mq-Vlt9GWX6utCUJvHYtq6NhITh7EMwf6nIpzUpY1MO0auLJd3twEZ2xaIFvLMcrr79qCnputLTygTH_W_afDuhIfpjbqjHgKe4TO3Z9PucRZHrlQTtA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES4QEBxCJF15E_3pTg7fncx3Ll8LwLly9TJRsAV4AvjyqZJyEU0dwOLUfvBiVRW3LXBUhMFxJwxxdrFMrd05P1skN0ofvlHR7RRaZw-sOsakTO7YN4ewqmGqemR-ae3tsK8PIaWqqYGIwEvrfohguzRhSh_9ciL19Yg-VoFXlWRM99iaExRqrvP6qPj74Mq-Vlt9GWX6utCUJvHYtq6NhITh7EMwf6nIpzUpY1MO0auLJd3twEZ2xaIFvLMcrr79qCnputLTygTH_W_afDuhIfpjbqjHgKe4TO3Z9PucRZHrlQTtA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYBCpCUqaRvx3C_QyaaUziDHQ29-jgfvZs6Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi (2024. Sean Wang)",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXX7L991acJ83XoSa9ezUOG5q9_eHM_a37YNzMkGvCRoF2oUFkrbKbXaK20-UZp52v_VDA148mHI_5l8qeK_TbZeGpnSQdWhWrw98BWKf486WBH1zRMtm4xij4jR9I6KVIvzSpVTGfTLA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXX7L991acJ83XoSa9ezUOG5q9_eHM_a37YNzMkGvCRoF2oUFkrbKbXaK20-UZp52v_VDA148mHI_5l8qeK_TbZeGpnSQdWhWrw98BWKf486WBH1zRMtm4xij4jR9I6KVIvzSpVTGfTLA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv_Y-7pgwYNWqXCemMHaueJ2431dsmGxDDcw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXe8DjO3oPx5kYQuwTu_63X5SdMHbXDnjOCxcP8VICbJPqqpNNhpZRPEOlUKgpJL5yUvuQGOqENmGP8jMnNCvXDNraQ9cdZlQ7X0GTRQHyBsShD5Wc8FW-bS6c1z-2BkM&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXe8DjO3oPx5kYQuwTu_63X5SdMHbXDnjOCxcP8VICbJPqqpNNhpZRPEOlUKgpJL5yUvuQGOqENmGP8jMnNCvXDNraQ9cdZlQ7X0GTRQHyBsShD5Wc8FW-bS6c1z-2BkM&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQYyjwcGc-7x0BOx6OWBPJ4FCbwNCNKtkt2w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "For anyone who's ever been a teenager. Watch the trailer for ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXjEa-F9Ccwwnt5AjVZvpafcti5AWxYp0qaQi4u22IMgmXB_bbqN4qF-1dWbaTem7ACvqTFYK6kvLXeCm0kQ3ameq86Boi8OlZ6YPeQHlIF7_xeeJ-DU5ZcmTjtkRbbpbV277_&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXjEa-F9Ccwwnt5AjVZvpafcti5AWxYp0qaQi4u22IMgmXB_bbqN4qF-1dWbaTem7ACvqTFYK6kvLXeCm0kQ3ameq86Boi8OlZ6YPeQHlIF7_xeeJ-DU5ZcmTjtkRbbpbV277_&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11dOdMWjrEeMLzM93bwTWjrxU7iZnMdNsjA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024) - REVIEW - [ENGLISH-SPANISH]",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXXj5xqI58xamU8OCYOr0h0m7uq0yVCmM9f2u2Ua1aHBKzg0nRfR7R47pw6TBCkko7ogXu1peLAK4eDlGPoubFasctAWif_hlzeExbCu47mpBm8Z_NvYLmgwrK-YI3WtlUiDbv3C558RtPEGhbq9b1CzcLjVB1jrSRlcEk&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXXj5xqI58xamU8OCYOr0h0m7uq0yVCmM9f2u2Ua1aHBKzg0nRfR7R47pw6TBCkko7ogXu1peLAK4eDlGPoubFasctAWif_hlzeExbCu47mpBm8Z_NvYLmgwrK-YI3WtlUiDbv3C558RtPEGhbq9b1CzcLjVB1jrSRlcEk&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCQVN9q79pHP-ghXuhAIR-yvc4Iv-YqyFjxA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi Movie Title GIF - Dìdi Movie title Title - Discover ...",
+        "url": "https://lens.google.com/goto?url=CAESoQEBxCJF1670P9FUJBXSIQlDDgZSRq568TJ-iMpO49Sf8QOdXdvAsFkun575QraKi4KXd4xxmxYfbwnFCp9c9vOaIA0dR7pi7iGlOaLX4J3iYzurwTrg-R2G7qS-kVe6iolXMK3yPd3vIHhJnZAlWRpq07GyXxq8HhhrkayJLi2cD81Yo-8QH5lqZM2cq25ILYPabAXmjmNP489MdylZIo7qig&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESoQEBxCJF1670P9FUJBXSIQlDDgZSRq568TJ-iMpO49Sf8QOdXdvAsFkun575QraKi4KXd4xxmxYfbwnFCp9c9vOaIA0dR7pi7iGlOaLX4J3iYzurwTrg-R2G7qS-kVe6iolXMK3yPd3vIHhJnZAlWRpq07GyXxq8HhhrkayJLi2cD81Yo-8QH5lqZM2cq25ILYPabAXmjmNP489MdylZIo7qig&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRdaFKJKCm00F9HTT2ZQF6AqIE3sDKoHP5aA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Ve Dìdi | Netflix",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXX_fR5KPLr0vYrC7xjGyhPAG5vXj7NerplQKHAMzrRrWkzkiMCbyOKYr6-WQvSLRX2gTOwHI1cU3KGYFxET0lPEzB1nP9HIbQqjfS_YQoGmJqFaWs26yBoq541jW-z7DGyB9ZK_w&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXX_fR5KPLr0vYrC7xjGyhPAG5vXj7NerplQKHAMzrRrWkzkiMCbyOKYr6-WQvSLRX2gTOwHI1cU3KGYFxET0lPEzB1nP9HIbQqjfS_YQoGmJqFaWs26yBoq541jW-z7DGyB9ZK_w&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AMt0-shI8N3MMMFp0esINm1gVIkGPF6soQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Family In Chinese Language | Baamboozle - Baamboozle | The ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXx2wBnyelttpxyO-mgnUBXF2in5zhEUnLkwQUW-hsi75aiGbaY5evaKA0eQUX3cdbROInjuIkqx8FzWSM_Db7PLdDmoLsO4nuGlCrTXNPZy9iwyEkH_92PogJb-zrLXuS&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXx2wBnyelttpxyO-mgnUBXF2in5zhEUnLkwQUW-hsi75aiGbaY5evaKA0eQUX3cdbROInjuIkqx8FzWSM_Db7PLdDmoLsO4nuGlCrTXNPZy9iwyEkH_92PogJb-zrLXuS&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXsSMWu7bfWS91lNdx0Aq3O-W00ICgQQpf1w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi & Friends Logo PNG transparente - StickPNG",
+        "url": "https://lens.google.com/goto?url=CAESjAEBxCJF18kUMQvPdTLL5-kObwCUEtv_tWk0T3O_vuxxmunvfT8QgvQhWHQyQXE6bZiI-K0a6af4naNBm8lsG369MfboRv9eXZXabRTd9W--pXPnpdp8NNk_nwJyppiTs3gHeyjbQ2qBb_GUDUv6AHd-j3FDpwx3pFX3JTmgzFdtyxXirk-40f72dDOb4g&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjAEBxCJF18kUMQvPdTLL5-kObwCUEtv_tWk0T3O_vuxxmunvfT8QgvQhWHQyQXE6bZiI-K0a6af4naNBm8lsG369MfboRv9eXZXabRTd9W--pXPnpdp8NNk_nwJyppiTs3gHeyjbQ2qBb_GUDUv6AHd-j3FDpwx3pFX3JTmgzFdtyxXirk-40f72dDOb4g&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVtzDukJ6bIiHlQSnJ4yk6jVQXpXIUDgMqfQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DÌDI IS IN THEATERS NATIONWIDE TODAY! “A warm, nostalgic hug ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXPWaAq0Opxn5l3KyEtrboRAuNvW6PrNhwBKCpFgDKW3hjaXfXFzwKbBE5HQHFsqqUyMKUVxVC-pMA07iLnSc6uaIrxI-JD9PNeL9hHi0MMiR-rIpfKTlrJPmNVgJiV9J3TqK3&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXPWaAq0Opxn5l3KyEtrboRAuNvW6PrNhwBKCpFgDKW3hjaXfXFzwKbBE5HQHFsqqUyMKUVxVC-pMA07iLnSc6uaIrxI-JD9PNeL9hHi0MMiR-rIpfKTlrJPmNVgJiV9J3TqK3&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDdgXjG_w3ErRu-v17X8M3qrdGo8qx4SUXFA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Ver Dìdi (2024) | Movistar Plus",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXaO6B6lvSKHicpvnqHtw4ckRaHCwTLs9u-NE5hrHeWOxjTHmGbSnMr6TdFWW1CTqZyycsZgKbuLNPwmImXxqcEL17CX7coz7PNZ0iVZWOD6p5V8WBw6-6OeZQ9XtQbtTVG7YPu_69jBdzQ4J0tPSRW7WqAbw-&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXaO6B6lvSKHicpvnqHtw4ckRaHCwTLs9u-NE5hrHeWOxjTHmGbSnMr6TdFWW1CTqZyycsZgKbuLNPwmImXxqcEL17CX7coz7PNZ0iVZWOD6p5V8WBw6-6OeZQ9XtQbtTVG7YPu_69jBdzQ4J0tPSRW7WqAbw-&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEbjiy33S4K-afkperS1nuuhv2FrJf0GJsdg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DIDI 2024: La PELÍCULA que NADIE Esperaba - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXQIgo0_GIyjs0RUd6U1ACayxPrfvRcZHtBUwpwtKIw22qga-FQ6yZVP4IQl9L-N4GX6gRySPPpMhGkV1HJEqM81FkviAxT25CvWO-mpyWQf71VxOXxhy4dothXngy4oSOGoeD&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXQIgo0_GIyjs0RUd6U1ACayxPrfvRcZHtBUwpwtKIw22qga-FQ6yZVP4IQl9L-N4GX6gRySPPpMhGkV1HJEqM81FkviAxT25CvWO-mpyWQf71VxOXxhy4dothXngy4oSOGoeD&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2wklPntTSSpmiLHoW4dFA4Yqnr3CmE3oKeA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Crítica de Dìdi, película dirigida por Sean Wang - Cinemagavia",
+        "url": "https://lens.google.com/goto?url=CAESdwHEIkXXT3SbMPbJ_88L-mSS6UYy0aWJuxWLmHhMtVbSTshcNFQhBxauZbS-qjPH2IJLpdX-EsGVCwh0sIVMqDglJLcUKC1hs6HPpCrmRBsVW8SU_yoMiLSGAYc4ZgSI0xFJJKHAz34gkve1BU8Ho4wFgRSi7jTa&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdwHEIkXXT3SbMPbJ_88L-mSS6UYy0aWJuxWLmHhMtVbSTshcNFQhBxauZbS-qjPH2IJLpdX-EsGVCwh0sIVMqDglJLcUKC1hs6HPpCrmRBsVW8SU_yoMiLSGAYc4ZgSI0xFJJKHAz34gkve1BU8Ho4wFgRSi7jTa&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjG9VHPNtftMEUVDpUK5c4LNnPLD-Wr2eh3Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "For anyone who's ever been a teenager, watch the trailer for ...",
+        "url": "https://lens.google.com/goto?url=CAES5gEBxCJF1xUokclniVqnMRdTFQN6kRdTGcOxVrUsMBT6Dmgzd9phYReMFbNPBXlE02Wu36pgudltihhcgVMyZwJ3-6K1861AWTy4jhl00qyi4khdNm7418oOo8SgIfkYmiFEoXnISsVp0xkjwR-e6c8wdexvn99EYidRxppPWlkp63AHhQnGuPsbnPLWmrdkk_zlt_t9R4lma18G99OrObnGC3ylxb6At_t9WQMSQtw5-HTvr3KoFgdAQNa9vsjSRcCVTkgErEt9_nGV-SjCffOAJRBrJI06nUJ0x_wCfezV48Uxy_iMhw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES5gEBxCJF1xUokclniVqnMRdTFQN6kRdTGcOxVrUsMBT6Dmgzd9phYReMFbNPBXlE02Wu36pgudltihhcgVMyZwJ3-6K1861AWTy4jhl00qyi4khdNm7418oOo8SgIfkYmiFEoXnISsVp0xkjwR-e6c8wdexvn99EYidRxppPWlkp63AHhQnGuPsbnPLWmrdkk_zlt_t9R4lma18G99OrObnGC3ylxb6At_t9WQMSQtw5-HTvr3KoFgdAQNa9vsjSRcCVTkgErEt9_nGV-SjCffOAJRBrJI06nUJ0x_wCfezV48Uxy_iMhw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqVhQrswDR_75Wy-0pOzt31H5ISi_nfsnDRg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Crítica | Dìdi",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXixfInUOTomsvDk4yunVf_xi1yG7dPJyHRN937S0zZ7wYK0ZPzT894IMeTHeVYWDmRwf3kql4ETWK-GS8NEH8LDY-zlKp9zQ7PWLVofEoM7-6tKxxuFOmLPDOIe0ugivaWYB7B9LAK8DqP8uOgN-1emWrxZ3cltXL4w&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXixfInUOTomsvDk4yunVf_xi1yG7dPJyHRN937S0zZ7wYK0ZPzT894IMeTHeVYWDmRwf3kql4ETWK-GS8NEH8LDY-zlKp9zQ7PWLVofEoM7-6tKxxuFOmLPDOIe0ugivaWYB7B9LAK8DqP8uOgN-1emWrxZ3cltXL4w&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXCzWdN1HxY-pZInz_lnvEuQfneYy1Klo6RA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The 50 Best Movies of 2024, And The Worst (According To Jeff ...",
+        "url": "https://lens.google.com/goto?url=CAESqgEBxCJF14V977zbVOsZN0qPV5stk9dLj9m9QoQh8UjejFoF9haYlEhmvDkaqwT8EUZmTp5ohJqPNZ1v1D6BaOwm_TF39iu2flvQ6W4moZzfzOgSQFPZokB3ruPp39FCUQHsasy7VMwLdwULdhPhepe-CH-xtyhMxt3W5g_ugX06f9Lk_lqfTkWfkmbL5-wAWfJMRROEA19TJ5Q5zbKcjz4kyYo1qEg8ZogugA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqgEBxCJF14V977zbVOsZN0qPV5stk9dLj9m9QoQh8UjejFoF9haYlEhmvDkaqwT8EUZmTp5ohJqPNZ1v1D6BaOwm_TF39iu2flvQ6W4moZzfzOgSQFPZokB3ruPp39FCUQHsasy7VMwLdwULdhPhepe-CH-xtyhMxt3W5g_ugX06f9Lk_lqfTkWfkmbL5-wAWfJMRROEA19TJ5Q5zbKcjz4kyYo1qEg8ZogugA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdmzMRYaL2SXGxO6F3L9mwgjvs7Guc5RKb6w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi - Película 2023 - SensaCine.com.mx",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXT30MAro5kQH4VYb00Qa_2HV-ggkqF0wH9xjibuENjobPnfizqckJhF2ym3my0RGV1qQm8f6_o2w0sp_-lJQdLYmZP2cnjoIQbJ8mCYZbJE6UhLbFjYkXHZTC_ELZaqUa55CNM6aAcTAgrrwK2kc4&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXT30MAro5kQH4VYb00Qa_2HV-ggkqF0wH9xjibuENjobPnfizqckJhF2ym3my0RGV1qQm8f6_o2w0sp_-lJQdLYmZP2cnjoIQbJ8mCYZbJE6UhLbFjYkXHZTC_ELZaqUa55CNM6aAcTAgrrwK2kc4&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-SYtSr3U1ihjDbDRYZieTVhWKyY-5a6_8DQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024) — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXfhcruvvy-tYY3llzVojPhOZe98ATeErauuIo3dTlktMRFI1IRcyLkNMIdXW9TGCtqTQ4KfD659p5eCpneDUs2i1C_x0v2P6YxK2MfMqRMnRzBE4Vrj63GqlJXTdIpsnJI9b5hh_DtKIQaJj-B9G_X3qKajg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXfhcruvvy-tYY3llzVojPhOZe98ATeErauuIo3dTlktMRFI1IRcyLkNMIdXW9TGCtqTQ4KfD659p5eCpneDUs2i1C_x0v2P6YxK2MfMqRMnRzBE4Vrj63GqlJXTdIpsnJI9b5hh_DtKIQaJj-B9G_X3qKajg&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6iNqLxUsW_efK_c7b8RNSYwW630mDtbSHMQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Ve Idol | Netflix",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXunGiU-O_RQwc1INxpnE1bG3PQnC_LXI1CJOdiAhB3U00HoipivlvkM91zF9dbmJ-ifTKsT6-sXS_bDD_qFNsZTtZwqRD1nYUHNZ0_YwxjBqDyO0gYmsG1FlbuwCVlN_RvQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXunGiU-O_RQwc1INxpnE1bG3PQnC_LXI1CJOdiAhB3U00HoipivlvkM91zF9dbmJ-ifTKsT6-sXS_bDD_qFNsZTtZwqRD1nYUHNZ0_YwxjBqDyO0gYmsG1FlbuwCVlN_RvQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmhzD13LV8IGfx6IE0M_GruMDc0ufBAb63KQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Modi Gee Merch & Gifts for Sale | Redbubble",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXX6KT7SULqLWn6bSrGdV1jP4l4IDdz1W1YZDLuQrjXkglayF04nu3JMrDP3r6EnKKZHTu3Re7zn1gits3vdZXoCw1gMcnuWaPE1OqChEXq59k0FKECE6RbKBPU1OQQs0&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXX6KT7SULqLWn6bSrGdV1jP4l4IDdz1W1YZDLuQrjXkglayF04nu3JMrDP3r6EnKKZHTu3Re7zn1gits3vdZXoCw1gMcnuWaPE1OqChEXq59k0FKECE6RbKBPU1OQQs0&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWeDLpWyuyRauM2Otm34026JwiFQNnHIjPwQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi",
+        "url": "https://lens.google.com/goto?url=CAESVAHEIkXXzQbJvCRskJCwPis2-a6fXccBkY3xj1-A1H24581jSn-uF9Nv9pI29kDa9VvJczBc1i91PMBDizOY4PCgCiTLu6N5rEEfOOg2gL7rfM_AhQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESVAHEIkXXzQbJvCRskJCwPis2-a6fXccBkY3xj1-A1H24581jSn-uF9Nv9pI29kDa9VvJczBc1i91PMBDizOY4PCgCiTLu6N5rEEfOOg2gL7rfM_AhQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdicFw2OAJt2NyS6X-6lAnoMwjBLXvemE1Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Cadenas Eina | Nuestras marcas",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXhRrdH1jHBEeMtvYHqMQEUwkvQLlDih2B8_ULRlMX0UIJz8nbatTiYsPTyXWXmlf8TMyIpp2i4L2RaazJPu5uRWp7XPsLXh_8LDlglyCK4Se3hx_csL8wQNz7cLDq4WLAqTH7sw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXhRrdH1jHBEeMtvYHqMQEUwkvQLlDih2B8_ULRlMX0UIJz8nbatTiYsPTyXWXmlf8TMyIpp2i4L2RaazJPu5uRWp7XPsLXh_8LDlglyCK4Se3hx_csL8wQNz7cLDq4WLAqTH7sw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ9HmaNmOItonLpYd_6N7xxY3a0UfaOoILTQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi (2024)",
+        "url": "https://lens.google.com/goto?url=CAESggEBxCJF18RcSNSUIsT8YTO1QxtnnwP2l-3ftc7Sfon5G_DsvdofNtjMf_7KCkK8nDvZ5z7kor6wtRbbb-MnNIlgPxRQ9r8eOMM2Qbyq8IcFHmLwqFMYlFVebq3ZBGuW9EhzRHsPBcpkmDxOp5qwxMHSpqDZII6M9LD0pBBpjHUOBB7z&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESggEBxCJF18RcSNSUIsT8YTO1QxtnnwP2l-3ftc7Sfon5G_DsvdofNtjMf_7KCkK8nDvZ5z7kor6wtRbbb-MnNIlgPxRQ9r8eOMM2Qbyq8IcFHmLwqFMYlFVebq3ZBGuW9EhzRHsPBcpkmDxOp5qwxMHSpqDZII6M9LD0pBBpjHUOBB7z&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwViImiECGERKVKWBKIICI-vqEk600OJUytg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dìdi ( 2024 ) Trailer Pelicula - Subtitulado Español - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXQPnmkrwZubCDV6JvpR_rRvFdnujpp_Ed7oWeccfuqRTjRS32lGSqEVUokT1x1v7ORBflP4poYS91PH0j8aH569DbeUdbP0-83_XvYlBLQzmUNrKSA8jOMzfNeQOR4HwIY88Y&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXQPnmkrwZubCDV6JvpR_rRvFdnujpp_Ed7oWeccfuqRTjRS32lGSqEVUokT1x1v7ORBflP4poYS91PH0j8aH569DbeUdbP0-83_XvYlBLQzmUNrKSA8jOMzfNeQOR4HwIY88Y&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY49WoZD-f3PEN92HeC8uL_TAEZrBH0RA-Dw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DIC Entertainment/Logos variantes | Logopedia | Fandom",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXXrZafZRwLKWgk30NWBU-oC4gVPU6ZWnk0Xnc1TdF5hsaaxHe8wlHBWWF8R_tzk7FsgYp3o_AuJeIfkKLy8F4t4kFYYks24LANBv7FWgUNIQR_jhM-Xuql2dn88YNctkItabzNVrAlk-QHFuqa9RI6YlOmy0pB-s3kuko&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXXrZafZRwLKWgk30NWBU-oC4gVPU6ZWnk0Xnc1TdF5hsaaxHe8wlHBWWF8R_tzk7FsgYp3o_AuJeIfkKLy8F4t4kFYYks24LANBv7FWgUNIQR_jhM-Xuql2dn88YNctkItabzNVrAlk-QHFuqa9RI6YlOmy0pB-s3kuko&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAmJM7gXbBT7rak_quDE12XL4tS_o47NKaqg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Contacto",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXX1CichHA4GmC6P1zRUQCXVIWVEkmhNg7Ion-IkzOOYmYgTg531MnrQTGiw2x52V4_3-5srhYyssj4g09REpdmpyAQcQ-sJWKc-4R20I5onapYEmmdRFZpSlNshw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXX1CichHA4GmC6P1zRUQCXVIWVEkmhNg7Ion-IkzOOYmYgTg531MnrQTGiw2x52V4_3-5srhYyssj4g09REpdmpyAQcQ-sJWKc-4R20I5onapYEmmdRFZpSlNshw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3LLmRIu8BgtoCoiRVhSJB_UYpYB0unt3-sw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Pegatina Logo D.I.D en Color",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF14e_tIvk0ot2D_g3snntCU3AwKVdNIH1EFYcu-mtcgOgjxBGcjPcqiyknEZH3A5Kq-Sz2hZ_csVYUOvkZekyFZmba1QhVp8VPKUCpCDeZcVfqVyeEUHlSFzTGAHGquDG6ZgSEO3NcVOXYfpRItfFx1nyiNKSrSWJqN1iiO8CI3mvn2I&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF14e_tIvk0ot2D_g3snntCU3AwKVdNIH1EFYcu-mtcgOgjxBGcjPcqiyknEZH3A5Kq-Sz2hZ_csVYUOvkZekyFZmba1QhVp8VPKUCpCDeZcVfqVyeEUHlSFzTGAHGquDG6ZgSEO3NcVOXYfpRItfFx1nyiNKSrSWJqN1iiO8CI3mvn2I&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwkP5mgd-9OpJ5UCjvpKWb4pUYwGLo9wcP_w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi | Font Style | Text Effect Generator",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXX0xK0Vi7vErz6sVf8CHYw_vDS7FQuDYJHtmzmJuV40wt2fQHi0FjAvft_5evsw1VymjqPi5euRJolCtuWyqsRO2OPQqUBlJZrvzk9NVTpDXBxp-ZraDrWHmHWgmn8Dvz_nA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXX0xK0Vi7vErz6sVf8CHYw_vDS7FQuDYJHtmzmJuV40wt2fQHi0FjAvft_5evsw1VymjqPi5euRJolCtuWyqsRO2OPQqUBlJZrvzk9NVTpDXBxp-ZraDrWHmHWgmn8Dvz_nA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIA-fIJ5EyI0Q9EZYHG59vJvEC0cUtqHVP9A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "De Habbo - Tutoriales, Artículos, Trucos y Noticias de Habbo ...",
+        "url": "https://lens.google.com/goto?url=CAESUQHEIkXXWwBpSUtUSv867VQDPkus55hplpcrzo2GiuLFndzdfaCn0QGkaKUyCymtWJIkRo6S5Y2iUNllXbKK8TTcFydO6JdxQkoxm3-6lqpT9g&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESUQHEIkXXWwBpSUtUSv867VQDPkus55hplpcrzo2GiuLFndzdfaCn0QGkaKUyCymtWJIkRo6S5Y2iUNllXbKK8TTcFydO6JdxQkoxm3-6lqpT9g&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNLvGHsMwdpbkVnzIkH0qkfp3ETuL4iidwQw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Ding Dong - Concurso de cocina por parejas en RTVE Play",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXtmK8tgS7Jmnwn19PehUPr_JlCKb5YrHFVjvwX2I8jW8CTUGFws9nMaYMbiQq2jd6F79J2ChJBSW3T5yfYh7pE7MphpwhqjFelFx2OlzH75M7O4q63WsP0QT1knQaAN43TbA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXtmK8tgS7Jmnwn19PehUPr_JlCKb5YrHFVjvwX2I8jW8CTUGFws9nMaYMbiQq2jd6F79J2ChJBSW3T5yfYh7pE7MphpwhqjFelFx2OlzH75M7O4q63WsP0QT1knQaAN43TbA&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgesg9-U30rqK5tToOUUYSdBDz9RP9jLG_QQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Archivo:Taboo Charming Mother anime logo.png - Wikipedia, la ...",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF11SXyUZOvKCMtv2Z9GqTi4QHJG4RCNkDjD4Ka_GWZV6m8fF7U7Q7J4YdB2VS7mADU6BXPzKqSIophuyR-AJ8aiDvbGXoUahKQB3PSIbyLLP3y7b6FUET97s42TEvaZEjAEI1hVQzQ4RooOmwaOeczfpZWUZbcAvaU4Gswjz3A1K0ZjY&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF11SXyUZOvKCMtv2Z9GqTi4QHJG4RCNkDjD4Ka_GWZV6m8fF7U7Q7J4YdB2VS7mADU6BXPzKqSIophuyR-AJ8aiDvbGXoUahKQB3PSIbyLLP3y7b6FUET97s42TEvaZEjAEI1hVQzQ4RooOmwaOeczfpZWUZbcAvaU4Gswjz3A1K0ZjY&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaBOlKpYVKoEVxrZqFi065P77ZF_Hgia4jwA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Didi & Boodi - Prime Video",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXX7r22cFUsXBGJ-dP4LsNFkf8e6e4MUBfRbh0pCxX4A0HtXBvyAOsORVcX2JGoUOsdfShuxKM4GupxTCWRKsBO77-SAvb6H9n9CmwVKjCUBMpGONcFfNCbpiPZT7b9GwnKRJVAOJOhmAojGyYMLqSILxrD3RduWvLWwQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXX7r22cFUsXBGJ-dP4LsNFkf8e6e4MUBfRbh0pCxX4A0HtXBvyAOsORVcX2JGoUOsdfShuxKM4GupxTCWRKsBO77-SAvb6H9n9CmwVKjCUBMpGONcFfNCbpiPZT7b9GwnKRJVAOJOhmAojGyYMLqSILxrD3RduWvLWwQ&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiT-gjuLlfXRKRRgmpAH7vfAmlxcKhj_m9wg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Guillermo Casta – Actor Español / Spanish Actor",
+        "url": "https://lens.google.com/goto?url=CAESWAHEIkXXZAkIbOz9ZiOM4EL3luIsatnGs2DQZSwUWp4xQPhIOYA8MHpioQv2dU3E6yAJ_2lNv-HLoAnMlZbRjfkI4baOuj4g330P5nKkfvFJqP8I7q1_W5U&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESWAHEIkXXZAkIbOz9ZiOM4EL3luIsatnGs2DQZSwUWp4xQPhIOYA8MHpioQv2dU3E6yAJ_2lNv-HLoAnMlZbRjfkI4baOuj4g330P5nKkfvFJqP8I7q1_W5U&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3P7EhuybysqS-hjr25WvkbGQE7jemTvLWmg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Modelling the impact of nature-based solutions on catchment ...",
+        "url": "https://lens.google.com/goto?url=CAEShAIBxCJF17UH22cgdz7-GrnWp5s0qeoBQDTqDD5JrU7qQJh32JB2LvhQ4YoJ7pOxSuehhRWmZM7NznaQk6MMKfRfxjQHUHrZkqUnUWF87yICapiHZh7h9i3TDszJ2xsLcEsMcAZCSwk4_MfgjetiXnY86ojitAEXat6YfwnDWfm0tLqsW0miN-pqIzL_oLD9M4udasSBGuB5MV3e6_RyfFa6Aw7KA8CzLaHgw-7P21x60YgSjcEU-Er4N8GxXOxOw4KZm9DAjxG81dKMR1Uw6q4JBZhk-YwRKiRZapVj3ekF6yjf57_pOsYHHJhUAm99LVSVqih631NX9_Hnca1mnWqVJlTITw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAIBxCJF17UH22cgdz7-GrnWp5s0qeoBQDTqDD5JrU7qQJh32JB2LvhQ4YoJ7pOxSuehhRWmZM7NznaQk6MMKfRfxjQHUHrZkqUnUWF87yICapiHZh7h9i3TDszJ2xsLcEsMcAZCSwk4_MfgjetiXnY86ojitAEXat6YfwnDWfm0tLqsW0miN-pqIzL_oLD9M4udasSBGuB5MV3e6_RyfFa6Aw7KA8CzLaHgw-7P21x60YgSjcEU-Er4N8GxXOxOw4KZm9DAjxG81dKMR1Uw6q4JBZhk-YwRKiRZapVj3ekF6yjf57_pOsYHHJhUAm99LVSVqih631NX9_Hnca1mnWqVJlTITw&gsessionid=76EWom7sJNuyD0x5-aEgOq5PXqDw0P55PquXnQSftjR8Qzkg1NhLLA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHJ9ybg_a3tJGR1ozDJrqhRayz0ikJdxQIpQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 2,
+            "result_count": 58,
+            "raw_result_count": 58,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 92,
+              "lens.google.com/goto": 58
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 2,
+        "result_count": 58,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 92,
+          "lens.google.com/goto": 58
+        },
+        "exact_matches_result_count": 58,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 58,
+        "google_goto_candidates": 58,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 58,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 58,
+        "google_wrapper_count": 58,
+        "google_goto_url_count": 58,
+        "result_url_paths": {
+          "lens.google.com/goto": 58
+        },
+        "result_hosts": {
+          "lens.google.com": 58
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Dìdi 弟弟"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "play.google.com": 6,
+          "www.google.com": 2,
+          "zh.wikipedia.org": 1
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "no_tmdb_id",
+        "tmdb_ids": [],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 0,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "candidate_identities": [],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "no_official_results",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Dìdi 弟弟"
+        ],
+        "year_hint": null,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 1,
+        "organic_result_count": 9,
+        "candidate_url_count": 9,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "play.google.com": 6,
+          "www.google.com": 2,
+          "zh.wikipedia.org": 1
+        },
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "disabled_by_configuration",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 2,
+            "result_count": 58,
+            "raw_result_count": 58,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 92,
+              "lens.google.com/goto": 58
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 2,
+        "result_count": 58,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 92,
+          "lens.google.com/goto": 58
+        },
+        "exact_matches_result_count": 58,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 58,
+        "google_goto_candidates": 58,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 58,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 58,
+        "google_wrapper_count": 58,
+        "google_goto_url_count": 58,
+        "result_url_paths": {
+          "lens.google.com/goto": 58
+        },
+        "result_hosts": {
+          "lens.google.com": 58
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Dìdi 弟弟"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "play.google.com": 6,
+          "www.google.com": 2,
+          "zh.wikipedia.org": 1
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "disabled_by_configuration",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Dìdi (2024)/Dìdi (2024).json"
+}

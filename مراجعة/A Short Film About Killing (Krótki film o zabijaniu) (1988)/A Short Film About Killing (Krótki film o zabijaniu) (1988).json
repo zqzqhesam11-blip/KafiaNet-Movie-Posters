@@ -1,0 +1,1271 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:24:06.645512+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
+    "image_path": "مراجعة/A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/A%20Short%20Film%20About%20Killing%20%28Kr%C3%B3tki%20film%20o%20zabijaniu%29%20%281988%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29_4.jpg",
+    "original_image_path": "A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg"
+  },
+  "original": {
+    "folder_name": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "Neither Google Lens nor its title-derived search produced an official TMDB/IMDb movie ID",
+    "candidate_ids": []
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "A Short Film About Killing (1988) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXjCj_YXPjfDkBJwwV6HHlIA5pi2MgFd0DsHwjQUFeNYIS5KhtBpYeouuqhSdGiWHwMuXmUTQj1tDf92_ZDCIy4mtZ1euzyL6p2LLFojH1PL1hX-FjzPhtx8BZ8C4&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXjCj_YXPjfDkBJwwV6HHlIA5pi2MgFd0DsHwjQUFeNYIS5KhtBpYeouuqhSdGiWHwMuXmUTQj1tDf92_ZDCIy4mtZ1euzyL6p2LLFojH1PL1hX-FjzPhtx8BZ8C4&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Most \"Adum would love this\" film Adum hasn't seen? : r/YMS",
+        "url": "https://lens.google.com/goto?url=CAESmQEBxCJF11chGtbspCelWl-E6HRuiNA7qvY-jiofZU0YuQz2_eCf0Cm_Q2ktyllUgRtAMmYaJVpjZhUcq5cNiSokNevEZWPaEE7C-ROvUgAprQJp8C6eVbXYo2dFwu7VrIsJ3di8flGeBRHZHQV931w2U1v8RNvuTZ9UzBCGZt4L6c97WVmnrIva_A8M9bjD1ibLrTlWOdGBAEA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmQEBxCJF11chGtbspCelWl-E6HRuiNA7qvY-jiofZU0YuQz2_eCf0Cm_Q2ktyllUgRtAMmYaJVpjZhUcq5cNiSokNevEZWPaEE7C-ROvUgAprQJp8C6eVbXYo2dFwu7VrIsJ3di8flGeBRHZHQV931w2U1v8RNvuTZ9UzBCGZt4L6c97WVmnrIva_A8M9bjD1ibLrTlWOdGBAEA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing / Krótki film o zabijaniu - Theme ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXF95pwTkevGihTHu6xfYuC6O97utM7MH7VLmphiou3Qcd0lHbLss4eipAPfvTEBZ2y5eWaDOVJ1Bvq-iy2VFBZ4DVa2Yfk667hvCzd3VhHsUmdhd6mydBl9r22j79AFgcxd8&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXF95pwTkevGihTHu6xfYuC6O97utM7MH7VLmphiou3Qcd0lHbLss4eipAPfvTEBZ2y5eWaDOVJ1Bvq-iy2VFBZ4DVa2Yfk667hvCzd3VhHsUmdhd6mydBl9r22j79AFgcxd8&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing - ภาพยนตร์ใน Google Play",
+        "url": "https://play.google.com/store/movies/details/Short_Film_About_Killing?id=E504ABC08C3C3F46MV&hl=th",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/Short_Film_About_Killing?id=E504ABC08C3C3F46MV&hl=th"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/Short_Film_About_Killing?id=E504ABC08C3C3F46MV&hl=th"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/Short_Film_About_Killing?id=E504ABC08C3C3F46MV&hl=th"
+      },
+      {
+        "title": "Kieslowski: Dialogue (1991)",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXE0zJHlFA2GJWQpFxDCz_LKaK_9KLkPRwfpZiKSqesJdYk0PhGutWMIABg8k28U168DtpGQ-cm59F0WDzhqZZcJmEUB6FQZ9rsqfmVllT01OJ6_Q5b9XHFsYibnQJ5q4&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXE0zJHlFA2GJWQpFxDCz_LKaK_9KLkPRwfpZiKSqesJdYk0PhGutWMIABg8k28U168DtpGQ-cm59F0WDzhqZZcJmEUB6FQZ9rsqfmVllT01OJ6_Q5b9XHFsYibnQJ5q4&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Internationally acclaimed Polish film maker Krzysztof ...",
+        "url": "https://lens.google.com/goto?url=CAESzgEBxCJF10B_pJbcDtW3np17BJzhioyjBEqKWxr_NdDDPABVL2FyG88OTS2ZPeI1Vsm9nkNu9qO-oy1mgOBVvQS0alLzqMQwd7MHWgCzU4ny-Gt96bBfbEw3ahD3VAhF2pfvvr1P_GaJhtdAxblcQ3S1sgRAHeYD8maYffpmv6jy4AUNr5lYR-GaI-tpcOoz5z2dFk-0t-68i5iQInosm934cGNJ4kmnnML9xul2lbJ8Iod-8zlM5gC42WMWC_tVWRD7-Jd9YXmS0-UNnX8Y1A&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzgEBxCJF10B_pJbcDtW3np17BJzhioyjBEqKWxr_NdDDPABVL2FyG88OTS2ZPeI1Vsm9nkNu9qO-oy1mgOBVvQS0alLzqMQwd7MHWgCzU4ny-Gt96bBfbEw3ahD3VAhF2pfvvr1P_GaJhtdAxblcQ3S1sgRAHeYD8maYffpmv6jy4AUNr5lYR-GaI-tpcOoz5z2dFk-0t-68i5iQInosm934cGNJ4kmnnML9xul2lbJ8Iod-8zlM5gC42WMWC_tVWRD7-Jd9YXmS0-UNnX8Y1A&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXhPeq2fkP5diThGGJxiyWhRUKnxI8HVBe3xwHtl76LNm8SFCW_dPIEO61Ireb7aglhprmCJna3cqG2E5Pym11cff6hnYMsd9G_Bk8egZXwayQUOWUnDBWwUBzJjTaAhzPbAo&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXhPeq2fkP5diThGGJxiyWhRUKnxI8HVBe3xwHtl76LNm8SFCW_dPIEO61Ireb7aglhprmCJna3cqG2E5Pym11cff6hnYMsd9G_Bk8egZXwayQUOWUnDBWwUBzJjTaAhzPbAo&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A SHORT FILM ABOUT KILLING- Limited to Japan promotion Mini ...",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXwwILo9u7PCslKjEm6ZH63w4ZnkSRdVj7tJXc0SZwWUaIrYCgKj7W3suEENEtdswVjv9jt6dU94Rnw-XYTe9aWXZVl2qm9qudik5e4wEs7fZMJsVN_1JnWXEKylI&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXwwILo9u7PCslKjEm6ZH63w4ZnkSRdVj7tJXc0SZwWUaIrYCgKj7W3suEENEtdswVjv9jt6dU94Rnw-XYTe9aWXZVl2qm9qudik5e4wEs7fZMJsVN_1JnWXEKylI&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988)",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXGudCGId1HQWtzsoUvDT8rAZq3v_al3K-rTj0HdKw679U3__OmfjqNxORLFX0mqaYKplCje8vVaDi7iJGcgofjM6OTqBuDTta1zEf8iKFO3MMPMHrEGzsclMYxBhrUqN_XU_NE1UkvOF9P_0LvBUIpEtcWMVM&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXGudCGId1HQWtzsoUvDT8rAZq3v_al3K-rTj0HdKw679U3__OmfjqNxORLFX0mqaYKplCje8vVaDi7iJGcgofjM6OTqBuDTta1zEf8iKFO3MMPMHrEGzsclMYxBhrUqN_XU_NE1UkvOF9P_0LvBUIpEtcWMVM&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYQlqMvnzc8l_4cJbfJ6csv257RVV-5Pl-g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing Alternative Film Movie Print Wall ...",
+        "url": "https://lens.google.com/goto?url=CAESqAEBxCJF1xAoTjIHEbdvp-A1Y8tWNvFXjiKCm-PVEeVIrnxD5E1AiKh6hFiokpNTWG9Qp7IBXYVZXtxJ293_i7TgTND5JARQCE7OAHX2mlaGnezFEPaqATrH7gofgg3WI-eNgK0p8P3E2wb2OWmSI72sgsXNm6fzsGh8jkfB4t_kf6BtMTh2QXO6zFAnrHke_bL2K5HPyvZcbik_bU062RSWncMIJ_VtCOk&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqAEBxCJF1xAoTjIHEbdvp-A1Y8tWNvFXjiKCm-PVEeVIrnxD5E1AiKh6hFiokpNTWG9Qp7IBXYVZXtxJ293_i7TgTND5JARQCE7OAHX2mlaGnezFEPaqATrH7gofgg3WI-eNgK0p8P3E2wb2OWmSI72sgsXNm6fzsGh8jkfB4t_kf6BtMTh2QXO6zFAnrHke_bL2K5HPyvZcbik_bU062RSWncMIJ_VtCOk&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6rzklsHT44rRJWXl7tGiozL9zEAauv2rp1w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "\"Krzysztof Kieslowski A Short Film About Killing \" Poster for ...",
+        "url": "https://lens.google.com/goto?url=CAESrQEBxCJF12qaIOYrEQDeYprO6m5fvfTN6T27qRllSmB-MJJWBjoJdiCGGTsOrsD79-TBEO0HVE-axciUskRskQgTvvrGf_K2YoTDy60tqjeTaOzTdY-ifUPimy_1G16qp6kSm0RNC5r2kW0cbQRu5RyUkgsGARug0e_16XgC4PFh39JObEt6IX8h4wegasNFgBrn27hgRCFgk-2SPKc0NSNwHjg-lsS5ydCMNTNCQA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrQEBxCJF12qaIOYrEQDeYprO6m5fvfTN6T27qRllSmB-MJJWBjoJdiCGGTsOrsD79-TBEO0HVE-axciUskRskQgTvvrGf_K2YoTDy60tqjeTaOzTdY-ifUPimy_1G16qp6kSm0RNC5r2kW0cbQRu5RyUkgsGARug0e_16XgC4PFh39JObEt6IX8h4wegasNFgBrn27hgRCFgk-2SPKc0NSNwHjg-lsS5ydCMNTNCQA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMz9Eym1oIrMOI_uB4CSWLpfc2_5N1UrgYQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (Blu-ray) | BFI Shop",
+        "url": "https://lens.google.com/goto?url=CAESdwHEIkXXiEaHQeeK-xzvime38YtVNUSPgxhL_Qz-9OQrccp86Ql0jQ9BvIRA1MPKtBNJXyp3y3YYSI98xzRF3ZXFO1jQv7vAyEHg4ZVaTClUTOrJoMz3Pvml7XXuYRyUNZdy7eYir_xC93B8EsoBXt5Injm-0RZW&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdwHEIkXXiEaHQeeK-xzvime38YtVNUSPgxhL_Qz-9OQrccp86Ql0jQ9BvIRA1MPKtBNJXyp3y3YYSI98xzRF3ZXFO1jQv7vAyEHg4ZVaTClUTOrJoMz3Pvml7XXuYRyUNZdy7eYir_xC93B8EsoBXt5Injm-0RZW&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiyT6ZZ9qV42ISsIv3yDZkzdaUIcNFo1twxA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing : Amazon.com.au: Movies & TV",
+        "url": "https://lens.google.com/goto?url=CAEShQEBxCJF1zz-1gQanEYoDIGavQArym2Cq8pL6MrxdvJ4ExsiLTh-0mQGBGCSbk6zr0vzheKFKVsJiWHzH1HJmISeyhVm_SlmpkqOor05VLcWTq5TQW8zmKKHOQMEh4ZmU_twrJfuli6Q30RhivX1X5Fl8g12IkUgB-aFF6fEJvjw6SF7RxKD&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShQEBxCJF1zz-1gQanEYoDIGavQArym2Cq8pL6MrxdvJ4ExsiLTh-0mQGBGCSbk6zr0vzheKFKVsJiWHzH1HJmISeyhVm_SlmpkqOor05VLcWTq5TQW8zmKKHOQMEh4ZmU_twrJfuli6Q30RhivX1X5Fl8g12IkUgB-aFF6fEJvjw6SF7RxKD&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepiaQJvXSR0HVRhJB18Vej6G3jikGbgVnJA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film about Killing on Cinobo | Watch the film online",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXX_bFY50_uVKhz6YjVMAXuWBeyJUgK9n94Vfezt3PBdGDLT-0OqL3eL-sb2ym72tEz4QsFbaer68AGdRYKpwo1Hff2ZD2H85JyHRiovG-coX6MhV8rFcjOIwG85Tk4A0H3OtIw63RgC4KjDMAD9Q&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXX_bFY50_uVKhz6YjVMAXuWBeyJUgK9n94Vfezt3PBdGDLT-0OqL3eL-sb2ym72tEz4QsFbaer68AGdRYKpwo1Hff2ZD2H85JyHRiovG-coX6MhV8rFcjOIwG85Tk4A0H3OtIw63RgC4KjDMAD9Q&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d0BW3uZmQ23MVJrrveQF50_LAUPvh2tdhA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film about Killing 殺誡(1988) 160 **** – 電影、表演直觀",
+        "url": "https://lens.google.com/goto?url=CAESnQEBxCJF19zo0jovvJ4TM4L5iZJ0w1_ZE1p8nfGeABge90xZAHmQFiNgR6TV5c-1wPHD6pKc1QccdocHyMavCpPXHxKb019_WAltkj5OIoQasrwDsOPrO4_Q5zvTDVJlmIZc-PRAcVBdruDZEfHEcYDOuHCV7JticMrYoxtnid5_mtRdYq48n1yuakqV5I8giiy71uH74ej36bvpl1YQ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESnQEBxCJF19zo0jovvJ4TM4L5iZJ0w1_ZE1p8nfGeABge90xZAHmQFiNgR6TV5c-1wPHD6pKc1QccdocHyMavCpPXHxKb019_WAltkj5OIoQasrwDsOPrO4_Q5zvTDVJlmIZc-PRAcVBdruDZEfHEcYDOuHCV7JticMrYoxtnid5_mtRdYq48n1yuakqV5I8giiy71uH74ej36bvpl1YQ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzrCmw2FWCUJQtAXwwWaEr9qNxmhvktTFGDg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "80s Polish movie posters were uhhh really something else ...",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXcK_UHfq3CJ3wUgXfTw0xoEb8HqOJF_0-iicsKVKBChxWyyM24YVKle4PMDyc3sWX9drOHOnkpMcyIb9J0Z5TQXYCXttT8EUMpceRCIYuasSe5uVj-rVe-4LoDxc0z0A&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXcK_UHfq3CJ3wUgXfTw0xoEb8HqOJF_0-iicsKVKBChxWyyM24YVKle4PMDyc3sWX9drOHOnkpMcyIb9J0Z5TQXYCXttT8EUMpceRCIYuasSe5uVj-rVe-4LoDxc0z0A&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqRKL1jql2DfodI49v0xU3Qi1KrUTEf0W89A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski | TikTok",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXJAGm_XT4FVwQOv0v3kNba8VRdM7rWh8wi0hTIPOzmXKe9tUu3dslVWIfLjjdozYkUNqsp-J8t3oxaA3pZSKzdMi5WPiDJDf8szzH7umrYzb5F_L5qc_v6BwYbFmucz71KqGRSFTUidaSoHw&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXJAGm_XT4FVwQOv0v3kNba8VRdM7rWh8wi0hTIPOzmXKe9tUu3dslVWIfLjjdozYkUNqsp-J8t3oxaA3pZSKzdMi5WPiDJDf8szzH7umrYzb5F_L5qc_v6BwYbFmucz71KqGRSFTUidaSoHw&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu29Lt367NFBlsruPvpeFt5mPpD8uvP6Misg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Poster – Cinema Quad Posters",
+        "url": "https://lens.google.com/goto?url=CAESigEBxCJF16bFUGiHpI_ZLeb23udJ8Aq37P7a1bMna382HBhearTtUwx6sZt9Bx-0hl-qEeo5-YWEV6mQuSAMSRxJG3xXruHHXJTB--6uTASte_1a0tJ_tulYAPVXlZciYKWb7mloB3kXDqr8p5TxUxdVARu2YHLrSv-nCCuXE1DdOsJfFy6UVsc_1FE&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESigEBxCJF16bFUGiHpI_ZLeb23udJ8Aq37P7a1bMna382HBhearTtUwx6sZt9Bx-0hl-qEeo5-YWEV6mQuSAMSRxJG3xXruHHXJTB--6uTASte_1a0tJ_tulYAPVXlZciYKWb7mloB3kXDqr8p5TxUxdVARu2YHLrSv-nCCuXE1DdOsJfFy6UVsc_1FE&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiXHxT8mKFcN2rWOjFvtjbVGvrDXz1T0VTg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "En iyi Krzysztof Kieślowski filmleri | NTV Haber",
+        "url": "https://lens.google.com/goto?url=CAEStwEBxCJF18TFYHtiYS3ixFOwqO_v5kNgDNWL6V6mLzW9rCoTQPvu5pLHAqPAqqg11mUUVpKDxykKlTvqIqavrjFL1DmsUlc-rsbnaoBFz1j5o3MCA-NijeHo2xOUGZ0kscNrUzRw_sNqRsw9L509R5RkbShMi4NmPmErNzYQZxCr65sgDfXXaHGgsn__PfjvL-a7J5DeiGhPp7y-lOEVW-C-eihs7NH1SZKJ-V4GMp1YgLVT_eXMSWY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEStwEBxCJF18TFYHtiYS3ixFOwqO_v5kNgDNWL6V6mLzW9rCoTQPvu5pLHAqPAqqg11mUUVpKDxykKlTvqIqavrjFL1DmsUlc-rsbnaoBFz1j5o3MCA-NijeHo2xOUGZ0kscNrUzRw_sNqRsw9L509R5RkbShMi4NmPmErNzYQZxCr65sgDfXXaHGgsn__PfjvL-a7J5DeiGhPp7y-lOEVW-C-eihs7NH1SZKJ-V4GMp1YgLVT_eXMSWY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdZLO1QPRWdjQqyKOeHaVxDn2VID5T2IzVA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing - ricpiks",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXkeOS4--L34bRivUAHZ6SKG2ASD-IpYfzKrRCy8_Ulpd6cZh7-Bd99K-xoTtgjsFsCJ3lWwcTwrWAU15fsDtkrgB6yoqvHy0N9sARKWgXwSR6ORYTlq8-UyfR9I5k2k6Yj4AtC4r3&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXkeOS4--L34bRivUAHZ6SKG2ASD-IpYfzKrRCy8_Ulpd6cZh7-Bd99K-xoTtgjsFsCJ3lWwcTwrWAU15fsDtkrgB6yoqvHy0N9sARKWgXwSR6ORYTlq8-UyfR9I5k2k6Yj4AtC4r3&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVUGMkMsNDm-gHWCx8jaWvacgOS6XMvKxAg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Films of Krzysztof Kieslowski: A Short Film About ...",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF1_OsWFlgXS5fzSYYFU1HTKlwcmXvxIzN4zouz9nDpToANBhU4w2HUHS169Vd8jqj_irfspZnJRjo2UFEerQSk5LayUZ8UO__fZSZexN5jtEE2Uz7uO4OdDBgP4qb8MPljgKKLSY2pOKdvn7N1BK7bHxvKALL8Z1tdoi13bogzzz3cj2r&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF1_OsWFlgXS5fzSYYFU1HTKlwcmXvxIzN4zouz9nDpToANBhU4w2HUHS169Vd8jqj_irfspZnJRjo2UFEerQSk5LayUZ8UO__fZSZexN5jtEE2Uz7uO4OdDBgP4qb8MPljgKKLSY2pOKdvn7N1BK7bHxvKALL8Z1tdoi13bogzzz3cj2r&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgw6AuT_YpjW-gG21gKVsZWwPQ1BBHCpx_QA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Μικρή Ιστορία για ένα Φόνο (1988) hd greek trailer - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXncuJI24QK9FhG-cugYHtLLSS7mWPYwp1n7xOj41g58xeay_YIwk6qj8A1Uefiy_a5z1aL3oxN5RcoCnL7QdsAEljDopXQLjvCJUqzGEYybpmuyVtwAAVzMrpQwADeI8afGg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXncuJI24QK9FhG-cugYHtLLSS7mWPYwp1n7xOj41g58xeay_YIwk6qj8A1Uefiy_a5z1aL3oxN5RcoCnL7QdsAEljDopXQLjvCJUqzGEYybpmuyVtwAAVzMrpQwADeI8afGg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIu-6znE1fCFVnybu9oUMaoN8ShvRDxgMG1Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988) - Soundtracks - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXQVajVq7Pqa2lUEYP_xBLPHGkLN5Dp1_7lyesNG2bWugQhZVMd2vKdOZoM_T-rHJ06x94gS4ip6GS7GKT9VgLHrBJHHD-e9agwu7m823wE-wyaZd5zWyNd9KfMN4VfAS-UthdidHYIQ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXQVajVq7Pqa2lUEYP_xBLPHGkLN5Dp1_7lyesNG2bWugQhZVMd2vKdOZoM_T-rHJ06x94gS4ip6GS7GKT9VgLHrBJHHD-e9agwu7m823wE-wyaZd5zWyNd9KfMN4VfAS-UthdidHYIQ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPcUgQUk1jInxBqD5I1Taw__MMZND5a7FEPg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing – Cleveland Cinematheque",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXXqzMWMyxVEn7V53CuMvPqpbjgbvJCwlc0LzuYWIhdvBsTmwOC5rw2IxaTN3t8K77ui884rxCm18HoXxcowQikDGar5uYVHnaFpJYTUmu-n-9vJbuRiaNCMme5etGRYL9y7TnCDImkjl1i-GZWssgeyjtBsZueXg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXXqzMWMyxVEn7V53CuMvPqpbjgbvJCwlc0LzuYWIhdvBsTmwOC5rw2IxaTN3t8K77ui884rxCm18HoXxcowQikDGar5uYVHnaFpJYTUmu-n-9vJbuRiaNCMme5etGRYL9y7TnCDImkjl1i-GZWssgeyjtBsZueXg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIAxMJG6ilcDm3Evm1_QoTskDBcOlkVWBk1A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "SHORT FILM ABOUT John Bolton DVD Documentary, Horror, Horror ...",
+        "url": "https://lens.google.com/goto?url=CAESlQEBxCJF1ysrsrezl8giVQ_lsWawnxENkrAfAiSFJtA8KBENtqE6bRgLf0tyOT9re4xAMcd3I6KeuYnNiaOdY_fYlRuNFSdGIv1TQcNiimSkhJbJbu53eiNNkbRBtMffOPt9kou06dD5SY7IaAoiwOorYJv4EwK36EPn8PlWmpacJvW2PUkCVyeQKEJXoUhUHGDoxyP4TA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlQEBxCJF1ysrsrezl8giVQ_lsWawnxENkrAfAiSFJtA8KBENtqE6bRgLf0tyOT9re4xAMcd3I6KeuYnNiaOdY_fYlRuNFSdGIv1TQcNiimSkhJbJbu53eiNNkbRBtMffOPt9kou06dD5SY7IaAoiwOorYJv4EwK36EPn8PlWmpacJvW2PUkCVyeQKEJXoUhUHGDoxyP4TA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBVQpmRpnTJugBdGd520kPsRxXvwkEaZJIYA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski A Short Film About Killing \" Poster for ...",
+        "url": "https://lens.google.com/goto?url=CAESrAEBxCJF18cFH9Re5ktTXcszPDWX80prnVxfGEw-NkyTBZmotpjlVtBNNF-6XZTh7wzRMi8mjyDmYT0ny8j13ky9_fjtf-17cBkN-h0d-jNg4pKPpL1mE4o2RDEyvFsly6Bq1brJd3QuEu5l_sFWKLkBQYpb7M3Rew1buSLl8QX4SWPqYY569RAMlVbDFW-35N_zE7demePSSeTCv7lI7tLq8kc0Ns60OLKcCkcN&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrAEBxCJF18cFH9Re5ktTXcszPDWX80prnVxfGEw-NkyTBZmotpjlVtBNNF-6XZTh7wzRMi8mjyDmYT0ny8j13ky9_fjtf-17cBkN-h0d-jNg4pKPpL1mE4o2RDEyvFsly6Bq1brJd3QuEu5l_sFWKLkBQYpb7M3Rew1buSLl8QX4SWPqYY569RAMlVbDFW-35N_zE7demePSSeTCv7lI7tLq8kc0Ns60OLKcCkcN&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTth9V8SSIqf3-gTFoUAGT-RE1WFNS4Y2swyA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Four stories unravel. Fame, murder, memory and mortality ...",
+        "url": "https://lens.google.com/goto?url=CAESzQEBxCJF1xZ6YqK7h1deuun-9QaHna9_b45Vw2CctxWNOISABGYEMZiUKqOcKnzEcskrc_yS0vapcOrfsCYcm1nJ6cbv50tgO-7-LKuOaTK3MiK8xbKzK8jvsdFRpTIJ6f_V4G5X7Uul9E9P-zfpqaHQTeZ4bvDl5vUv6rDaJPZvg2YmnvXKNf5hyto-yyfw-QJ_Wuus7DC9UCgZcLcenNBADPjAQ4yRYaFVgqpz8_kx3rBwDDrs9uFavKVJpK0n3f0XXef2pBr0Oqp_oEmJ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzQEBxCJF1xZ6YqK7h1deuun-9QaHna9_b45Vw2CctxWNOISABGYEMZiUKqOcKnzEcskrc_yS0vapcOrfsCYcm1nJ6cbv50tgO-7-LKuOaTK3MiK8xbKzK8jvsdFRpTIJ6f_V4G5X7Uul9E9P-zfpqaHQTeZ4bvDl5vUv6rDaJPZvg2YmnvXKNf5hyto-yyfw-QJ_Wuus7DC9UCgZcLcenNBADPjAQ4yRYaFVgqpz8_kx3rBwDDrs9uFavKVJpK0n3f0XXef2pBr0Oqp_oEmJ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfGa0-pKLycEndMw9Gh5vfcWVHvAzb4HdJjA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing - The Disapproving Swede",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXTIpet21wu2rYUnTK27nOB3KE7c4OCDDEC9NeTZpINdDB8AXsafURmC7U9J4dbrrNqSMZi2dRstDTfo3_00WvGWE7ChFl-xOm0E1ato8lkLYxalP5Jeyc5CrA3rQsmiuYTusBcBVIL90D77ls--EWALAC-FY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXTIpet21wu2rYUnTK27nOB3KE7c4OCDDEC9NeTZpINdDB8AXsafURmC7U9J4dbrrNqSMZi2dRstDTfo3_00WvGWE7ChFl-xOm0E1ato8lkLYxalP5Jeyc5CrA3rQsmiuYTusBcBVIL90D77ls--EWALAC-FY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4pBuXsQ8dWF14caRr_oIs4jSEjiIys6c3aA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing - Where to Watch and Stream - TV ...",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF1zUzlyHVlTfHCH5qpWFfS3acnEFR6ehaabrs3DHFSf4LpWWMuQOTAQC4LC40c7M1bgitalXkQjG6Ky1x3tS9XfCgP-q09sFD4EIB21HGRJ0tXkGCdKHIqr4GqznouEUZNVVotxxRk8OteXaYMkdHfGVy-BSCqkfpHb5srfY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF1zUzlyHVlTfHCH5qpWFfS3acnEFR6ehaabrs3DHFSf4LpWWMuQOTAQC4LC40c7M1bgitalXkQjG6Ky1x3tS9XfCgP-q09sFD4EIB21HGRJ0tXkGCdKHIqr4GqznouEUZNVVotxxRk8OteXaYMkdHfGVy-BSCqkfpHb5srfY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP04gV5OOtrL86koXJwRhkmUHzjw6nCfnTTw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: A Short Film About Killing",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXDZ53IgPSlv37Offa9jEPABXl3YSVBOUbF0xoTVruQhWtTm9pIzvmC18stiqPqByYeCaFrLDqPSSASouC_iDE6XpLPwbiBcka4vEx9tCIXC1q6BYpbmEfHtcyk2xR801V6hiACRdSTr4qw9AwzGBAQXMPVw&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXDZ53IgPSlv37Offa9jEPABXl3YSVBOUbF0xoTVruQhWtTm9pIzvmC18stiqPqByYeCaFrLDqPSSASouC_iDE6XpLPwbiBcka4vEx9tCIXC1q6BYpbmEfHtcyk2xR801V6hiACRdSTr4qw9AwzGBAQXMPVw&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlHXtvLx2rWkGYJ1tqw5X5WP5WvQpvuyoPg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988) - Posters — The Movie ...",
+        "url": "https://lens.google.com/goto?url=CAESiQEBxCJF11fovWOBkE36k75KWqrB2vCUxQAIhTqHSOa9CMk9DX5AKIW1oH2CIun-9io4iEkjy2iho5UlyrAbhAmvy2b4XPZQfq5gTV4KITXQeCT-LfwKOPj0qKGc8y2Df2qHguzl5AqfkXP4kVh2lnFTtsa_NM0YrumqmEdgnONQtxMPuO1nzXyTPA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiQEBxCJF11fovWOBkE36k75KWqrB2vCUxQAIhTqHSOa9CMk9DX5AKIW1oH2CIun-9io4iEkjy2iho5UlyrAbhAmvy2b4XPZQfq5gTV4KITXQeCT-LfwKOPj0qKGc8y2Df2qHguzl5AqfkXP4kVh2lnFTtsa_NM0YrumqmEdgnONQtxMPuO1nzXyTPA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4pYZmW-G_mTfHVyhIvCVdP2djbQwg509yCA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Love - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXvCe0d06l8nyduiJLI_i_Aa04UW8rqPNxJm_cPzWUkGvmRP3eijMk-F15usIFDuGXQQDIUkE5Za83QjfljTriYEPvPXCDE6AwhsjTgKzXNd2RK9NsE6u3ZPrnNCt3Yfk6qPXd-gMZW27GMpPd&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXvCe0d06l8nyduiJLI_i_Aa04UW8rqPNxJm_cPzWUkGvmRP3eijMk-F15usIFDuGXQQDIUkE5Za83QjfljTriYEPvPXCDE6AwhsjTgKzXNd2RK9NsE6u3ZPrnNCt3Yfk6qPXd-gMZW27GMpPd&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlJdNUa5lnWkgeId132Z7gf98hkPQ7hS2sWw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "คริสซ์ตอฟ เคียสลอฟสกี ชีวิต การเมือง และสงคราม ในยุโรปบนแผ่น ...",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXGg8PRV-dOwdPPVep4_vYQpZr2bLzz9ntIkDo3pSGDRnTTbOyE4-PfA5nY_cHPmX3rlzv8A7CA-eMIywtZecor8g3Yf179XupVvvU_0Ozc3N2iS2M9YCNLIRgnbn--76eg5j5JgWfipsOMMJGHbMo2CHStQ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXGg8PRV-dOwdPPVep4_vYQpZr2bLzz9ntIkDo3pSGDRnTTbOyE4-PfA5nY_cHPmX3rlzv8A7CA-eMIywtZecor8g3Yf179XupVvvU_0Ozc3N2iS2M9YCNLIRgnbn--76eg5j5JgWfipsOMMJGHbMo2CHStQ&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPV8TGyyPJ0sUmbvkZ7SxwDf1sGrQRBXKHog&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing: Amazon.it: Movie/Film ...",
+        "url": "https://lens.google.com/goto?url=CAESfQHEIkXXiW_tSAciyaJlWu0zM55QG4ZU49eamnP5AKjn0JPwqdpI_ABBM8klu3KuX22uzsg8d7lmCvlgZN5ammD4_Mobc5GonTguEzm_FWseIk8SSw2QQDAuAqOL2a_zF7gnOiaXQMUh3zL5yYHWR1o2m55y5z8fYs2vtcXp&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfQHEIkXXiW_tSAciyaJlWu0zM55QG4ZU49eamnP5AKjn0JPwqdpI_ABBM8klu3KuX22uzsg8d7lmCvlgZN5ammD4_Mobc5GonTguEzm_FWseIk8SSw2QQDAuAqOL2a_zF7gnOiaXQMUh3zL5yYHWR1o2m55y5z8fYs2vtcXp&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg-PtepC376WTyppwM74Ja1BqY-1qFN5tPLg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing – Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details/A_Short_Film_About_Killing?id=mPv4W2prbrg.P&hl=en_SG",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/A_Short_Film_About_Killing?id=mPv4W2prbrg.P&hl=en_SG"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1FyeJAhx5-cnlY2_AR-8ho_tv3_BNXD1FAg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/A_Short_Film_About_Killing?id=mPv4W2prbrg.P&hl=en_SG"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/A_Short_Film_About_Killing?id=mPv4W2prbrg.P&hl=en_SG"
+      },
+      {
+        "title": "Krzysztof Kieslowski iPhone Cases for Sale | Redbubble",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXXb_TfD-AEzkZn_r50CNcChABc47X3klWnuBvxPq1ym3bAkVr4BbZQeNIgWjsD1TIsXlZWsn4-jVaGgETG7Uhn5C3kfVaaV_tsNJZckjtA02JWnZxlTJ89L-TgB6OeiMi0bB0PcFEgU9mrQ3PqGD0pIkYH2or0rTg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXXb_TfD-AEzkZn_r50CNcChABc47X3klWnuBvxPq1ym3bAkVr4BbZQeNIgWjsD1TIsXlZWsn4-jVaGgETG7Uhn5C3kfVaaV_tsNJZckjtA02JWnZxlTJ89L-TgB6OeiMi0bB0PcFEgU9mrQ3PqGD0pIkYH2or0rTg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvrKcnTZGc_jLptanw6-NS__2j4E10G_xx7A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Rövidfilm a gyilkolásról (film, 1988) | Kritikák, videók ...",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXolPlzGRcnPIbgMyaydv2BbmasAuPJ150KqV-0C86lEUkXpbb5EpLWBzdr9tHj6vmxet08JmmTYYee4J8ZfbYG2WRXO1bU4iRCRX-KIW-ur8S9Z4x5GSIxaJXDA0tvId6PNJbbxNwbpWpfqCwkC-qmwPeqYtA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXolPlzGRcnPIbgMyaydv2BbmasAuPJ150KqV-0C86lEUkXpbb5EpLWBzdr9tHj6vmxet08JmmTYYee4J8ZfbYG2WRXO1bU4iRCRX-KIW-ur8S9Z4x5GSIxaJXDA0tvId6PNJbbxNwbpWpfqCwkC-qmwPeqYtA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvyDx7PFV0L2Bb1iC-w2oa95TvM_X9X-Ky7Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Love (1988) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXX6kRRgo76JY8WF1GtVDjHy_gXV_Q54QvPM-YDFwe4orDwfC5i6OJuGqHcvx6sM4_lnTDxQOFcjFCY7jO1sfsiYIluvE1q2S2hMkSqrzFn5e4hjoP1v_pBfW-fUic&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXX6kRRgo76JY8WF1GtVDjHy_gXV_Q54QvPM-YDFwe4orDwfC5i6OJuGqHcvx6sM4_lnTDxQOFcjFCY7jO1sfsiYIluvE1q2S2hMkSqrzFn5e4hjoP1v_pBfW-fUic&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTC2KfUQyuQkt7Ub0pLGtEmRrrSLHzPg5tfw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Where to Watch A Short Film About Killing (1988) - Plex",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXX5I_57k-7Eus-S1DHG4dHEae3MBgdIkb-IfV54LRI2UbnyeKjidyNja_r1IHpnYJdoiMk4NqzoW1YG-IWYpYWGjcxVLZRECsxsVVTHy2-ANImA05D9LZraDF2uLNs6yLJ_JeuW0koA7w1nSY7Hg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXX5I_57k-7Eus-S1DHG4dHEae3MBgdIkb-IfV54LRI2UbnyeKjidyNja_r1IHpnYJdoiMk4NqzoW1YG-IWYpYWGjcxVLZRECsxsVVTHy2-ANImA05D9LZraDF2uLNs6yLJ_JeuW0koA7w1nSY7Hg&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93cz49Erg40Sm38MGIoO2VtqJggVCBnrZtw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing | Kanopy",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXaZ2g1Wa9oucwR1Fab83Z_s_swe2wQMKIYypKufLV9g3R9HD4GyOQPYeAkUICN9p-EVuK2yKsY5znNZgvaEsIK9RIXG9l_GccCWPkBpykSTc0pG1aIiRVdKfmjA9SUb2LAUeBx7jmkpY4TFRZvsA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXaZ2g1Wa9oucwR1Fab83Z_s_swe2wQMKIYypKufLV9g3R9HD4GyOQPYeAkUICN9p-EVuK2yKsY5znNZgvaEsIK9RIXG9l_GccCWPkBpykSTc0pG1aIiRVdKfmjA9SUb2LAUeBx7jmkpY4TFRZvsA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1fxDz6g5P0ukT70RQCas1bPYwurePwQKPSw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "De films van Kieślowski | Eye Filmmuseum",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF1w8C-XXuG9eeNjp-ZdIfUgxEEDbvQlC4FYbcK6YSbFn2RNVTOGoRQzTCJU5eWYLKKHlBz0nYR_1NbsONwO7UdwT8FrIO7-SojHL-cSfgHG7Y1htcO9dKiIkmZMPfqSJ9i8izQMjz0Mn01hQSRScjvN4QlJLaZES868s4rRQg0br5DVsx&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF1w8C-XXuG9eeNjp-ZdIfUgxEEDbvQlC4FYbcK6YSbFn2RNVTOGoRQzTCJU5eWYLKKHlBz0nYR_1NbsONwO7UdwT8FrIO7-SojHL-cSfgHG7Y1htcO9dKiIkmZMPfqSJ9i8izQMjz0Mn01hQSRScjvN4QlJLaZES868s4rRQg0br5DVsx&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1ZssGI30kvsv_XSrz65mcOvs8chheM2e6Zw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Kolla Malayalam Movie",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXdfZJhi_QW_38ToJCqasRSWCCTC-62ouD-XydozztXEj0Df2_PY-_Z2pGxs5i21iXeYogutc2YA0j085a1Kd42w5ynH7gBuA0Eev-f61xseLPqnr51jhXdNXZQremsuC2yw1vWk1DWfHdL9vVLGuD&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXdfZJhi_QW_38ToJCqasRSWCCTC-62ouD-XydozztXEj0Df2_PY-_Z2pGxs5i21iXeYogutc2YA0j085a1Kd42w5ynH7gBuA0Eev-f61xseLPqnr51jhXdNXZQremsuC2yw1vWk1DWfHdL9vVLGuD&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSn5bAjs32AU5SwoWrBv5pc86xmW1QhoyjLA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "杀人短片(1988) - 标志— The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESqAEBxCJF12HQnlLV5vNBjwhkWLl73RErJZWq7sdlQiZ9QMcWWTtc3vERJ2thVAE-gx6wZW_Fb6pdX32khIGuDFKz8o3fGlakfsyRUWzXhXXsiuUcjiMJu3Tx8Qg9VsNBOtiFJiB1DA2WSpq40sYeAXU1NnC4OTDOEO5sFzW98_XBDXozKP8bVDumLpFnCv4L4MnLcV_01Ph3GfIwNExy7UuNebtyuMooA60&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqAEBxCJF12HQnlLV5vNBjwhkWLl73RErJZWq7sdlQiZ9QMcWWTtc3vERJ2thVAE-gx6wZW_Fb6pdX32khIGuDFKz8o3fGlakfsyRUWzXhXXsiuUcjiMJu3Tx8Qg9VsNBOtiFJiB1DA2WSpq40sYeAXU1NnC4OTDOEO5sFzW98_XBDXozKP8bVDumLpFnCv4L4MnLcV_01Ph3GfIwNExy7UuNebtyuMooA60&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwiP8stQPm2XyHS8le6F-TMPOz5iEm7DgzPw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988) - Krzysztof Kieslowski ...",
+        "url": "https://lens.google.com/goto?url=CAEShQEBxCJF13t6jy3PzjVz-796Zekj9EKPutpRDKMh5YgM1nYLgzJmsRewm1Vp99W7IHI-YKZJqIeqvBfuiax8UWnRYS0BZ82d9J8lgWnUWWDT_dUGPj_yVwmDhDuvcm3UjRyvs99L2VaOGIg_wEr0IhfZVIXu6F0zMpg1Jclb-7I7HQjZ6zfO&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShQEBxCJF13t6jy3PzjVz-796Zekj9EKPutpRDKMh5YgM1nYLgzJmsRewm1Vp99W7IHI-YKZJqIeqvBfuiax8UWnRYS0BZ82d9J8lgWnUWWDT_dUGPj_yVwmDhDuvcm3UjRyvs99L2VaOGIg_wEr0IhfZVIXu6F0zMpg1Jclb-7I7HQjZ6zfO&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocUPFoYq3qeImm3W4vAbhQir2VIZ4uzt2hA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Killing | Kubrick Wiki | Fandom",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXaNsJsW2mACBUFWmYwxq0sN99Jm90AMZ_C5KnJB-jAiSN9WkMKmRGt9DtG1rlyrGe7dY-MyklImBqAtbC7N17mYqZT9Mt--z6WmTQML2eG4Q_lGhL3ynJrQMLAdKsmosfMdY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXaNsJsW2mACBUFWmYwxq0sN99Jm90AMZ_C5KnJB-jAiSN9WkMKmRGt9DtG1rlyrGe7dY-MyklImBqAtbC7N17mYqZT9Mt--z6WmTQML2eG4Q_lGhL3ynJrQMLAdKsmosfMdY&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNLY4w0O16Dro_Ur9oO0hEkRyawwH77N_c6Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "🎬 A Short Film About Killing (1988) / dir. Krzysztof Kieslowski",
+        "url": "https://lens.google.com/goto?url=CAEStwEBxCJF1yhWq0yLgfeI3ScFo00gwI4cvVKaAjvqr08zxXw4sfCYyZsWdOG9EQqjzUgbIL7gzEmCURwdutOXZBpLoyJ1Li96zJsEByNAKVBBu4UVFaZSl2z0Ip20tfJhxaxZeZCQxY_AKPTGu_sXMRkQQ4QF3S1azltmN0UqNC6rjgu3HX025qvqGkxpBMJdQnG7VGS9WDIHLCGRLXVlvFVe0mFDli8JxPC-Q1UscYjyKqU5olajqXI&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEStwEBxCJF1yhWq0yLgfeI3ScFo00gwI4cvVKaAjvqr08zxXw4sfCYyZsWdOG9EQqjzUgbIL7gzEmCURwdutOXZBpLoyJ1Li96zJsEByNAKVBBu4UVFaZSl2z0Ip20tfJhxaxZeZCQxY_AKPTGu_sXMRkQQ4QF3S1azltmN0UqNC6rjgu3HX025qvqGkxpBMJdQnG7VGS9WDIHLCGRLXVlvFVe0mFDli8JxPC-Q1UscYjyKqU5olajqXI&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkaV21ExtVOIuZTubMhUh1uhPDkpP_2PH36g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "How not to make a short film : secrets from a Sundance ...",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXywA90PFh6eDb5XJ21wnqNLUvysWrdc1DvGldQ-YXwPCqNGr2mbAu2srIw64I-fIqU7d2JPfectCiUr5TvzcXP7KjXbozl5Pen__WbHekmij8UsjQ_763EEpup81WBOGx1GElan6MZ3-ngSE&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXywA90PFh6eDb5XJ21wnqNLUvysWrdc1DvGldQ-YXwPCqNGr2mbAu2srIw64I-fIqU7d2JPfectCiUr5TvzcXP7KjXbozl5Pen__WbHekmij8UsjQ_763EEpup81WBOGx1GElan6MZ3-ngSE&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCUGglyJCJ4SkgF748RjSVVewOVeKBv9jISg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "สัมผัสความกลัว 2 มิติกับหนังสั้น “Fear” ผลงานมัดหมี่ พิมดาว",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXRQa4YL3xeHO0lEZEeLTmHrAvV_-ZHCMrC46fR41f90nftswK46JzP0mBqMrSLWwJFLWh5RHfikFe9Yb1ldRoTXZ6HcrXXK_oLlKo_X1oKGuZYQd7bA88UMzrdU3Rdx1nUw&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXRQa4YL3xeHO0lEZEeLTmHrAvV_-ZHCMrC46fR41f90nftswK46JzP0mBqMrSLWwJFLWh5RHfikFe9Yb1ldRoTXZ6HcrXXK_oLlKo_X1oKGuZYQd7bA88UMzrdU3Rdx1nUw&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWuv60KeVbu7hZn8DjMzWn5D-8G3UBCLFz8w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Three Colors | The Criterion Collection",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXX84mPZklHFdSAl8Xua4dr3ABM_RNOQsuuwIRxtONaH4FjUKDBGoke_4x56WgbvRYK_iKGu-USNYWyNJS34JQtWqkLeVBKaC0dG-9iBsY9IuuRt77aafx1VUzf89JQzLyaLt8xE6kJBdA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXX84mPZklHFdSAl8Xua4dr3ABM_RNOQsuuwIRxtONaH4FjUKDBGoke_4x56WgbvRYK_iKGu-USNYWyNJS34JQtWqkLeVBKaC0dG-9iBsY9IuuRt77aafx1VUzf89JQzLyaLt8xE6kJBdA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91v5Bw2bd3VXHbzA_IlflpTOWCM4nBqjPOg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "ทรีคัลเลอรส์ - วิกิพีเดีย",
+        "url": "https://lens.google.com/goto?url=CAESxwEBxCJF1--kdI8YZDzE1WugQG4RgpUcwcegE4nomMGL7-9dGJfYuVmOT9vUtunEZ1rl0hC0GhLyuN2KBZEvYpXjcv-O4jZijReDsKFZ4rc8vrOg6IYiswi7uMvZjRE0Ou5tsFQdZNDXTfdossu4UavTBAx4DnSv5PPrmBEJ90yBZacEv0M60J6BLT2hxF3biZyCIcYjUbpn2VYzTm70BYxmJgmEVlQw1eeWaIqecw6PIPfBYKRFz0wJrZtly3HCy9PL98-bj3QF&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESxwEBxCJF1--kdI8YZDzE1WugQG4RgpUcwcegE4nomMGL7-9dGJfYuVmOT9vUtunEZ1rl0hC0GhLyuN2KBZEvYpXjcv-O4jZijReDsKFZ4rc8vrOg6IYiswi7uMvZjRE0Ou5tsFQdZNDXTfdossu4UavTBAx4DnSv5PPrmBEJ90yBZacEv0M60J6BLT2hxF3biZyCIcYjUbpn2VYzTm70BYxmJgmEVlQw1eeWaIqecw6PIPfBYKRFz0wJrZtly3HCy9PL98-bj3QF&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQItYomB-5BARNFjABNi0AxRTZicjaSLhCpNw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "รวมหนังแนวโศกนาฏกรรมสงครามห้ามพลาด : Schindler's List , The ...",
+        "url": "https://lens.google.com/goto?url=CAESXQHEIkXX6Y0gpLunWeRhhIwi0chHol_UA6mkg6RaG88f0PMpq_ApaqP5y8gRGiN8_cdYKo6FrAs70FsSTNKCzcalvhGi8Hzxd-Yk-NkgH66AsfTFxdpCGsbP0eV-yA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXQHEIkXX6Y0gpLunWeRhhIwi0chHol_UA6mkg6RaG88f0PMpq_ApaqP5y8gRGiN8_cdYKo6FrAs70FsSTNKCzcalvhGi8Hzxd-Yk-NkgH66AsfTFxdpCGsbP0eV-yA&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCG07XaOKyFbROxZes7m1bV2ffP4tq5Ccebg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "หนังน่ากลัวที่สุดตลอดกาล # 24 : Peeping Tom [1960] - เสียง ...",
+        "url": "https://lens.google.com/goto?url=CAESrAQBxCJF11NiCHmkSsJgZP-H58lWSND9l9f4grqWWIEQ0HJbIozq_cNCRoPxGfeu4jfWj7812kjFFBwvc6dUbgVBAxvP1n6OSn_46BvGXZdbnSevr9tRc3Af9tMlw2PmN7Bq_8i5vLK2J8AcrhvVxeAzFmjpDlMVFEp9xE3rwGOj0fI90pqu-ie11hGrdf4WNUKCntSI53AtdPmRsogH9e4hO68Ef3f_lgLsdbTdkA9Andp1LF8ceOS_E-Afg-TwOkp7XWPVZYUhPTbyj-mOmfBbEBipjpq0pUhv3k7nIfyj74z6-_Hy5qxxk960caD9nKS8Wa2wfhM-YAiRuhwE4X_0mk7EBa80mFUh3lMHj44LT04iaH5ZANz6t8kMDC9eqEkzQQ4_cbkKw63W5CmPbfE580Gz4D58b-YOstJu9mgtnZY6rThR7iYGjPjXkn0lxlk8TdWZhGOSjFB5Xc-iWfcmZp9OdaLXerM-py8LujYWr2JLutzHayH1ADSpsxGe37kE29Xru791srRxravkAMKr2sXFr45mnZtfO46Y0r2uY68GJ7wfNK9G8sLTKrYWR6zcTNiQYdZg3j_p9zCHgNf9F_kJUYIhqLHomu8yS7DDiedyts7jb4bbyVTVaZma0EnmmJSADEXSkvwjFVMRoSW2V8xJXl79UtR1RGyVWp4fqKfgSzeSmjh1S1GLCor4BaRCgNdKPgjDDpXc4QqlOaNZBJcRlljNr36H-onS&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrAQBxCJF11NiCHmkSsJgZP-H58lWSND9l9f4grqWWIEQ0HJbIozq_cNCRoPxGfeu4jfWj7812kjFFBwvc6dUbgVBAxvP1n6OSn_46BvGXZdbnSevr9tRc3Af9tMlw2PmN7Bq_8i5vLK2J8AcrhvVxeAzFmjpDlMVFEp9xE3rwGOj0fI90pqu-ie11hGrdf4WNUKCntSI53AtdPmRsogH9e4hO68Ef3f_lgLsdbTdkA9Andp1LF8ceOS_E-Afg-TwOkp7XWPVZYUhPTbyj-mOmfBbEBipjpq0pUhv3k7nIfyj74z6-_Hy5qxxk960caD9nKS8Wa2wfhM-YAiRuhwE4X_0mk7EBa80mFUh3lMHj44LT04iaH5ZANz6t8kMDC9eqEkzQQ4_cbkKw63W5CmPbfE580Gz4D58b-YOstJu9mgtnZY6rThR7iYGjPjXkn0lxlk8TdWZhGOSjFB5Xc-iWfcmZp9OdaLXerM-py8LujYWr2JLutzHayH1ADSpsxGe37kE29Xru791srRxravkAMKr2sXFr45mnZtfO46Y0r2uY68GJ7wfNK9G8sLTKrYWR6zcTNiQYdZg3j_p9zCHgNf9F_kJUYIhqLHomu8yS7DDiedyts7jb4bbyVTVaZma0EnmmJSADEXSkvwjFVMRoSW2V8xJXl79UtR1RGyVWp4fqKfgSzeSmjh1S1GLCor4BaRCgNdKPgjDDpXc4QqlOaNZBJcRlljNr36H-onS&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv7w6mJ7fgt5ef3r01FJFNcDwinxYhr4pGTw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "THE PROTAGONIST IN BRESSON'S FILM (2023) directed by ...",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXD9V8wtMNZQRB-wf4NHQ5OE8XUjURvwZMxpKEnXz5tJC-3ddofXN1OsAoVdAdcuX8Y1mEiNpGHmIkEhbM4gztcUbUjC85AQVSRU-xYqxjcdUOkmMaUs8XitcdmM7s_0Np0MEFwg8rW6TKvHqYbG4scxuTg0w&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXD9V8wtMNZQRB-wf4NHQ5OE8XUjURvwZMxpKEnXz5tJC-3ddofXN1OsAoVdAdcuX8Y1mEiNpGHmIkEhbM4gztcUbUjC85AQVSRU-xYqxjcdUOkmMaUs8XitcdmM7s_0Np0MEFwg8rW6TKvHqYbG4scxuTg0w&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLBFWJmsSaXojAWxu98hsFNENsGfRArmEfNw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing_Baiduwiki",
+        "url": "https://lens.google.com/goto?url=CAEShgEBxCJF16qgXZjIK4MA1sx3cOhuMHrDYaFDd-lIA1xf79WC9sfg7PFBlsqC18IAYyOu2HzANMIra1CnuGMBR5MtrqsXkrz9V6ZncqpIMNNRa28ykYGXlUjYk5PrcKDyg_RyiUoKZ2jac_1EADy2DAHE7Eej2OzCyyifVuq14w1x5p3_By08ow&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShgEBxCJF16qgXZjIK4MA1sx3cOhuMHrDYaFDd-lIA1xf79WC9sfg7PFBlsqC18IAYyOu2HzANMIra1CnuGMBR5MtrqsXkrz9V6ZncqpIMNNRa28ykYGXlUjYk5PrcKDyg_RyiUoKZ2jac_1EADy2DAHE7Eej2OzCyyifVuq14w1x5p3_By08ow&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScrcAnYOEreItvFCiR8Tn6krKWExUY2nYOoQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988)||dir.Krzysztof Kieslowski ...",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXX2jxjcrGpLgSZvhUSmjZPoiygpOvxs1BJeWan6qrKgtYDh58Ux_GLZc_s_I36DOHs51mMjwrtRemjLgTs-HUF8deOBjVHjMCO3F6osC2cFCXOM7x7uKwbgCun2-ARHCszWtcEaCLTvmx3AhgQCAax7FEYZdGO&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXX2jxjcrGpLgSZvhUSmjZPoiygpOvxs1BJeWan6qrKgtYDh58Ux_GLZc_s_I36DOHs51mMjwrtRemjLgTs-HUF8deOBjVHjMCO3F6osC2cFCXOM7x7uKwbgCun2-ARHCszWtcEaCLTvmx3AhgQCAax7FEYZdGO&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqrXsJmXUtzg9pehKSymXAMvozsOWSsQbjew&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Vertigo (1958) – RAREMEAT BLOG",
+        "url": "https://lens.google.com/goto?url=CAESXwHEIkXX9G6s8A10SM3EE9JHsse5vcITNa9Z0HevpolvayWR1ltXze9C-AYhxZypxXm8xQ_adu5gJxULqRK-wkXicd6cLQN9Jxc3GPBo4op97yNH0qiXrnkef64W0ye9&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXwHEIkXX9G6s8A10SM3EE9JHsse5vcITNa9Z0HevpolvayWR1ltXze9C-AYhxZypxXm8xQ_adu5gJxULqRK-wkXicd6cLQN9Jxc3GPBo4op97yNH0qiXrnkef64W0ye9&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm_YAeb5SW-gKc5PYVR55nw9xg1a7tIOvwlg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "No.48 One True Thing : A Documentary By Vichart Somkaew - Pantip",
+        "url": "https://lens.google.com/goto?url=CAESXQHEIkXXcEVkC7-x6hvSDL4UADQFrBGReEm3YBdBKrgsOGR7oWrpDUfWPJ4LH2PGTaMyVlbEHrTvwpSQ-sFI5Blp4kpzlwKprE30ZVgXki8YSYfU_sr3IQAfTYqo4A&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXQHEIkXXcEVkC7-x6hvSDL4UADQFrBGReEm3YBdBKrgsOGR7oWrpDUfWPJ4LH2PGTaMyVlbEHrTvwpSQ-sFI5Blp4kpzlwKprE30ZVgXki8YSYfU_sr3IQAfTYqo4A&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAelNNGsPSgjwZdfJpAgBm5Eg1G1x237vylw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing : Miroslaw Baka, Krzysztof ...",
+        "url": "https://lens.google.com/goto?url=CAESfQHEIkXXO4zTOFAK21PWvAFz32UNWsJu13FiO6U0lvIUtdqgMVaPBdCLpdnOScobf-L21fDDVdZpi7RBGBleH9ytuXmYk7rT1m5XiRXn8KXn04N2stDbLiZsx-v3ycb-l20J3IpKIny0urm5V0qZSFka7QGGMQyL1h05dQ-S&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfQHEIkXXO4zTOFAK21PWvAFz32UNWsJu13FiO6U0lvIUtdqgMVaPBdCLpdnOScobf-L21fDDVdZpi7RBGBleH9ytuXmYk7rT1m5XiRXn8KXn04N2stDbLiZsx-v3ycb-l20J3IpKIny0urm5V0qZSFka7QGGMQyL1h05dQ-S&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSti06vv47e7VzisgOQDKjTbCbb3HwbtAhfFA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988) Krzysztof Kieślowski ...",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXuQgG_eeLO3DAvuX-n9FZp8cahlo3Q5px9egDk8XLQ2H6z1sv5n9YXa-wk51NbMmmJy6zTSMojBdidWesgiaCmw6--1LNH01vHpOyhDUJPENlSHNS5EmHmaAFd8rOb34&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXuQgG_eeLO3DAvuX-n9FZp8cahlo3Q5px9egDk8XLQ2H6z1sv5n9YXa-wk51NbMmmJy6zTSMojBdidWesgiaCmw6--1LNH01vHpOyhDUJPENlSHNS5EmHmaAFd8rOb34&gsessionid=p-5lWhR5T7_Prf_NzGxSYYBfxtkZl76YujbVI-bzT9m4NqR8NX405A"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkh5L6O8dBds4lV0LF0wqJj_-0UltqBpKxUw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 61,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 102,
+              "lens.google.com/goto": 57,
+              "play.google.com/store/movies/details/A_Short_Film_About_Killing": 1,
+              "play.google.com/store/movies/details/Short_Film_About_Killing": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 102,
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/A_Short_Film_About_Killing": 1,
+          "play.google.com/store/movies/details/Short_Film_About_Killing": 1
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 57,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 57,
+        "google_goto_direct_urls_kept": 2,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 57,
+        "google_goto_url_count": 57,
+        "result_url_paths": {
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/a_short_film_about_killing": 1,
+          "play.google.com/store/movies/details/short_film_about_killing": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 57,
+          "play.google.com": 2
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 3,
+        "title_search_results": 10,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "A Short Film About Killing"
+        ],
+        "title_search_candidate_urls": 10,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 8,
+          "gov.texas.gov": 1,
+          "www.merriam-webster.com": 1
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "no_tmdb_id",
+        "tmdb_ids": [],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 0,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "candidate_identities": [],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "no_official_results",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "A Short Film About Killing"
+        ],
+        "year_hint": 1988,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 3,
+        "organic_result_count": 10,
+        "candidate_url_count": 10,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 8,
+          "gov.texas.gov": 1,
+          "www.merriam-webster.com": 1
+        },
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "disabled_by_configuration",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 102,
+              "lens.google.com/goto": 57,
+              "play.google.com/store/movies/details/A_Short_Film_About_Killing": 1,
+              "play.google.com/store/movies/details/Short_Film_About_Killing": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 102,
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/A_Short_Film_About_Killing": 1,
+          "play.google.com/store/movies/details/Short_Film_About_Killing": 1
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 57,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 57,
+        "google_goto_direct_urls_kept": 2,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 57,
+        "google_goto_url_count": 57,
+        "result_url_paths": {
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/a_short_film_about_killing": 1,
+          "play.google.com/store/movies/details/short_film_about_killing": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 57,
+          "play.google.com": 2
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 3,
+        "title_search_results": 10,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "A Short Film About Killing"
+        ],
+        "title_search_candidate_urls": 10,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 8,
+          "gov.texas.gov": 1,
+          "www.merriam-webster.com": 1
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "disabled_by_configuration",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/A Short Film About Killing (Krótki film o zabijaniu) (1988)/A Short Film About Killing (Krótki film o zabijaniu) (1988).json"
+}

@@ -1,0 +1,1249 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:31:54.947729+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Hyväveli (2022)",
+    "image_path": "مراجعة/Hyväveli (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Hyv%C3%A4veli%20%282022%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Hyväveli (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Hyväveli (2022)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "Neither Google Lens nor its title-derived search produced an official TMDB/IMDb movie ID",
+    "candidate_ids": []
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Hyväveli (2022) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXDAxBx-tYCJE4QCfkSOMmHmlBBc80ywZiZBDPx4MsaetgwAUUMoUOQDYs1VVwq8O-uNicxvbBhIwLsLdhJxVrlzZ0QzFHjtlftfQWrtZapp9WvxO_qG5VGrGZdAhl&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXDAxBx-tYCJE4QCfkSOMmHmlBBc80ywZiZBDPx4MsaetgwAUUMoUOQDYs1VVwq8O-uNicxvbBhIwLsLdhJxVrlzZ0QzFHjtlftfQWrtZapp9WvxO_qG5VGrGZdAhl&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "HYVÄVELI -elokuvan traileri (elokuvateattereissa 9.12.2022 ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXDZAKQOMmy9tlX75NrN_KzyFO9CfhOsbQ8uVAFtCTdOrnGR1iuuqRXQqrXgFKSBgax59qy-yxfonqTiDx7uAx0O8mLPHl5bRA_fyZqJ05kXzOCQmuI_1ALDtVV5GfTZWeQQY&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXDZAKQOMmy9tlX75NrN_KzyFO9CfhOsbQ8uVAFtCTdOrnGR1iuuqRXQqrXgFKSBgax59qy-yxfonqTiDx7uAx0O8mLPHl5bRA_fyZqJ05kXzOCQmuI_1ALDtVV5GfTZWeQQY&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 3,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli - BioRex Cinemas",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXsT41Yz7lg0TjA4d5KG9kpKXnNseEPUP0vz0hEW4Fnjd2C0KKq_xZBh2gWosileHd1RQFmwWwjLZqVHkws9h6LLcW7RjDZmCMrqISKB4GKyCogPZwoJ_ZgfJ9958&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXsT41Yz7lg0TjA4d5KG9kpKXnNseEPUP0vz0hEW4Fnjd2C0KKq_xZBh2gWosileHd1RQFmwWwjLZqVHkws9h6LLcW7RjDZmCMrqISKB4GKyCogPZwoJ_ZgfJ9958&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli | Iltapulu.fi",
+        "url": "https://lens.google.com/goto?url=CAESXwHEIkXXUeJZeDRy2WnZeD997GMLtOZ7BfgiFNitjnSCxhGPHrN10mS5jQgdPRvWx6QBEsWLhU9Ywrj4UYVc-OI-qr45YJGiDadmZa_8Ln5sqk7DlHc6kr9_MK-dnUcx&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXwHEIkXXUeJZeDRy2WnZeD997GMLtOZ7BfgiFNitjnSCxhGPHrN10mS5jQgdPRvWx6QBEsWLhU9Ywrj4UYVc-OI-qr45YJGiDadmZa_8Ln5sqk7DlHc6kr9_MK-dnUcx&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Maria Jännes Movies: Tuulikki, Hyväveli & More | Moviefone",
+        "url": "https://lens.google.com/goto?url=CAESkQEBxCJF19QMM2rYMqZ9bITXB-Ru5a832Zai9_3Uh9I3-1sy_Af7ABe6lASRheiAKS_9EM-pipkfI6k0zJVqyjaaxo6Pi-FA-MwRYn-Y24qjJ3JgF_Nz6XXwIVJFP4V_lJmnOSx1lmky79fMJOELyYNQz6zfrZKjt-s9L-mT75sEH0oD10AEPdMa1N53dCvhDytZ&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkQEBxCJF19QMM2rYMqZ9bITXB-Ru5a832Zai9_3Uh9I3-1sy_Af7ABe6lASRheiAKS_9EM-pipkfI6k0zJVqyjaaxo6Pi-FA-MwRYn-Y24qjJ3JgF_Nz6XXwIVJFP4V_lJmnOSx1lmky79fMJOELyYNQz6zfrZKjt-s9L-mT75sEH0oD10AEPdMa1N53dCvhDytZ&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli (2022) directed by Sami Laitinen • Reviews, film + ...",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXDGRrGyrQnIztg02kGXcM4ish91UraHtjtOlSqkAkS1278WerYUNNNa6-fzc8Kfa4V1UayPFHNjdIXOl60Ydnsq5s-0H45f7glZNKralNcDKORQjWF4GWjvorhwXameGJ8g&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXDGRrGyrQnIztg02kGXcM4ish91UraHtjtOlSqkAkS1278WerYUNNNa6-fzc8Kfa4V1UayPFHNjdIXOl60Ydnsq5s-0H45f7glZNKralNcDKORQjWF4GWjvorhwXameGJ8g&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Uuden suomalaisen elokuvan viikkoa vietetään 7.–13.4.2025 ...",
+        "url": "https://lens.google.com/goto?url=CAES0wEBxCJF1_zb06c7xD9jTtmH41JlX1U6BKqDsQ-G2xObdygmoIEdoA3wPcaHGG_7KDtod42Dbk-kKvOroEeGZsDFlAi_I5Pz87vhGNClr0zhmEWKQKcVQvnQv6Vj_rWvnF0CvpQP_9COhQjV_fBoShBIc2-einC24-OM1UoGNlLZmofIwO8BdDkWkP9SugeX0VKXoy8BqO-9KO_05ORqAqPlXqXhsKX4nIw_pDW-BEH37_SBFxsA8nf2u9fRD7Umt8zrREPZdW0NfZQze9l3uqvMkeu3&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES0wEBxCJF1_zb06c7xD9jTtmH41JlX1U6BKqDsQ-G2xObdygmoIEdoA3wPcaHGG_7KDtod42Dbk-kKvOroEeGZsDFlAi_I5Pz87vhGNClr0zhmEWKQKcVQvnQv6Vj_rWvnF0CvpQP_9COhQjV_fBoShBIc2-einC24-OM1UoGNlLZmofIwO8BdDkWkP9SugeX0VKXoy8BqO-9KO_05ORqAqPlXqXhsKX4nIw_pDW-BEH37_SBFxsA8nf2u9fRD7Umt8zrREPZdW0NfZQze9l3uqvMkeu3&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli – Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXzUfxKGps6HhgIrCvQrn4K8XHLQBwQOTdD9P7Ms7vGCE1GQAXMxluIawDZt-BhBTrodA_a_E6xJkBD2yIMMl9XwixEg3r7d25jKMndPEaQAUo5OIIDfyEAOYEyeZ0UKheJss&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXzUfxKGps6HhgIrCvQrn4K8XHLQBwQOTdD9P7Ms7vGCE1GQAXMxluIawDZt-BhBTrodA_a_E6xJkBD2yIMMl9XwixEg3r7d25jKMndPEaQAUo5OIIDfyEAOYEyeZ0UKheJss&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli (2022) - Photos - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESbQHEIkXXGPdw6QtnWMz5LeP1DSCNfhMlvVZNFxyEPbhq8s2yg-a4N_fgtA4gfBkm94Up9oGVxFOgrkRjG_3M70DFyDWZXgvHqRg5mQWrcsqi0wpilCi5jlAK-sTc7V35UCBZEsz_f7OGa-8DfIE&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbQHEIkXXGPdw6QtnWMz5LeP1DSCNfhMlvVZNFxyEPbhq8s2yg-a4N_fgtA4gfBkm94Up9oGVxFOgrkRjG_3M70DFyDWZXgvHqRg5mQWrcsqi0wpilCi5jlAK-sTc7V35UCBZEsz_f7OGa-8DfIE&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "hyväveli (16 532) UUSI -FI- DVD 2022 | Huuto.net",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF1-P6EjLjfN9GE8nlrOg0JfHd_Dx1YbHCYun2mv3kfdqjONZZAO0cXvIUvCJOx0vTn2lTPXBlRe0NNtCxZXK_1UsCx3oZlt8RoRbuAhFtB1lygmb3_pfQd3Saxu0CVi_WTaSqDh8TtEacNyRZznSbLoiF1vmj_tf3H4oF7Egjzaw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF1-P6EjLjfN9GE8nlrOg0JfHd_Dx1YbHCYun2mv3kfdqjONZZAO0cXvIUvCJOx0vTn2lTPXBlRe0NNtCxZXK_1UsCx3oZlt8RoRbuAhFtB1lygmb3_pfQd3Saxu0CVi_WTaSqDh8TtEacNyRZznSbLoiF1vmj_tf3H4oF7Egjzaw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Films starring Heli Sutela • Letterboxd",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXw1aOhoj5by8y08sp6Y6i_AA63bzyu5KYDA0iylFXN4f0OD-GlgQW5NIy-pvmemmfWg_IAb8a6Uxzs0DSFZhNnFkLmJntUR00DyZoIg6nylXLcQFO4qVSCN31t4RgGidO&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXw1aOhoj5by8y08sp6Y6i_AA63bzyu5KYDA0iylFXN4f0OD-GlgQW5NIy-pvmemmfWg_IAb8a6Uxzs0DSFZhNnFkLmJntUR00DyZoIg6nylXLcQFO4qVSCN31t4RgGidO&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Spede - juliste - 70x100 | Tori",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXoQpmiMbRzud-vf5kfnWyj8sZS9S8x13huf377vRtocrl26OLpJH059AJBb7NKY1rl5PI72F5B7MbVY9YS6WBaeJdhYeRZUlhw3-NLHJ9_aDwHaicawYCXQFbbCpzi8dquAQfB7cUH12NtWU&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXoQpmiMbRzud-vf5kfnWyj8sZS9S8x13huf377vRtocrl26OLpJH059AJBb7NKY1rl5PI72F5B7MbVY9YS6WBaeJdhYeRZUlhw3-NLHJ9_aDwHaicawYCXQFbbCpzi8dquAQfB7cUH12NtWU&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf84haSTKVNb4nTX669s7B9hd87D5lmGKglA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli | FilmiFIN.com",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXWndZXheWggwb64zcAOi-NVTaLWbiBvbRxg1skkARTTc0KtgJMxlQKXhKj_9GiCKMq6lj8TqxgqrSxck3PPuijo50gfLXGtgOsKFcRC0Lcj9XQ85G5ziiIxlws72RpMjsBRLQOrbM_Q&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXWndZXheWggwb64zcAOi-NVTaLWbiBvbRxg1skkARTTc0KtgJMxlQKXhKj_9GiCKMq6lj8TqxgqrSxck3PPuijo50gfLXGtgOsKFcRC0Lcj9XQ85G5ziiIxlws72RpMjsBRLQOrbM_Q&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLWrOoH6K2V0ZTusgtdZA1NVi7nxbURM10HA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "2022 Страна : Финляндия Жанр : драма, криминал Патрульный ...",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXCWCnFUEMegxL5_aC6BOAMVVilxVpTY38EYhX4UTIe9lYMCVco_LiL9byVLh-S00JLRyBYaqWH93cWu86DfouFUfAti2_eVymp3sY2tZcH7bJsWb4Q-UzXX7bxVc&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXCWCnFUEMegxL5_aC6BOAMVVilxVpTY38EYhX4UTIe9lYMCVco_LiL9byVLh-S00JLRyBYaqWH93cWu86DfouFUfAti2_eVymp3sY2tZcH7bJsWb4Q-UzXX7bxVc&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw9JGlWbf-KbWW7vhxrVWnSOekAsGegDbsJw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli DVD | Huuto.net",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXD-CcRZvmYFA7xysxJArqyHckLxn2JfVTgttbyHenRRGVuxyyt8_XIRcU1gOSiVN_6PIgfgJ2WYCiOoIkTWofwBRYeTLTkRXvjbbC-F0waW7O7qsvoRvlNaOnXn4JFBHtkn52U57r00JpPkg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXD-CcRZvmYFA7xysxJArqyHckLxn2JfVTgttbyHenRRGVuxyyt8_XIRcU1gOSiVN_6PIgfgJ2WYCiOoIkTWofwBRYeTLTkRXvjbbC-F0waW7O7qsvoRvlNaOnXn4JFBHtkn52U57r00JpPkg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_QTES18SaCy5JmYs4NJ4Hk6Wlb31PEv6rWQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli | Yle Areena",
+        "url": "https://lens.google.com/goto?url=CAESXAHEIkXXn5rPpCCPgo7Nio2ng1xKEKh4Q4YjowMXVthNAXygESwg09S8nePmlYhTTZFh_Z3WP5cm8CfyXE1cd_8Azl3HnmIagdHKF1SJpAuzb3sT0IuppJFSoepX&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXAHEIkXXn5rPpCCPgo7Nio2ng1xKEKh4Q4YjowMXVthNAXygESwg09S8nePmlYhTTZFh_Z3WP5cm8CfyXE1cd_8Azl3HnmIagdHKF1SJpAuzb3sT0IuppJFSoepX&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLdS6DpGZr2HI1htldcx-FgGWezuJzWXZKPA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli - Incluvie Movie Database",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXFkCoZ2ApWEY0cFBJ--xhEGqEMs7jcelWV5a8K8DFTjLtnIxKm-I3ANUotZd529CutglbcsxGfYT_KDJ0KALWcFZZxEg45nNVPRHzV7Ch0PVgHkCxaYCiW9zNCwgvdBORaR9Njw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXFkCoZ2ApWEY0cFBJ--xhEGqEMs7jcelWV5a8K8DFTjLtnIxKm-I3ANUotZd529CutglbcsxGfYT_KDJ0KALWcFZZxEg45nNVPRHzV7Ch0PVgHkCxaYCiW9zNCwgvdBORaR9Njw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgrE5aGOR8qktCjUyYWW4q-Vb3qGQxozP8Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Bougainvillea | Promo 1 | Malayalam | Amal Neerad ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXvYKVZNpzc7ALLfqQHg71Wh9CzEwNfYbwR7bgS5_gGkhcxSuX_AUHFjc3NZCUeTNJ9HQYpYR6VuSoeBFESmSFm_t3xELo2hyKaBqDu9eG31kQixpoKL_emMG5JbN-MS_e6h0&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXvYKVZNpzc7ALLfqQHg71Wh9CzEwNfYbwR7bgS5_gGkhcxSuX_AUHFjc3NZCUeTNJ9HQYpYR6VuSoeBFESmSFm_t3xELo2hyKaBqDu9eG31kQixpoKL_emMG5JbN-MS_e6h0&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxb6pp0qL2PNFpT6x5ZGCEzT281xkFf-AiKw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli (2022) | ČSFD.cz",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXFcMH1hkPad0WVMbvzQOJJiBmfDlDjoxN4CR2HpVGhlOV2VrXiXL3HvDUdaOMciHiuAII-Bse_How1CoDVXLiq5a9Eq0q4E5kgFWTIjCm1TcPcD-H9kmISg0tjWMizaoyZ3e21aiWGGHt&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXFcMH1hkPad0WVMbvzQOJJiBmfDlDjoxN4CR2HpVGhlOV2VrXiXL3HvDUdaOMciHiuAII-Bse_How1CoDVXLiq5a9Eq0q4E5kgFWTIjCm1TcPcD-H9kmISg0tjWMizaoyZ3e21aiWGGHt&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgVaXgwKKsg-fZ-rT5UyTtNi93anYttEbEwg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Lainvalvojat Helsinki, Season 1",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXX3PyXoi07ubOxmngZk7sfdvpkHdbLnNzwh0928W1oDmn7EydCXsLPSCOWPTgYsye_yNp76iIPOmNWtsPr3jY8pX7Ql-kIB4jdYa-r9r96IZGMe0IexNlebdI0a5tammUo5CFbPdPdgETe_LZ0JKBph1996A&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXX3PyXoi07ubOxmngZk7sfdvpkHdbLnNzwh0928W1oDmn7EydCXsLPSCOWPTgYsye_yNp76iIPOmNWtsPr3jY8pX7Ql-kIB4jdYa-r9r96IZGMe0IexNlebdI0a5tammUo5CFbPdPdgETe_LZ0JKBph1996A&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCIE8F0IzI0cSIhT6wTHkCWSScXOjegXS9g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "MEDIAINFO",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF115Qr2HFul9F3S2w9O9PYRSYsqciFGenvhaEvKXeWfH042xhf8zVmuvJKrtP3klI3yLPqrFm6uqkocGkbrVPyBrvWeruiHG6t2YkwGZp0wEeYq0CaMaTMStJOhul9gZPkxy9blKeGFSDyjtD_QMmXVHQZmIhYXg3IVV6ZRiE10TxNrnT&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF115Qr2HFul9F3S2w9O9PYRSYsqciFGenvhaEvKXeWfH042xhf8zVmuvJKrtP3klI3yLPqrFm6uqkocGkbrVPyBrvWeruiHG6t2YkwGZp0wEeYq0CaMaTMStJOhul9gZPkxy9blKeGFSDyjtD_QMmXVHQZmIhYXg3IVV6ZRiE10TxNrnT&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvgx0gh61JfPYflqgHbccxZmu2y3AI-9IiHA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Kuviin | Kyltit ja julisteet | Myydään (sivu 20) | Tori",
+        "url": "https://lens.google.com/goto?url=CAESmAEBxCJF1xzfG9DAQ-xEyjotJAQgm0eCPTOjLCJYhVR837CzwdKI2g_5cG4pSdEm8cZ9Q01YPRxjBBCkXSd2Sp4d20a0zHoxZFamTRK53gNce1xQSwHz40sGqhJ5xGHGHjEEsFBoX5Sw0iDh3klQTqdK3VI7Ah7XPKAGiP6R8nX4OLnpIorCdJMJ-C-Hj5KT-yRVMKAryjM91w&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmAEBxCJF1xzfG9DAQ-xEyjotJAQgm0eCPTOjLCJYhVR837CzwdKI2g_5cG4pSdEm8cZ9Q01YPRxjBBCkXSd2Sp4d20a0zHoxZFamTRK53gNce1xQSwHz40sGqhJ5xGHGHjEEsFBoX5Sw0iDh3klQTqdK3VI7Ah7XPKAGiP6R8nX4OLnpIorCdJMJ-C-Hj5KT-yRVMKAryjM91w&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM0atDJfRN_H8yMXsu_jnfCrbv_LUVddHmnA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Poliserna i våldsvågen (TV Mini Series 2024–2026) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXcuwUj1MPk_Rh7woaW-JTgXISHvoU7ZGpem1kx04amOzK6rnlqbm3Kh7an2h58uisPRVX7jIj2WyQFZ5hBYv-puvoF1Exrpm63MQQEUjUNzy5X_8J-GKWtvkExUCB&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXcuwUj1MPk_Rh7woaW-JTgXISHvoU7ZGpem1kx04amOzK6rnlqbm3Kh7an2h58uisPRVX7jIj2WyQFZ5hBYv-puvoF1Exrpm63MQQEUjUNzy5X_8J-GKWtvkExUCB&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdWgrPzZv6piNr_zDk3Por1z_BZVxc-3zOBw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "برادر خوب» با گویندگی ۲۱ نفر دوبله شد | هنر صدا",
+        "url": "https://lens.google.com/goto?url=CAESigIBxCJF17DfSB27Q7JA6RD08F1wZjJMP2qmBzrcBLFa0eB9kyqdS0OKQkKKPMIBNhb1PdOawOHLHwQiddXnIcEI2rb7OvUfx53-AeCmpfelXSW2yZEmlT0dqqsH_tva9_dh8XHOvKjuHKUpXXKnBiCwDh6Eq45cNXFwf8hHaYGKp3jt6Bl3dbNri1QpjozGYOS-fa2pzqjw6pneYqg2L4L2g0pPaQEdn27xq-fyi1mYEVpmhXIEphIt3bg7-Zx_r5EjfXS4HWBDcOG_NJ5-PgqkoP1m6h9mfoZuIkgvSxHsePsERWqUK8wGyD5JAg9bgEe3JAxXLlHDVCpAWtLieVMUVRLz011frbNaJw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESigIBxCJF17DfSB27Q7JA6RD08F1wZjJMP2qmBzrcBLFa0eB9kyqdS0OKQkKKPMIBNhb1PdOawOHLHwQiddXnIcEI2rb7OvUfx53-AeCmpfelXSW2yZEmlT0dqqsH_tva9_dh8XHOvKjuHKUpXXKnBiCwDh6Eq45cNXFwf8hHaYGKp3jt6Bl3dbNri1QpjozGYOS-fa2pzqjw6pneYqg2L4L2g0pPaQEdn27xq-fyi1mYEVpmhXIEphIt3bg7-Zx_r5EjfXS4HWBDcOG_NJ5-PgqkoP1m6h9mfoZuIkgvSxHsePsERWqUK8wGyD5JAg9bgEe3JAxXLlHDVCpAWtLieVMUVRLz011frbNaJw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJNrRSib55DmYO3yNxYvMeOkoykSuz7EEqg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli – Osta julkinen esityslupa helposti ja nopeasti",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXDu7MLkb2ypxZU2bdjPHV9GGgF_PJBTKVi0Kiu1U1AggumjgGdHP7OhRTjw-0p8CVDz5GwRieqkWVyqE8rDsNiy8dbk3oyjF13K4GeLxz6N4rVCUKFStUbOG22R_qRKjaXy6Hjw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXDu7MLkb2ypxZU2bdjPHV9GGgF_PJBTKVi0Kiu1U1AggumjgGdHP7OhRTjw-0p8CVDz5GwRieqkWVyqE8rDsNiy8dbk3oyjF13K4GeLxz6N4rVCUKFStUbOG22R_qRKjaXy6Hjw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ73D9el7fJmrkokftwl5NZ0Y9jPnc3tuLAhg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hyväveli (2022) — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXvmXRiERbRMH9WICjlKf_QFStWjho5sVMhcHBHnTFUK5LQbzIE1uJ1cOegIGRizvXaXCePvmJvd_nKpY9V0ip1Ya0tZt53JDjPZw4yd4yPu-O6PRRBIkUdp10gLjwd_IsCh2MtWcCEA&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXvmXRiERbRMH9WICjlKf_QFStWjho5sVMhcHBHnTFUK5LQbzIE1uJ1cOegIGRizvXaXCePvmJvd_nKpY9V0ip1Ya0tZt53JDjPZw4yd4yPu-O6PRRBIkUdp10gLjwd_IsCh2MtWcCEA&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHUPBVcDxAg6mrjOSRuyKxvPJPA6kjotgTFg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Valai - Cast, Reviews & Showtimes - District",
+        "url": "https://lens.google.com/goto?url=CAESggEBxCJF1yZk8fYMkc7NzIWYV2l1OAsgLAVp75wleP33k7ea9Ie6-Hfbd7R5RhCYKtxzHfUwHO6kd0C55wPB1YkqdvDNeRZV-Ua1r6YC1ZrHO1ziIWkYsZqAHyog1PrazmlKjqhV4cvH-qHhS777Zv7Z1KQGpGWUPPKDdNZkJZ4fF4JH&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESggEBxCJF1yZk8fYMkc7NzIWYV2l1OAsgLAVp75wleP33k7ea9Ie6-Hfbd7R5RhCYKtxzHfUwHO6kd0C55wPB1YkqdvDNeRZV-Ua1r6YC1ZrHO1ziIWkYsZqAHyog1PrazmlKjqhV4cvH-qHhS777Zv7Z1KQGpGWUPPKDdNZkJZ4fF4JH&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEbCiqG9c_qcqj-10kOxLNoyVLDjbCKEDyQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Sleepers - Series 1001: Episode 1 | Channel 4",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXXig2wr2BIIXjnQAKSSuVjw6CXgzdH_I5xyghkpG4uDqfnDj1fvWvcAux2UJceRnuatBkDTWmH6o9UYkUe0-rYkNVYOlh4Wg74tNW7T_69hgaJJShsl7vGmp8NCuf60mO5caFiGT_mtmGAyi-9kbVOx3LJgDF5Y-M&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXXig2wr2BIIXjnQAKSSuVjw6CXgzdH_I5xyghkpG4uDqfnDj1fvWvcAux2UJceRnuatBkDTWmH6o9UYkUe0-rYkNVYOlh4Wg74tNW7T_69hgaJJShsl7vGmp8NCuf60mO5caFiGT_mtmGAyi-9kbVOx3LJgDF5Y-M&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeLf3TGqeI-g7Xsd5eU08OttBTsya8oqLT0Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Safe House - JioHotstar",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXX0zrrxdeYbcD_6TTV74xvEGAmxPwRGmhx5e6rI2tuU_5ykXYjP9tS3N9Vvk2-1LGHOiKxXWQpPb9F9XFEIhzCN2S79l61lPvzCakPNvZAzqIWL2-a7VNVg8ziBKexSq_U-GUjzajwVw5M08el8BsOZOXo2vg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXX0zrrxdeYbcD_6TTV74xvEGAmxPwRGmhx5e6rI2tuU_5ykXYjP9tS3N9Vvk2-1LGHOiKxXWQpPb9F9XFEIhzCN2S79l61lPvzCakPNvZAzqIWL2-a7VNVg8ziBKexSq_U-GUjzajwVw5M08el8BsOZOXo2vg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJIlYz1K0G3JUYRdNV313jvyk_UXuNC3JBg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Blood Coast | Netflix Official Site",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXjvLFDMBKUlD-BO_SBL4dpiJ1O9wxtwHNDYtQmuajJlwF_jHAgzi_Q-ZfN5TkoLzEykjM--_buQbYb_7A5eZPw_YeYaodtgby3XCDK7z5PIqYzCQreQQhDif8n7ER2OfKL9Kh&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXjvLFDMBKUlD-BO_SBL4dpiJ1O9wxtwHNDYtQmuajJlwF_jHAgzi_Q-ZfN5TkoLzEykjM--_buQbYb_7A5eZPw_YeYaodtgby3XCDK7z5PIqYzCQreQQhDif8n7ER2OfKL9Kh&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVjytbFbEhds8aX9mc_AaQ7X_StCmKJxc7LQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dialogpolisen | Tele2 Play",
+        "url": "https://lens.google.com/goto?url=CAESfQHEIkXX6Z-4ZXv8Q-clkaRvPbjvIco1Ljy0KK8RveFtu5K7BtB0m27j2EagirjDg2I1m6LbalRjrT9qFNN7cCvs3KuslBIBrcbSz7lEW8XW76ICG04giDBArF-2gnTDU02JWrpqgL96rvHPfLmVTZhyuvKmPEFeZ0bux9VG&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfQHEIkXX6Z-4ZXv8Q-clkaRvPbjvIco1Ljy0KK8RveFtu5K7BtB0m27j2EagirjDg2I1m6LbalRjrT9qFNN7cCvs3KuslBIBrcbSz7lEW8XW76ICG04giDBArF-2gnTDU02JWrpqgL96rvHPfLmVTZhyuvKmPEFeZ0bux9VG&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4dYEM_iYMEHHkHDU2bpwRU6wwdlhYGShj3Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Peter Haber - Actor | Filmography",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXF5f8v1koiPXKngXVsKzL3bmVHXWQhmrgeXfEEPcHQyz3KRDsOq2xS2WvHKGDPPD-naIrKflAlzBtit86Kp4Dv4rDhDCgH0T6uhXEBLREcHkOwh6SCF0wveeA6T9hvqo-O-pl7rboyGSCs_fbx1Yl--s&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXF5f8v1koiPXKngXVsKzL3bmVHXWQhmrgeXfEEPcHQyz3KRDsOq2xS2WvHKGDPPD-naIrKflAlzBtit86Kp4Dv4rDhDCgH0T6uhXEBLREcHkOwh6SCF0wveeA6T9hvqo-O-pl7rboyGSCs_fbx1Yl--s&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-wYCebRPqIf3ZAgsCdjDx9SMbd41FWfTEVQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Brief History of a Family de Jianjie Lin (2024) - Unifrance",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXnKTvPxTe7hTII3mq3--6w7N5ReoEIazizCRGFuYB62i-TpIsLSEqo1D4Z4G5QnYt2gllyBzdJlshTLTV828xNzNyMduCVKj8VdHpy7i7YaNpN-enIIMDcmmVm8aAOMurAptyu3033_nEfD1xvaX_DzQS8AIh&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXnKTvPxTe7hTII3mq3--6w7N5ReoEIazizCRGFuYB62i-TpIsLSEqo1D4Z4G5QnYt2gllyBzdJlshTLTV828xNzNyMduCVKj8VdHpy7i7YaNpN-enIIMDcmmVm8aAOMurAptyu3033_nEfD1xvaX_DzQS8AIh&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRdjZKkj7GFQYIVfBfTO443HOK-UZhRd8vGg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "NETFLIX - YOUNG WALLANDER (2020) (17) | Images ...",
+        "url": "https://lens.google.com/goto?url=CAESlgEBxCJF110qpLZINgdEFb1UmosWTQOI2VjB_ruDIndynVbpgFWhVN0TvnNyfY8Ap_T85PjdljHhqXKNI01SJyqJcvF-QflKRmDoTvl9Kn4u5MpFbCy-Tbp_-BSRNROezLtq4_AQv9wc3i9exH-Pjh3rfSRwxwsSAN-ZfFk2bmqf_VNsD7olg4em-VUo_AwXdTDWPg2IfMg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlgEBxCJF110qpLZINgdEFb1UmosWTQOI2VjB_ruDIndynVbpgFWhVN0TvnNyfY8Ap_T85PjdljHhqXKNI01SJyqJcvF-QflKRmDoTvl9Kn4u5MpFbCy-Tbp_-BSRNROezLtq4_AQv9wc3i9exH-Pjh3rfSRwxwsSAN-ZfFk2bmqf_VNsD7olg4em-VUo_AwXdTDWPg2IfMg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLjVkh28sZVUkEjwaBWhbuK3ZyaS7iiolEvw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Browse and start subscriptions — Watch now",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXVTArv3-pf6CW8_OzYEo__KNmBEkoptmRjxn1ZCg5kHuTthvTtg_juaWWMKTLV4Qski-hEPBolEZ2loXgm27dy99S7yDRTMYhAeI7oAYz0Oa9f2xGKRH34nvuq1K2&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXVTArv3-pf6CW8_OzYEo__KNmBEkoptmRjxn1ZCg5kHuTthvTtg_juaWWMKTLV4Qski-hEPBolEZ2loXgm27dy99S7yDRTMYhAeI7oAYz0Oa9f2xGKRH34nvuq1K2&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmD6BODlbkzx6Xg6kMVaYzj8Ak3Jn2W-WP1g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Filmer och serier med Riku Kemppinen",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXXHeGl0OkZ3yPcmAFUYQ7-xLc3KUHA9bCySSews4ErP6OFlwdyoeZE3L3a32RxicULTmA_HUubxDeuJGkvE720cTJvu0lRwu9kgKZC7GoCgA8ifumH-11GxUbVyA1GIm5VCV75Ud8&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXXHeGl0OkZ3yPcmAFUYQ7-xLc3KUHA9bCySSews4ErP6OFlwdyoeZE3L3a32RxicULTmA_HUubxDeuJGkvE720cTJvu0lRwu9kgKZC7GoCgA8ifumH-11GxUbVyA1GIm5VCV75Ud8&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCIkX35VJNyi1n3DGN6iDIX5VSTp_t04wOaw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "RESTLESS Reviews of Netflix action crime thriller - MOVIES ...",
+        "url": "https://lens.google.com/goto?url=CAESsQEBxCJF1yrGLsoM_AZl2rysmlazq6rnMam3bdD15kSzAYTs0yLXs4WYtlAuOgt4yIr6L8uG772iDNvRxVJ7Q0XYMAN-70rUxtvGb-uJzO9kRAFbnPpkS8uEjY0y191hfjT2Nd6Q0jWymF4awN9RQ0L0izD-b0vorjEtGTL4as01hh4NQZqVN8wZOeBy6chcIVY8uKERkX8xkz0FxzpW_5Sr_jBQ2UTbGDlW8W8qozW74jY&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESsQEBxCJF1yrGLsoM_AZl2rysmlazq6rnMam3bdD15kSzAYTs0yLXs4WYtlAuOgt4yIr6L8uG772iDNvRxVJ7Q0XYMAN-70rUxtvGb-uJzO9kRAFbnPpkS8uEjY0y191hfjT2Nd6Q0jWymF4awN9RQ0L0izD-b0vorjEtGTL4as01hh4NQZqVN8wZOeBy6chcIVY8uKERkX8xkz0FxzpW_5Sr_jBQ2UTbGDlW8W8qozW74jY&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWgKbhKTtMm3Aqwk5vNLcndTc2P7y23qJd6Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Where to Watch Hammarvik (2020) TV Show Online - Plex",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXX5KE51Dv_2PBhKDaES1OcEnYmSGjFaNWt5iPtiZdep6iPumZh59K_sO8SEq8m5DA56OAGRJzb7dIxbwB9FUYRB2Z2CO5J5plnNkQ0uYbm0sogGFO7FGNaL8d9Kw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXX5KE51Dv_2PBhKDaES1OcEnYmSGjFaNWt5iPtiZdep6iPumZh59K_sO8SEq8m5DA56OAGRJzb7dIxbwB9FUYRB2Z2CO5J5plnNkQ0uYbm0sogGFO7FGNaL8d9Kw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8x_hayuSqC-EzX2WvixfpwZ_L0uR7iGscZA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hi (2026) - Movie | Reviews, Cast & Release Date in Neyveli ...",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXXIhAxxOqw9d2APe31w9D76vB_8vwmC_FKhLlx1gCrwWJqdWAxp9vDrR3cIVaUVe-OoRySHIc5yzWrTX-Yp1TLbT4H598oDNoxVMDYW4xgg5vdc5zSHhQjD-Bt5nFVya7zzHgrw6vJmsrBWLzbfA&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXXIhAxxOqw9d2APe31w9D76vB_8vwmC_FKhLlx1gCrwWJqdWAxp9vDrR3cIVaUVe-OoRySHIc5yzWrTX-Yp1TLbT4H598oDNoxVMDYW4xgg5vdc5zSHhQjD-Bt5nFVya7zzHgrw6vJmsrBWLzbfA&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHnXX53Nx6uV3dHeB8tMssplZeFInSJdPRxQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Gangs of London #whattowatch #movie #gangsoflondon",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXqFJeGzqzcA50XSiPGssX309cB4cE-lKn97Cg-np6kpAxwSkCJiEfTEKXn4W_Ol7TuMj-d5P8OZo845nqGDyUtsKGo9KL_vKdrvAkAVh3TcfGbiGlB2TaIb7FIgpSvkWMkRc&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXqFJeGzqzcA50XSiPGssX309cB4cE-lKn97Cg-np6kpAxwSkCJiEfTEKXn4W_Ol7TuMj-d5P8OZo845nqGDyUtsKGo9KL_vKdrvAkAVh3TcfGbiGlB2TaIb7FIgpSvkWMkRc&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWkAl-JVbWWqPSOAnmJR6bGVwvHaigXxGAxg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "POLITI | TV 2 Play",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXayaQOAVYTQnUXK_F1Ez10BJJw65rHnhBEwWdP7-LIouvJN0OliTryJWPyaKRkWtz0iGXqRgj-YyJEAZVIEB5NNz_LH2G_Dz56zjvFrKJEqQa0dExqrWGXkAMqkqK-va-fQ&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXayaQOAVYTQnUXK_F1Ez10BJJw65rHnhBEwWdP7-LIouvJN0OliTryJWPyaKRkWtz0iGXqRgj-YyJEAZVIEB5NNz_LH2G_Dz56zjvFrKJEqQa0dExqrWGXkAMqkqK-va-fQ&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_yHf61KHhpT5qmlVyL8jx1fAbG0I3G_lXw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buy & Watch We Own This City Season 1 at Home + Online ...",
+        "url": "https://lens.google.com/goto?url=CAESkAEBxCJF15L-cyN_oWWPSSdTSIcmtmn2uaUQ268uJIwUtI_AgNe2tl-YNl4p1rrP-Eq3CADtXD6d0ToYyPP6qj9HJO96qr3gAb_F7SQmFb6N8qDhV0LbeLv0imgJh4AUUbwW5ITQTnPOpsmvN4fzUBjwWpnV1IrzIs6EhHEmSZ7NBoRSdISC9Ig4HwK3N7Kzf7w&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkAEBxCJF15L-cyN_oWWPSSdTSIcmtmn2uaUQ268uJIwUtI_AgNe2tl-YNl4p1rrP-Eq3CADtXD6d0ToYyPP6qj9HJO96qr3gAb_F7SQmFb6N8qDhV0LbeLv0imgJh4AUUbwW5ITQTnPOpsmvN4fzUBjwWpnV1IrzIs6EhHEmSZ7NBoRSdISC9Ig4HwK3N7Kzf7w&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVHtXNVstj-f36R3SqE9raNh0hh3PtrvicvQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "OTT Releases This Week: Black Doves 2, Possible Love and ...",
+        "url": "https://lens.google.com/goto?url=CAESdwHEIkXXIjnxKZkbaCo4QrhN9Tpl-ojmCmJp0qzkQrHWe6If2SzGGPOJh1JAYDkb6NA8P775YW_dhm3nDQJ5N9Rkhn06COdl4wL6uwAOWzdtyxu7CX6hFc_mM2370CJNJ6CE6cfmv-Vp2KwU4i31zCyqeBKxyAbZ&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdwHEIkXXIjnxKZkbaCo4QrhN9Tpl-ojmCmJp0qzkQrHWe6If2SzGGPOJh1JAYDkb6NA8P775YW_dhm3nDQJ5N9Rkhn06COdl4wL6uwAOWzdtyxu7CX6hFc_mM2370CJNJ6CE6cfmv-Vp2KwU4i31zCyqeBKxyAbZ&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGqH33CeTSHNHI9uC71uef2ola42pd_KJfBQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Shows | Masterpiece | Official Site | PBS",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXbhEmvv1QHBU_AbphzJHfgIQTvv41_h-UuTuETBSyB-aAIvDJM8OZeuludxd3O6a2bO-DmLRFQ2pzexkd20uYW7qsFqrsyGiV79Vhpe6gr4y3nQbaqPquOUUR102zGSYRcRo&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXbhEmvv1QHBU_AbphzJHfgIQTvv41_h-UuTuETBSyB-aAIvDJM8OZeuludxd3O6a2bO-DmLRFQ2pzexkd20uYW7qsFqrsyGiV79Vhpe6gr4y3nQbaqPquOUUR102zGSYRcRo&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToOERQwcmGqukno_Bd0tLhfk9gm4C6WG47FQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Valai - Cast, Reviews & Showtimes - District",
+        "url": "https://lens.google.com/goto?url=CAESggEBxCJF19NjqrqOIOdBRja-eeAhAavXv2dfErEoDJ8MazXk90FgkB3732_e-bWVdjj-4rdtxZNhIEtrP7HA6yFRmUeeq7LIerWocLGlZMji4RaA0tRP6xPGZP1psBYTGjv6Yg1IsXeX4cT5G9J8WEoXl63JMiBGLq29sCGeDzVVGT6V&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESggEBxCJF19NjqrqOIOdBRja-eeAhAavXv2dfErEoDJ8MazXk90FgkB3732_e-bWVdjj-4rdtxZNhIEtrP7HA6yFRmUeeq7LIerWocLGlZMji4RaA0tRP6xPGZP1psBYTGjv6Yg1IsXeX4cT5G9J8WEoXl63JMiBGLq29sCGeDzVVGT6V&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCAUa0YP8LIZNV03O-6zMR9sARjabfYLRt1w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Trafikpoliserna, Season 1 - Prime Video",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXqE-5wrG5pdPKFTTEYzJFsw49oZcZomv2fWs_WwuTYvAHIaoC4c9itz_QnBds5mbj0reQVYOe4yFd40NYv5hWqrAjj1C-FQtjAoLgVfXtVvOQW2H6zOrBv4DoXfLt-2Dxw5UtyXNf13nzoz-HfBIP9p-W0A&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXqE-5wrG5pdPKFTTEYzJFsw49oZcZomv2fWs_WwuTYvAHIaoC4c9itz_QnBds5mbj0reQVYOe4yFd40NYv5hWqrAjj1C-FQtjAoLgVfXtVvOQW2H6zOrBv4DoXfLt-2Dxw5UtyXNf13nzoz-HfBIP9p-W0A&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUPmRqyGQ7rfxV1Q64giAyvphxVxESPnb7rQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video | Subscribe, rent and buy movies and TV shows ...",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXJaafS_gVyNo_c8yspvQ8SaFqMqFAGqoQ-n3WsGhpoY3TyUkybc1OpozgoNuxqTNlaf1KeEV3oeMudxRtNaNClQoFyK1Ru8q6sy7q-WrHfcp-Gwwb7nF-0AD3L4M&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXJaafS_gVyNo_c8yspvQ8SaFqMqFAGqoQ-n3WsGhpoY3TyUkybc1OpozgoNuxqTNlaf1KeEV3oeMudxRtNaNClQoFyK1Ru8q6sy7q-WrHfcp-Gwwb7nF-0AD3L4M&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4p3bg3WLavxnoaYxv7jcSwbmmWp5Aetw8qQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "SUPERB POLICE SHOW",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXBQKmlhapAyqt_vXli0elxG32-porOfw27mMsQlFMnbOFzz4Z4wbEM7wF044d9n6QTlogbEpFDw8RuG4RzI9tVt3BDWTQQiFdmidoNVkRLb79XEi2Om0KipgTw6LpKlw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXBQKmlhapAyqt_vXli0elxG32-porOfw27mMsQlFMnbOFzz4Z4wbEM7wF044d9n6QTlogbEpFDw8RuG4RzI9tVt3BDWTQQiFdmidoNVkRLb79XEi2Om0KipgTw6LpKlw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBQzrXbpCUDAJ_SgWHRUEstQrXVR37m5pq5w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Tim Mielants | CaveaPlus - კავეა პლუსი",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXXtZqR32Cqob-FbMH9xR8IzS9D8W3t7LLQNDmztffAxZzxZ0IZfQABSg6TdbDWhUq9irBDjx6evDLUOUw47gMzGfGH4Ttd5Hwbha2aq2KaN-qh7LHqELdMgslf93kbmSf0o_9xy_c&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXXtZqR32Cqob-FbMH9xR8IzS9D8W3t7LLQNDmztffAxZzxZ0IZfQABSg6TdbDWhUq9irBDjx6evDLUOUw47gMzGfGH4Ttd5Hwbha2aq2KaN-qh7LHqELdMgslf93kbmSf0o_9xy_c&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCcZQhWlFcHtmVBkUOu2qavRjc9v5Of4yqtQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Night Call (film) - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXKur5_sdtL19eHvSgz49H9dpCUFH9xtvW1HEzh6HzB0wcz6Xcd8eVDPCMSyfv-8QaL0Oq0qhlIBFIOlM-mth9jX6DhmYPKyOJ6OOo8JeOvyl0qJaUlgLtAp4EH-Z-QwRs1j0e7_VX&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXKur5_sdtL19eHvSgz49H9dpCUFH9xtvW1HEzh6HzB0wcz6Xcd8eVDPCMSyfv-8QaL0Oq0qhlIBFIOlM-mth9jX6DhmYPKyOJ6OOo8JeOvyl0qJaUlgLtAp4EH-Z-QwRs1j0e7_VX&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS58nlCYzOz95r5ELygU-GGuG96blaHWPWYXA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Last Border S01E01 | Go3",
+        "url": "https://lens.google.com/goto?url=CAESlQEBxCJF1wwLoEUEhBXYQSj_XUdvR4soe2XxiLj0rT6-RXsxXcnnAcXjGmylJ4VtMA2o3hBClhWKa2HYlhiKvX7WnL8X9vErP2D6Unh8X1KXTH0Cw7xYPelknbtsZsdzkD4Isx4o3zdBE2ez6nW_A-Hhx1-wpkaR0YM3a3TMWTIRRzVb7gIm5zLYBPGPp38wRA9Y2gXVXA&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlQEBxCJF1wwLoEUEhBXYQSj_XUdvR4soe2XxiLj0rT6-RXsxXcnnAcXjGmylJ4VtMA2o3hBClhWKa2HYlhiKvX7WnL8X9vErP2D6Unh8X1KXTH0Cw7xYPelknbtsZsdzkD4Isx4o3zdBE2ez6nW_A-Hhx1-wpkaR0YM3a3TMWTIRRzVb7gIm5zLYBPGPp38wRA9Y2gXVXA&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7E0l6r1cm_ipW3VR2OLVHUyXwxCGooLi4g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Leave the World Behind | Netflix Official Site",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXKCS6iUBb-8CHCZ7XUsLUmBlVAWJEgKWQ33MiTW-qrFF596_QM6Y_O_ArAcU4XSy1IDOHhCTvBhWCZHNT9XOIGjarJE1A2qNQl_rt6F6TPEfRONGyB0tTch8KsW7a&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXKCS6iUBb-8CHCZ7XUsLUmBlVAWJEgKWQ33MiTW-qrFF596_QM6Y_O_ArAcU4XSy1IDOHhCTvBhWCZHNT9XOIGjarJE1A2qNQl_rt6F6TPEfRONGyB0tTch8KsW7a&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6ueEtVufkP291ETOk3EAfI4T_e7vYhctPw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Poliserna i våldsvågen (2024) | Episodes | ČSFD.cz",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF17iE-FqHR1j6TOtfS3wJ7zkGEgwWYC_2mKV_VKJgxMbagxlz0QbguSwi-vD_FalNE61VMdI9c_zAPpDpE3RPbDeKpagH-qjn2kO_HFR4zZkX-Rn7-4BhQnaLG4w-FptvTrf3WyXD2dJmpi9ivR4z3IIbLz1GNXNTKA5W6A&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF17iE-FqHR1j6TOtfS3wJ7zkGEgwWYC_2mKV_VKJgxMbagxlz0QbguSwi-vD_FalNE61VMdI9c_zAPpDpE3RPbDeKpagH-qjn2kO_HFR4zZkX-Rn7-4BhQnaLG4w-FptvTrf3WyXD2dJmpi9ivR4z3IIbLz1GNXNTKA5W6A&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz0yL-m7TR8Hm7JRbvuOxhqDEoNR9pi_7Eag&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "HYVÄVELI - Suomalainen Elokuvakauppa",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXXh3uJSbZ_3OS2Po106n1ypvFO_MAhV-gHuPCzJNgBInmohjeJEmYooOoQdCf0_vhrqEmCAGr-c4WS92Ei9ApYBVBKYCyIgkjigF-lfQ1NBD5lMc5YOjPSZc8fDt2WbTSa4Bhm-HjFNpjgbg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXXh3uJSbZ_3OS2Po106n1ypvFO_MAhV-gHuPCzJNgBInmohjeJEmYooOoQdCf0_vhrqEmCAGr-c4WS92Ei9ApYBVBKYCyIgkjigF-lfQ1NBD5lMc5YOjPSZc8fDt2WbTSa4Bhm-HjFNpjgbg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFGrhX0YLbYyrgqpRZF7I0G4QlIoDBfDAukQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Poliserna i våldsvågen - tv4.se",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXX3DQD5AM_tEdnu7EpsiT8hER_MwFbuo78doK960qMZq86B_pkuLG_CSm-hy6rDYK8nUFH0w3wW1gPRhHhYCmLRDnhYEh_e32MC_tCBAcr4XDsohyUcXMva6tQoKccQesM&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXX3DQD5AM_tEdnu7EpsiT8hER_MwFbuo78doK960qMZq86B_pkuLG_CSm-hy6rDYK8nUFH0w3wW1gPRhHhYCmLRDnhYEh_e32MC_tCBAcr4XDsohyUcXMva6tQoKccQesM&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Lpvu-WFu9P8QJ3qRoIeNXL0GaimyTZScVQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Bulletproof: Season 2 | Cast and Crew | Rotten Tomatoes",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXXE6ON5VMe3HQRQp78yFKdukVa9J9crDuIZALZSShz2ooinyZxkcrwSMi5uslMgDOk0MFA2IweTL-buH9noswojmGOs4OIbwh7_Xpxz7Xgki_vUQ84pzZ_-4U0-tEWQ6k7gzw-G0Ov22BX8wgw3S1PbNylUO5F-Q&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXXE6ON5VMe3HQRQp78yFKdukVa9J9crDuIZALZSShz2ooinyZxkcrwSMi5uslMgDOk0MFA2IweTL-buH9noswojmGOs4OIbwh7_Xpxz7Xgki_vUQ84pzZ_-4U0-tEWQ6k7gzw-G0Ov22BX8wgw3S1PbNylUO5F-Q&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-MxTTq3LHqzkR2DL2kjZ4quP2eEMbm6WJuw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Secret Invasion | Watch Full Episodes | Disney+",
+        "url": "https://lens.google.com/goto?url=CAESiQEBxCJF1wADZe5_PfH6lEJYOXsKsPLhVD-ulGWrJztkWSCpPqONG2uthW1I2NeXJget0ZqJkB80Guu6CJsKqzGM3Pc3HAomHEyQyYNhJD6eUgZC4feIcrHKVSvbraMX8UWWi_4-usWGbYYfQkAvOtHyLjgj7rA2Tfy1brcBiWfaqKPAgFQsrQ45Pg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiQEBxCJF1wADZe5_PfH6lEJYOXsKsPLhVD-ulGWrJztkWSCpPqONG2uthW1I2NeXJget0ZqJkB80Guu6CJsKqzGM3Pc3HAomHEyQyYNhJD6eUgZC4feIcrHKVSvbraMX8UWWi_4-usWGbYYfQkAvOtHyLjgj7rA2Tfy1brcBiWfaqKPAgFQsrQ45Pg&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3fa1klPjcANyCvfOaQh_MyJeZIuwATHpjnQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Offical trailer for #hijacked streaming free on #tubi this ...",
+        "url": "https://lens.google.com/goto?url=CAESzAEBxCJF16fKCbHwNsdIcSxNRHUjsQKj3TggzsSJMbUIooMftzPenq7qPHdcHFaVmloSTJstkiCJpnPA8HFkCl5BuW8vdzIRFZRyKkCDwqVDQUGBbFOdxUUgAsDGAg36uOZDClHECW_Y-gVNahqlyCbMt170A8htDGUwCy9F56LHyt833Eod49AJbxXUzQjt3V6ARobtK8J79FZPhQiFoTxPJhwv6LpP1kVNcNbg6-7cPOmJBTQDMBeluQNTB1uku4xo4aYmLlqnEii48Aw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzAEBxCJF16fKCbHwNsdIcSxNRHUjsQKj3TggzsSJMbUIooMftzPenq7qPHdcHFaVmloSTJstkiCJpnPA8HFkCl5BuW8vdzIRFZRyKkCDwqVDQUGBbFOdxUUgAsDGAg36uOZDClHECW_Y-gVNahqlyCbMt170A8htDGUwCy9F56LHyt833Eod49AJbxXUzQjt3V6ARobtK8J79FZPhQiFoTxPJhwv6LpP1kVNcNbg6-7cPOmJBTQDMBeluQNTB1uku4xo4aYmLlqnEii48Aw&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThy6yNwV7xXqtlvBnQM7EkQuK8ykOy21dEpA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Download Movie Ambulance (Movie) HD Wallpaper | 1920x1200 ...",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXX4-RFp7nw99P9-rT92gsOdrYdTMGyj46Bj5il0DCaaPplSZWj-RWA4_CL92KbLAU8s57mCooQwM8O_hruI4JWkSIYXzu7Sl8e2-9M0WKwIJcNY_lJ0kXO8Jsa5nMQcyGvH-d8tko&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXX4-RFp7nw99P9-rT92gsOdrYdTMGyj46Bj5il0DCaaPplSZWj-RWA4_CL92KbLAU8s57mCooQwM8O_hruI4JWkSIYXzu7Sl8e2-9M0WKwIJcNY_lJ0kXO8Jsa5nMQcyGvH-d8tko&gsessionid=MesQ3W7YuEen4KhUjSBYBr5V9WHJRt-c75ONI3GNPdLEiYoM_pqBLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsCnUVSb2Z7LuRbavExUfegXeaXt6BOSC9cg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 59
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 59
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 59,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 59,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 59,
+        "google_goto_url_count": 59,
+        "result_url_paths": {
+          "lens.google.com/goto": 59
+        },
+        "result_hosts": {
+          "lens.google.com": 59
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 3,
+        "title_search_results": 9,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Hyväveli"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 9
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "no_tmdb_id",
+        "tmdb_ids": [],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 0,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "candidate_identities": [],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "no_official_results",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Hyväveli"
+        ],
+        "year_hint": 2022,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 3,
+        "organic_result_count": 9,
+        "candidate_url_count": 9,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 9
+        },
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "disabled_by_configuration",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 59
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 59
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 59,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 59,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 59,
+        "google_goto_url_count": 59,
+        "result_url_paths": {
+          "lens.google.com/goto": 59
+        },
+        "result_hosts": {
+          "lens.google.com": 59
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 3,
+        "title_search_results": 9,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Hyväveli"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 9
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "disabled_by_configuration",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Hyväveli (2022)/Hyväveli (2022).json"
+}

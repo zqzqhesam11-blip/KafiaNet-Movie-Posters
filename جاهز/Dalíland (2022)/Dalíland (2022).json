@@ -1,0 +1,2068 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:29:16.323682+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Dalíland (2022)",
+    "image_path": "جاهز/Dalíland (2022)/folder.jpeg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/Dal%C3%ADland%20%282022%29/folder.jpeg",
+    "original_image_path": "Dalíland (2022)/folder.jpeg"
+  },
+  "original": {
+    "folder_name": "Dalíland (2022)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "identity_source": "google_serp_official_imdb_id_via_tmdb_find",
+    "identity_method": "lens_title_search_imdb_id_tmdb_find",
+    "tmdb_id": 522925,
+    "imdb_id": "tt8399658",
+    "folder_name_used_for_matching": false,
+    "reason": "TMDB /find mapped an official IMDb title ID to a movie and movie details confirmed the same IMDb ID"
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Dalíland (2022) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXyei6tff3cSDAKhNub60F4yHNzBAj5NBuFNKoXrGeUs29ikBV4lqJNVT_0J4e09MsGNm1YBvwKPYcGxDdHehoz51VvWcesOqqmWPSMqFbAKZBBc5aANuC4h52Du_nxEXG&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXyei6tff3cSDAKhNub60F4yHNzBAj5NBuFNKoXrGeUs29ikBV4lqJNVT_0J4e09MsGNm1YBvwKPYcGxDdHehoz51VvWcesOqqmWPSMqFbAKZBBc5aANuC4h52Du_nxEXG&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Críticas de Dalíland (2022) - Filmaffinity",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXXpKvAxdo8xS3Z7qgIBCQRKrm8xy4AFkWWNTVQshO6O2F4YFYdU6J2eg9ivdQ9yTFsxVFc1dhy9wWNGmCUz4auyG4brggsNMSBrSK7XdRShV9pV6XKTrA0-QS-WzFYTrHNJ7XsXb2ghkpYorZO43zqNS1X0pF43JbvZNs&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXXpKvAxdo8xS3Z7qgIBCQRKrm8xy4AFkWWNTVQshO6O2F4YFYdU6J2eg9ivdQ9yTFsxVFc1dhy9wWNGmCUz4auyG4brggsNMSBrSK7XdRShV9pV6XKTrA0-QS-WzFYTrHNJ7XsXb2ghkpYorZO43zqNS1X0pF43JbvZNs&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch, Rent, or Buy Dalíland at Home + Online | Stream on ...",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF18B12jDkQ5j70NxqEGXqCiUq5dcMmyfcCdovy8Ro6yN9kdUzLqFC1SD_fPh7930bLbdVyVnAbLK8qDujd9wy0L248AZKe08GX74YaYMfBLtvWN6kpJ-nS7bF9JAfgP1QBiScBBH-vzl-DRax0uvIzsxHj081k-Snzy9pLA&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF18B12jDkQ5j70NxqEGXqCiUq5dcMmyfcCdovy8Ro6yN9kdUzLqFC1SD_fPh7930bLbdVyVnAbLK8qDujd9wy0L248AZKe08GX74YaYMfBLtvWN6kpJ-nS7bF9JAfgP1QBiScBBH-vzl-DRax0uvIzsxHj081k-Snzy9pLA&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland [DVD]: Amazon.es: Ezra Miller, Ben Kingsley ...",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXGEWtSd00G_JLFp9LGalrjgE4DmarP_OIcabk9cjwyRdOFENxIHVojG1ke-9n4AIm8GxogUhAIAD4tB8AC89Rmgjvc8qdF_vZ5xKrr8HQE6aCYNGlZCQ8KGAvI44HsWCVCkXxO7DXsM3qIs4WBHn2hBa4Y9U&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXGEWtSd00G_JLFp9LGalrjgE4DmarP_OIcabk9cjwyRdOFENxIHVojG1ke-9n4AIm8GxogUhAIAD4tB8AC89Rmgjvc8qdF_vZ5xKrr8HQE6aCYNGlZCQ8KGAvI44HsWCVCkXxO7DXsM3qIs4WBHn2hBa4Y9U&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Caribbean Cinemas | Daliland",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXxeTJ1o31IOPq7FZ4PFfzCuaYD_KOKGkjMmQK81GCH-NNnDmtaASEMJq_bEA3T2zPpXGrTVKzQvSQfc-00zc5HxZQ0p-O3R-ZKED8yGViFRkRpL_QafCzdnN7PLCSo0JT&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXxeTJ1o31IOPq7FZ4PFfzCuaYD_KOKGkjMmQK81GCH-NNnDmtaASEMJq_bEA3T2zPpXGrTVKzQvSQfc-00zc5HxZQ0p-O3R-ZKED8yGViFRkRpL_QafCzdnN7PLCSo0JT&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Daliland",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXX1fJVToH9deuimDQZGaudToePTyadHexDdKoSDYMcUtHCgm0B6dtmJOpedcDfA1_Y56mVPUZM5mGkvZ7YHv3U_aVSlHoodEjpYffqugEwzhRsSuXu8uDL6iquB4vTyk0SY9K9XDfsAB2ul_KSLDcqnUkXFYrHZbQc1Q&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXX1fJVToH9deuimDQZGaudToePTyadHexDdKoSDYMcUtHCgm0B6dtmJOpedcDfA1_Y56mVPUZM5mGkvZ7YHv3U_aVSlHoodEjpYffqugEwzhRsSuXu8uDL6iquB4vTyk0SY9K9XDfsAB2ul_KSLDcqnUkXFYrHZbQc1Q&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland (2022)",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXXlLfLn1rlvosGYUO1uP-4oD_pRjLlmI1VAzYblTgjLzDycs8Q-03NxXHEJ_tA_q2Z_V9ygEvRjJeQlqPxPjdMgorPMn13qCjvC5N78mNTifkqc_xEonCmS5DI-tOZa0Dq5RkeI0lzxFVJfA_hTcYjogbWPtGpiA&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXXlLfLn1rlvosGYUO1uP-4oD_pRjLlmI1VAzYblTgjLzDycs8Q-03NxXHEJ_tA_q2Z_V9ygEvRjJeQlqPxPjdMgorPMn13qCjvC5N78mNTifkqc_xEonCmS5DI-tOZa0Dq5RkeI0lzxFVJfA_hTcYjogbWPtGpiA&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland - Película 2022 - SensaCine.com",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXt3oNJPp1EIvp89RgDpwMJeokjEjODAmX469x9zsLltMaTE32-e3SksoYkJrMcZxP8qbftQUVHIloKHKqC3W_k7_xQf99ZAZ3lcU8FxbA0VBvjf5-zlQ8sjBJ-4CNM9zRIdy0ki1SEZIwwpgS&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXt3oNJPp1EIvp89RgDpwMJeokjEjODAmX469x9zsLltMaTE32-e3SksoYkJrMcZxP8qbftQUVHIloKHKqC3W_k7_xQf99ZAZ3lcU8FxbA0VBvjf5-zlQ8sjBJ-4CNM9zRIdy0ki1SEZIwwpgS&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Prime Video",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXAACCQiW8HJYWlim1WBAZ0TIpzV2do-1iSrGxVIPTHhGcG1lc7j0TCLmM5PzRwImi7bvyz3LHkrdLlEMvchL-nWJQLE7AeiASpH3AvuDx4ybdHLlRHzaI0Db3x6lqD30y8R2ybIkHf98h5O_VENKfV6Y4O0zsMdrh6Q&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXAACCQiW8HJYWlim1WBAZ0TIpzV2do-1iSrGxVIPTHhGcG1lc7j0TCLmM5PzRwImi7bvyz3LHkrdLlEMvchL-nWJQLE7AeiASpH3AvuDx4ybdHLlRHzaI0Db3x6lqD30y8R2ybIkHf98h5O_VENKfV6Y4O0zsMdrh6Q&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Películas en Google Play",
+        "url": "https://play.google.com/store/movies/details/Daliland?id=41oroyjTLCM.P&hl=es_CL",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/Daliland?id=41oroyjTLCM.P&hl=es_CL"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/Daliland?id=41oroyjTLCM.P&hl=es_CL"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/Daliland?id=41oroyjTLCM.P&hl=es_CL"
+      },
+      {
+        "title": "Daliland (2023) - review - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXwOUj8Wmu_pWB4Up0WqwWSh9FV3G4s9ha3OUEBqiEf8KTX4AlKpzsfQ9azeu2vmANtLVWWpBZQRkdcK7dU6M-aW49QVYIfaMTANSEh5QHTc4yO9moWIcFKq9kO8e-aKHenStL&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXwOUj8Wmu_pWB4Up0WqwWSh9FV3G4s9ha3OUEBqiEf8KTX4AlKpzsfQ9azeu2vmANtLVWWpBZQRkdcK7dU6M-aW49QVYIfaMTANSEh5QHTc4yO9moWIcFKq9kO8e-aKHenStL&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland (2022) - Filmaffinity",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXxSS32XC_WSMFsf8CF4Y4ub_dF_22rStXiraSdqEFpiJ1yPpWDHmJxv31wwp1ZCS8FK3y7eP8XED7ca3qWiXMhpMH-YRU_tkoYSzwXfUQSWgDLX42eKDtuNiBPTqv9Rsm6cD5xXSYKw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXxSS32XC_WSMFsf8CF4Y4ub_dF_22rStXiraSdqEFpiJ1yPpWDHmJxv31wwp1ZCS8FK3y7eP8XED7ca3qWiXMhpMH-YRU_tkoYSzwXfUQSWgDLX42eKDtuNiBPTqv9Rsm6cD5xXSYKw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9B0-q1zD3fRx2jLbil3_yUdV9S8BJHA8upw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Sir Ben Kingsley is Salvador Dalí in Mary Harron's #Daliland ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXaTTvB6wIlpAOoQEl4q6UewpxAgBOpDAU_CbsBeXvQA8uGbXGJK60EWQCKjV4O6iXcBQrSkD93OSr9WmHFDIY0qA8sIf4fRvl4Ij9ImMOc05IhGKKN_EaZUVtCWUOOUs-&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXaTTvB6wIlpAOoQEl4q6UewpxAgBOpDAU_CbsBeXvQA8uGbXGJK60EWQCKjV4O6iXcBQrSkD93OSr9WmHFDIY0qA8sIf4fRvl4Ij9ImMOc05IhGKKN_EaZUVtCWUOOUs-&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPTWA9iI-6tTDRq_O_Aw0unvUqBG6DRsBXA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Official Trailer In Theatres Jun 9th, 2023 ...",
+        "url": "https://lens.google.com/goto?url=CAESzgEBxCJF19K7pPis7vNs9n1gqAAAvD-oVuk7yEX9doyzUxUY7jHyZOY01dTg9nmZu1ijc3NvbCRsBr5KcncvEnPDcp5ThgwHmJck4xu7Hk1iKSkC5kfuUUNg4jT_0kMcOwJI1jZIrGWDHMNepWPSKDIKLAf1v0dXFuePYuqbljb5Sj6HhhXCcQxs7hYxW0BCAPzA7KKs231TcpQKEhr0i0gWP6HRKWc0njIoQ1d-dI6LSOdxQIHWp0f3EYId8eU3K1YlmR2zDuXiCsLxFbxGGQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzgEBxCJF19K7pPis7vNs9n1gqAAAvD-oVuk7yEX9doyzUxUY7jHyZOY01dTg9nmZu1ijc3NvbCRsBr5KcncvEnPDcp5ThgwHmJck4xu7Hk1iKSkC5kfuUUNg4jT_0kMcOwJI1jZIrGWDHMNepWPSKDIKLAf1v0dXFuePYuqbljb5Sj6HhhXCcQxs7hYxW0BCAPzA7KKs231TcpQKEhr0i0gWP6HRKWc0njIoQ1d-dI6LSOdxQIHWp0f3EYId8eU3K1YlmR2zDuXiCsLxFbxGGQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw57gLRhMkZ6hMQ25rpBarnqBWHUch222lXQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland [USA] [DVD]: Amazon.es: Películas y TV",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXuOgiXi_Q8eSskVTCAnWQoullkqMTmM3YQQYspBVCa7nK1Y5MFPCpkTUoR_TgVtGDtOoCxMkbHnc-PGc1ISuuUZH1ZksLxUgnArmDHxy4dxRlkLT0LzZ6XWwvuSRE92YfU-hc3hGSXt1fIffYtz5fJ9HrHJrQFfg_ww&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXuOgiXi_Q8eSskVTCAnWQoullkqMTmM3YQQYspBVCa7nK1Y5MFPCpkTUoR_TgVtGDtOoCxMkbHnc-PGc1ISuuUZH1ZksLxUgnArmDHxy4dxRlkLT0LzZ6XWwvuSRE92YfU-hc3hGSXt1fIffYtz5fJ9HrHJrQFfg_ww&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScxun0AHcnN3iaaogoecxekjJeRKfQns-K-Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "JAPÓN] La Película “Dalíland” Llega A Japón",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXZaIq2NoHpo5QhK0jWRYD7tlzHoT1UQ5sT_ohVVJ_cAha5U0nF7AmhSO0DDv_KxDnaMP8ZWEVyMl5S3ly-rEYoXAFIUbMl-13EPta7VPGCueU9InScBCAS67Wm1Uh9Q&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXZaIq2NoHpo5QhK0jWRYD7tlzHoT1UQ5sT_ohVVJ_cAha5U0nF7AmhSO0DDv_KxDnaMP8ZWEVyMl5S3ly-rEYoXAFIUbMl-13EPta7VPGCueU9InScBCAS67Wm1Uh9Q&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNHrom2yqsqW1Ear2O2YIjAnevUn8rSWBn0A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland (Film, 2022) - MovieMeter.nl",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXX6ht0x4ij3xk3rPcm1ZjZFzPEFGpWm56Ze853p9_Ir9pwTdrm0eiAI2jptsTuyf8C8JOuUCMh0ijsK923krgkaNy9JkgUvkb95YstLgwsvG8OaAQFriuH9M9OHP_kRw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXX6ht0x4ij3xk3rPcm1ZjZFzPEFGpWm56Ze853p9_Ir9pwTdrm0eiAI2jptsTuyf8C8JOuUCMh0ijsK923krgkaNy9JkgUvkb95YstLgwsvG8OaAQFriuH9M9OHP_kRw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwxbEn5sDdchQU8mgZjC0_Rec6BzT9B359ZQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details?id=kwlO1AELRvs.P",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details?id=kwlO1AELRvs.P"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtYg4G5QM_U_Y2d-PjcSjt-ilPNlOSD5yvwQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details?id=kwlO1AELRvs.P"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details?id=kwlO1AELRvs.P"
+      },
+      {
+        "title": "Daliland - Película - 2022 - Crítica | Reparto | Estreno ...",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXX0qnthcY8O-sHTzDxFDj3BfJmb_7M430C4CZFhu4IOx9ZHdu3klZTRt64RzEuPzIhSr7mCmTvN_ddTBG-OqeIcQ5K-H98UEkkgYhNcu0Go3bQErqpv-ys9qZk6Jh6vjzW7TIhuuCg&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXX0qnthcY8O-sHTzDxFDj3BfJmb_7M430C4CZFhu4IOx9ZHdu3klZTRt64RzEuPzIhSr7mCmTvN_ddTBG-OqeIcQ5K-H98UEkkgYhNcu0Go3bQErqpv-ys9qZk6Jh6vjzW7TIhuuCg&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq-JDMHZWr6egAyNAAj10IjhmPy4n2i8LNbw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "LINK Daliland ~ Ben Kingsley-Barbara Sukowa (Mary Harron 2022)",
+        "url": "https://lens.google.com/goto?url=CAESXwHEIkXX5TGTiQrHYDc_tQuWcNyGJw_EIfA92e7xwdIAsjZyqJDllM9obRsC-2kORsP2JF2bllyAmtSgRjunNxTBQxFYCwFBoY8hf2gx7pp-zKQzD3JFizXzw7ergyLZ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXwHEIkXX5TGTiQrHYDc_tQuWcNyGJw_EIfA92e7xwdIAsjZyqJDllM9obRsC-2kORsP2JF2bllyAmtSgRjunNxTBQxFYCwFBoY8hf2gx7pp-zKQzD3JFizXzw7ergyLZ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-sJwZRTBIsgyXXl11h52SMtapZBIzTMgwg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Ben Kingsley as Salvador Dalí in Daliland Trailer - In ...",
+        "url": "https://lens.google.com/goto?url=CAESwwEBxCJF1_EyQ6Bkb3vyGntHl6e7nSObjiCmR8jvQ7yrbDOk7zIzbX5zenAJ6TlB85kcLC5c05eY4AiUQWslUdfDn837gLJaIfum3Esgzj_uHGuhzquEGuhDYjDcjiH2IiZWVtbEA-O9nlSVV-p75eiR0tNUPMrdFzdj-Ml_L2DEzFVzTWejW-DZaw2Tvi-PWW_1WNRNqTztUIvEBzVkz3-K7astHD2sm7t5igbAkPbEb7Lc1uS2tdKxtVWk42qB7tX4skU&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESwwEBxCJF1_EyQ6Bkb3vyGntHl6e7nSObjiCmR8jvQ7yrbDOk7zIzbX5zenAJ6TlB85kcLC5c05eY4AiUQWslUdfDn837gLJaIfum3Esgzj_uHGuhzquEGuhDYjDcjiH2IiZWVtbEA-O9nlSVV-p75eiR0tNUPMrdFzdj-Ml_L2DEzFVzTWejW-DZaw2Tvi-PWW_1WNRNqTztUIvEBzVkz3-K7astHD2sm7t5igbAkPbEb7Lc1uS2tdKxtVWk42qB7tX4skU&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCsajUXONFVipe-B1KDXu1V100ykXgnIBoHw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland [DVD] : Amazon.com.mx: Películas y Series de TV",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXDra5HbW4D8eYbwXMIHhb6Ca88jwhNLzgSXhTDKkYP3FRN1G4zldpdA_PZv2U3NLAYxhS8g7lXu1Y_bW0HGLsYNjYe7DKDPqT76dcCR07lipSMHjXeJ_8YLG7mcPDjJ_n-iHFtbnjCQP0WmtT&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXDra5HbW4D8eYbwXMIHhb6Ca88jwhNLzgSXhTDKkYP3FRN1G4zldpdA_PZv2U3NLAYxhS8g7lXu1Y_bW0HGLsYNjYe7DKDPqT76dcCR07lipSMHjXeJ_8YLG7mcPDjJ_n-iHFtbnjCQP0WmtT&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCzXssY0scn6wUUiWP4eqZwa8sYD5HisRTGg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX_k3pOzS4f-gCn23czW57n3cEI4CpXOtuMs4gscVPkMkm5YJxOp7TbMUSjoncJTKG8pCeerDBA1KonigBaJvV37Davacr80bFfHOV9hJXmslcHoCoAknmNEN6CXTgymFAJTAk&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX_k3pOzS4f-gCn23czW57n3cEI4CpXOtuMs4gscVPkMkm5YJxOp7TbMUSjoncJTKG8pCeerDBA1KonigBaJvV37Davacr80bFfHOV9hJXmslcHoCoAknmNEN6CXTgymFAJTAk&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqsNhsXtjkc6RXn1c-k5o-pbBBy4Yx-3MczA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Official Poster for 'Daliland' Starring Ben Kingsley : r/movies",
+        "url": "https://lens.google.com/goto?url=CAESoQEBxCJF1zrW6eUN1r61ywOxZWX04s3iFU1ySzNeskwA02eBPa5rv4qXGmps38M19p7eoluukt2jGv24c9Z96MfR1_OUV6a133K1uGe9trssBnZYv-VvzRy24Ws7NHLZXdmN1rEsZRUhienhXI9Im6TKQBm48VwmlMI6Y_dcI-hrLhoVPyRz6XUK-dv_NquweTji7nfV7HymcOJg9Ly50uaEGQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESoQEBxCJF1zrW6eUN1r61ywOxZWX04s3iFU1ySzNeskwA02eBPa5rv4qXGmps38M19p7eoluukt2jGv24c9Z96MfR1_OUV6a133K1uGe9trssBnZYv-VvzRy24Ws7NHLZXdmN1rEsZRUhienhXI9Im6TKQBm48VwmlMI6Y_dcI-hrLhoVPyRz6XUK-dv_NquweTji7nfV7HymcOJg9Ly50uaEGQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF34wraCErWvU2MXHgdP15HfZdEOTWQ_shNQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "El Viaje Films | Kinótico",
+        "url": "https://lens.google.com/goto?url=CAESXwHEIkXXzs2FboJkBTXU6gnTfBGVc6dcJzPQW4f-3ek01gdRdkKEOyuDRRq2_iVsg-RmJnb7RM-3zWr7BhN2GomznSlrLPShVhy9eHOcIcA2Nay3ipWY0puYrRRHAJ3C&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXwHEIkXXzs2FboJkBTXU6gnTfBGVc6dcJzPQW4f-3ek01gdRdkKEOyuDRRq2_iVsg-RmJnb7RM-3zWr7BhN2GomznSlrLPShVhy9eHOcIcA2Nay3ipWY0puYrRRHAJ3C&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsgVsTQVAdcesQJZO8kMvrViAYL8_pqS6PjA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland (2022)",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXX-T2zdbzTIE2ZhN7N4WPnqFP_8tZSxKIH_vzVJKgXIhzXh37ydUhj1HTJHHzCRKWg-Amrcr80X0ne0GtLicHKfl7wsZGf3jaXfnAC4s6B1Wu78pGRHGX6FYpQAgs44QcfGPaX_OCAqaZ7AP2Khi6LJyYhIswxHjt3Rw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXX-T2zdbzTIE2ZhN7N4WPnqFP_8tZSxKIH_vzVJKgXIhzXh37ydUhj1HTJHHzCRKWg-Amrcr80X0ne0GtLicHKfl7wsZGf3jaXfnAC4s6B1Wu78pGRHGX6FYpQAgs44QcfGPaX_OCAqaZ7AP2Khi6LJyYhIswxHjt3Rw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4xUXgHQosGectMQ7YMkBUa0bvnlU-Phpog&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Where to Watch Daliland (2022) Full Movie Free Online - Plex",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXnrZvQNgUtMrclrl5De1VmkCKcfIHKACmmuogxb-QG83ZM5FjwcpiOYR6MM_9smyCrOEtwcfXRZg_u7xDsWaIA2Uk9GJvWfjlNnQ7bGpwB5wJyaeXsZBFGudPvzQNww4&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXnrZvQNgUtMrclrl5De1VmkCKcfIHKACmmuogxb-QG83ZM5FjwcpiOYR6MM_9smyCrOEtwcfXRZg_u7xDsWaIA2Uk9GJvWfjlNnQ7bGpwB5wJyaeXsZBFGudPvzQNww4&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvEjcTsNGUvi7Q7aFvvOOdQAtfi-nMtQwV6A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland (2023) - Film | cinema.de",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXIPpJ7N0I4xAYviD9gmaBgWp-f3r-UMnRgfXV3VzDBypfVhyEsVYoaM1Nf0i6wfWzsSscZouR_M8qK-nIKGm8ap3xuszO2QjzWFk5MAJYeLTdUEE_JM_uTg0hSdomej56onnF9nadFKYw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXIPpJ7N0I4xAYviD9gmaBgWp-f3r-UMnRgfXV3VzDBypfVhyEsVYoaM1Nf0i6wfWzsSscZouR_M8qK-nIKGm8ap3xuszO2QjzWFk5MAJYeLTdUEE_JM_uTg0hSdomej56onnF9nadFKYw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHilQUPB_AZIos4XPsCATd_ap1lUqCXyBFTA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Mongrel Media",
+        "url": "https://lens.google.com/goto?url=CAESjwEBxCJF13zr3hA0j12g9DSyO0cf_q0xA5gv3mLymwzOcB6h1tbM0vmFbIxyWX1GyNLp3iNzWhqXI9qCaTVuhe3IwjvnZdlftajTqmS4MUy7V3Qqq46FPcHr897iX7syqDaM1oJjh4s75amGj5EN-mOTwUusTMJhM0ZJR0Sb5A7cgM4JYpTT8hd7AtOjKhsnsQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjwEBxCJF13zr3hA0j12g9DSyO0cf_q0xA5gv3mLymwzOcB6h1tbM0vmFbIxyWX1GyNLp3iNzWhqXI9qCaTVuhe3IwjvnZdlftajTqmS4MUy7V3Qqq46FPcHr897iX7syqDaM1oJjh4s75amGj5EN-mOTwUusTMJhM0ZJR0Sb5A7cgM4JYpTT8hd7AtOjKhsnsQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqE14IuaID5jctGECYNVTC4aPqaz0-Lk8tVg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland | Avoca Beach Theatre",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXXgjZd3BiFUBuDs1EkjOzpRTpZzCQqOjLt1URba6YfhJ7oAnn5PRPu7skZ8YQbOcrTBzftcm6U5jV_Bfe3kPulZLPEXCbYWrbpJjLxXLrn-JWJXPDxVqOfT0bd7VPVLsjQpa4wmB9koId_gAcPK_wctA4fvZlv2Rw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXXgjZd3BiFUBuDs1EkjOzpRTpZzCQqOjLt1URba6YfhJ7oAnn5PRPu7skZ8YQbOcrTBzftcm6U5jV_Bfe3kPulZLPEXCbYWrbpJjLxXLrn-JWJXPDxVqOfT0bd7VPVLsjQpa4wmB9koId_gAcPK_wctA4fvZlv2Rw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQkvTEHLu9dRSwDaUFaZlBw5Cm-9HV0FcTyQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland | Películas y Series La Vanguardia",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF12xCKfBR-n-vdYsdbpTAxdFrDHJcSnAedabsHapxTcPYYCDYpEkBecXOu7ULXfvPef4rg7WSCEchqlUIaxGhwYjJ1NwgBu0c8jkT7dq9v355AbYCSURuBeFF2QAnBy6jaIpNh34Y2LSBHVp1-v9W9OU9kWMFHgEtR1D749XqIzo&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF12xCKfBR-n-vdYsdbpTAxdFrDHJcSnAedabsHapxTcPYYCDYpEkBecXOu7ULXfvPef4rg7WSCEchqlUIaxGhwYjJ1NwgBu0c8jkT7dq9v355AbYCSURuBeFF2QAnBy6jaIpNh34Y2LSBHVp1-v9W9OU9kWMFHgEtR1D749XqIzo&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhSWXxuJ-q5C-kxcINZFvT8p2lhPtOYv41kw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Películas en Google Play",
+        "url": "https://play.google.com/store/movies/details/Daliland?id=HFumnbbtCck.P&hl=es_CR",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/Daliland?id=HFumnbbtCck.P&hl=es_CR"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS05Pjm0x5C8KOY0zOx1mbwTZFsV5efy2F8_g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/Daliland?id=HFumnbbtCck.P&hl=es_CR"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/Daliland?id=HFumnbbtCck.P&hl=es_CR"
+      },
+      {
+        "title": "Dalíland - Official Trailer | Starring Sir Ben Kingsley ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXgBp1U0OAWKlRfhuV-fJORLM85qeU4Je_1nbDVk00B0Z50Fi3NdRAseKSJheq2b4EcCk5NHKupxIwZvHtG8p-8UzRMeePVoYYIHp_RbKIjgnx4FZeMpT7233KPUxrwF0SzXaW&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXgBp1U0OAWKlRfhuV-fJORLM85qeU4Je_1nbDVk00B0Z50Fi3NdRAseKSJheq2b4EcCk5NHKupxIwZvHtG8p-8UzRMeePVoYYIHp_RbKIjgnx4FZeMpT7233KPUxrwF0SzXaW&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeWQ_pYl4ogex0Nn-vmalTzWMXXEWxgoOhhw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Dalíland",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXX9RRd82ocSZUKiR-ptjpOUrThxv7DcciKpfUcXlNLBHxgzH4YInUT-a6mYnweFiQCxdMeVAPBjG6SN0Pojjr9CzyvsZIsr4xjYn2ixNVgWO9QV6yb5gkL9Cd2vPxeNIPucsD2Q07SBso4WNKlcMmO3JiPkTvIfMqQzQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXX9RRd82ocSZUKiR-ptjpOUrThxv7DcciKpfUcXlNLBHxgzH4YInUT-a6mYnweFiQCxdMeVAPBjG6SN0Pojjr9CzyvsZIsr4xjYn2ixNVgWO9QV6yb5gkL9Cd2vPxeNIPucsD2Q07SBso4WNKlcMmO3JiPkTvIfMqQzQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgHwQ2_idIascfAJsBJunVjV1TvsQjM7oMSA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland: Kingsley brilla en un retrato desigual – Martin ...",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF13WQGXT7canoVtiYIw3DSLVRYxiah7Cr66hbDrZvZM8EKs92DANN2snjN5aHSVJtQAMbULueMt1KkMul6cRXrL1QYmB8FrMBRWu6wFqeHAK5ofNk3ILUKb3IF5ZOHvXm9IttFzR1nMi0M-91nnt-oOBnafxAd7vsNfsVUT-Zics&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF13WQGXT7canoVtiYIw3DSLVRYxiah7Cr66hbDrZvZM8EKs92DANN2snjN5aHSVJtQAMbULueMt1KkMul6cRXrL1QYmB8FrMBRWu6wFqeHAK5ofNk3ILUKb3IF5ZOHvXm9IttFzR1nMi0M-91nnt-oOBnafxAd7vsNfsVUT-Zics&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZmjoLflvacQJimAlS4Nbc2f6j_Hg8mL1CeQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland (2022) - Película eCartelera",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXX9-URC6SR2z30KB7lJ9TNtXFlZuIKK-9xXFzi0zhi2rFRwsE4E1CTEkIMGeEKzGJBXl6niasRBR9Ld4c2DSdwEKXDoRbVw5IOOeudbg19sgNgaaJWpS26417iTdkJf6ENS97gx_1l&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXX9-URC6SR2z30KB7lJ9TNtXFlZuIKK-9xXFzi0zhi2rFRwsE4E1CTEkIMGeEKzGJBXl6niasRBR9Ld4c2DSdwEKXDoRbVw5IOOeudbg19sgNgaaJWpS26417iTdkJf6ENS97gx_1l&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJJXyeF9rXllOM3LIPtY46Z5tm5owgVFr56A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland, Feature Film, Biopic, Drama, 2021-2022 | Crew United",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXp5S8u4YV-aKeGCIFYooxc467Cp3O6ezndztEJFx1_kdd8wYowf_cGIh8q-C62Nc1Lzi1jHgVK3_n8jtSr0FIXbrpU9tNc1vWeKF3SOgvvJyemmorKbAfQJd1ovzaTMao-nb8qy6wPpdlVHPj&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXp5S8u4YV-aKeGCIFYooxc467Cp3O6ezndztEJFx1_kdd8wYowf_cGIh8q-C62Nc1Lzi1jHgVK3_n8jtSr0FIXbrpU9tNc1vWeKF3SOgvvJyemmorKbAfQJd1ovzaTMao-nb8qy6wPpdlVHPj&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TNFEDIXmc2y8-2khX_-3IOOIn1wbsxoSTQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Espressos | El Cine de LoQueYoTeDiga",
+        "url": "https://lens.google.com/goto?url=CAESpgEBxCJF1-_pYGkGLp93rMVrfm9an4QQYQA53yoUgCun3UHtHp6tCSTrDEvtVB9KokHcmIP89lxdh6x39LqNWurPEC4KB98ILfgMMIPNUDtUYLItCmU-9EzmFnPTEtcmaYtUnQdMAnA-f-Z9uZcoawSRA4CFUiQd--7tKcIf3zOQb8IDC7I-PHZp11FOmQCIcxC7QBbIeR_wIW_Z_QU6_TrSjePd8_Cz&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESpgEBxCJF1-_pYGkGLp93rMVrfm9an4QQYQA53yoUgCun3UHtHp6tCSTrDEvtVB9KokHcmIP89lxdh6x39LqNWurPEC4KB98ILfgMMIPNUDtUYLItCmU-9EzmFnPTEtcmaYtUnQdMAnA-f-Z9uZcoawSRA4CFUiQd--7tKcIf3zOQb8IDC7I-PHZp11FOmQCIcxC7QBbIeR_wIW_Z_QU6_TrSjePd8_Cz&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEAr7t8bmem86VKMq1Ye_pkywwcP5XHbCdg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "La Fundación Dalí contra 'Dalíland', el biopic protagonizado ...",
+        "url": "https://lens.google.com/goto?url=CAESywEBxCJF15IxYYLY24H1iZYVf6dlA6sLLJ0Z0u4zz-6XrHnfOYlkUkc3I6LjxE7mMilffDlDqI49CUSVhWl8ibVKx5lLvTpIiI4R5-k923omIcvlwoz5Ph7i8wfUkLTgN8C4w912ZD_6fNbpt0RgeRNmbvPU2brL-EeRLTwfO7w92E2PgxUQeDbKrHhRkoq0MtmhlsaGOYobnpt41gNC81KwueohLEtsJovv-xdBs7sUKOcxM4gVgyzdqgu772x3ExW_Tb9xmBEeDC09dw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESywEBxCJF15IxYYLY24H1iZYVf6dlA6sLLJ0Z0u4zz-6XrHnfOYlkUkc3I6LjxE7mMilffDlDqI49CUSVhWl8ibVKx5lLvTpIiI4R5-k923omIcvlwoz5Ph7i8wfUkLTgN8C4w912ZD_6fNbpt0RgeRNmbvPU2brL-EeRLTwfO7w92E2PgxUQeDbKrHhRkoq0MtmhlsaGOYobnpt41gNC81KwueohLEtsJovv-xdBs7sUKOcxM4gVgyzdqgu772x3ExW_Tb9xmBEeDC09dw&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrRg8zBkDoroDZhHOZVR81LJKXyHqIOHTdoA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Kaleidoscope Home Entertainment",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXcAnYb-rSCF6HVe-QrqkwpAcGxAkjEOC9XS1IOEI2Yk4Mrm91031Tdi6rkqz_2SHVo5yx8j23g3Ay7nXA4NIMyMDXO0YGoBQ4D8gYYL4siFoxSwPkjMjJ4jzT97tM5HwaDkZJ2IoqJRsQP2KFuC1I9ro&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXcAnYb-rSCF6HVe-QrqkwpAcGxAkjEOC9XS1IOEI2Yk4Mrm91031Tdi6rkqz_2SHVo5yx8j23g3Ay7nXA4NIMyMDXO0YGoBQ4D8gYYL4siFoxSwPkjMjJ4jzT97tM5HwaDkZJ2IoqJRsQP2KFuC1I9ro&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPDHAm-8G7JEy_ohDvJvK8jiJ0FhuyiBZ9JQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Cine: Daliland – Residente en Portugal",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXXQWN-qC0e6-66vqwKWYypWHU3JPehM0n19u8tQGYyQe7-N3WfDF-bNug2LKsjQVf7IMtPZPhCe2XXE7Mj8rXIe4GqZPvgWtdRbTbvq_xIx_7t3BXBYuhL2VKFFNUCqHUpBhbym947CIXl3g&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXXQWN-qC0e6-66vqwKWYypWHU3JPehM0n19u8tQGYyQe7-N3WfDF-bNug2LKsjQVf7IMtPZPhCe2XXE7Mj8rXIe4GqZPvgWtdRbTbvq_xIx_7t3BXBYuhL2VKFFNUCqHUpBhbym947CIXl3g&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsoLq3Sdj1z1PllIYcdjIKD4y3D7wd5sh8Vw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland (2022) film directed by Mary Harron | TikTok",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXXrV6I_zH5Dex8HuuFUAE4M46j5CuPVV7X21kE0XerzAL0KMHucRXZoRb4VKSlJi2_dV8bUixkLM8EZ8bI2_D5Hkqyw7GTd1tCDRddXTiZ2Y7TUBY4N70qTs6fosRpmN5QOuMHafUAK3wnwqXHc5AZ160xVKtA4Zg&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXXrV6I_zH5Dex8HuuFUAE4M46j5CuPVV7X21kE0XerzAL0KMHucRXZoRb4VKSlJi2_dV8bUixkLM8EZ8bI2_D5Hkqyw7GTd1tCDRddXTiZ2Y7TUBY4N70qTs6fosRpmN5QOuMHafUAK3wnwqXHc5AZ160xVKtA4Zg&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFKvLJN_vyjNwT4uPRTt3fOsW1o5ws9zU4w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland (2022) — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESbQHEIkXXpOczkDj1ZCke9IEFcobRiDfMaxbv2HKYaD7-9GSJYcUTt3s3RyC1D3G5pjvo_-tLarV5uJILYhmLcepiKs081V7DRKGaF3YgxzlPQMwxElYle1Tdpq6gAGM0F5qyxq8VlDNLDozj_hU&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbQHEIkXXpOczkDj1ZCke9IEFcobRiDfMaxbv2HKYaD7-9GSJYcUTt3s3RyC1D3G5pjvo_-tLarV5uJILYhmLcepiKs081V7DRKGaF3YgxzlPQMwxElYle1Tdpq6gAGM0F5qyxq8VlDNLDozj_hU&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2mHXeozom44Na8Rvp2_969WFPfTRXje-PQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DALILAND - North Park Theatre",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXX7EHgboyKqwiDkuTxz0Si_oAgauq1uQ6VcCUEe0OVjZhiVm32axj-cUACFaIfGtd1ntWJd9kPKY6ACi5QcM2g0M4odqD2moSR_5OxrfAeuT5z3tlh9Bg4_pLLaj_crQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXX7EHgboyKqwiDkuTxz0Si_oAgauq1uQ6VcCUEe0OVjZhiVm32axj-cUACFaIfGtd1ntWJd9kPKY6ACi5QcM2g0M4odqD2moSR_5OxrfAeuT5z3tlh9Bg4_pLLaj_crQ&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdHwCKOaRp556PRxfmXG0lJJbyvhWnJ0MAkw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland', el biopic sobre Salvador Dalí, llega a los cines",
+        "url": "https://lens.google.com/goto?url=CAESqwEBxCJF1_9R57eJ28Mp8gkNv7FPNxBYbAyiKdGbfVAh5rokVgjldBnPm6hJeyB5p5gd4gVdMHTLW_89mXEEdmVj9005fQnzPIpAH0bF-qQV3P5tsiY4YJIwhqEZ4ekNQ5UpMd8TsrMCou6bU7ofnN8LrXiz5tqz_kcJSM_skFQZO8ZOKokVRkGrtWTvX0ZRYzjNJB0gs8aRRot8ZOZ0-cVDsffjkHRthoVw5Os&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqwEBxCJF1_9R57eJ28Mp8gkNv7FPNxBYbAyiKdGbfVAh5rokVgjldBnPm6hJeyB5p5gd4gVdMHTLW_89mXEEdmVj9005fQnzPIpAH0bF-qQV3P5tsiY4YJIwhqEZ4ekNQ5UpMd8TsrMCou6bU7ofnN8LrXiz5tqz_kcJSM_skFQZO8ZOKokVRkGrtWTvX0ZRYzjNJB0gs8aRRot8ZOZ0-cVDsffjkHRthoVw5Os&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyCMNIAKMmUku2SN7FAziod_PXfjj_p0blA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalí El Caso Angelus, la fascinacio de Dalí - Película 2024 ...",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXCuWIoRdfxR7uYEBp7TwZyumTDIi549gzJW0p5mISwzacnQgUJDtHiw_Xpie_Zl_Gn-9GgJcy3F5vdKLtW0aSiCCuKwYcS2vlpK-IrJLzcxxjmWXJIOBtGb2mgVbpqCstfiChm4IpA5o186Uc&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXCuWIoRdfxR7uYEBp7TwZyumTDIi549gzJW0p5mISwzacnQgUJDtHiw_Xpie_Zl_Gn-9GgJcy3F5vdKLtW0aSiCCuKwYcS2vlpK-IrJLzcxxjmWXJIOBtGb2mgVbpqCstfiChm4IpA5o186Uc&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQGcibOjd5KxrKSnalIYg952qVsgu67OYsg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland | Rotten Tomatoes",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXYAjJat0Ie-q81XaYe4mBKmbKnn_jIaVBninLH31Rj4_jEL7bIpEHcPUKYpMv3oRpKUY52XHgSd64x3qnEsdQcsDGfCLyiGOTNyoxEdhEogH5jrpY2vCaKkPJjlhOy4Cp-g&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXYAjJat0Ie-q81XaYe4mBKmbKnn_jIaVBninLH31Rj4_jEL7bIpEHcPUKYpMv3oRpKUY52XHgSd64x3qnEsdQcsDGfCLyiGOTNyoxEdhEogH5jrpY2vCaKkPJjlhOy4Cp-g&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXN_XISJSe0YJcWmpV2DV8ESTg9iRkzdqJ8Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "No. 13 BYU faces West Virginia in Big 12 Tournament ...",
+        "url": "https://lens.google.com/goto?url=CAESowEBxCJF1wDyXOx2xDuu-l9apvB4LBshsYmbdCRz5svqV7PF3CSmYwmHAgN4R6gpNXBFhdc6B89jFE1PnkQblUpkX28jAiLXJktR1HThdG6b5DEb7pNIzaOeuZMuy9QUNYUCSYZk1GSvVdcGYEGxRsns1iNiO1oO2xttS2Rrh3qzrjbTvtIYMf-oD1euery_zoruz-Yd7TBoxf16icWSmUzGK5q_&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESowEBxCJF1wDyXOx2xDuu-l9apvB4LBshsYmbdCRz5svqV7PF3CSmYwmHAgN4R6gpNXBFhdc6B89jFE1PnkQblUpkX28jAiLXJktR1HThdG6b5DEb7pNIzaOeuZMuy9QUNYUCSYZk1GSvVdcGYEGxRsns1iNiO1oO2xttS2Rrh3qzrjbTvtIYMf-oD1euery_zoruz-Yd7TBoxf16icWSmUzGK5q_&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIzdr_OTUojU5u54s2N4ARnFJtHwxqQbXzw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Cineuropa",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXX2KNeuP8L9cdfK84ID4BgO5VZHI30D9YVrSZaCCCLIwk_BY5PYJX4L-IZV9pehiLUMROPy3E1WMa_ASfmYnGZkw0BnGe7xVGomKlliOxTd0gv-80NHEHekdQkzMtO&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXX2KNeuP8L9cdfK84ID4BgO5VZHI30D9YVrSZaCCCLIwk_BY5PYJX4L-IZV9pehiLUMROPy3E1WMa_ASfmYnGZkw0BnGe7xVGomKlliOxTd0gv-80NHEHekdQkzMtO&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrlO0-8GGtF4wyqQmjOY0BhH_ZvFTkaSpWQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Final Portrait | Prime Video",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF1_UX4rJg9lmwb79l8rDlZYRCJ-0VnC-XRu4gpE4-FtCdhXdMW8uclpVBn-Fq-lhfLerYFhOk4WhoBuGMCQZjHXP6MLsUNFiutKGeo_VUkadtwxEGsUpAaRG4gCLTwMQmAcnLm9fG9Kv1UgtL4h3REVxCzQU-YS4-hsIWSg&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF1_UX4rJg9lmwb79l8rDlZYRCJ-0VnC-XRu4gpE4-FtCdhXdMW8uclpVBn-Fq-lhfLerYFhOk4WhoBuGMCQZjHXP6MLsUNFiutKGeo_VUkadtwxEGsUpAaRG4gCLTwMQmAcnLm9fG9Kv1UgtL4h3REVxCzQU-YS4-hsIWSg&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KhZb2jemqEwN1EY8CVr0DVDaq--ybwVNzw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Official Trailer (2023) Ben Kingsley, Christopher ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXBEAgnIFI_N4wsyIGcL5BpcRv6i2kKTT4rB3hyBeArURferpt-CWz4gnxa6JYL4f7TgHT2dUPSHe7OjgiU0rVwTEWqk-rBvZl4SrSR0fCVaigFU9ftkdDB6S37d45XSA-GWV8&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXBEAgnIFI_N4wsyIGcL5BpcRv6i2kKTT4rB3hyBeArURferpt-CWz4gnxa6JYL4f7TgHT2dUPSHe7OjgiU0rVwTEWqk-rBvZl4SrSR0fCVaigFU9ftkdDB6S37d45XSA-GWV8&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwqGo_LH2jbJulsW_4XWPNFvUR6U_RD4EL3w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland (2022) - Ben Kingsley como Salvador Dali - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXyRh_S8vaI2TYqfSOzPN8RjlhWQ5Qj7PH2SerHQszlGmiePAmFLDpM2bt71nz6jYc77D-co58Y7sioA5-P8cMrvvW2f1HL8kkRJpoZNNtbd88vHYEyLGKpb5tn60wjwDz5GKplYW4Zcw47Y3ng9Pq6Hd7TIYB&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXyRh_S8vaI2TYqfSOzPN8RjlhWQ5Qj7PH2SerHQszlGmiePAmFLDpM2bt71nz6jYc77D-co58Y7sioA5-P8cMrvvW2f1HL8kkRJpoZNNtbd88vHYEyLGKpb5tn60wjwDz5GKplYW4Zcw47Y3ng9Pq6Hd7TIYB&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLmicMP8MSDCuIxbU6hNmFxCW6gxo5LDLSNQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland - Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details?id=Ak-y37DIrwI.P",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details?id=Ak-y37DIrwI.P"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZNPCZ2JnPxX5HGnlb6OLnOvtDKGnGOP9tFA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details?id=Ak-y37DIrwI.P"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details?id=Ak-y37DIrwI.P"
+      },
+      {
+        "title": "Daliland - Box Office Mojo",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXbC1o-p-qRMvEChv9BRii9VDWgdEWW8uWfC5RaDwaUNbfvLb-26-2I2Tu-CrRIpXmfQg_ADvMpANaff_Zvs309TrUUy1z9qzN1pJ2QR4mHy5MzaP6SEf_WB_gCif9uQf3fVCo-u6snCgRsUs&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXbC1o-p-qRMvEChv9BRii9VDWgdEWW8uWfC5RaDwaUNbfvLb-26-2I2Tu-CrRIpXmfQg_ADvMpANaff_Zvs309TrUUy1z9qzN1pJ2QR4mHy5MzaP6SEf_WB_gCif9uQf3fVCo-u6snCgRsUs&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8835mYlNU2yzvs2f9sY7gaRyTfzrHSFtuow&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalí (1991) - Filmaffinity",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXaGHI0TqQvtY9bBDuhmEER-XhYuRv53OwynsZeh0bXJcjz4Q6VrBWFmLow4F0OfU_j5aNh06q68NQkrydDpZ7qQ6-9pN8g3nrRvGEP9r_HLeP9oZfxRUn7__063B6MIuFVAbxke100w&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXaGHI0TqQvtY9bBDuhmEER-XhYuRv53OwynsZeh0bXJcjz4Q6VrBWFmLow4F0OfU_j5aNh06q68NQkrydDpZ7qQ6-9pN8g3nrRvGEP9r_HLeP9oZfxRUn7__063B6MIuFVAbxke100w&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJSjqmssxCa3sMB8IQ3r_HuEbc8IsxmK7cJw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "\"Dalíland\", la directora de \"American Psycho\" retrata los ...",
+        "url": "https://lens.google.com/goto?url=CAESwAEBxCJF1_zg53ERRRR5SskcGv-hIG7t9q7uvIgIaGrslnAaaZYPUJ1PzmHESKomYr0lw5LIoVwcf-02GKj-fjIyiL9Jji7piorI2OeNxgJLMLbO2sap1CW_RplmaemlLwt0nsNeqYOjRR0spItIipykG3v4BrHuCV0HeELexgQGnJTcZB3Qu6WVJTQg0Lyzvs0jCLKnAZ6tMBtyCZUt7e_PR5hViqD08ECsB2xElvSlJYpZaRWdGZ3HOIGu8Xn5JuI&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESwAEBxCJF1_zg53ERRRR5SskcGv-hIG7t9q7uvIgIaGrslnAaaZYPUJ1PzmHESKomYr0lw5LIoVwcf-02GKj-fjIyiL9Jji7piorI2OeNxgJLMLbO2sap1CW_RplmaemlLwt0nsNeqYOjRR0spItIipykG3v4BrHuCV0HeELexgQGnJTcZB3Qu6WVJTQg0Lyzvs0jCLKnAZ6tMBtyCZUt7e_PR5hViqD08ECsB2xElvSlJYpZaRWdGZ3HOIGu8Xn5JuI&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5mU3hf9p9E2yda3t1Rki8WF23-2-AzXfGZQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland (2022) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX7RQfYaw4_bcRstdDacEYpE73u20PeBkfHlewHxEcTaNnXbW5iUg_Z8k-AjHJ8--Kl-x8kEsGfUxg67oh_MdYcTaQA50fcOLKpckQ5sEZtYEtLaMKDk2cAhOHzMByMe0TRmR_&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX7RQfYaw4_bcRstdDacEYpE73u20PeBkfHlewHxEcTaNnXbW5iUg_Z8k-AjHJ8--Kl-x8kEsGfUxg67oh_MdYcTaQA50fcOLKpckQ5sEZtYEtLaMKDk2cAhOHzMByMe0TRmR_&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPjiB_HNXCmvjJQm8BuBZtwrXxJtQ3BD89-g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dalíland — FILM REVIEW",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXX94AgovYo6IvpZMD7eruLabziOFMl7Xwzu-16dhhgC9sfQxgfgg5s45sapHAI8xjcHeXw5ODljljqIG1t82W-yL2gDFLPTIQRRunP-XAJ16RCaGeF04Xvtj1BsFl9fMMklGXXy_nQdBJRrkxS&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXX94AgovYo6IvpZMD7eruLabziOFMl7Xwzu-16dhhgC9sfQxgfgg5s45sapHAI8xjcHeXw5ODljljqIG1t82W-yL2gDFLPTIQRRunP-XAJ16RCaGeF04Xvtj1BsFl9fMMklGXXy_nQdBJRrkxS&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6gbBy0t92bunPpPn_uEJtTMQzxO9p3WU72g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland [DVD]: Amazon.es: Kingsley, Ben, Sukowa, Barbara ...",
+        "url": "https://lens.google.com/goto?url=CAESgwEBxCJF13DJNII5vqfe1ZsRdTpLbsnkwBnwIVoVwyBHItmeF_sC7T-jx9yo2dTD9D0xWI9e_Jf1591h_IXnwAAH8TIU4C0S8-h8xMyhHVnS5V2AjDqIMN8sdk4dI2Jn0E-LGDXT5yEz-J1YY18PqyZsjDlDH3nNOQaHNAgsWBJEip3Zww&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgwEBxCJF13DJNII5vqfe1ZsRdTpLbsnkwBnwIVoVwyBHItmeF_sC7T-jx9yo2dTD9D0xWI9e_Jf1591h_IXnwAAH8TIU4C0S8-h8xMyhHVnS5V2AjDqIMN8sdk4dI2Jn0E-LGDXT5yEz-J1YY18PqyZsjDlDH3nNOQaHNAgsWBJEip3Zww&gsessionid=jRg1kg7_14KnvS75YFPJT6M3R4uKLruweAcze9IZygiYAq64lwvpFQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_MRoZkS5yTgRW_Rpe6Z3iMTJzl9vbbQo0Tw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 61,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daliland (2022)",
+        "url": "https://www.imdb.com/title/tt8399658/",
+        "url_candidates": [
+          "https://www.imdb.com/title/tt8399658/"
+        ],
+        "source": "",
+        "content": "In 1973, a young gallery assistant goes on a wild adventure behind the scenes as he helps the aging genius Salvador Dali prepare for a big show in New York.Read more",
+        "provider": "google_serp_trusted_film_catalog_search",
+        "position": 1,
+        "resolved_urls": [
+          "https://www.imdb.com/title/tt8399658/"
+        ],
+        "resolved_url": "https://www.imdb.com/title/tt8399658/",
+        "catalog_source": "imdb_official_title_page",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "search_source": "lens_result_title_or_direct_play_store_url",
+        "search_query_variant": "broad_site_scoped",
+        "original_search_url": null
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 3,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 55,
+              "play.google.com/store/movies/details": 2,
+              "play.google.com/store/movies/details/Daliland": 2
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 3,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 55,
+          "play.google.com/store/movies/details": 2,
+          "play.google.com/store/movies/details/Daliland": 2
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 55,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 55,
+        "google_goto_direct_urls_kept": 4,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 1,
+        "official_imdb_ids": [
+          "tt8399658"
+        ],
+        "result_url_count": 60,
+        "google_wrapper_count": 55,
+        "google_goto_url_count": 55,
+        "result_url_paths": {
+          "lens.google.com/goto": 55,
+          "play.google.com/store/movies/details": 2,
+          "play.google.com/store/movies/details/daliland": 2,
+          "www.imdb.com/title/tt8399658": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 55,
+          "play.google.com": 4,
+          "www.imdb.com": 1
+        },
+        "title_search_status": "ok",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,date,expires,server];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 1,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Dalíland"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 8,
+          "www.imdb.com": 1
+        },
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [
+        522925
+      ],
+      "imdb_ids": [
+        "tt8399658"
+      ],
+      "tmdb_id_lookup": {
+        "status": "resolved",
+        "tmdb_ids": [
+          522925
+        ],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [
+          "tt8399658"
+        ],
+        "imdb_find_results": {
+          "tt8399658": [
+            522925
+          ]
+        },
+        "imdb_find_errors": [],
+        "details_resolved": 1,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt8399658"
+        ]
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [
+          "tt8399658"
+        ],
+        "imdb_to_tmdb_ids": {
+          "tt8399658": [
+            522925
+          ]
+        },
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt8399658"
+        ],
+        "ignored_secondary_imdb_errors": [],
+        "ignored_secondary_detail_errors": []
+      },
+      "candidate_identities": [
+        {
+          "tmdb_id": 522925,
+          "imdb_id": "tt8399658",
+          "title": "Dalíland",
+          "original_title": "Dalíland",
+          "year": 2022,
+          "tmdb_data": {
+            "year": 2022,
+            "countries": [
+              "France",
+              "United Kingdom",
+              "United States of America"
+            ],
+            "directors": [
+              "Mary Harron"
+            ],
+            "cast": [
+              {
+                "name": "Ben Kingsley",
+                "character": "Dalí"
+              },
+              {
+                "name": "Barbara Sukowa",
+                "character": "Gala"
+              },
+              {
+                "name": "Christopher Briney",
+                "character": "James"
+              },
+              {
+                "name": "Rupert Graves",
+                "character": "Captain Moore"
+              },
+              {
+                "name": "Andreja Pejić",
+                "character": "Amanda"
+              },
+              {
+                "name": "Suki Waterhouse",
+                "character": "Ginesta"
+              },
+              {
+                "name": "Alexander Beyer",
+                "character": "Christoffe"
+              },
+              {
+                "name": "Zachary Nachbar-Seckel",
+                "character": "Jeff Fenholt"
+              }
+            ],
+            "rating": 5.882,
+            "rating_votes": 89,
+            "poster_count": 14
+          }
+        }
+      ],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "ok",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Dalíland"
+        ],
+        "year_hint": 2022,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,date,expires,server];body=str",
+        "http_status": 200,
+        "attempts": 1,
+        "organic_result_count": 9,
+        "candidate_url_count": 9,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 8,
+          "www.imdb.com": 1
+        },
+        "official_url_count": 1,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": [
+          "tt8399658"
+        ]
+      },
+      "identity_consistency": {
+        "status": "passed",
+        "allowed": true,
+        "reason": "No confirmed title-and-year contradiction with the source-folder label",
+        "folder_year": 2022,
+        "candidate_year": 2022,
+        "title_match": true,
+        "year_match": true,
+        "clear_title_and_year_conflict": false,
+        "matching_title_aliases": [
+          "Dalíland",
+          "Daliland"
+        ],
+        "folder_name_used_for_search": false,
+        "folder_name_used_to_select_candidate": false,
+        "folder_name_used_for_conflict_veto": true
+      },
+      "resolved_identity": {
+        "tmdb_id": 522925,
+        "imdb_id": "tt8399658",
+        "source": "google_serp_official_imdb_id_via_tmdb_find",
+        "verification": "official_imdb_url_from_lens_derived_search_then_tmdb_find_and_matching_movie_details",
+        "official_tmdb_ids": [],
+        "official_imdb_ids": [
+          "tt8399658"
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt8399658"
+        ],
+        "title_disambiguation": null,
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "identity_consistency": {
+          "status": "passed",
+          "allowed": true,
+          "reason": "No confirmed title-and-year contradiction with the source-folder label",
+          "folder_year": 2022,
+          "candidate_year": 2022,
+          "title_match": true,
+          "year_match": true,
+          "clear_title_and_year_conflict": false,
+          "matching_title_aliases": [
+            "Dalíland",
+            "Daliland"
+          ],
+          "folder_name_used_for_search": false,
+          "folder_name_used_to_select_candidate": false,
+          "folder_name_used_for_conflict_veto": true
+        }
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "skipped_official_identity_resolved",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 3,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 55,
+              "play.google.com/store/movies/details": 2,
+              "play.google.com/store/movies/details/Daliland": 2
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 3,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 55,
+          "play.google.com/store/movies/details": 2,
+          "play.google.com/store/movies/details/Daliland": 2
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 55,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 55,
+        "google_goto_direct_urls_kept": 4,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 1,
+        "official_imdb_ids": [
+          "tt8399658"
+        ],
+        "result_url_count": 60,
+        "google_wrapper_count": 55,
+        "google_goto_url_count": 55,
+        "result_url_paths": {
+          "lens.google.com/goto": 55,
+          "play.google.com/store/movies/details": 2,
+          "play.google.com/store/movies/details/daliland": 2,
+          "www.imdb.com/title/tt8399658": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 55,
+          "play.google.com": 4,
+          "www.imdb.com": 1
+        },
+        "title_search_status": "ok",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,date,expires,server];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 1,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Dalíland"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 8,
+          "www.imdb.com": 1
+        },
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "skipped_official_identity_resolved",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 522925,
+    "media_type": "movie",
+    "title": "Dalíland",
+    "original_title": "Dalíland",
+    "release_date": "2022-09-29",
+    "year": 2022,
+    "original_language": "en",
+    "origin_country": [
+      "US",
+      "GB"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "FR",
+        "name": "France"
+      },
+      {
+        "iso_3166_1": "GB",
+        "name": "United Kingdom"
+      },
+      {
+        "iso_3166_1": "US",
+        "name": "United States of America"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 6455,
+        "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+        "name": "Pressman Film",
+        "origin_country": "US"
+      },
+      {
+        "id": 16923,
+        "logo_path": null,
+        "name": "Zephyr Films",
+        "origin_country": "GB"
+      },
+      {
+        "id": 153770,
+        "logo_path": null,
+        "name": "Serein Productions",
+        "origin_country": ""
+      },
+      {
+        "id": 3567,
+        "logo_path": null,
+        "name": "Room 9 Entertainment",
+        "origin_country": ""
+      },
+      {
+        "id": 17304,
+        "logo_path": null,
+        "name": "Neon Productions",
+        "origin_country": "FR"
+      },
+      {
+        "id": 112109,
+        "logo_path": null,
+        "name": "Popcorn Group",
+        "origin_country": "GB"
+      }
+    ],
+    "genres": [
+      {
+        "id": 36,
+        "name": "History"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 97,
+    "status": "Released",
+    "overview": "In 1973, a young gallery assistant goes on a wild adventure behind the scenes as he helps aging genius Salvador Dali prepare for a big show in New York.",
+    "tagline": "The journey into excess starts with a moustache.",
+    "homepage": "",
+    "poster_path": "/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+    "poster_url": "https://image.tmdb.org/t/p/w500/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+    "posters": [
+      {
+        "file_path": "/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+        "language": "en",
+        "width": 1175,
+        "height": 1763,
+        "vote_average": 8.362,
+        "vote_count": 6
+      },
+      {
+        "file_path": "/wfmzIw97dOgAyDEWMoqO2ID0KoV.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/wfmzIw97dOgAyDEWMoqO2ID0KoV.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/wfmzIw97dOgAyDEWMoqO2ID0KoV.jpg",
+        "language": "en",
+        "width": 2000,
+        "height": 3000,
+        "vote_average": 3.334,
+        "vote_count": 1
+      },
+      {
+        "file_path": "/3cYCwf5pVosojndeS2ScnzauDkk.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/3cYCwf5pVosojndeS2ScnzauDkk.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/3cYCwf5pVosojndeS2ScnzauDkk.jpg",
+        "language": "en",
+        "width": 1067,
+        "height": 1600,
+        "vote_average": 3.334,
+        "vote_count": 1
+      },
+      {
+        "file_path": "/u5QLIImubzAppCqzbhCw4br41N3.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/u5QLIImubzAppCqzbhCw4br41N3.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/u5QLIImubzAppCqzbhCw4br41N3.jpg",
+        "language": "en",
+        "width": 709,
+        "height": 1000,
+        "vote_average": 3.334,
+        "vote_count": 1
+      },
+      {
+        "file_path": "/1O8Hc9Yi6fxh4I3zlKxSjrNI57s.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/1O8Hc9Yi6fxh4I3zlKxSjrNI57s.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/1O8Hc9Yi6fxh4I3zlKxSjrNI57s.jpg",
+        "language": "en",
+        "width": 1957,
+        "height": 2935,
+        "vote_average": 1.75,
+        "vote_count": 4
+      },
+      {
+        "file_path": "/3jIhk1ZsYOZCkxK1PjQnKjJ06NC.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/3jIhk1ZsYOZCkxK1PjQnKjJ06NC.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/3jIhk1ZsYOZCkxK1PjQnKjJ06NC.jpg",
+        "language": "en",
+        "width": 2000,
+        "height": 3000,
+        "vote_average": 1.75,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/mkbBa7k8fC2cEByUFwidPjH41wH.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/mkbBa7k8fC2cEByUFwidPjH41wH.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/mkbBa7k8fC2cEByUFwidPjH41wH.jpg",
+        "language": "en",
+        "width": 1175,
+        "height": 1763,
+        "vote_average": 1.75,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/vvFZksU9UQqPj29tV2NFDyAKy21.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/vvFZksU9UQqPj29tV2NFDyAKy21.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/vvFZksU9UQqPj29tV2NFDyAKy21.jpg",
+        "language": "en",
+        "width": 540,
+        "height": 800,
+        "vote_average": 1.75,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/wu2p32Wz76GpKvmY6ujd1YKdiNJ.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/wu2p32Wz76GpKvmY6ujd1YKdiNJ.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/wu2p32Wz76GpKvmY6ujd1YKdiNJ.jpg",
+        "language": "en",
+        "width": 2000,
+        "height": 2962,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "file_path": "/oXBf40xxEjk2OXE3yF7JpoQAvd9.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/oXBf40xxEjk2OXE3yF7JpoQAvd9.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/oXBf40xxEjk2OXE3yF7JpoQAvd9.jpg",
+        "language": "en",
+        "width": 1091,
+        "height": 1600,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "file_path": "/rgcr3KRYhbG5NoZpUOtnDMtbTQB.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/rgcr3KRYhbG5NoZpUOtnDMtbTQB.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/rgcr3KRYhbG5NoZpUOtnDMtbTQB.jpg",
+        "language": "en",
+        "width": 1091,
+        "height": 1600,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "file_path": "/3U3DkvwJUvX1peyQ4629BfLsED.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/3U3DkvwJUvX1peyQ4629BfLsED.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/3U3DkvwJUvX1peyQ4629BfLsED.jpg",
+        "language": "en",
+        "width": 1067,
+        "height": 1600,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "file_path": "/m9VFKe5ZiJF99Uwdz7fpHTxZDCD.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/m9VFKe5ZiJF99Uwdz7fpHTxZDCD.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/m9VFKe5ZiJF99Uwdz7fpHTxZDCD.jpg",
+        "language": "en",
+        "width": 950,
+        "height": 1426,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "file_path": "/bYrvfolFuDMObO0CP5MYoUAPB06.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/bYrvfolFuDMObO0CP5MYoUAPB06.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/bYrvfolFuDMObO0CP5MYoUAPB06.jpg",
+        "language": null,
+        "width": 1000,
+        "height": 1426,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "backdrop_path": "/fVpgUymenj6anrHCSsAkoPbLIwB.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/fVpgUymenj6anrHCSsAkoPbLIwB.jpg",
+    "popularity": 1.7027,
+    "vote_average": 5.882,
+    "vote_count": 89,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt8399658",
+      "wikidata_id": "Q52559148",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Dali Land",
+        "country": "US",
+        "type": ""
+      },
+      {
+        "title": "Daliland",
+        "country": "DE",
+        "type": ""
+      },
+      {
+        "title": "ウェルカム トゥ ダリ",
+        "country": "JP",
+        "type": ""
+      },
+      {
+        "title": "達利：慾望之謎",
+        "country": "TW",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "AT": [
+        {
+          "certification": "",
+          "release_date": "2023-09-07T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "AU": [
+        {
+          "certification": "M",
+          "release_date": "2023-09-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "BG": [
+        {
+          "certification": "",
+          "release_date": "2022-10-11T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "",
+          "release_date": "2023-05-12T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "BR": [
+        {
+          "certification": "",
+          "release_date": "2023-10-07T00:00:00.000Z",
+          "type": 2
+        }
+      ],
+      "CA": [
+        {
+          "certification": "",
+          "release_date": "2022-09-17T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "CH": [
+        {
+          "certification": "16",
+          "release_date": "2022-09-29T00:00:00.000Z",
+          "type": 2
+        }
+      ],
+      "CN": [
+        {
+          "certification": "",
+          "release_date": "2024-07-03T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "DE": [
+        {
+          "certification": "16",
+          "release_date": "2023-09-07T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "FR": [
+        {
+          "certification": "12",
+          "release_date": "2023-09-11T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "GB": [
+        {
+          "certification": "15",
+          "release_date": "2023-10-06T00:00:00.000Z",
+          "type": 2
+        },
+        {
+          "certification": "15",
+          "release_date": "2023-09-11T00:00:00.000Z",
+          "type": 4
+        },
+        {
+          "certification": "15",
+          "release_date": "2023-11-13T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "GR": [
+        {
+          "certification": "",
+          "release_date": "2023-11-02T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "HK": [
+        {
+          "certification": "IIB",
+          "release_date": "2024-01-18T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "IT": [
+        {
+          "certification": "T",
+          "release_date": "2023-12-02T00:00:00.000Z",
+          "type": 1
+        },
+        {
+          "certification": "6+",
+          "release_date": "2023-05-25T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "JP": [
+        {
+          "certification": "PG12",
+          "release_date": "2023-09-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "KR": [
+        {
+          "certification": "15",
+          "release_date": "2023-10-18T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "LT": [
+        {
+          "certification": "N-13",
+          "release_date": "2023-05-19T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NZ": [
+        {
+          "certification": "M",
+          "release_date": "2023-09-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PL": [
+        {
+          "certification": "16",
+          "release_date": "2023-05-19T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "PR": [
+        {
+          "certification": "",
+          "release_date": "2023-06-09T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "RO": [
+        {
+          "certification": "18",
+          "release_date": "2022-09-29T00:00:00.000Z",
+          "type": 1
+        }
+      ],
+      "RU": [
+        {
+          "certification": "18+",
+          "release_date": "2023-05-25T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "18+",
+          "release_date": "2023-06-30T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "US": [
+        {
+          "certification": "NR",
+          "release_date": "2023-06-09T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "NR",
+          "release_date": "2023-06-09T00:00:00.000Z",
+          "type": 4
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 2282,
+        "name": "Ben Kingsley",
+        "character": "Dalí",
+        "order": 0
+      },
+      {
+        "id": 23378,
+        "name": "Barbara Sukowa",
+        "character": "Gala",
+        "order": 1
+      },
+      {
+        "id": 3031442,
+        "name": "Christopher Briney",
+        "character": "James",
+        "order": 2
+      },
+      {
+        "id": 11278,
+        "name": "Rupert Graves",
+        "character": "Captain Moore",
+        "order": 3
+      },
+      {
+        "id": 2167333,
+        "name": "Andreja Pejić",
+        "character": "Amanda",
+        "order": 4
+      },
+      {
+        "id": 1325961,
+        "name": "Suki Waterhouse",
+        "character": "Ginesta",
+        "order": 5
+      },
+      {
+        "id": 4796,
+        "name": "Alexander Beyer",
+        "character": "Christoffe",
+        "order": 6
+      },
+      {
+        "id": 4820802,
+        "name": "Zachary Nachbar-Seckel",
+        "character": "Jeff Fenholt",
+        "order": 7
+      },
+      {
+        "id": 1539217,
+        "name": "Mark McKenna",
+        "character": "Alice Cooper",
+        "order": 8
+      },
+      {
+        "id": 132157,
+        "name": "Ezra Miller",
+        "character": "Young Dalí",
+        "order": 9
+      },
+      {
+        "id": 2442125,
+        "name": "Avital Lvova",
+        "character": "Young Gala",
+        "order": 10
+      },
+      {
+        "id": 2085743,
+        "name": "Gavin Spokes",
+        "character": "Gilbert Hamon",
+        "order": 11
+      },
+      {
+        "id": 2942092,
+        "name": "Christopher Pavlou",
+        "character": "Enrique Sabater",
+        "order": 12
+      },
+      {
+        "id": 3676061,
+        "name": "Irina Leoncio",
+        "character": "Private Nurse",
+        "order": 13
+      },
+      {
+        "id": 3393503,
+        "name": "Mercè Ribot",
+        "character": "Rosa",
+        "order": 14
+      },
+      {
+        "id": 1363723,
+        "name": "Alberto Maneiro",
+        "character": "Functionary",
+        "order": 15
+      },
+      {
+        "id": 1119416,
+        "name": "Jack Shalloo",
+        "character": "Desmond",
+        "order": 16
+      },
+      {
+        "id": 1444865,
+        "name": "Eithne Browne",
+        "character": "Old Socialite",
+        "order": 17
+      },
+      {
+        "id": 1922381,
+        "name": "Matthew James Ovens",
+        "character": "Renaldo",
+        "order": 18
+      },
+      {
+        "id": 84073,
+        "name": "Eben Young",
+        "character": "Man in Tux",
+        "order": 19
+      },
+      {
+        "id": 1229389,
+        "name": "Barbara Wilshere",
+        "character": "Mrs Thomas",
+        "order": 20
+      },
+      {
+        "id": 4820807,
+        "name": "Marcos D'Cruze",
+        "character": "Flamenco Guitarist",
+        "order": 21
+      }
+    ],
+    "directors": [
+      {
+        "id": 16378,
+        "name": "Mary Harron",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 16378,
+        "name": "Mary Harron",
+        "job": "Writer",
+        "department": "Writing"
+      },
+      {
+        "id": 1081886,
+        "name": "John C. Walsh",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 5565,
+        "name": "biography"
+      },
+      {
+        "id": 14893,
+        "name": "art"
+      }
+    ],
+    "worldwide_title": "Dalíland",
+    "worldwide_title_selection": {
+      "title": "Dalíland",
+      "source": "tmdb_movie_details"
+    }
+  },
+  "tmdb_id": 522925,
+  "imdb_id": "tt8399658",
+  "identity": {
+    "tmdb_id": 522925,
+    "imdb_id": "tt8399658",
+    "source": "google_serp_official_imdb_id_via_tmdb_find",
+    "verification": "lens_title_search_imdb_id_tmdb_find",
+    "folder_name_used": false
+  },
+  "correction": {
+    "canonical_folder_name": "Dalíland (2022)",
+    "canonical_json_name": "Dalíland (2022)",
+    "worldwide_title": "Dalíland",
+    "title_selection": {
+      "title": "Dalíland",
+      "source": "tmdb_movie_details"
+    },
+    "json_rename_required": false,
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Dalíland (2022)/Dalíland (2022).json"
+}

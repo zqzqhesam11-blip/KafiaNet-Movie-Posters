@@ -1,0 +1,1710 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:27:31.834086+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Buladó (2020)",
+    "image_path": "جاهز/Buladó (2020)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/Bulad%C3%B3%20%282020%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Buladó (2020)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Buladó (2020)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "identity_source": "google_serp_official_imdb_id_via_tmdb_find",
+    "identity_method": "lens_title_search_imdb_id_tmdb_find",
+    "tmdb_id": 737756,
+    "imdb_id": "tt12182440",
+    "folder_name_used_for_matching": false,
+    "reason": "TMDB /find mapped an official IMDb title ID to a movie and movie details confirmed the same IMDb ID"
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Buladó (2020) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXK2vPmbBmYG35JABElOGGoc9Pz3B8NTRIMfZgUqN6-J846siHaW3UCZg5NQV4jlvLMm2t0dOFLpi0utWWOEyQWaUm7WETA_RlntmxPUP_PdQ6gc-VPvHZVW0r7B_Xvg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXK2vPmbBmYG35JABElOGGoc9Pz3B8NTRIMfZgUqN6-J846siHaW3UCZg5NQV4jlvLMm2t0dOFLpi0utWWOEyQWaUm7WETA_RlntmxPUP_PdQ6gc-VPvHZVW0r7B_Xvg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Movie Bulado - CURALINK",
+        "url": "https://lens.google.com/goto?url=CAESXwHEIkXXvlUGNL7K9L_LEbmsl0r8pB37PdHoRi_50Lp0v98m7HSt2kQ_8bxktbnYSWPhGky2mznSZnx3KAtdRQ1ERGLoz643JvAcnVGg8i0Cfsa3WW5P7QGs7i6MfxGp&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXwHEIkXXvlUGNL7K9L_LEbmsl0r8pB37PdHoRi_50Lp0v98m7HSt2kQ_8bxktbnYSWPhGky2mznSZnx3KAtdRQ1ERGLoz643JvAcnVGg8i0Cfsa3WW5P7QGs7i6MfxGp&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 2,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Bulado | Prime Video",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXJxgC66qGzIm1MKinQmJUqGfplNnYKwx4JWkYZuE6NDoZDcOoEm1UO3d4Ko6FVwS2By6BSpJMk-724uEh_J1IkH7mYTK_2g-aBDaFhkpk9t_kKtCM0AdjommJlpvwcW-i4rSw-gqDOB4Zy7HEx5eV8l3BZw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXJxgC66qGzIm1MKinQmJUqGfplNnYKwx4JWkYZuE6NDoZDcOoEm1UO3d4Ko6FVwS2By6BSpJMk-724uEh_J1IkH7mYTK_2g-aBDaFhkpk9t_kKtCM0AdjommJlpvwcW-i4rSw-gqDOB4Zy7HEx5eV8l3BZw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 3,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXdOiURvjad8QEuRISNF4LQwgtB12sxVL3_JmRkccUNz3Pt3TnlyDCN8eeDZWYSJZVDJyAbneiGNLNw6X5suJttbFPPwxt2N04OninRf62i23_1LiF6mgC8tUYN9nYeHjhtQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXdOiURvjad8QEuRISNF4LQwgtB12sxVL3_JmRkccUNz3Pt3TnlyDCN8eeDZWYSJZVDJyAbneiGNLNw6X5suJttbFPPwxt2N04OninRf62i23_1LiF6mgC8tUYN9nYeHjhtQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó - Aya Films",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXX2Xw877SC4DDD5CCv72i2MWptFF3ICEWL-R2z_yYYY2W2enWvFCU6AEN2b0NUK8REeNc1pvQ1RQ__2jTS7C5zv9vPV8hQLUTrHrftOtlfjWcF-GsT6HQqhfkxSNk-&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXX2Xw877SC4DDD5CCv72i2MWptFF3ICEWL-R2z_yYYY2W2enWvFCU6AEN2b0NUK8REeNc1pvQ1RQ__2jTS7C5zv9vPV8hQLUTrHrftOtlfjWcF-GsT6HQqhfkxSNk-&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Christiaan Verbeek: albums, songs, concerts | Deezer",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXa-sSJplDHSQ2sTDYHgiVgfEFVu7OAZ8VFvXkQvCKiYzqR5AwMVFUaBfbf3WzN_T_ASchsGdmWzJAd8pwuLh4kfWeRF9InbTQaCKXCwICEZC1TaSjr4RNWtwGxRM9jQMf1w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXa-sSJplDHSQ2sTDYHgiVgfEFVu7OAZ8VFvXkQvCKiYzqR5AwMVFUaBfbf3WzN_T_ASchsGdmWzJAd8pwuLh4kfWeRF9InbTQaCKXCwICEZC1TaSjr4RNWtwGxRM9jQMf1w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BULADO | TheWrap Screening Series - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXCqB0mrKFq8poKsFyeSlxDw0pmcxww3XO3zejwnnoml0H007DUQemmUGWUwFOMk_85f3ZMQbYvmLm41f1jOxVoArbyf0C6uGBXwfp3qyJYeVvFB0uiG72s5I1VDygkpScf8PP&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXCqB0mrKFq8poKsFyeSlxDw0pmcxww3XO3zejwnnoml0H007DUQemmUGWUwFOMk_85f3ZMQbYvmLm41f1jOxVoArbyf0C6uGBXwfp3qyJYeVvFB0uiG72s5I1VDygkpScf8PP&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó - Christiaan Verbeek | composer / musician",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXX-SSimRL4ihF4ubRwUyvhKERlpBLTeijZuin3Zdfx2V4nfIkx_tBm864IWyu4w1_uzrijzEorktwMvzzp4hoORXBsAp-P6dt-zc55mfX6_i1y8x3wFcgAziHJqFNlsr8BHRw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXX-SSimRL4ihF4ubRwUyvhKERlpBLTeijZuin3Zdfx2V4nfIkx_tBm864IWyu4w1_uzrijzEorktwMvzzp4hoORXBsAp-P6dt-zc55mfX6_i1y8x3wFcgAziHJqFNlsr8BHRw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Ministerio di Desaroyo... - Ministerio di Desaroyo Ekonómiko",
+        "url": "https://lens.google.com/goto?url=CAESdQHEIkXXrUeBYiYhEdEf68Zpc-HQQP72j4A4gGhG0bbkEtcIL3e1qAJrqBkVY1ByxX2KognDhue-VmlusX6C_8xlzgpTZ2wWSL-yj52SXPKbr40-QDvdrc3lplb5B5zRrEP7vM3Et17rYfT3S5ktvUQn9-Udtg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdQHEIkXXrUeBYiYhEdEf68Zpc-HQQP72j4A4gGhG0bbkEtcIL3e1qAJrqBkVY1ByxX2KognDhue-VmlusX6C_8xlzgpTZ2wWSL-yj52SXPKbr40-QDvdrc3lplb5B5zRrEP7vM3Et17rYfT3S5ktvUQn9-Udtg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (film, 2020) Nu Online Kijken - FilmVandaag.nl",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXw7v7p9ndNLYrwaCfWLbQ1pAiWejb42O4n_a05O_97oCCayDRbJZPNXpg8qtlx0yhX8YgQj9nmGlu-GsuLcJGmw5o1A6k8H54h3JQsl_D1R9MoCTHBpcJdihWREeK1PLvmxQ8g0ycjgKgdziBar7QN1YIfQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXw7v7p9ndNLYrwaCfWLbQ1pAiWejb42O4n_a05O_97oCCayDRbJZPNXpg8qtlx0yhX8YgQj9nmGlu-GsuLcJGmw5o1A6k8H54h3JQsl_D1R9MoCTHBpcJdihWREeK1PLvmxQ8g0ycjgKgdziBar7QN1YIfQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Bulado - Prime Video",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXpK8mWsYrHK7vTL1lYBVpp3Z_Jp3EZnvg-fmIzUMw_MkbEyDmH-_WH0duz9YJeywmMQCVh8iP2yTSpSoo4_aSAqioZaThk4lBsdRpyUu7lXKCwx1CAqmEnAJQlAXIvTfFsd2Hn5wZ7HUfh41MbcO9qwCy3Vk&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXpK8mWsYrHK7vTL1lYBVpp3Z_Jp3EZnvg-fmIzUMw_MkbEyDmH-_WH0duz9YJeywmMQCVh8iP2yTSpSoo4_aSAqioZaThk4lBsdRpyUu7lXKCwx1CAqmEnAJQlAXIvTfFsd2Hn5wZ7HUfh41MbcO9qwCy3Vk&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "WORK / GREGG TELUSSA",
+        "url": "https://lens.google.com/goto?url=CAESWgHEIkXXesnxKfXPvuJhJWK7yTW0sog8kPfX9SmCrmni70HvDRi7JVPxSD536RWX02kTbJD-NUId8e1uAlXcVMSJwA5_vnWLeD3RIv1p0Jqd0wQpOBjsr_0ExA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESWgHEIkXXesnxKfXPvuJhJWK7yTW0sog8kPfX9SmCrmni70HvDRi7JVPxSD536RWX02kTbJD-NUId8e1uAlXcVMSJwA5_vnWLeD3RIv1p0Jqd0wQpOBjsr_0ExA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (2020) – NYIMNY DVD Covers",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXr9jOCvv4Cu3UaqkI9LX9cOAEsOMEw6_TcpMERz_Ed0_g-WHAPx0hxB_hUXPFRzs7evnBUEjhGz7jYIyQMgz-kFhxxdHocOse__ZnlggC1LILqksgu9hCJuzGP0GbjPosBMOrdMsw2afnFXWw51eSA74X0Ik4&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXr9jOCvv4Cu3UaqkI9LX9cOAEsOMEw6_TcpMERz_Ed0_g-WHAPx0hxB_hUXPFRzs7evnBUEjhGz7jYIyQMgz-kFhxxdHocOse__ZnlggC1LILqksgu9hCJuzGP0GbjPosBMOrdMsw2afnFXWw51eSA74X0Ik4&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUVhLvtGdSsrtWmz3vUm2rWXy3nHF3uVDgAg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Bulado (2020) film opis - Filmweb",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXaDVrLL-9k9bXfHFOx9b0cLFIMqm8pJ1xVuAn1QpsDWJuumx_erbJuv6MzirtFgPaNjDIgP9DwZosQTv7_Z0H1-gExrziR7wCnRZkDTr6NR2ki1uIUpyGYLgcRwywerrbgDmOMccxkzNh5hse&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXaDVrLL-9k9bXfHFOx9b0cLFIMqm8pJ1xVuAn1QpsDWJuumx_erbJuv6MzirtFgPaNjDIgP9DwZosQTv7_Z0H1-gExrziR7wCnRZkDTr6NR2ki1uIUpyGYLgcRwywerrbgDmOMccxkzNh5hse&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaEOWqhi-eYHyCTz5hnWy__V33yN6-teG__A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (2020) - Filmaffinity",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXpac-J5g-eDtJd-xczmGlxMkB5VANym6a5eG8iJFUEdVYgXd-s1GstCA_z-Qg36wfBENLGQg06ludb8Lwh54mpdx2VMCE_t0-69aveEsmTLYtymSHtDuCNAOJB0ZUvWwkltPiu1jl8w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXpac-J5g-eDtJd-xczmGlxMkB5VANym6a5eG8iJFUEdVYgXd-s1GstCA_z-Qg36wfBENLGQg06ludb8Lwh54mpdx2VMCE_t0-69aveEsmTLYtymSHtDuCNAOJB0ZUvWwkltPiu1jl8w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK_-nzebcp8dunPLqhD9tU1ti7K71uP6Q3Jw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BULADO",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXBCzdroSopHklB0DIe9PEwVesGmjaVQmCKiw0osVrao8bZXvvIK6Di2bRgFMmYAAW0hn0NUbG7DHnYZaGBKQa7mtjp2gSHymiCDO8dBC1RU9b99f2uvGcx0WxmWsy-Uz9h1XRqzHdR3OphAvGmokAw6c&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXBCzdroSopHklB0DIe9PEwVesGmjaVQmCKiw0osVrao8bZXvvIK6Di2bRgFMmYAAW0hn0NUbG7DHnYZaGBKQa7mtjp2gSHymiCDO8dBC1RU9b99f2uvGcx0WxmWsy-Uz9h1XRqzHdR3OphAvGmokAw6c&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLBARA-q48JVx2vswSMXMNyw_DLhWVgGIkvg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó' Director On His \"Delicate\" Approach To Capturing ...",
+        "url": "https://lens.google.com/goto?url=CAESpwEBxCJF1weSW9KSSZ6vnz6dDG9OaTXuEHfRiIMenVswTFBDvzcOb_v9U96OmnPkulRh3P4Qu2DrqZOKN9jc6PdwtKojxYO4JiZxGGt_iJeZvQ_jEGPQ4VvF3XUGcGTp5F_ze3H6BpmnWVZxRyr0S5zaXDx27C0CRawBMcYurDNtu66v0AFtq-2Ucza-XqVlgfOFFvcSDV2ypQzXeSDS1uAoDyWnrmYjnQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESpwEBxCJF1weSW9KSSZ6vnz6dDG9OaTXuEHfRiIMenVswTFBDvzcOb_v9U96OmnPkulRh3P4Qu2DrqZOKN9jc6PdwtKojxYO4JiZxGGt_iJeZvQ_jEGPQ4VvF3XUGcGTp5F_ze3H6BpmnWVZxRyr0S5zaXDx27C0CRawBMcYurDNtu66v0AFtq-2Ucza-XqVlgfOFFvcSDV2ypQzXeSDS1uAoDyWnrmYjnQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThBqlLVlpsjwVIP87dU5eOvdVXV2TtDYjt8A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: Buladó",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXR8Id71S9LfadWeCrJ7_SisBErWzOdbakHZozoxkdBJdDY-7biuF8zeNxCqXwz7EXDdeB375XO7yuTUrSASrT6GK_qKi-Nq7bNjQ_h9CT5lGY1JoqRAQGu9Cwe4fGzBaiGaYPxzj5s7eeumLdOOixECV5_MU&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXR8Id71S9LfadWeCrJ7_SisBErWzOdbakHZozoxkdBJdDY-7biuF8zeNxCqXwz7EXDdeB375XO7yuTUrSASrT6GK_qKi-Nq7bNjQ_h9CT5lGY1JoqRAQGu9Cwe4fGzBaiGaYPxzj5s7eeumLdOOixECV5_MU&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYvZ5QTwiJk7jPhTXqWOWEn1Xu7_iY-PRKAw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Not 1, not 2 but 3 films from Curaçao at the CaribbeanTales ...",
+        "url": "https://lens.google.com/goto?url=CAES1gEBxCJF15bT8q-KasMj7DXrf6yUWI2etR3kPPopwLJEFHfQjK8Ta4xLy-IYHtQ6dgOe4nbbn5HgWRG2KL_859Q6rAwXgZNHONVpMRfVTmUxSvIVGeA8D2DgL3D8XsFKiM7Y41D-yw9wNyvLaTT7iBuEXiRmlHAJV-W_xdMCoLwumGWflJS0c7SwnbckI8-Dc7KzvuGZQiseC6GeVBgyXBl2YbUo_MCvOrQXBpgKiArNHwamxBL0lG7IrIHGEEikJlHuRO7TEdhG3AT1Shif0nE1mSipt5CR&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES1gEBxCJF15bT8q-KasMj7DXrf6yUWI2etR3kPPopwLJEFHfQjK8Ta4xLy-IYHtQ6dgOe4nbbn5HgWRG2KL_859Q6rAwXgZNHONVpMRfVTmUxSvIVGeA8D2DgL3D8XsFKiM7Y41D-yw9wNyvLaTT7iBuEXiRmlHAJV-W_xdMCoLwumGWflJS0c7SwnbckI8-Dc7KzvuGZQiseC6GeVBgyXBl2YbUo_MCvOrQXBpgKiArNHwamxBL0lG7IrIHGEEikJlHuRO7TEdhG3AT1Shif0nE1mSipt5CR&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdJMKI6Z6e2nspkLXIB6hR-ztucbQQWysbPw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Where to Watch Buladó (2020) - Plex",
+        "url": "https://lens.google.com/goto?url=CAESXwHEIkXXLtLmUgiEFH9ozFN4mfrMFEQvfYa8TbkTdz3WY5LEzqHQM8ZUMyshTYiKjFfEK7rWKvUNu78XIRNl48riDN_M7doo7nFqS50_EKB7a900_HpclH4kup_-_D9d&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXwHEIkXXLtLmUgiEFH9ozFN4mfrMFEQvfYa8TbkTdz3WY5LEzqHQM8ZUMyshTYiKjFfEK7rWKvUNu78XIRNl48riDN_M7doo7nFqS50_EKB7a900_HpclH4kup_-_D9d&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6IkPuNffgPj8CSPUU0-rf8XoTOGkDHenXgw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó | Eye Filmmuseum",
+        "url": "https://lens.google.com/goto?url=CAESbQHEIkXXxUz-FO7jCnf9WeIJRNJStJJVNwQbmpNuMu3DJp5W393xZk083qvn7qYR2ER5pKEvetFRb5OMRoLpQpH-L5W7FIMNm1JXPgTEj3D7vt2GeKlPjHBskYLyWRtR79w9o24wV6i7LGhLxAw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbQHEIkXXxUz-FO7jCnf9WeIJRNJStJJVNwQbmpNuMu3DJp5W393xZk083qvn7qYR2ER5pKEvetFRb5OMRoLpQpH-L5W7FIMNm1JXPgTEj3D7vt2GeKlPjHBskYLyWRtR79w9o24wV6i7LGhLxAw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAUW9rnL7siWtHV0wZASf4IqjJKJRtortgfQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (2020) | VPRO Cinema",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXOK-DkXZ8Zw_wC9X8HC0jmBm_N0iaJg7MmhfgmI9lQz3RqRmmI84q_0QIweKLyhJnAWzLigO4-2CUohSd_i57NIjImlKw6hO53htD9kpoI_cfQDLflCsWRyE21QvGkJtP&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXOK-DkXZ8Zw_wC9X8HC0jmBm_N0iaJg7MmhfgmI9lQz3RqRmmI84q_0QIweKLyhJnAWzLigO4-2CUohSd_i57NIjImlKw6hO53htD9kpoI_cfQDLflCsWRyE21QvGkJtP&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbF6YLmXjn8LlAzqY-ep73az4H5dFM-71--w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Films - Aya Films",
+        "url": "https://lens.google.com/goto?url=CAESWwHEIkXXn5G7n7mwprf5cvBcDgqaIuC0flQH8jYrnrfhydnKVuc9ay9Xf7v-vEiz8Tkp5fpRVbYrRbGiTtzZwls3vLyluwN_Y7BKutpz0wA1mS_HQG1M2haSS58&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESWwHEIkXXn5G7n7mwprf5cvBcDgqaIuC0flQH8jYrnrfhydnKVuc9ay9Xf7v-vEiz8Tkp5fpRVbYrRbGiTtzZwls3vLyluwN_Y7BKutpz0wA1mS_HQG1M2haSS58&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-s8zdNKl_4Fy55bkTxIC1UcaCHJ6e3wY6w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch BULADÓ | Netflix",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXX0OaTTgf0b_TQBcooR_Lyrhwf3jL7RJtSE4HIMEGGp9rUbo1y43PRhn9GzlbsXRR6iASDsuXgfB3dNsCWg9f6e8xfHBJWl2a-ZGLt4ixcNiFD71hQBxU3xIh4OoOXBIbgNQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXX0OaTTgf0b_TQBcooR_Lyrhwf3jL7RJtSE4HIMEGGp9rUbo1y43PRhn9GzlbsXRR6iASDsuXgfB3dNsCWg9f6e8xfHBJWl2a-ZGLt4ixcNiFD71hQBxU3xIh4OoOXBIbgNQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST8YVGSPWlsBFxl3ASzc2kqZ5U6jpWmxiDiA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Movies at Otrobanda",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF1z-eYoTHAm-veNrDwb5a_Pm-T2X_dcKda_YaMI9JLeRFPgnVM1Fzl2xiX3bKqCmx4n0QeSh2DaBgq19Kl3pbeT45tNxGLf3K70o_A3Kg8YHRghI2fXHg4UwiznXE254yFf3Rtb31DQlVmF_F2i04CaHsze3uWw-OBbWv1A&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF1z-eYoTHAm-veNrDwb5a_Pm-T2X_dcKda_YaMI9JLeRFPgnVM1Fzl2xiX3bKqCmx4n0QeSh2DaBgq19Kl3pbeT45tNxGLf3K70o_A3Kg8YHRghI2fXHg4UwiznXE254yFf3Rtb31DQlVmF_F2i04CaHsze3uWw-OBbWv1A&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzFdvzn9fjmn2uw5Ubtdp77Rwix_3acwIxZA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BULADÓ | Rotten Tomatoes",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXfez7Br7IaUTDfxoio18LzVdExWDt8MY02m90WjhMjvNy2pmnWQ9AGRTPK-RI159kmlsvl197W2yxDERC4QTh0KHcU-hjambcoEML0wzk42NJ5EXvEULoV_xJzqJVFv0&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXfez7Br7IaUTDfxoio18LzVdExWDt8MY02m90WjhMjvNy2pmnWQ9AGRTPK-RI159kmlsvl197W2yxDERC4QTh0KHcU-hjambcoEML0wzk42NJ5EXvEULoV_xJzqJVFv0&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6PG8yUQnn6nfQjp4Dnj9Vt_kedOcCekAKjw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Kush Cinema | Bulado - Click Here To Watch Today",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXXCpsP1OlHDa7AItucVB8WbCx-LUoWbcCnFdwFJCIMRB1U-Q86K6WIcsSnuFUOxnraNwt6fqxzLQX5lr_3Ka7l4u3LxPTGUgOaRxTETDEiuXaXC951P-8S_qyemA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXXCpsP1OlHDa7AItucVB8WbCx-LUoWbcCnFdwFJCIMRB1U-Q86K6WIcsSnuFUOxnraNwt6fqxzLQX5lr_3Ka7l4u3LxPTGUgOaRxTETDEiuXaXC951P-8S_qyemA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0E1jwS2CQRloKGI-Oec1ribVgBXqZXDoj5w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (2020) | MUBI",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXX-UyvkGiLuKRFGQDzmV6vUVcMI5433jMEnKkf6rZFBho_hUIJghYgaHjARZSsfncQa0hx-jcfMccEm6I1E7fU6ZAOb8N4GlKOscHSYRU7XZFovqMOSq7lgbYI8A&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXX-UyvkGiLuKRFGQDzmV6vUVcMI5433jMEnKkf6rZFBho_hUIJghYgaHjARZSsfncQa0hx-jcfMccEm6I1E7fU6ZAOb8N4GlKOscHSYRU7XZFovqMOSq7lgbYI8A&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS74LUoA4obL83sWGmUSSqWLLESG6lDZIzDjA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BULADO - LUCAS – International Festival for Young Film Lovers",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXXOZEfWktPd7ckJV6sN-L9oYybXEcFLNpTEB8tFy5gX3qymIE3l3i26hJiZ0tAyC9j-DdglvLPgyDlU_XkFMmgNpk8nvM4IFgMox14L0dBwQ-rjVu1IG0TmeyMoosYtZTouHH7iZ7ateZz7Q&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXXOZEfWktPd7ckJV6sN-L9oYybXEcFLNpTEB8tFy5gX3qymIE3l3i26hJiZ0tAyC9j-DdglvLPgyDlU_XkFMmgNpk8nvM4IFgMox14L0dBwQ-rjVu1IG0TmeyMoosYtZTouHH7iZ7ateZz7Q&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR05taGfp354x_hNNaRcf0mlctq7OQ1VKMISg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó | Keplerfilm",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXXunv0NAQQq86RBoP84dwCQB6y5x1c-v3Jf1URdy-0ESvhTaNUVBLzHX7fLuiYy1uqzBjgbkFF75pevImSXZg7U-OQP_8UUfWzBd0_sH3C0kp-LYcmCGny9cAmBA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXXunv0NAQQq86RBoP84dwCQB6y5x1c-v3Jf1URdy-0ESvhTaNUVBLzHX7fLuiYy1uqzBjgbkFF75pevImSXZg7U-OQP_8UUfWzBd0_sH3C0kp-LYcmCGny9cAmBA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZh-HEzuI6Mc4GYhbUJlCDNzSo9jYAjsiL9g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "My Secret Sky (2009) directed by Madoda Ncayiyana • Reviews ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXq7DP1Efr9fBjVUFp8Cy6VF7iV-YHPQmQZCCpQpP818IbnYonH7-r99o5nR9uR1jxWGiUE-6Mx5tUyL71e4eJIKz1_jZcjSsl9r59mtykG0veQm2YaqTJXWg-5MnU9FaJPGk&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXq7DP1Efr9fBjVUFp8Cy6VF7iV-YHPQmQZCCpQpP818IbnYonH7-r99o5nR9uR1jxWGiUE-6Mx5tUyL71e4eJIKz1_jZcjSsl9r59mtykG0veQm2YaqTJXWg-5MnU9FaJPGk&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGHOqI7H7sAhhF6gKv6J5frli3F14Ix-qrwQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (2020) - News - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXgVbI-lyuiBmIq2-zM6W0I4oGtEQiZPScJ_peq1ohjfZVTD1BaVDrB_F8G7Bd7sLR9R0JFEyLLT5hOXqPtRnFdL6uf525zFJoScgrH34yiam1bhcbmhzIjLhP2bXf1Ey4sZAy&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXgVbI-lyuiBmIq2-zM6W0I4oGtEQiZPScJ_peq1ohjfZVTD1BaVDrB_F8G7Bd7sLR9R0JFEyLLT5hOXqPtRnFdL6uf525zFJoScgrH34yiam1bhcbmhzIjLhP2bXf1Ey4sZAy&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6M582gWp3sCS-3hNasUWycPYSbT7yhMi5Bw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "SHOWBIZ: Uncover powerful stories of war and identity at ...",
+        "url": "https://lens.google.com/goto?url=CAESsAEBxCJF13PIet8spBkw01wHQL-V8AachAl6ZyoBQUvr7c0phKihg94mpFbgKLzr7QEPtrV_R3Lzro4cKljl50Kb1WDexjs3Kw_3Hju2itPvoaPOqgP_A1j_3OOo5XmupT9TEvwaMYD1Ce4Ihx1y19C3k148BvOz9fUK8iEWFrFSguSy_Cf7fLksp_zbxh6E8izvoL35Uk70TDYtFekeyD4c2hXFqdjL2FKiloyduShjLg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESsAEBxCJF13PIet8spBkw01wHQL-V8AachAl6ZyoBQUvr7c0phKihg94mpFbgKLzr7QEPtrV_R3Lzro4cKljl50Kb1WDexjs3Kw_3Hju2itPvoaPOqgP_A1j_3OOo5XmupT9TEvwaMYD1Ce4Ihx1y19C3k148BvOz9fUK8iEWFrFSguSy_Cf7fLksp_zbxh6E8izvoL35Uk70TDYtFekeyD4c2hXFqdjL2FKiloyduShjLg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReinPjRBtmNo2LIfLftdxXHA34bvrzvmtS8g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "LOOK!-competition 2026 | Filmfestival Oostende",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXft9OW3qiwNSLUQlkVyOJgWdKjcYj7lpbZprr1753OadragVZeAVMplyEZDTuwtnP5RoQza-8jhhDYXx_qu01kv0m7higc2XtEliyFwUdJRdnFpFJ5sxPgUsGS8t8TwpQR4X7jC5RkyJcH_oPyUmuvVMmFp4&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXft9OW3qiwNSLUQlkVyOJgWdKjcYj7lpbZprr1753OadragVZeAVMplyEZDTuwtnP5RoQza-8jhhDYXx_qu01kv0m7higc2XtEliyFwUdJRdnFpFJ5sxPgUsGS8t8TwpQR4X7jC5RkyJcH_oPyUmuvVMmFp4&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1AYLn8PE6QmDRterDpvYHJvSJyKsWW0t9JA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Loa (complete film, 2016) | Videos & Movies on Vimeo",
+        "url": "https://lens.google.com/goto?url=CAESWAHEIkXXtsJy4wBjGtGR_gFCKvsolY-N3GDlOMgjSYzAL_VpMSUiVYV5au0nXq2zmqhkUTlrkCTDbsvMsYQtMdB9vGIg81cKuE3qaPkuFkc4SSMkw-rlWMc&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESWAHEIkXXtsJy4wBjGtGR_gFCKvsolY-N3GDlOMgjSYzAL_VpMSUiVYV5au0nXq2zmqhkUTlrkCTDbsvMsYQtMdB9vGIg81cKuE3qaPkuFkc4SSMkw-rlWMc&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRy4XVP7_XIRVwd50cCuJ0GNvQGKtUOr2lEg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Duma Movie Tickets & Showtimes Near You | Fandango",
+        "url": "https://lens.google.com/goto?url=CAESdQHEIkXXXbgBg7bpnIdaLnI2DNeyAg3JpXMI303Dih2I5103t6DIezxdX0u59tfW5n3pU5KO1THt-kIDUwQJlVjSeT0SKdufNqpMZVF5PawwbOu8ZQ4zSTF9p0q-Ea4xKFx8bnQGAxlB8fB0zSlCfvR2l4IwSw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdQHEIkXXXbgBg7bpnIdaLnI2DNeyAg3JpXMI303Dih2I5103t6DIezxdX0u59tfW5n3pU5KO1THt-kIDUwQJlVjSeT0SKdufNqpMZVF5PawwbOu8ZQ4zSTF9p0q-Ea4xKFx8bnQGAxlB8fB0zSlCfvR2l4IwSw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrSgetSPgPTMnJ3G78BOYBttemsmz8FxMNLQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Gouden Kalf winnaar Buladó in Focus Filmtheater - Uit in Arnhem",
+        "url": "https://lens.google.com/goto?url=CAESlAEBxCJF13u_u-C8zEEL6kFsr45uGBey7xqV6UMhlbVMIImbx7PyYmJ5ISMyMYn5wC9BXq6agw0PbXV-Bamx_9WmA82tuvW-chS4XpDTji8oKHun2zRPmCiFuFMXCcQ2AIZJWLEndPH9Ibbclr_xz2IIXEVfThH6Rrx6zoOOQSHUCQkblUvQmZtIhKU-MrECaWGYerSX&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlAEBxCJF13u_u-C8zEEL6kFsr45uGBey7xqV6UMhlbVMIImbx7PyYmJ5ISMyMYn5wC9BXq6agw0PbXV-Bamx_9WmA82tuvW-chS4XpDTji8oKHun2zRPmCiFuFMXCcQ2AIZJWLEndPH9Ibbclr_xz2IIXEVfThH6Rrx6zoOOQSHUCQkblUvQmZtIhKU-MrECaWGYerSX&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZNfPYdaz1ojdwEP8xED2kH-zXy7p06QAeQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "MIER \"The Ant\" - FilmFreeway",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXXRnt967w5I3CsJMdBhJPoudAqz5r084msfSEMJuv36fuCahpUSG_lhjn8CtbUW9TcnqCZ59bZ33tHv1uKg87cl00RP2jd0f39Wix9HeQOIMR99a8crcxSjxB2uQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXXRnt967w5I3CsJMdBhJPoudAqz5r084msfSEMJuv36fuCahpUSG_lhjn8CtbUW9TcnqCZ59bZ33tHv1uKg87cl00RP2jd0f39Wix9HeQOIMR99a8crcxSjxB2uQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7V4mhbC1A7YTF6KWS_RFzzdUm3reuXElww&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Happy to share the key art designed for I Am Not the Last, a ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXX6X41mY7BFb_XRNydAhVJhnKqwZY2xnpsNcKirxI7eT8iiJ8A_LFDK4YmaGC_QWN26dCodiJT8QAVTF8SasLDrKIIju6gJoY350lj7vMygZ0Yr25G6n8pRZiy-1n3F5Ne&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXX6X41mY7BFb_XRNydAhVJhnKqwZY2xnpsNcKirxI7eT8iiJ8A_LFDK4YmaGC_QWN26dCodiJT8QAVTF8SasLDrKIIju6gJoY350lj7vMygZ0Yr25G6n8pRZiy-1n3F5Ne&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6JljB27qZ5bbkjVVHY1f-2IZcZQYWfPV08w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Malunde – Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details/Malunde?id=EF49879269954805MV&hl=en_ZA",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/Malunde?id=EF49879269954805MV&hl=en_ZA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaOlMywJyMhk1-j2-xKqYhK3X_rhklUfs59w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/Malunde?id=EF49879269954805MV&hl=en_ZA"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/Malunde?id=EF49879269954805MV&hl=en_ZA"
+      },
+      {
+        "title": "Film Showing Up Dvd Original DVD Movies Lazada Philippines",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX8XHetFdL5dC43csrVbIaWHnBmkJFRPQj5BHSfSJp-EN9cacegVsDF5NF3l1N6ju_E3yDHEGsLzBYAdgAxLy2LtObojzcIwk4RXyrVnLwxAFc3O_0QwoGhlGN4t-UogYZAmFQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX8XHetFdL5dC43csrVbIaWHnBmkJFRPQj5BHSfSJp-EN9cacegVsDF5NF3l1N6ju_E3yDHEGsLzBYAdgAxLy2LtObojzcIwk4RXyrVnLwxAFc3O_0QwoGhlGN4t-UogYZAmFQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJglbtho7uaAKobqWxcuuwqnaZ3rTt9nWpDg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Short Doc #1, 12/2015 - Los Angeles CineFest",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXX0SK7EspwY6fqD2kVV4CgYngQhgT0ZsbA67hAlarbjH4Xu4GAOe567Ytq0WydCo68k5ubsXBUiHOfG-aqu_WT7osFjqPy1BEDhWVRxx3N2OP7WMjHNQYrkYDJhT4kIP_MLUhbIOzPi8s4rg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXX0SK7EspwY6fqD2kVV4CgYngQhgT0ZsbA67hAlarbjH4Xu4GAOe567Ytq0WydCo68k5ubsXBUiHOfG-aqu_WT7osFjqPy1BEDhWVRxx3N2OP7WMjHNQYrkYDJhT4kIP_MLUhbIOzPi8s4rg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_b6kBG1XkeMCqDMultX6_O16IkK5Ui1tTQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "My film, ONLY, starring Freida Pinto and Leslie Odom Jr ...",
+        "url": "https://lens.google.com/goto?url=CAESnwEBxCJF14PWTajcIeB3X7tx_aoWzSkR4_3JRG7gy5_GV9WK0qS3tkzA8waFkox34_McIReLKxgyta1RNtXcJlMQuCJqOebPsaAUv8ifTu_5EYiRCYlSb1c3AKBlDOgjdVjT6KXIGntek7ct1x6Y6LZQVO9I_eGQhSwNrNeufq5NjwjitIGbPv4NvCl71kpXKUdDv2WzxIliQGINMrvQU-w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESnwEBxCJF14PWTajcIeB3X7tx_aoWzSkR4_3JRG7gy5_GV9WK0qS3tkzA8waFkox34_McIReLKxgyta1RNtXcJlMQuCJqOebPsaAUv8ifTu_5EYiRCYlSb1c3AKBlDOgjdVjT6KXIGntek7ct1x6Y6LZQVO9I_eGQhSwNrNeufq5NjwjitIGbPv4NvCl71kpXKUdDv2WzxIliQGINMrvQU-w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG1_ncNqGuo6NG2C8nFHjjbaRwiJDOF722ag&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Rights To 'Where The Road Runs Out' Picked Up By Netflix",
+        "url": "https://lens.google.com/goto?url=CAESngEBxCJF11_0BwYTvwgpKZJ8dFNVAckbDAV1QH0pCXY89MhNzZ1iUWdqnK-wTDo3zsujQE5ELA5c-lgQfSyvAZrTtqrNYW6DA96CtDx8UFjCpW1N8jGGqalHRgNoF2hRQkgdZ5iTIbJ0cA5DhSqLEYuJN8pSUFr9dGBuLvfM95jgHvKAPZ93DZhYau3-yJHIE_yRMLdmPJkiCl9dQoNx2w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESngEBxCJF11_0BwYTvwgpKZJ8dFNVAckbDAV1QH0pCXY89MhNzZ1iUWdqnK-wTDo3zsujQE5ELA5c-lgQfSyvAZrTtqrNYW6DA96CtDx8UFjCpW1N8jGGqalHRgNoF2hRQkgdZ5iTIbJ0cA5DhSqLEYuJN8pSUFr9dGBuLvfM95jgHvKAPZ93DZhYau3-yJHIE_yRMLdmPJkiCl9dQoNx2w&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk3baic6l6fYRF753a38LHv6MWGMk8JPkUxw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Feature Films — Ashfield FilmFest",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXBmw_sISRww3sOZ_68jHtpIhyNcWQof_wvIvKhzjVFSOgbp-c-tMLuHtWDQx3dKF_uFMU1VL_Wf8bQrn1uO48uf8CwrSoce4RWktP1nFs3wg-hGKIASgCo5k_3XIVBcsOp1xgP75G&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXBmw_sISRww3sOZ_68jHtpIhyNcWQof_wvIvKhzjVFSOgbp-c-tMLuHtWDQx3dKF_uFMU1VL_Wf8bQrn1uO48uf8CwrSoce4RWktP1nFs3wg-hGKIASgCo5k_3XIVBcsOp1xgP75G&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbT4ctcUUFnAFoMMfWnMS9KVsB-Ql9oJsj-Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Madu' Trailer: Viral Teen Dancer's Story Told in Documentary ...",
+        "url": "https://lens.google.com/goto?url=CAESpwEBxCJF17UeWdfawGkkVqeaYIFAT6lcRkBAf18qFRbisZsYpAwtLj2yrSrEcGKHcvil8z7Aynr94lUUXfrIYO8hYLVZVfBrRqYr1jjSALkXWH-YOr_hZm3r0t86s4zkf5loQyRCoVwdvg166UTzIOdkFT9oVQac_0K8AAKzoOgWo4ZKIgtzEyD-15TX_9584wsd2I1KXzQFwkXfjsyNnmMAvGp7m3XQMg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESpwEBxCJF17UeWdfawGkkVqeaYIFAT6lcRkBAf18qFRbisZsYpAwtLj2yrSrEcGKHcvil8z7Aynr94lUUXfrIYO8hYLVZVfBrRqYr1jjSALkXWH-YOr_hZm3r0t86s4zkf5loQyRCoVwdvg166UTzIOdkFT9oVQac_0K8AAKzoOgWo4ZKIgtzEyD-15TX_9584wsd2I1KXzQFwkXfjsyNnmMAvGp7m3XQMg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6hpj1XuI71BPJkA0jnM76zXrGlLNt5uNHw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Movies - Southcoast Mall | Shopping Centre in Shelly Beach ...",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXXuoP0QkKQWGl5vg93j5lWfnpn4iWM9HwlZieiOeEcUEsYBsLEkDTdBjr_MxF3iac2JSwwy0LFAm5-hy4dRn7wQie2XjyFnreiP_6EdMp4vtZxMC-n1QvRAdyScg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXXuoP0QkKQWGl5vg93j5lWfnpn4iWM9HwlZieiOeEcUEsYBsLEkDTdBjr_MxF3iac2JSwwy0LFAm5-hy4dRn7wQie2XjyFnreiP_6EdMp4vtZxMC-n1QvRAdyScg&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSlsrwcOS48_5P9K9a6Yzb5op8Gqy3cwYmeA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Showbiz: Latin American Film Fest offers animated gems for kids",
+        "url": "https://lens.google.com/goto?url=CAESrgEBxCJF1yTXvLYQPsSN33whbQSQPZPR_jJCsqeKKJ1o6B25OW5KuBFdfsrOWLnCqWRTrBbrfzwxswSCgDJX71lYfkZ9LboBD9Lmd6LCxSglt_1KofOfKCfpHASqx0JgGhNGKygk32f6vULb1ERgV0_oMtIPsHVmWVJvC9Qbha4Zc3HIWKeuw0Px4S6BNKTLp7CmocQSngcvhJlodLYFcjoaQzw7Mms92ff7cADSeUk&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrgEBxCJF1yTXvLYQPsSN33whbQSQPZPR_jJCsqeKKJ1o6B25OW5KuBFdfsrOWLnCqWRTrBbrfzwxswSCgDJX71lYfkZ9LboBD9Lmd6LCxSglt_1KofOfKCfpHASqx0JgGhNGKygk32f6vULb1ERgV0_oMtIPsHVmWVJvC9Qbha4Zc3HIWKeuw0Px4S6BNKTLp7CmocQSngcvhJlodLYFcjoaQzw7Mms92ff7cADSeUk&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFDUjPKxSiqHakrqLiUK1kpqvr_X3MJF7uzA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó - Cinema de Vlugt",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXXX_PaXXMYAsdgP4sUZzuUtbbcNgfNxWM3HikljnwlqTWxF4-brf9f9UJJnU41_oBpuz5CmFe956E7Ej0YwbodT3EcBsisgoushe0htCn_7eAxoPjgZqnLTP6RNIRwtbRnQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXXX_PaXXMYAsdgP4sUZzuUtbbcNgfNxWM3HikljnwlqTWxF4-brf9f9UJJnU41_oBpuz5CmFe956E7Ej0YwbodT3EcBsisgoushe0htCn_7eAxoPjgZqnLTP6RNIRwtbRnQ&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxk6kook64-LmVCxMF1C46aBwodtjGFkFKzA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Short Films: Small Packages, Big Messages",
+        "url": "https://lens.google.com/goto?url=CAESogEBxCJF14St_43nEkzmpu7DCLK78OfphWrxtJ-OBEUwD3bRjcbFJ5uvkjNpDic0T7hEKq4qa2brk4VKxz_JfQXS9sg0yTjWrDXpHJWjBVMFJ3MOMEQB7at-ePB7ii18p_lOzMkakrK55_8E-0IpMjBn5Goo5obZUK2VMXJIRbsq2yHICoJb89xHCEMtgICuuzJaceuHs32MccgpyDkNVG80nXc&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESogEBxCJF14St_43nEkzmpu7DCLK78OfphWrxtJ-OBEUwD3bRjcbFJ5uvkjNpDic0T7hEKq4qa2brk4VKxz_JfQXS9sg0yTjWrDXpHJWjBVMFJ3MOMEQB7at-ePB7ii18p_lOzMkakrK55_8E-0IpMjBn5Goo5obZUK2VMXJIRbsq2yHICoJb89xHCEMtgICuuzJaceuHs32MccgpyDkNVG80nXc&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrJJlxDQbR2Cf__5kVEfolDxZanZ9sMc1ZoQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Sands Films screening: Yuli , Tues 21 September 2021, London ...",
+        "url": "https://lens.google.com/goto?url=CAESnwEBxCJF16vwg-Lt5sT02xcmZz6nmMUJ8mBWF4jUrs5fBo0-UtjR3gGjhRS_8DLwvzeTEOWAgMYN50p8wp2bllgQrzsSS3ZD3hCVl8VDqV40HS2PolXRsADriotR5qb4npbTNybNbBwMKukWQ2__NKYMefBDDpUV0kzcvgTGUnf7rT4tbvi_CNGJYnD7aNdjT2DGvVV1Klig-YOQMbfM9w4&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESnwEBxCJF16vwg-Lt5sT02xcmZz6nmMUJ8mBWF4jUrs5fBo0-UtjR3gGjhRS_8DLwvzeTEOWAgMYN50p8wp2bllgQrzsSS3ZD3hCVl8VDqV40HS2PolXRsADriotR5qb4npbTNybNbBwMKukWQ2__NKYMefBDDpUV0kzcvgTGUnf7rT4tbvi_CNGJYnD7aNdjT2DGvVV1Klig-YOQMbfM9w4&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFIfHdAeMXAS8qL72cRNfFgeTJnXfF8LLrag&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Film Catalogue | Buladó",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXXBG0oUL_CzE0eJfN8EUw70APgwJfmOHS_bxyb9BfvPKxwFz5sklYIJ1L3QydqSZH7d6HAhj8dbmL9fdouiwT3W7C39VM_ZXZ1D0yI34_CCB2VWeGewfsK5zpWFpMYpGstWUGYN8E&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXXBG0oUL_CzE0eJfN8EUw70APgwJfmOHS_bxyb9BfvPKxwFz5sklYIJ1L3QydqSZH7d6HAhj8dbmL9fdouiwT3W7C39VM_ZXZ1D0yI34_CCB2VWeGewfsK5zpWFpMYpGstWUGYN8E&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE1fpYl0A_BEVrLNAHTxEzAhUhU2XMKXX3_A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Amazon.com: A Land Imagined ( Huan tu ) [ NON-USA FORMAT ...",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF12wZwPt88jVTJWmsCYpfVXtqv-A5bLOYkCIcgmYlErE-6KsnBJZLwMRWGzkLij3IUFJJmQ1SLZSUSKRJX9KS_t64a7ilW9ChldCg6gH0Aair0c-U2Yf2zrgn5lZsQlza3qpxPFdHPEyKhtJ5gPA4AusqMq5HH_0YiW-esUNehfE&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF12wZwPt88jVTJWmsCYpfVXtqv-A5bLOYkCIcgmYlErE-6KsnBJZLwMRWGzkLij3IUFJJmQ1SLZSUSKRJX9KS_t64a7ilW9ChldCg6gH0Aair0c-U2Yf2zrgn5lZsQlza3qpxPFdHPEyKhtJ5gPA4AusqMq5HH_0YiW-esUNehfE&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-FOXzesea_d3sww5ibaFDLgPG6KQzKfluQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Little Secrets (2001 Film) Little Secrets — FanBolt",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXFEnOqwA2-quWW_skHaLcKi29W3q8_HvEl2HPi-ye7rm1ibxzj8JIuwOs7IPOWWAsR-FokCiHD4wpXqKuH-A0i4LvWumaQu4LerR2JBXoo4LyHks8Hs4ygaI44vsjWowGevfZ6do9DY3E-A_vbzyYW7c&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXFEnOqwA2-quWW_skHaLcKi29W3q8_HvEl2HPi-ye7rm1ibxzj8JIuwOs7IPOWWAsR-FokCiHD4wpXqKuH-A0i4LvWumaQu4LerR2JBXoo4LyHks8Hs4ygaI44vsjWowGevfZ6do9DY3E-A_vbzyYW7c&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScvuuqRsmNgF_zCStIvywv85NEzbtKuW5vgw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Lu (Short 2013) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXMX7yu6XVKixuiDssWgxjsyz9haX0TDv9EfyJ0fvaW_Rdqw0eJBwCeHY4YkIFk_DCKlLifCuEkBdwbQ8nyrMEFiECWMTeK9oEGgHKc1drZCe-nzcSvpUtW-SrCNpe&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXMX7yu6XVKixuiDssWgxjsyz9haX0TDv9EfyJ0fvaW_Rdqw0eJBwCeHY4YkIFk_DCKlLifCuEkBdwbQ8nyrMEFiECWMTeK9oEGgHKc1drZCe-nzcSvpUtW-SrCNpe&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCSaUTF2hQClrsbDKWF0UVm64S13z7ijtig&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "What The Living Do (2026) directed by Jam Borja • Reviews ...",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXbEk8kTTQhxAdjenPQ-HMlGsrnXgzIRESsju1fAzy6HrVkT_LPScJqcQuGehp1G6M3ATCjKdUW_Cg59LbjkjQAxx7pEM58HeEyKBZbjf34cIxzrOwtfJIKXXOjCZY9fDtG7MJF0NGxw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXbEk8kTTQhxAdjenPQ-HMlGsrnXgzIRESsju1fAzy6HrVkT_LPScJqcQuGehp1G6M3ATCjKdUW_Cg59LbjkjQAxx7pEM58HeEyKBZbjf34cIxzrOwtfJIKXXOjCZY9fDtG7MJF0NGxw&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1QufMkcrJqIlQVo_dzAjqrcfSadYOxUwZfQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó Movie Poster - IMP Awards",
+        "url": "https://lens.google.com/goto?url=CAESdwHEIkXXRn0W6m29Ftiz1xQMSeDiyuHxXM8sMvbnhZRxO5niCMbBMPF3k4KmlHiGVOMWRnFY7bd22XgHIHpcp1Q4KlSMRtMZGq0XyMqM3G-9Z12Ad9SJSs1rIJjSqsZNsg07N3uWBv_KxaTdXG5V2F3cykKjJInc&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdwHEIkXXRn0W6m29Ftiz1xQMSeDiyuHxXM8sMvbnhZRxO5niCMbBMPF3k4KmlHiGVOMWRnFY7bd22XgHIHpcp1Q4KlSMRtMZGq0XyMqM3G-9Z12Ad9SJSs1rIJjSqsZNsg07N3uWBv_KxaTdXG5V2F3cykKjJInc&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5m_abGdpDLokWjU-QOYsCrCuABpoTfvqH_w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Chee Keong Cheung's 'Son Of The Soil' is now streaming on ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXtTKGvew3lLmIUyl4riL8BPlsg7hJHvYMc1P4KrUxPuCyScl0YJqevOlIxpbYh3F5w5Dn9Fjm8ioL_-rzByIt4SDiYKpDt7kJbFEazbyJ70MqZvi2jpWDmHPUBw-OzZLD&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXtTKGvew3lLmIUyl4riL8BPlsg7hJHvYMc1P4KrUxPuCyScl0YJqevOlIxpbYh3F5w5Dn9Fjm8ioL_-rzByIt4SDiYKpDt7kJbFEazbyJ70MqZvi2jpWDmHPUBw-OzZLD&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs6o1fOdobVIz9fOrvN9Povf8PKDPcznypLA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Movie Inside Out Cine Best Movies Of 2015: Inside Out",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXX5j24g9R6bbyCo4tA5JOhUza1SVGwax0IiBuFG8dND_LuYyjOs7xrKylpUYc0gjt_s1L4j-l3x13xnGkgzPCJeXeor7_BTu09hO4NPeq1gjR61v0nUxGrHEXvHIR_k-CvQpVF2Q&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXX5j24g9R6bbyCo4tA5JOhUza1SVGwax0IiBuFG8dND_LuYyjOs7xrKylpUYc0gjt_s1L4j-l3x13xnGkgzPCJeXeor7_BTu09hO4NPeq1gjR61v0nUxGrHEXvHIR_k-CvQpVF2Q&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCqy_f2lfKp6NZDW3XNQM2NmwIK8MJfDWxDw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (Film, 2020) - MovieMeter.nl",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXM9EiCox389gDDoUt1AEiEkccwnOVah4seIu9iYkkGEClc6C_HevLPwDUP92fTQXyMT9ZepcjA_8d9cMTE_9N0AMmuenFinlEGWqj8mxuKVMmctCDKj5F1vYpi3LZfA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXM9EiCox389gDDoUt1AEiEkccwnOVah4seIu9iYkkGEClc6C_HevLPwDUP92fTQXyMT9ZepcjA_8d9cMTE_9N0AMmuenFinlEGWqj8mxuKVMmctCDKj5F1vYpi3LZfA&gsessionid=MhZXa8li69b-4o-0kSm_Y83CafnoODeIlvfVdOGCcVfp0ljZUjXLYg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAmfAcKxRMvme5ScdCJYhb-wQrZ4tKVh2Q_g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Buladó (2020)",
+        "url": "https://www.imdb.com/title/tt12182440/",
+        "url_candidates": [
+          "https://www.imdb.com/title/tt12182440/"
+        ],
+        "source": "",
+        "content": "A magical-realism film placed on a junkyard in Curaçao.As the different mentalities of rational father Ouira and spiritual grandfather Weljo start to clash, ...Read more",
+        "provider": "google_serp_trusted_film_catalog_search",
+        "position": 1,
+        "resolved_urls": [
+          "https://www.imdb.com/title/tt12182440/"
+        ],
+        "resolved_url": "https://www.imdb.com/title/tt12182440/",
+        "catalog_source": "imdb_official_title_page",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "search_source": "lens_result_title_or_direct_play_store_url",
+        "search_query_variant": "broad_site_scoped",
+        "original_search_url": null
+      },
+      {
+        "title": "Buladó (2020) - Videos",
+        "url": "https://www.imdb.com/title/tt12182440/videogallery/",
+        "url_candidates": [
+          "https://www.imdb.com/title/tt12182440/videogallery/"
+        ],
+        "source": "",
+        "content": "Buladó: Directed by Eché Janga. With Tiara Richards, Felix de Rooy, Everon Jackson Hooi, Vanessa Abad. As the different mentalities of rational father Ouira ...",
+        "provider": "google_serp_trusted_film_catalog_search",
+        "position": 2,
+        "resolved_urls": [
+          "https://www.imdb.com/title/tt12182440/videogallery/"
+        ],
+        "resolved_url": "https://www.imdb.com/title/tt12182440/videogallery/",
+        "catalog_source": "imdb_official_title_page",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "search_source": "lens_result_title_or_direct_play_store_url",
+        "search_query_variant": "broad_site_scoped",
+        "original_search_url": null
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 60,
+            "raw_result_count": 60,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 59,
+              "play.google.com/store/movies/details/Malunde": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 60,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 59,
+          "play.google.com/store/movies/details/Malunde": 1
+        },
+        "exact_matches_result_count": 60,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 60,
+        "google_goto_candidates": 59,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 59,
+        "google_goto_direct_urls_kept": 1,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 2,
+        "official_imdb_ids": [
+          "tt12182440"
+        ],
+        "result_url_count": 62,
+        "google_wrapper_count": 59,
+        "google_goto_url_count": 59,
+        "result_url_paths": {
+          "lens.google.com/goto": 59,
+          "play.google.com/store/movies/details/malunde": 1,
+          "www.imdb.com/title/tt12182440": 1,
+          "www.imdb.com/title/tt12182440/videogallery": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 59,
+          "www.imdb.com": 2,
+          "play.google.com": 1
+        },
+        "title_search_status": "ok",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 2,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Buladó"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 7,
+          "www.imdb.com": 2
+        },
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [
+        737756
+      ],
+      "imdb_ids": [
+        "tt12182440"
+      ],
+      "tmdb_id_lookup": {
+        "status": "resolved",
+        "tmdb_ids": [
+          737756
+        ],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [
+          "tt12182440"
+        ],
+        "imdb_find_results": {
+          "tt12182440": [
+            737756
+          ]
+        },
+        "imdb_find_errors": [],
+        "details_resolved": 1,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt12182440"
+        ]
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [
+          "tt12182440"
+        ],
+        "imdb_to_tmdb_ids": {
+          "tt12182440": [
+            737756
+          ]
+        },
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt12182440"
+        ],
+        "ignored_secondary_imdb_errors": [],
+        "ignored_secondary_detail_errors": []
+      },
+      "candidate_identities": [
+        {
+          "tmdb_id": 737756,
+          "imdb_id": "tt12182440",
+          "title": "Buladó",
+          "original_title": "Buladó",
+          "year": 2020,
+          "tmdb_data": {
+            "year": 2020,
+            "countries": [
+              "Netherlands",
+              "Netherlands Antilles"
+            ],
+            "directors": [
+              "Eché Janga"
+            ],
+            "cast": [
+              {
+                "name": "Tiara Richards",
+                "character": "Kenza"
+              },
+              {
+                "name": "Felix de Rooy",
+                "character": "Weljo"
+              },
+              {
+                "name": "Everon Jackson Hooi",
+                "character": "Ouira"
+              },
+              {
+                "name": "Vanessa Abad",
+                "character": "Sara"
+              },
+              {
+                "name": "Bert Aengenendt",
+                "character": "Investor"
+              },
+              {
+                "name": "Chanella Hodge",
+                "character": "Nilfa"
+              },
+              {
+                "name": "Alex de Lanoy",
+                "character": "Emanuel"
+              },
+              {
+                "name": "Esperanza Copini",
+                "character": "Sara (Voice)"
+              }
+            ],
+            "rating": 6.8,
+            "rating_votes": 8,
+            "poster_count": 1
+          }
+        }
+      ],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "ok",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Buladó"
+        ],
+        "year_hint": 2020,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 1,
+        "organic_result_count": 9,
+        "candidate_url_count": 9,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 7,
+          "www.imdb.com": 2
+        },
+        "official_url_count": 2,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": [
+          "tt12182440"
+        ]
+      },
+      "identity_consistency": {
+        "status": "passed",
+        "allowed": true,
+        "reason": "No confirmed title-and-year contradiction with the source-folder label",
+        "folder_year": 2020,
+        "candidate_year": 2020,
+        "title_match": true,
+        "year_match": true,
+        "clear_title_and_year_conflict": false,
+        "matching_title_aliases": [
+          "Buladó"
+        ],
+        "folder_name_used_for_search": false,
+        "folder_name_used_to_select_candidate": false,
+        "folder_name_used_for_conflict_veto": true
+      },
+      "resolved_identity": {
+        "tmdb_id": 737756,
+        "imdb_id": "tt12182440",
+        "source": "google_serp_official_imdb_id_via_tmdb_find",
+        "verification": "official_imdb_url_from_lens_derived_search_then_tmdb_find_and_matching_movie_details",
+        "official_tmdb_ids": [],
+        "official_imdb_ids": [
+          "tt12182440"
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt12182440"
+        ],
+        "title_disambiguation": null,
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "identity_consistency": {
+          "status": "passed",
+          "allowed": true,
+          "reason": "No confirmed title-and-year contradiction with the source-folder label",
+          "folder_year": 2020,
+          "candidate_year": 2020,
+          "title_match": true,
+          "year_match": true,
+          "clear_title_and_year_conflict": false,
+          "matching_title_aliases": [
+            "Buladó"
+          ],
+          "folder_name_used_for_search": false,
+          "folder_name_used_to_select_candidate": false,
+          "folder_name_used_for_conflict_veto": true
+        }
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "skipped_official_identity_resolved",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 60,
+            "raw_result_count": 60,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 59,
+              "play.google.com/store/movies/details/Malunde": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 60,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 59,
+          "play.google.com/store/movies/details/Malunde": 1
+        },
+        "exact_matches_result_count": 60,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 60,
+        "google_goto_candidates": 59,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 59,
+        "google_goto_direct_urls_kept": 1,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 2,
+        "official_imdb_ids": [
+          "tt12182440"
+        ],
+        "result_url_count": 62,
+        "google_wrapper_count": 59,
+        "google_goto_url_count": 59,
+        "result_url_paths": {
+          "lens.google.com/goto": 59,
+          "play.google.com/store/movies/details/malunde": 1,
+          "www.imdb.com/title/tt12182440": 1,
+          "www.imdb.com/title/tt12182440/videogallery": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 59,
+          "www.imdb.com": 2,
+          "play.google.com": 1
+        },
+        "title_search_status": "ok",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 2,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Buladó"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 7,
+          "www.imdb.com": 2
+        },
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "skipped_official_identity_resolved",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 737756,
+    "media_type": "movie",
+    "title": "Buladó",
+    "original_title": "Buladó",
+    "release_date": "2020-10-01",
+    "year": 2020,
+    "original_language": "nl",
+    "origin_country": [
+      "AN",
+      "NL"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "NL",
+        "name": "Netherlands"
+      },
+      {
+        "iso_3166_1": "AN",
+        "name": "Netherlands Antilles"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 108847,
+        "logo_path": "/wXcInrUH3f5Vc2Ok13kURwUQ9Zv.png",
+        "name": "Keplerfilm",
+        "origin_country": "NL"
+      },
+      {
+        "id": 22294,
+        "logo_path": "/xD7TJlNqBQM6KmdWyr22TUK1rCt.png",
+        "name": "NTR",
+        "origin_country": "NL"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 86,
+    "status": "Released",
+    "overview": "Headstrong girl Kenza lives with her father Ouira and grandfather Weljo on a car wrecking yard in the countryside of Curaçao. The two men are opposites that don't particularly attract: Ouira is a determined and rational police officer, while Weljo identifies with the original inhabitants and spirituality of the island. As Weljo wishes to prepare his passing to the world of spirits, the relationship between Ouira en Weljo starts to escalate and the eleven-year-old Kenza searches for her own path in-between the two extremes. The down-to-earth and avoidant mentality of Ouira no longer offers her all that she needs and slowly she opens up to the more mystical and comforting traditions of her grandfather.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/6VrgsPwvfFC3ZyWLUUhKoibWPCc.jpg",
+    "poster_url": "https://image.tmdb.org/t/p/w500/6VrgsPwvfFC3ZyWLUUhKoibWPCc.jpg",
+    "posters": [
+      {
+        "file_path": "/6VrgsPwvfFC3ZyWLUUhKoibWPCc.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/6VrgsPwvfFC3ZyWLUUhKoibWPCc.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/6VrgsPwvfFC3ZyWLUUhKoibWPCc.jpg",
+        "language": "en",
+        "width": 2000,
+        "height": 3000,
+        "vote_average": 3.334,
+        "vote_count": 1
+      }
+    ],
+    "backdrop_path": "/lLyG2Cp7njdtvGWhokCZjVTPMLL.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/lLyG2Cp7njdtvGWhokCZjVTPMLL.jpg",
+    "popularity": 1.0986,
+    "vote_average": 6.8,
+    "vote_count": 8,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt12182440",
+      "wikidata_id": "Q101126708",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [],
+    "certifications_by_country": {
+      "BE": [
+        {
+          "certification": "9",
+          "release_date": "2021-03-01T00:00:00.000Z",
+          "type": 4
+        }
+      ],
+      "FR": [
+        {
+          "certification": "U",
+          "release_date": "2022-02-09T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NL": [
+        {
+          "certification": "9",
+          "release_date": "2020-10-01T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "TR": [
+        {
+          "certification": "",
+          "release_date": "2024-05-04T00:00:00.000Z",
+          "type": 6
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 2759549,
+        "name": "Tiara Richards",
+        "character": "Kenza",
+        "order": 0
+      },
+      {
+        "id": 587614,
+        "name": "Felix de Rooy",
+        "character": "Weljo",
+        "order": 1
+      },
+      {
+        "id": 1243508,
+        "name": "Everon Jackson Hooi",
+        "character": "Ouira",
+        "order": 2
+      },
+      {
+        "id": 3418195,
+        "name": "Vanessa Abad",
+        "character": "Sara",
+        "order": 3
+      },
+      {
+        "id": 3418196,
+        "name": "Bert Aengenendt",
+        "character": "Investor",
+        "order": 4
+      },
+      {
+        "id": 3418199,
+        "name": "Chanella Hodge",
+        "character": "Nilfa",
+        "order": 5
+      },
+      {
+        "id": 3418200,
+        "name": "Alex de Lanoy",
+        "character": "Emanuel",
+        "order": 6
+      },
+      {
+        "id": 4684446,
+        "name": "Esperanza Copini",
+        "character": "Sara (Voice)",
+        "order": 7
+      },
+      {
+        "id": 4684447,
+        "name": "Alexander Rudolph Hanst",
+        "character": "Motorcyclist",
+        "order": 8
+      },
+      {
+        "id": 4684449,
+        "name": "Janise Maria Hooi",
+        "character": "Head of a school",
+        "order": 9
+      },
+      {
+        "id": 4684451,
+        "name": "Mimoushka Lieuw",
+        "character": "Teacher Janga",
+        "order": 10
+      },
+      {
+        "id": 4684452,
+        "name": "Idelma Mercelina",
+        "character": "Cashier",
+        "order": 11
+      },
+      {
+        "id": 4684453,
+        "name": "Juric Phelipa",
+        "character": "Young Weljo",
+        "order": 12
+      },
+      {
+        "id": 4684454,
+        "name": "Zahavi Ricardo",
+        "character": "Roley",
+        "order": 13
+      }
+    ],
+    "directors": [
+      {
+        "id": 1285221,
+        "name": "Eché Janga",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1285221,
+        "name": "Eché Janga",
+        "job": "Writer",
+        "department": "Writing"
+      },
+      {
+        "id": 1490878,
+        "name": "Esther Duysker",
+        "job": "Writer",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 941,
+        "name": "tradition"
+      },
+      {
+        "id": 1463,
+        "name": "culture clash"
+      },
+      {
+        "id": 176561,
+        "name": "spiritualism"
+      }
+    ],
+    "worldwide_title": "Buladó",
+    "worldwide_title_selection": {
+      "title": "Buladó",
+      "source": "tmdb_movie_details"
+    }
+  },
+  "tmdb_id": 737756,
+  "imdb_id": "tt12182440",
+  "identity": {
+    "tmdb_id": 737756,
+    "imdb_id": "tt12182440",
+    "source": "google_serp_official_imdb_id_via_tmdb_find",
+    "verification": "lens_title_search_imdb_id_tmdb_find",
+    "folder_name_used": false
+  },
+  "correction": {
+    "canonical_folder_name": "Buladó (2020)",
+    "canonical_json_name": "Buladó (2020)",
+    "worldwide_title": "Buladó",
+    "title_selection": {
+      "title": "Buladó",
+      "source": "tmdb_movie_details"
+    },
+    "json_rename_required": false,
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Buladó (2020)/Buladó (2020).json"
+}

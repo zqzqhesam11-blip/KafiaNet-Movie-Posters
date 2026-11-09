@@ -1,0 +1,1274 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:28:08.013003+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Daisies (Sedmikrásky)(1966)",
+    "image_path": "مراجعة/Daisies (Sedmikrásky)(1966)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Daisies%20%28Sedmikr%C3%A1sky%29%281966%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "original_image_path": "Daisies (Sedmikrásky)(1966)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Daisies (Sedmikrásky)(1966)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "The official IMDb ID did not resolve to a TMDB movie ID",
+    "candidate_ids": []
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Daisies (1966)",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXXjD2wOTstKDAOXXTynuSIwXOI8xZWtYnBRtHm2PjRekzt0YQkZkT51GN21JP_5mFaywarnmm6v1SMYLxCxcgMMtEKAd1ChlJ0r7HRWcECRQ5Is3hNB0Df0V16ak-FifTKMXnyhN7OIN1wnA7PT1mKgwOMtNrJcw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXXjD2wOTstKDAOXXTynuSIwXOI8xZWtYnBRtHm2PjRekzt0YQkZkT51GN21JP_5mFaywarnmm6v1SMYLxCxcgMMtEKAd1ChlJ0r7HRWcECRQ5Is3hNB0Df0V16ak-FifTKMXnyhN7OIN1wnA7PT1mKgwOMtNrJcw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies Original R2012 U.S. One Sheet Movie Poster ...",
+        "url": "https://lens.google.com/goto?url=CAESkgEBxCJF16vfcrzB7-fbl_KlfrypedqHJgyIlCO_YsFx6UX-gckd9fVigy4kHY20gVSHZVFPMqhdVov8zf1Pl87DVg5FrMINNA_XNn8cQmFN6uC5oQYg12Aj8CYV6dndWtkZlAxgB5IMgLUCIIVQED9xwfZYCzNJ8BX0PKZJOi-U7XYqQrkBIqoSGEzJp-AKzuDm3Q&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkgEBxCJF16vfcrzB7-fbl_KlfrypedqHJgyIlCO_YsFx6UX-gckd9fVigy4kHY20gVSHZVFPMqhdVov8zf1Pl87DVg5FrMINNA_XNn8cQmFN6uC5oQYg12Aj8CYV6dndWtkZlAxgB5IMgLUCIIVQED9xwfZYCzNJ8BX0PKZJOi-U7XYqQrkBIqoSGEzJp-AKzuDm3Q&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 2,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Trying to find the \"Daisies\" re-release poster : r/criterion",
+        "url": "https://lens.google.com/goto?url=CAESnAEBxCJF1_tNm4WiabzeUQEikvQN4K62sdgxGut0eRlnkMHcMpiZ9SzP_KivLSzCw3rhRbnBBVsC6OQHCd3r51VGq96T2YujOEBOi9-P8vg6u9-SP94EwjSAW6ylNIa4s81lixkG2p3ZMhoXvf5zapSzNiGpvUxs8HijIkzdj5h94QdTeBTmBdyn49Gm42BmUAqpalDvOhawgHgIBE0&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESnAEBxCJF1_tNm4WiabzeUQEikvQN4K62sdgxGut0eRlnkMHcMpiZ9SzP_KivLSzCw3rhRbnBBVsC6OQHCd3r51VGq96T2YujOEBOi9-P8vg6u9-SP94EwjSAW6ylNIa4s81lixkG2p3ZMhoXvf5zapSzNiGpvUxs8HijIkzdj5h94QdTeBTmBdyn49Gm42BmUAqpalDvOhawgHgIBE0&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 3,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies - The Grand Illusion Cinema",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXXCevMo9WLW_JNpMKEZOmgi9iCDN5MOx3Dp0X4u5cQN-gaDXGkkDD0h8Ps0um79zgjGUOqEpe5mIXjWsFSJENs4jerLoQkTGf5s2PLG65e0lQUE3NjHN-8AXNURqKr6We8tbbUlpI&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXXCevMo9WLW_JNpMKEZOmgi9iCDN5MOx3Dp0X4u5cQN-gaDXGkkDD0h8Ps0um79zgjGUOqEpe5mIXjWsFSJENs4jerLoQkTGf5s2PLG65e0lQUE3NjHN-8AXNURqKr6We8tbbUlpI&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Femme Films: Daisies — New House Art Space",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXAN6LqGXOdl_KlMv_saJI6NO5QyaTEW1fhkJiMdKnseN5p2PqYOl5KjZcZzxiZ_-ibQBk-BYZ96mnM5tjF5KWtqC-PNShTVYXaYux9BYz-KEqUWOwutJSM8v-pESt-E1hZ3njMBGncKYYz57iHJ_5&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXAN6LqGXOdl_KlMv_saJI6NO5QyaTEW1fhkJiMdKnseN5p2PqYOl5KjZcZzxiZ_-ibQBk-BYZ96mnM5tjF5KWtqC-PNShTVYXaYux9BYz-KEqUWOwutJSM8v-pESt-E1hZ3njMBGncKYYz57iHJ_5&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies | Clinton Street Theater",
+        "url": "https://lens.google.com/goto?url=CAESXgHEIkXXKWYWeEsMD3kW4r-dt07Udn1qXMtpFZ1F2wv4HCt0cC1Fy83zi7LXO43pGkjN4O_cGLK00c1FXUb0vl89WrUVi5AOs6zTZ_LVZZvsJsOrIbhjuGNUIKkGQeM&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXgHEIkXXKWYWeEsMD3kW4r-dt07Udn1qXMtpFZ1F2wv4HCt0cC1Fy83zi7LXO43pGkjN4O_cGLK00c1FXUb0vl89WrUVi5AOs6zTZ_LVZZvsJsOrIbhjuGNUIKkGQeM&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies / The Garden Cinema",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXo5lWiJ7dSFg1ke7K6i0lYLWN8Qd2dNMNLKGBZndtw5VgS_2anEfWHPhPCDl2hScyCDmQlJPEfeht155OqCsqULBH10CDezY-1KW8A5VjSt5On-MQqOUJW8a9Zzw3Y71cXwp04KwgdQ&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXo5lWiJ7dSFg1ke7K6i0lYLWN8Qd2dNMNLKGBZndtw5VgS_2anEfWHPhPCDl2hScyCDmQlJPEfeht155OqCsqULBH10CDezY-1KW8A5VjSt5On-MQqOUJW8a9Zzw3Y71cXwp04KwgdQ&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966)",
+        "url": "https://lens.google.com/goto?url=CAESbQHEIkXXhT_nCDxKiDyD84sLggB_mpwseol65oARCNjWlHLmngczbTTCfGUbb5rGoyKGfe-tKqyC20iN650OgW1WDuN0OFWYasH5nna6e1sLrJqiniifXx7rW5FHfcQ_G-34Fcbw8G-Dfksbe1k&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbQHEIkXXhT_nCDxKiDyD84sLggB_mpwseol65oARCNjWlHLmngczbTTCfGUbb5rGoyKGfe-tKqyC20iN650OgW1WDuN0OFWYasH5nna6e1sLrJqiniifXx7rW5FHfcQ_G-34Fcbw8G-Dfksbe1k&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) – Scopophilia",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXetv96IcxFe7FfI3FQlwqAQvzCsb6d1hEgEb-RzbiMWrzn6B2-9Jh-N9jBHziqxu6Zp3Dgdb3G9ZiUjX5gCKPEggVO3yyyS0xGfCU9opz3aJjwwBtSbKl8RpYNIh-gYgQtdmpenbua6fmlB6jbaiAPD4&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXetv96IcxFe7FfI3FQlwqAQvzCsb6d1hEgEb-RzbiMWrzn6B2-9Jh-N9jBHziqxu6Zp3Dgdb3G9ZiUjX5gCKPEggVO3yyyS0xGfCU9opz3aJjwwBtSbKl8RpYNIh-gYgQtdmpenbua6fmlB6jbaiAPD4&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies 1966 Czechoslovak Surrealist Comedy Film by Vera ...",
+        "url": "https://lens.google.com/goto?url=CAES1QEBxCJF13W88g7ss0FdCha_rg1E7-7HzjmuUkIzzDrPX1EH-8QMyQQJJFEI-HtiFDamXLEToZu_12l1K6GJNufIPejEeL9SXiqgM6pwqRjsQFlF7TW-C-Gcd8p0nZfxG2OU8NYqqQi9VBi3i1vHtYfoR0DpXmnYxtQzssu2flgNTJBkdnyMuXQfiCxi8tNTA_pjOhz3IHWhvx915xKFuvMeb0wnQjyPDoVF8sYCtEtGvJ8IH1l4fKVY8J8XjjzasyH3M5MOBIK4VcQbNsq_L2m47K0U5Cg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES1QEBxCJF13W88g7ss0FdCha_rg1E7-7HzjmuUkIzzDrPX1EH-8QMyQQJJFEI-HtiFDamXLEToZu_12l1K6GJNufIPejEeL9SXiqgM6pwqRjsQFlF7TW-C-Gcd8p0nZfxG2OU8NYqqQi9VBi3i1vHtYfoR0DpXmnYxtQzssu2flgNTJBkdnyMuXQfiCxi8tNTA_pjOhz3IHWhvx915xKFuvMeb0wnQjyPDoVF8sYCtEtGvJ8IH1l4fKVY8J8XjjzasyH3M5MOBIK4VcQbNsq_L2m47K0U5Cg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DAISIES | Austin Film Society",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXzExHqBnC6Fiu_5XflrqedtxdPoPkBR6xGJgJK4ew8MJPhy8kmxgN596Ws-B3RWvVWjEjiE4wDhTzZSVNyidSGGc0BDkTObTxqqxoQRMLDfm-DUvXpWianVySJld8b49f9CNi&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXzExHqBnC6Fiu_5XflrqedtxdPoPkBR6xGJgJK4ew8MJPhy8kmxgN596Ws-B3RWvVWjEjiE4wDhTzZSVNyidSGGc0BDkTObTxqqxoQRMLDfm-DUvXpWianVySJld8b49f9CNi&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) #movieposter #movie #poster #film #movies ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXnGtZxVn3kfm5oO0Ffqssp1DHFKDBz0sQvtmPuv5NFMg6rKovm59P6_Zwe7-S3IOlSssHLM6VaVGBWEvUJDluIJ881ApTT4dPlNdkbBWsBq_PJ64-lT7GAO7upMEw1iVR&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXnGtZxVn3kfm5oO0Ffqssp1DHFKDBz0sQvtmPuv5NFMg6rKovm59P6_Zwe7-S3IOlSssHLM6VaVGBWEvUJDluIJ881ApTT4dPlNdkbBWsBq_PJ64-lT7GAO7upMEw1iVR&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies/Loves of a Blonde - Vista Theater Hollywood",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF1_JhCp9cMROldiXtuvZwVTrod_j5h32ryCK0YCFbQ_dNl-DTB5co7BN-4SwdnZRByXTAMPw8BDfYaG0uXLgLMksN0YruozOM275SGaVF0Y0hnGLf_iz8x71j9GWErxnkHTUgpI2QpgCqtMrdCBovEj1upWp_dOt2jrZwFc66T6g&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF1_JhCp9cMROldiXtuvZwVTrod_j5h32ryCK0YCFbQ_dNl-DTB5co7BN-4SwdnZRByXTAMPw8BDfYaG0uXLgLMksN0YruozOM275SGaVF0Y0hnGLf_iz8x71j9GWErxnkHTUgpI2QpgCqtMrdCBovEj1upWp_dOt2jrZwFc66T6g&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPEbOO4-CyRj0YdP5OASjLn3WbABrQwLzT7w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies | Eye Filmmuseum",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXXRC6su_U45elKf7aJ5eeWg6Tiyigtf7NP4PcW792x2RaLFFLWpEtZRPgao2ZKyLK6XGYqhpilzEuuHkch5izQZgTs_Ins4NZYDzTjUUM_5r6DHMdpdk_3iJciqz7xp0DrkOb8YFxW6uSP7w&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXXRC6su_U45elKf7aJ5eeWg6Tiyigtf7NP4PcW792x2RaLFFLWpEtZRPgao2ZKyLK6XGYqhpilzEuuHkch5izQZgTs_Ins4NZYDzTjUUM_5r6DHMdpdk_3iJciqz7xp0DrkOb8YFxW6uSP7w&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJnm9kEzAYUYh_9KrQecF8j3cYYcL3bA1Ww&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXZiaT5bxcRqZTN1FdF7MQSsWfY7dbfry7LqmSDatrMHHmtR3hXodKDet2CFLVff9QIe86TZXYZGSaE8tKI-WL3GQnarp4ySq5iVNs_nJ1HVvRTCqohXj13EOU5blQ_2rCrSCL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXZiaT5bxcRqZTN1FdF7MQSsWfY7dbfry7LqmSDatrMHHmtR3hXodKDet2CFLVff9QIe86TZXYZGSaE8tKI-WL3GQnarp4ySq5iVNs_nJ1HVvRTCqohXj13EOU5blQ_2rCrSCL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJznn86KiMzGe8tTqFOD8FeNjtPF0MUk6V1w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies | Kanopy",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXozVYT_0mabEFVZNd2F3HfbmTG_u5ue6ythoAtyAgkf7wbxbl6907oCi-ubCZmIVRhAtVnEo0KTR9q_0KsvhiNH6THmNUldaeb93cDb922evWdKdUso02sI_KL6A&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXozVYT_0mabEFVZNd2F3HfbmTG_u5ue6ythoAtyAgkf7wbxbl6907oCi-ubCZmIVRhAtVnEo0KTR9q_0KsvhiNH6THmNUldaeb93cDb922evWdKdUso02sI_KL6A&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhhEeT-FMxMgHJsUejYHPg2bAltjlt0t6RLA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Our May acquisitions are here: 283 original movie posters ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXEZJclPqUokpBpLMWZreowdZcHvlZBhOJ61OBFckLGKWY3eq5g1xoUILiL0foLP1IqLKyRwIvY9gkBcExBcz_vEb9hFmzQFBnr6WJ7uJBwfIp0g2oCX2wP5cvucgJIn2F&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXEZJclPqUokpBpLMWZreowdZcHvlZBhOJ61OBFckLGKWY3eq5g1xoUILiL0foLP1IqLKyRwIvY9gkBcExBcz_vEb9hFmzQFBnr6WJ7uJBwfIp0g2oCX2wP5cvucgJIn2F&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGSgaOzXi7N9xjV5VDsr3MfAOQvRv7dD28gA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies Film Review: Vera Chytilová 1966 - FILMS N THAT #16 ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXlup1F7Rs7Qa8-Ds6qpFXsXvdgulCW5991GkPfGxxTgwUL2X0DvN3iBuhCEzN2ubAxLfpatxzNji4Ptb0yzJqnkGr7H-iwIRjF4Cy06RYWQXMUHo6n4kvzPyIpCt0ATXen5XL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXlup1F7Rs7Qa8-Ds6qpFXsXvdgulCW5991GkPfGxxTgwUL2X0DvN3iBuhCEzN2ubAxLfpatxzNji4Ptb0yzJqnkGr7H-iwIRjF4Cy06RYWQXMUHo6n4kvzPyIpCt0ATXen5XL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl_BAEXgaJA4BWubZXcv3r5eVUyFhHA3MBQw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "With Daisies (1966), Věra Chytilová makes editing a kind of ...",
+        "url": "https://lens.google.com/goto?url=CAES2gEBxCJF10DPCRNvNFSogigABdReskipwgAHqr6lgnmxpoxj7VZJnanSMFje648j00TbDuOzp42xG8_wbzbBcoRaCvUQsMz_drzKdqIx9Ro65aWTS7tPIfQny8rtHCglgwYftSwkSu6nyXxvG13e5EwnqTCF5C1kYmSA37Ifp18sMHBBh4V5DdnipNkU7Ma_w6sdmqVcaDnMH8OOJiFEE_uJsKfsucQPdj7YxKkLwc0aEU739F528-Jzs9pUfXywLvrYY722uBTlYAfuIQHySVnm40eea1sDFL0fYg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES2gEBxCJF10DPCRNvNFSogigABdReskipwgAHqr6lgnmxpoxj7VZJnanSMFje648j00TbDuOzp42xG8_wbzbBcoRaCvUQsMz_drzKdqIx9Ro65aWTS7tPIfQny8rtHCglgwYftSwkSu6nyXxvG13e5EwnqTCF5C1kYmSA37Ifp18sMHBBh4V5DdnipNkU7Ma_w6sdmqVcaDnMH8OOJiFEE_uJsKfsucQPdj7YxKkLwc0aEU739F528-Jzs9pUfXywLvrYY722uBTlYAfuIQHySVnm40eea1sDFL0fYg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1yn5TyqH35SE9a2nQh9wPFfilsubwG8AIQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) - Posters — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXX-2fVbGd4YXLZtYa7JEn5h0sjplTILXkN2Kcvw49uBnbg7HhfHg1DvQS6ldaOxwoKRaHFxH5lAZS0HwE1GSNrzAp_s5XofP9pwkwDcBWFy25CU-d2aqn1db5vbugkz0Afe2NIWQsBcXp5Oz_kxhkdLXdjOvbIGAPTfw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXX-2fVbGd4YXLZtYa7JEn5h0sjplTILXkN2Kcvw49uBnbg7HhfHg1DvQS6ldaOxwoKRaHFxH5lAZS0HwE1GSNrzAp_s5XofP9pwkwDcBWFy25CU-d2aqn1db5vbugkz0Afe2NIWQsBcXp5Oz_kxhkdLXdjOvbIGAPTfw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD0TZGY-b1W4KF8egdGRPh9Fx_yk0BYB0S7w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies by Věra Chytilová",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF1wNjPTgn_F6DxIUlAzj1JSV1h9slqXEx5vg6eJX9Q4GAwPTacFUp3KzPWc2R9BgKYZ1RLP8bsPGMPwIr50JV-PLbGaq-Ed5f_Gz2VsV95ugik2f7NQSryecr6Qb4PN5IPX-qPQ7lXSRhpPjM5poZoHCCWlcq4BkGEAbL8G9G5B-7XHE&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF1wNjPTgn_F6DxIUlAzj1JSV1h9slqXEx5vg6eJX9Q4GAwPTacFUp3KzPWc2R9BgKYZ1RLP8bsPGMPwIr50JV-PLbGaq-Ed5f_Gz2VsV95ugik2f7NQSryecr6Qb4PN5IPX-qPQ7lXSRhpPjM5poZoHCCWlcq4BkGEAbL8G9G5B-7XHE&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxh1E2U9HCWPbfUTxUI1yYudMzVd7Ja7d6Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Vera Chytilová's seldom-seen <i>Daisies</i>: the sex farce ...",
+        "url": "https://lens.google.com/goto?url=CAES7wEBxCJF1y_k5_eu-HU_SqTVQ3C5Z1IluiXHT-Yhcn61Mj4IqK1KoCI1p6t4EZ9ISa-tT6D3N_v9OF-tNALHwzwxzQVndwGizYwS4m0nBuXsJgD6Zeyt3grvHy8CImLFgDOfvZIR9qWWe6a9TTH7nQHtPa12HWy_v9DNSR5EYUKy1lSLJftMC0-JAegEKmcxzIe5VVl44PZanfc67IntQRBTEH0xVJHV4BcZPpLj0ZJloGXo41IGjVDaksGGtJilgI6AI_GT4IoqLfAncbFs1FF5TUGGV0qumPPb2DVBY7CocFcbeYZIJI93SjS865QP0Q&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES7wEBxCJF1y_k5_eu-HU_SqTVQ3C5Z1IluiXHT-Yhcn61Mj4IqK1KoCI1p6t4EZ9ISa-tT6D3N_v9OF-tNALHwzwxzQVndwGizYwS4m0nBuXsJgD6Zeyt3grvHy8CImLFgDOfvZIR9qWWe6a9TTH7nQHtPa12HWy_v9DNSR5EYUKy1lSLJftMC0-JAegEKmcxzIe5VVl44PZanfc67IntQRBTEH0xVJHV4BcZPpLj0ZJloGXo41IGjVDaksGGtJilgI6AI_GT4IoqLfAncbFs1FF5TUGGV0qumPPb2DVBY7CocFcbeYZIJI93SjS865QP0Q&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy4Hy15KTuSviOwuFHltb1ftobC0srOo6Ukg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Second Run DVD - Daisies",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXX5nA01y5QElq3qaefVO1ykQCNjqRIZb05KdDSfSaQ6T9Z8WlxcbiZENiI2J3WdJ55kITRH7cf48J9yjrBm2ubzlHViDNdTRbezb_dy1A37ltfPHXFKzo-2TzYB3rKWYyKELHW6iGHt0L2&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXX5nA01y5QElq3qaefVO1ykQCNjqRIZb05KdDSfSaQ6T9Z8WlxcbiZENiI2J3WdJ55kITRH7cf48J9yjrBm2ubzlHViDNdTRbezb_dy1A37ltfPHXFKzo-2TzYB3rKWYyKELHW6iGHt0L2&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlyfvrRqjAxpJ8O6cnVEG88xnqft2ztN_Z_A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (film) - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXWbuYapKmOgqYUstEWdwHPzi6Rn5m-6GF7CNxgvgt7P5-Oeq_UteidJxmhVeDb9fjttopUWkc_IjtbxFB67A_VSuSkXzEckZShu4xjpPPmqyTVzc5wGH_DkYbDHXac--qEZ4sXw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXWbuYapKmOgqYUstEWdwHPzi6Rn5m-6GF7CNxgvgt7P5-Oeq_UteidJxmhVeDb9fjttopUWkc_IjtbxFB67A_VSuSkXzEckZShu4xjpPPmqyTVzc5wGH_DkYbDHXac--qEZ4sXw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8cPJrM6KL05h2EodBrEjWrPLTCWin60UcoA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Reviewed: 'Daisies,' an exercise in cheeky absurdity",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF1xkceW1RQO4VQbJYdCHClAPhQWJzFaj2xJdP5O-TmOPTnmx2eyGpxeVmyH-kFT81y3COtlTchp0O1vXhkZQ1xp65VeyLDdY9y5hG7RUl1nsdc1Mn30fZqB2jE2BMYSkKrHthzIcpcmTxygENh1XVPlaZXZtrSDDSKftuqw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF1xkceW1RQO4VQbJYdCHClAPhQWJzFaj2xJdP5O-TmOPTnmx2eyGpxeVmyH-kFT81y3COtlTchp0O1vXhkZQ1xp65VeyLDdY9y5hG7RUl1nsdc1Mn30fZqB2jE2BMYSkKrHthzIcpcmTxygENh1XVPlaZXZtrSDDSKftuqw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsp5S3Hm6kKHIxwzTyBB4M5l-UcQ7OPgA_UA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies Reviews",
+        "url": "https://lens.google.com/goto?url=CAESjgEBxCJF16_Q4SbBOPYjVMCEZeFsv5WiVVIe9K2kjze_EB0x27wuz6_w-Esql4-zXQCmUQwx8JVaV8Tpv0XdtVJthJLjKdVPsgR_jUnNHxRi3gdb0K-GgVZXrXSUwutxLppQ-VyrezPko7_gt_Bq8A0-uohMp2z2VpEoHuJVmIFQf-VJj2u2V4Toiziizy7P&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjgEBxCJF16_Q4SbBOPYjVMCEZeFsv5WiVVIe9K2kjze_EB0x27wuz6_w-Esql4-zXQCmUQwx8JVaV8Tpv0XdtVJthJLjKdVPsgR_jUnNHxRi3gdb0K-GgVZXrXSUwutxLppQ-VyrezPko7_gt_Bq8A0-uohMp2z2VpEoHuJVmIFQf-VJj2u2V4Toiziizy7P&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYfGc2G2hSs5Ls1h5JfXqJ7_pKIP3gdHpO1g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXCGVVVWBjHjZkRa9ipj8KMk7gnMCfpUOZfztlBRN_BqfdB8gnT18J-CP9ZlJjQc_7-v6HjexhKbvT13uScT5leAsa7aQHaaf-67Od1zR_GqvpphlVAwdJMkOoZLyL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXCGVVVWBjHjZkRa9ipj8KMk7gnMCfpUOZfztlBRN_BqfdB8gnT18J-CP9ZlJjQc_7-v6HjexhKbvT13uScT5leAsa7aQHaaf-67Od1zR_GqvpphlVAwdJMkOoZLyL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwGANBpoFGYIoT_St7ZPkHCX3hkF7K1WZdHQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Film Review] Daisies (1966) – Cinema Omnivore",
+        "url": "https://lens.google.com/goto?url=CAESfQHEIkXX9wnuzb6cpPYjAU_1JjziWqPhjpFCBgR69uFqaSL_4diSstoV0YePgUVUpjRfuNcd3lEsR_vXnhPcZr1gu6CaU8rI5EAZ6RKzYPsfN4_qye731vVHZbM10S-CCd4CI9J0B_Hlvn4uKTk3KJr4WAZ2BtjUm5e6EcQL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfQHEIkXX9wnuzb6cpPYjAU_1JjziWqPhjpFCBgR69uFqaSL_4diSstoV0YePgUVUpjRfuNcd3lEsR_vXnhPcZr1gu6CaU8rI5EAZ6RKzYPsfN4_qye731vVHZbM10S-CCd4CI9J0B_Hlvn4uKTk3KJr4WAZ2BtjUm5e6EcQL&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOqAEA2kxvdvO87-Iq9Mq-I43VLyaAg8qD8A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (Sedmikrásky) 1966 with English subtitles",
+        "url": "https://lens.google.com/goto?url=CAESbQHEIkXXc7eC1NuDs5BEkMbp5rahj3d9plX-MtOvoIYs_OQTSWbV1AhfhMnxM219VCm1ceU5kBSJBFJc7MLfsnVuK56oPk_J6oYTI2T-yhBCF_mKbwhT0aK9v5ofs87dNu6c8kLlP9ScGdmR2Iw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbQHEIkXXc7eC1NuDs5BEkMbp5rahj3d9plX-MtOvoIYs_OQTSWbV1AhfhMnxM219VCm1ceU5kBSJBFJc7MLfsnVuK56oPk_J6oYTI2T-yhBCF_mKbwhT0aK9v5ofs87dNu6c8kLlP9ScGdmR2Iw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs9xwax4ubwaOxDzvfz4wtvVzQ6HTQvRLzgw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "SEDMIKRÁSKY (DAISIES) - Festival de Cannes",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXzdpDFRuTg773WI0sTjc__kHPkyNCcgbRjkmkMu0lKLgk9Kccj7wyKHQ5UpHJu1McJFGNbYpk5vwlfsDgVZhIAE-8NMuRhLD_QBNTnFHHYFresQxR5VyXFdF3xDBFlXnnDZeTaVr1LDOh&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXzdpDFRuTg773WI0sTjc__kHPkyNCcgbRjkmkMu0lKLgk9Kccj7wyKHQ5UpHJu1McJFGNbYpk5vwlfsDgVZhIAE-8NMuRhLD_QBNTnFHHYFresQxR5VyXFdF3xDBFlXnnDZeTaVr1LDOh&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEfZOVEVkV_gyWT1y6ikXWXDcc_efcjnzq-A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "PERFECT CHAOS: VERA CHYTILOVÁ'S SEDMIKRÁSKY (DAISIES)",
+        "url": "https://lens.google.com/goto?url=CAESmAEBxCJF11i2NBVelIvPe8aL-dI_jfenYKc-UT8VP2kMMeY2fgOK95a7YB9NWISQKtn1f3hyqqkZD0TVjdzmFzQo7YOCOhF9aKtBnE3sylFw2DOHyrIQ3IxqLti3TnHouKLPyQgoWWnNMS_5tvYLxOn6V9_db6kdZjhwyncJ6CY7acDzZAutOAbFEhz-FZxpTPPZ-DgQ1olWhg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmAEBxCJF11i2NBVelIvPe8aL-dI_jfenYKc-UT8VP2kMMeY2fgOK95a7YB9NWISQKtn1f3hyqqkZD0TVjdzmFzQo7YOCOhF9aKtBnE3sylFw2DOHyrIQ3IxqLti3TnHouKLPyQgoWWnNMS_5tvYLxOn6V9_db6kdZjhwyncJ6CY7acDzZAutOAbFEhz-FZxpTPPZ-DgQ1olWhg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR17-6cXGnqrUh3SXMRFKgT972C2Yd_UJIIkA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Female Filmmaker Friday: Sedmikrásky (Daisies), 1966 (dir ...",
+        "url": "https://lens.google.com/goto?url=CAESpwEBxCJF12y3O5lrfTnRJhy1jK4SU1nruXSzx5KxUpQpOq9GjpUrlImpCYnqZCRVcwAkrUhrgyd1r0BnWCJC_RQF11dlRb_UzSyo06pWKWGKgriBYu036y7XaZ1qLxgxy4JVV-9ODBtXROW6gLaJIrKQdfxvK97noUE4LNMNiEYct6xy9MK_X0LAu2eGRzO7f0ju-B9x7sG9bQ7tN7-_oEmZo9DDkDypNA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESpwEBxCJF12y3O5lrfTnRJhy1jK4SU1nruXSzx5KxUpQpOq9GjpUrlImpCYnqZCRVcwAkrUhrgyd1r0BnWCJC_RQF11dlRb_UzSyo06pWKWGKgriBYu036y7XaZ1qLxgxy4JVV-9ODBtXROW6gLaJIrKQdfxvK97noUE4LNMNiEYct6xy9MK_X0LAu2eGRzO7f0ju-B9x7sG9bQ7tN7-_oEmZo9DDkDypNA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShf2myNCTkvTxDfbdbkuR4AmawNGLaE3531w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) — Art of the Title",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXZHbTmnMNXBd6tGJRK8j-xohhVKxISEXAyyx33wHP99QNURgAsOZCu_0eaESCKo7rAdxxd5bu56jS_LyxmXAKIX9-M383sAaeXgNZeMmYl3WG4igoPWQHrHgOAYpw7-SI60jcCQ&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXZHbTmnMNXBd6tGJRK8j-xohhVKxISEXAyyx33wHP99QNURgAsOZCu_0eaESCKo7rAdxxd5bu56jS_LyxmXAKIX9-M383sAaeXgNZeMmYl3WG4igoPWQHrHgOAYpw7-SI60jcCQ&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7tcSs6cqIiqaNA6OdLre1GNeYtQVLOFdT5w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) | MUBI",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXlANVBtz3A00j-fjAq7T5V11y8yDHBbi4w8-Kf4z3UVP7DPJ6wWrZLqA7RCQS7DU30rzQhS35hYC2qWqojwVs3oqyx5FT8Oolo23m9VkaBtsWYFjf80Rf1sfx4xU&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXlANVBtz3A00j-fjAq7T5V11y8yDHBbi4w8-Kf4z3UVP7DPJ6wWrZLqA7RCQS7DU30rzQhS35hYC2qWqojwVs3oqyx5FT8Oolo23m9VkaBtsWYFjf80Rf1sfx4xU&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSro5p-0MgJsLyrUp1NHFWe9c6_CRKyYJoFVw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "SEDMIKRASKY Daisies (1966) Věra Chytilová ​[English CC] Full ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXv_X22N435eBHF5nO_LBarwQ7UuUrUQEKBPwINQkBOhO2SNirVWMvnTJ6yY0hxdv-_pNLasUz7FGKQMbLbcfcd8imwERlhgcYYpyENbJc942AJ8WKPbik44UySCUjMtg66exA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXv_X22N435eBHF5nO_LBarwQ7UuUrUQEKBPwINQkBOhO2SNirVWMvnTJ6yY0hxdv-_pNLasUz7FGKQMbLbcfcd8imwERlhgcYYpyENbJc942AJ8WKPbik44UySCUjMtg66exA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZEyILIpdndiGLzTg7zkkVwzSA9WZKzc44w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) Original Movie Posters - Posteritati Movie ...",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXwP6uaZpzsx745xLY1NHr1iNLXB07j9snJaAMGJ_olw-gIVS2KgB7obv8p4LKhhfRTlcH7JRVvqKXMLn6hH_ZMGP5TFIPGBNyU2RLkv-HgYzBEwsg9tRZ4sNWEfdPoXbOKw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXwP6uaZpzsx745xLY1NHr1iNLXB07j9snJaAMGJ_olw-gIVS2KgB7obv8p4LKhhfRTlcH7JRVvqKXMLn6hH_ZMGP5TFIPGBNyU2RLkv-HgYzBEwsg9tRZ4sNWEfdPoXbOKw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeGxgqn-UqHbcOGqszLR_0GvISKr89_lfcig&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "What is your favourite film directed by a woman? : r/Letterboxd",
+        "url": "https://lens.google.com/goto?url=CAESogEBxCJF15HZ9TX80Sj-lHcnpkQvERcDkZrZPe08kVbVe4ysKi4V2thyUGlvj9p9YvhIs_sK8c3J_CCXyXh-tK1VIpP5aMW7w7cbBhwIUbqFEZ3fWKVEIkHqs6PCIEiTHzMxiVmlimwZxjDQP71lmTWODwr4EkOoNXbun726L1WJ4B35g70kYdtyuEPoin2cTktan1nhv5h9x4bgdPPZNH_oCEw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESogEBxCJF15HZ9TX80Sj-lHcnpkQvERcDkZrZPe08kVbVe4ysKi4V2thyUGlvj9p9YvhIs_sK8c3J_CCXyXh-tK1VIpP5aMW7w7cbBhwIUbqFEZ3fWKVEIkHqs6PCIEiTHzMxiVmlimwZxjDQP71lmTWODwr4EkOoNXbun726L1WJ4B35g70kYdtyuEPoin2cTktan1nhv5h9x4bgdPPZNH_oCEw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM6zCH--5LDxCBNYG0qgE8RCSq96T-5pIdCQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies, 1966. Directed by Věra Chytilová. One of the ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXq0PTIOXAyN6-UtU3dzzgnHfaYn_zmkBAHh6Fr1HwUSN-9-hUaBlrB-bHNkG_L1Nxqmu-GYLJeujV9fB07Si2HK0dWDhSE10R8O5Ai0NqU0OHSpJAZ4CK8u5ASLvdIeCGUOmT&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXq0PTIOXAyN6-UtU3dzzgnHfaYn_zmkBAHh6Fr1HwUSN-9-hUaBlrB-bHNkG_L1Nxqmu-GYLJeujV9fB07Si2HK0dWDhSE10R8O5Ai0NqU0OHSpJAZ4CK8u5ASLvdIeCGUOmT&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKRzVPLndEhi28blS9kqG-OyUkieHPK3CDwA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) directed by Věra Chytilová • Reviews, film + ...",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXnLxrsqmx_dc99RM6l9-ij_pEhQ0EG2VE09RUY_3k-IJvWO4DpInl6LFscAoBDDxfZ6Qv7vJhxUEBEx3Fnl_KH1erCo5BKViPoWED2j6cEufmEhH31vhWGIV1GTY&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXnLxrsqmx_dc99RM6l9-ij_pEhQ0EG2VE09RUY_3k-IJvWO4DpInl6LFscAoBDDxfZ6Qv7vJhxUEBEx3Fnl_KH1erCo5BKViPoWED2j6cEufmEhH31vhWGIV1GTY&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyOEa2FcmwWQDSZ4L_KKhDJHsclR3Lc4PuA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies - - - Národní filmový archiv - Národní filmový archiv",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXX8I_eQWHV8BRKGxlBDWs4J9-7IoRd0vAJGkXUc-27EXHEjfwQRy9yw9856tOTW1nF3LA7nIVpZ66cAB01fJ9kIulCKv1y955GiFgLhtNItSTsLzSdFNIe-LuDUQ&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXX8I_eQWHV8BRKGxlBDWs4J9-7IoRd0vAJGkXUc-27EXHEjfwQRy9yw9856tOTW1nF3LA7nIVpZ66cAB01fJ9kIulCKv1y955GiFgLhtNItSTsLzSdFNIe-LuDUQ&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLhtVLQ3IvuX3bM5hIKk7TNVZ-Ay-cD4_yAQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Lates Series | Austin Film Society",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXl97R7RN2oXvkAgD2yI8QtiYfNxOfJMQJ7-Rj5rpaHLjczA5MbasPA0nHNOPzA4w6Euv2byRiNTPHhPYko48O7fhjPD5Ax66oKeO5fIYAlCW9cTLtl14qgvjBVUOrnZCw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXl97R7RN2oXvkAgD2yI8QtiYfNxOfJMQJ7-Rj5rpaHLjczA5MbasPA0nHNOPzA4w6Euv2byRiNTPHhPYko48O7fhjPD5Ax66oKeO5fIYAlCW9cTLtl14qgvjBVUOrnZCw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnEcQAzRd_sfNdaafTTlQoxlz3OucU5TFofw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies | Eye Filmmuseum",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXX9X4uLC2k3O2uXyZ3AgnItbf0GUfH_y8-zgpVEuPGkVF44VS2ouBIv440jaCXBqfx1rot9Siy7f3hHaUmqRsDc5hDx0PF2HKB4Z0ubNUxe1YkhR7fVCIeqo3S3gTn2qx5PqLxFSka7O91tg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXX9X4uLC2k3O2uXyZ3AgnItbf0GUfH_y8-zgpVEuPGkVF44VS2ouBIv440jaCXBqfx1rot9Siy7f3hHaUmqRsDc5hDx0PF2HKB4Z0ubNUxe1YkhR7fVCIeqo3S3gTn2qx5PqLxFSka7O91tg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2sHQJ8S1J9XXOlCbwRleGBMPPpqtflSm5wQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) - Plot - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXJjDmJAAeZ3-64B0DmD367RAysq6lpsXd5cyNl0mdc_dVDVLfWzNes5TemOyMzKyD9Bm3ZOGyWwtG9rToqraFJUqVyqiOrrUip4nG2EFzXLI-pcIfaxfHjCii8qAu67ETNa0FkY8tr3pI&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXJjDmJAAeZ3-64B0DmD367RAysq6lpsXd5cyNl0mdc_dVDVLfWzNes5TemOyMzKyD9Bm3ZOGyWwtG9rToqraFJUqVyqiOrrUip4nG2EFzXLI-pcIfaxfHjCii8qAu67ETNa0FkY8tr3pI&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrmaHIsNGM-mCrUrhO01eW4XoRpL7ORthlA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "One of the craziest movies I've seen... #daisies #neewave ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXX-TWnRmy01Dkd9gYxDXG7D9JKL170QEQY_01zjWBNyvVrUbO8WMKsfPx_lZXllLPz6QxnmJWWSM5g94lCzbNcpTZWL9XL0XJ9LLRD1VYKVhBSzzG4IcxNyXgHEjHvjKKC7Fc&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXX-TWnRmy01Dkd9gYxDXG7D9JKL170QEQY_01zjWBNyvVrUbO8WMKsfPx_lZXllLPz6QxnmJWWSM5g94lCzbNcpTZWL9XL0XJ9LLRD1VYKVhBSzzG4IcxNyXgHEjHvjKKC7Fc&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGdZfkNYkpzVWXhAcqGh37TaandQRBEs1Vmg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Nova favourites...minimalist redesigns...as lush paintings ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXYeb0bx-q-4i-gTj8GdS1dWeCHwPpOFZFysajaIImHiFZ9tQQn9Tc6GaG3C3FrY_iw1JyuH3_9f2iJjfTrmexN665Iql228rSPe_SBVpZN2oyY6IrAD9P3uemBWBHYpjz&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXYeb0bx-q-4i-gTj8GdS1dWeCHwPpOFZFysajaIImHiFZ9tQQn9Tc6GaG3C3FrY_iw1JyuH3_9f2iJjfTrmexN665Iql228rSPe_SBVpZN2oyY6IrAD9P3uemBWBHYpjz&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDeTCJ-VZ-A-NXYJIBGs8IPgq0deAzWN9lZQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DAISIES in Tbilisi ᐉ Events Schedule | YOLO | Yolo",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXQbkZrZvb0awUlt1aAiKUUKwIejeUFp5l1av7Wi1uo3N5vy1uyYvdjZ8duCCa02PlEV5uHTJCim8ruj-2mKT_4BxiwVFQZpCb0i-90pgMtxdqAON_KYh1ww1N98Y&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXQbkZrZvb0awUlt1aAiKUUKwIejeUFp5l1av7Wi1uo3N5vy1uyYvdjZ8duCCa02PlEV5uHTJCim8ruj-2mKT_4BxiwVFQZpCb0i-90pgMtxdqAON_KYh1ww1N98Y&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR08cLHIrQmdwUzrzJG8u03vJhwLUZpNxO0iw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Le margheritine Film | longtake - Every Frame Counts",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXX3WBqYAp70xDuktLb7ilWtXuPYcJthyCWfdE9XULHz36bSr1LfgdMkzr2m_sPiPP7VomDjT0inaCW_sGGmcKteLyC2LFXnXGRfi3vSZxMf53LdpzmJrO0jYmCOjk2DQWkX0A_BAjdAA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXX3WBqYAp70xDuktLb7ilWtXuPYcJthyCWfdE9XULHz36bSr1LfgdMkzr2m_sPiPP7VomDjT0inaCW_sGGmcKteLyC2LFXnXGRfi3vSZxMf53LdpzmJrO0jYmCOjk2DQWkX0A_BAjdAA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzuwQSym1t0u2IhE_2VRy7Od_3di2bKt6wtg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DAISIES (1966) | Movie Review | Czech New Wave - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX27er6Z6tX0aq1YPly8m7oiuFl6XGZCEjfE3kR2lMcBi_h5nVTKhw5MKi27TB6UEuFvz1kdYgKpymGpH2ikuoW12of-BGTDfD2nYnECiCS1ftgLsz_gmR4IA6z9MO3nbP41rX&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX27er6Z6tX0aq1YPly8m7oiuFl6XGZCEjfE3kR2lMcBi_h5nVTKhw5MKi27TB6UEuFvz1kdYgKpymGpH2ikuoW12of-BGTDfD2nYnECiCS1ftgLsz_gmR4IA6z9MO3nbP41rX&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ELDCpBAApQPyLK3G2C_JIcZvpJm26xv-bg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (Sedmikrásky) is a 1966 Czechoslovak satirical ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXkjMs9yL1seAdgFUSYGXh7MRK5-1Y-e7hljtS6iczU-vrDyN0ry28mVH3xVnW5nJfxopw2KVlKqcmH-vRB_GyA8I-ZtMktuxTqk9YFpk4ImWMghDTn2KWugOHPM6O1X8cg2gs&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXkjMs9yL1seAdgFUSYGXh7MRK5-1Y-e7hljtS6iczU-vrDyN0ry28mVH3xVnW5nJfxopw2KVlKqcmH-vRB_GyA8I-ZtMktuxTqk9YFpk4ImWMghDTn2KWugOHPM6O1X8cg2gs&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbOE2uMAY2I8vEAHtTj-r3AjBunrNuNH2Idg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (Short 2023) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXFxLhSWH2EwSXhSZoD-aE2l2PF1oLgamPUFNDA-KTOSm34Ukh4y7Qx5ALSTiuYyuMq_02_HSvzMD2UA8C4gS6XeQmHavzZNmKZZLADW44AzcU03AZnpyU1fMv-Z6bHw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXFxLhSWH2EwSXhSZoD-aE2l2PF1oLgamPUFNDA-KTOSm34Ukh4y7Qx5ALSTiuYyuMq_02_HSvzMD2UA8C4gS6XeQmHavzZNmKZZLADW44AzcU03AZnpyU1fMv-Z6bHw&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMhfSjuNk6YH-gaUF77wPdjyrol8eFCPI05Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Rookie » Everyone's a Star",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXk6WSW8-wOg2nEgG-TBb12PI0W3BAVQW6rdJX8GSsY_ACeGX3TVpgHAlz0B4lq1Z1rU7XTnewprvPPVOvnIO8m-H3AFTaTCiBD6N_DfE-78komplMqEjsU_EOZbP6otQ_tg-zumWCQ_N1P-g&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXk6WSW8-wOg2nEgG-TBb12PI0W3BAVQW6rdJX8GSsY_ACeGX3TVpgHAlz0B4lq1Z1rU7XTnewprvPPVOvnIO8m-H3AFTaTCiBD6N_DfE-78komplMqEjsU_EOZbP6otQ_tg-zumWCQ_N1P-g&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR00rYuGlYaD_cJMvl9YITTjg2ie6V69uSc7w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies - La Cinémathèque québécoise",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXFjEYLEFazxSInqlObmQ_Wc7GZHAdyxFCc3ifa0ZUwnahOxhGsZBGGvF49hC7oVXFYRp3ECGzwoYRgxdv33W-7PbboV1xAO8Et06D22fKUQbqAB8eL8iqoBGKSojQ4TdB48nyZrU5Ndf-&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXFjEYLEFazxSInqlObmQ_Wc7GZHAdyxFCc3ifa0ZUwnahOxhGsZBGGvF49hC7oVXFYRp3ECGzwoYRgxdv33W-7PbboV1xAO8Et06D22fKUQbqAB8eL8iqoBGKSojQ4TdB48nyZrU5Ndf-&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqaMLW8d6vfLz1TT85f_aQ1kD-wtEHUi_TAg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "🎬Daisies (1966)🎥 Directed by Věra Chytilová ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXeAa3IVL6_jIWr_nFKF4ShtuWtTJc4Rm50sYsWomruY0d3CIbLuBN7-nfQyr3H7EPdB_omYm4IC-KWf8QkjRiOmCveWatf5NchbHiNPuBidC7O3jxWoCC4vzODqYFd44Knv4p&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXeAa3IVL6_jIWr_nFKF4ShtuWtTJc4Rm50sYsWomruY0d3CIbLuBN7-nfQyr3H7EPdB_omYm4IC-KWf8QkjRiOmCveWatf5NchbHiNPuBidC7O3jxWoCC4vzODqYFd44Knv4p&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Ske6y94El6hjo4_Dvq64jrqbHDwwUEsazQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies (1966) - The Impact Of Feminist Rebellion - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX8SZfAEYqyWNnTk6uZ7V-sVZx29MU8S9_vleSSyDs_MdZmdbHsFidlh4d9XamnXx-9pWV-LMIc9HD2aJNPXfU4sLnB4Gp4QG-PCDkJgD1gS-07iEgNOk2Amduq5dxXcCUirJI&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX8SZfAEYqyWNnTk6uZ7V-sVZx29MU8S9_vleSSyDs_MdZmdbHsFidlh4d9XamnXx-9pWV-LMIc9HD2aJNPXfU4sLnB4Gp4QG-PCDkJgD1gS-07iEgNOk2Amduq5dxXcCUirJI&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQscjbPD9wFAd8mcoYNLPhaMyGIhPaM2M686A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Abstract (Short) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXLrSZDVQ7yBQVJaxe5-o0A39cuVyUbZhHAjn3gFXEyZcDYj1pC9cp2JyCkozXTROufsU9liZOlRq7_KFs11JSZqB5AaV-o12lKKWd_QLPLlszpDzLDVffkUZ6geVzsA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXLrSZDVQ7yBQVJaxe5-o0A39cuVyUbZhHAjn3gFXEyZcDYj1pC9cp2JyCkozXTROufsU9liZOlRq7_KFs11JSZqB5AaV-o12lKKWd_QLPLlszpDzLDVffkUZ6geVzsA&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPKj81hWLJXerdI1JkiQNUbfylIdLV-rgEIA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Daisies | LEFFEST - Lisboa Film Festival - 6 to 15 November 2026",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXzpjpLVVCtn1tnNQ9SricZW8NqL_nRpm5kQTkCf7v0bKzKcPlhv-QO85UJ44DUhhNV5bK76arP0x8kwBO3K8OWUmlMXbmCdANQWdMSPY2XujL5QeWF5bYwau5VxwTMg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXzpjpLVVCtn1tnNQ9SricZW8NqL_nRpm5kQTkCf7v0bKzKcPlhv-QO85UJ44DUhhNV5bK76arP0x8kwBO3K8OWUmlMXbmCdANQWdMSPY2XujL5QeWF5bYwau5VxwTMg&gsessionid=C-zwfcU8GG81qilQGUffreVB2X-N7wlD7PKYLJFAtwSPyHaWxb2INQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH_KZIoT3vc6uV2ZOg4ouJfF988YZizn9Wiw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Katy Perry: Daisies (Music Video 2020)",
+        "url": "https://www.imdb.com/title/tt12325552/",
+        "url_candidates": [
+          "https://www.imdb.com/title/tt12325552/"
+        ],
+        "source": "",
+        "content": "Official music video for \"Daisies\" by Katy Perry.Official. Release date May 15, 2020 (United States) Country of origin United States Language English",
+        "provider": "google_serp_trusted_film_catalog_search",
+        "position": 1,
+        "resolved_urls": [
+          "https://www.imdb.com/title/tt12325552/"
+        ],
+        "resolved_url": "https://www.imdb.com/title/tt12325552/",
+        "catalog_source": "imdb_official_title_page",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "search_source": "lens_result_title_or_direct_play_store_url",
+        "search_query_variant": "broad_site_scoped",
+        "original_search_url": null
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 56,
+            "raw_result_count": 56,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 88,
+              "lens.google.com/goto": 56
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 56,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 88,
+          "lens.google.com/goto": 56
+        },
+        "exact_matches_result_count": 56,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 56,
+        "google_goto_candidates": 56,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 56,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 1,
+        "official_imdb_ids": [
+          "tt12325552"
+        ],
+        "result_url_count": 57,
+        "google_wrapper_count": 56,
+        "google_goto_url_count": 56,
+        "result_url_paths": {
+          "lens.google.com/goto": 56,
+          "www.imdb.com/title/tt12325552": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 56,
+          "www.imdb.com": 1
+        },
+        "title_search_status": "ok",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 1,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Daisies"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 8,
+          "www.imdb.com": 1
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [],
+      "imdb_ids": [
+        "tt12325552"
+      ],
+      "tmdb_id_lookup": {
+        "status": "no_tmdb_movie_match",
+        "tmdb_ids": [],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [
+          "tt12325552"
+        ],
+        "imdb_find_results": {
+          "tt12325552": []
+        },
+        "imdb_find_errors": [
+          {
+            "imdb_id": "tt12325552",
+            "error": "NoTMDBMovieMatch",
+            "message": "TMDB /find returned no movie_results for this IMDb ID"
+          }
+        ],
+        "details_resolved": 0,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt12325552"
+        ]
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [
+          "tt12325552"
+        ],
+        "imdb_to_tmdb_ids": {
+          "tt12325552": []
+        },
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [
+          {
+            "imdb_id": "tt12325552",
+            "error": "NoTMDBMovieMatch",
+            "message": "TMDB /find returned no movie_results for this IMDb ID"
+          }
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [
+          "tt12325552"
+        ],
+        "ignored_secondary_imdb_errors": [
+          {
+            "imdb_id": "tt12325552",
+            "error": "NoTMDBMovieMatch",
+            "message": "TMDB /find returned no movie_results for this IMDb ID"
+          }
+        ]
+      },
+      "candidate_identities": [],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "ok",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Daisies"
+        ],
+        "year_hint": 1966,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 1,
+        "organic_result_count": 9,
+        "candidate_url_count": 9,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 8,
+          "www.imdb.com": 1
+        },
+        "official_url_count": 1,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": [
+          "tt12325552"
+        ]
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "disabled_by_configuration",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 56,
+            "raw_result_count": 56,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 88,
+              "lens.google.com/goto": 56
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 56,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 88,
+          "lens.google.com/goto": 56
+        },
+        "exact_matches_result_count": 56,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 56,
+        "google_goto_candidates": 56,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 56,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 1,
+        "official_imdb_ids": [
+          "tt12325552"
+        ],
+        "result_url_count": 57,
+        "google_wrapper_count": 56,
+        "google_goto_url_count": 56,
+        "result_url_paths": {
+          "lens.google.com/goto": 56,
+          "www.imdb.com/title/tt12325552": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 56,
+          "www.imdb.com": 1
+        },
+        "title_search_status": "ok",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 9,
+        "title_search_official_urls": 1,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Daisies"
+        ],
+        "title_search_candidate_urls": 9,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 8,
+          "www.imdb.com": 1
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "disabled_by_configuration",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Daisies (Sedmikrásky)(1966)/Daisies (Sedmikrásky)(1966).json"
+}

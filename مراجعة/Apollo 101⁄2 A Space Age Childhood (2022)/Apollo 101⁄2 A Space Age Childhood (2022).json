@@ -1,0 +1,1265 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T15:24:50.956469+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Apollo 101⁄2 A Space Age Childhood (2022)",
+    "image_path": "مراجعة/Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Apollo%20101%E2%81%842%20A%20Space%20Age%20Childhood%20%282022%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29%20%281%29.jpg",
+    "original_image_path": "Apollo 101⁄2 A Space Age Childhood (2022)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر) (1).jpg"
+  },
+  "original": {
+    "folder_name": "Apollo 101⁄2 A Space Age Childhood (2022)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "Neither Google Lens nor its title-derived search produced an official TMDB/IMDb movie ID",
+    "candidate_ids": []
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Apollo 10½: A Space Age Childhood (2022) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXyy7waG3wMgvfJIur0xFC_9ap5y5lcRjF-GKbaWfQB6fvfjgAH7D0e9Sj1BE0VxYhpHT9SI0sc3UZ3cY1mO2lbzNxhfAtaZYe1KEq3zTRpmisFIxoApOBPaFpRRQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXyy7waG3wMgvfJIur0xFC_9ap5y5lcRjF-GKbaWfQB6fvfjgAH7D0e9Sj1BE0VxYhpHT9SI0sc3UZ3cY1mO2lbzNxhfAtaZYe1KEq3zTRpmisFIxoApOBPaFpRRQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood (2022)",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF12B5-GdCh6R2LXmo_yxPO_a6ociNRUQr3zjo4QRRHECqkWxJdTlwPCvQaf_Jj36iH4GxvHS-CZASyWGUGLUu4Tayzjr6gX3E3c-6nfRVDbcDspL3jJoL2_tEaZPDMguD0nk1xn6YRW8nLjH8SexWUPCrFJyiyMg24Y_My-MvF3eYJTM&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF12B5-GdCh6R2LXmo_yxPO_a6ociNRUQr3zjo4QRRHECqkWxJdTlwPCvQaf_Jj36iH4GxvHS-CZASyWGUGLUu4Tayzjr6gX3E3c-6nfRVDbcDspL3jJoL2_tEaZPDMguD0nk1xn6YRW8nLjH8SexWUPCrFJyiyMg24Y_My-MvF3eYJTM&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 3,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood | Netflix Media Center",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXiR8kr_J2rqjDOUOHEG1t7P0pFPD4091JMoYMRUSHwEu_bRJK7tcCVJtfyZdoVW2IjDbgr7SSKEFeDNiTqxGf3IKX6sXGePwioUXauDYN5jZu_f44HzVr9g-1EmCxZbWIRsFz8NouqRSWjcqC&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXiR8kr_J2rqjDOUOHEG1t7P0pFPD4091JMoYMRUSHwEu_bRJK7tcCVJtfyZdoVW2IjDbgr7SSKEFeDNiTqxGf3IKX6sXGePwioUXauDYN5jZu_f44HzVr9g-1EmCxZbWIRsFz8NouqRSWjcqC&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Review of Apollo 10 1/2: A Space Age Childhood animated movie",
+        "url": "https://lens.google.com/goto?url=CAESyAEBxCJF11oNrRpRkMGom2z1Y7KRnI04Dm_rpxRiYNuRx_F7bBFpLhxgSileAI7XzEMVKH09NE9hpjnRgUuTZ9PgZdKlB39l9pOIYSGmW3xzs4-9A7WOFFqnUMh5Jngp67TK0FeniNQQLOk2oid4EcvJMhlRaEhn8ziYHyoHH_UQOL_GKZocTiWN4olGbwZkkqgm2BUPLPKzFD5EOE6WHwFa-6Y4kj0t19_6eSbj1VUbpfoTg9C8eJ5aaZXPLt0RyAe1bUkwLHSDgA&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESyAEBxCJF11oNrRpRkMGom2z1Y7KRnI04Dm_rpxRiYNuRx_F7bBFpLhxgSileAI7XzEMVKH09NE9hpjnRgUuTZ9PgZdKlB39l9pOIYSGmW3xzs4-9A7WOFFqnUMh5Jngp67TK0FeniNQQLOk2oid4EcvJMhlRaEhn8ziYHyoHH_UQOL_GKZocTiWN4olGbwZkkqgm2BUPLPKzFD5EOE6WHwFa-6Y4kj0t19_6eSbj1VUbpfoTg9C8eJ5aaZXPLt0RyAe1bUkwLHSDgA&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Animation | Apollo 10 1/2: A Space Age Adventure | Netflix ...",
+        "url": "https://lens.google.com/goto?url=CAESjgEBxCJF1ytobs7DGG_9Y-cv_qsrDM9kA5GrOlPQ14nzmjyhkVXUmro_7IsFcuKeMXlru3UchVQ4Hk7P7PH4PSGM9fwTZQBGFZh1nWspYtqFz-2nam_WifJfaU8ITeTHCWiX3xs3wDohMYdkVGh23m_zdlJhJeJxNB2IwpVybs3tAPaHZh8NfosflKRU3dl-&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjgEBxCJF1ytobs7DGG_9Y-cv_qsrDM9kA5GrOlPQ14nzmjyhkVXUmro_7IsFcuKeMXlru3UchVQ4Hk7P7PH4PSGM9fwTZQBGFZh1nWspYtqFz-2nam_WifJfaU8ITeTHCWiX3xs3wDohMYdkVGh23m_zdlJhJeJxNB2IwpVybs3tAPaHZh8NfosflKRU3dl-&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood (2022)",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXocE65Nca_VVakfMJ4ETNbGC-T8648eMSeJvzox17n7BjXVdnj639auqKsp1SgtpGm9jclC5Vy1Wni7HZqrgrp4roBu57pTsydWWXfAhWNZdudZLQ40msOkq_QExpOPhVViObiEl6vZRvbF0yfg91-D0bwdRH&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXocE65Nca_VVakfMJ4ETNbGC-T8648eMSeJvzox17n7BjXVdnj639auqKsp1SgtpGm9jclC5Vy1Wni7HZqrgrp4roBu57pTsydWWXfAhWNZdudZLQ40msOkq_QExpOPhVViObiEl6vZRvbF0yfg91-D0bwdRH&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood - Richard Linklater Film ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXXXn5mhFbplcRK09wZAoX7tNNcoKdju_empQOV32rMKETqJpCo09zOsFu0VNdZC9eLe_ok9X8TvlwmgMQkyMN4nja4GA8yrPXwpTY-yF7h5_t_pMYOHAqLIMVdqP2rBoaL4k&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXXXn5mhFbplcRK09wZAoX7tNNcoKdju_empQOV32rMKETqJpCo09zOsFu0VNdZC9eLe_ok9X8TvlwmgMQkyMN4nja4GA8yrPXwpTY-yF7h5_t_pMYOHAqLIMVdqP2rBoaL4k&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Movie And A Beer Episode 183: Apollo 10 1⁄2: A Space Age ...",
+        "url": "https://lens.google.com/goto?url=CAESpQEBxCJF11yaEqhUlfptdvSPzwgc6pI6DqQ4Geey3ic0ELUlCbyh--jPoHKdvgnM5mb5n-eKkbr6YpqpB-qSIQ_uUL7-1uD-DMmWbVmzF0CPuBPvvf3SBb8a1c_K4q36HReNmKXl6i3ozQf9IhdBEPKnwN1udLbX7Moo9YS-QmTdLXHVQrsSwmm6t4cIQk3v0nDfSzdcUKY0g-W26j3TwPPirt1E_RE&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESpQEBxCJF11yaEqhUlfptdvSPzwgc6pI6DqQ4Geey3ic0ELUlCbyh--jPoHKdvgnM5mb5n-eKkbr6YpqpB-qSIQ_uUL7-1uD-DMmWbVmzF0CPuBPvvf3SBb8a1c_K4q36HReNmKXl6i3ozQf9IhdBEPKnwN1udLbX7Moo9YS-QmTdLXHVQrsSwmm6t4cIQk3v0nDfSzdcUKY0g-W26j3TwPPirt1E_RE&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "APOLLO 10 ½: A SPACE AGE CHILDHOOD - Movie Soundtrack ...",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXajoGqnv2ThdN0pCTxoP9-Ns2txIUKAQQhK6DOwTVRM4dlhJaL-ccdO57PsciamSdDzOiu8dtMdUu5LfKYg7Lx5bOvV_XKYIMj5hIhV5KP_7lts0pt4hMWLgUyzQKGGfKfiv3gtsHMHUMc-1Njq21&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXajoGqnv2ThdN0pCTxoP9-Ns2txIUKAQQhK6DOwTVRM4dlhJaL-ccdO57PsciamSdDzOiu8dtMdUu5LfKYg7Lx5bOvV_XKYIMj5hIhV5KP_7lts0pt4hMWLgUyzQKGGfKfiv3gtsHMHUMc-1Njq21&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "EbSynth - Transform videos by changing one frame",
+        "url": "https://lens.google.com/goto?url=CAESUAHEIkXXAnci4bkQ46dvFvfEUwlJ6n75UufBueKs2G-Knmt26KYzwuytY54D9iNoxuO3CtpGxhiiAnFzuBcslSniUuF-5pHJiSci0EuyUd6N&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESUAHEIkXXAnci4bkQ46dvFvfEUwlJ6n75UufBueKs2G-Knmt26KYzwuytY54D9iNoxuO3CtpGxhiiAnFzuBcslSniUuF-5pHJiSci0EuyUd6N&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "CoverCity - DVD Covers & Labels - Apollo 10½: A Space Age ...",
+        "url": "https://lens.google.com/goto?url=CAESjQEBxCJF15nac1AiggmJJt5Ljcq-bONf5Z2Vcf_9QT0e3tb1O4JZdQhaQIuf2Nt7Z7pbO22a6GKXbSY_wnZ9RzKaOLX-ggmw-QO3Dz7RwMDlGC3jPnTP3u6I-2jzmxLriBEBFiX7WaTz1pUrzjrRy4gLDswGy9qIbYYOJ-Ps3xQqQKbuBCSH6iivlVB8pKI&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjQEBxCJF15nac1AiggmJJt5Ljcq-bONf5Z2Vcf_9QT0e3tb1O4JZdQhaQIuf2Nt7Z7pbO22a6GKXbSY_wnZ9RzKaOLX-ggmw-QO3Dz7RwMDlGC3jPnTP3u6I-2jzmxLriBEBFiX7WaTz1pUrzjrRy4gLDswGy9qIbYYOJ-Ps3xQqQKbuBCSH6iivlVB8pKI&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Apollo 10 1/2: A Space Age Childhood | Netflix ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXBxvGE3GtYJ8aXg-vnVKMa1PXMI_rfBmMNsBb-8UkKF36G7wWwyu1CJgcVqJ4EYkxNvdzZ4TtbmCv2Egrk7YTQUc0jnbEBzyo6p7gN_9UF5Gg-WEBaZnwS9AuZoA8BrCt&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXBxvGE3GtYJ8aXg-vnVKMa1PXMI_rfBmMNsBb-8UkKF36G7wWwyu1CJgcVqJ4EYkxNvdzZ4TtbmCv2Egrk7YTQUc0jnbEBzyo6p7gN_9UF5Gg-WEBaZnwS9AuZoA8BrCt&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQopD7pdzbjqXeLYcOvfoYQrobSNaabbPsR3Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Where to Watch Apollo 10½: A Space Age Childhood (2022) - Plex",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXXgejxUwmEdzDTHra-jg2_q9M_Q5wcWijqYiMBU21jkzwslI2l5l5kM5E8hvcdmV9f7hoBbpu-z-aAmv0i6OrKbT-RByPtgAwsIK8DI2EwzzOLbYAxmYN3_ihbiUjpSN3QQUo_2d6rgQHIKRM2NuAePdJPRL3U9Do_GAs&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXXgejxUwmEdzDTHra-jg2_q9M_Q5wcWijqYiMBU21jkzwslI2l5l5kM5E8hvcdmV9f7hoBbpu-z-aAmv0i6OrKbT-RByPtgAwsIK8DI2EwzzOLbYAxmYN3_ihbiUjpSN3QQUo_2d6rgQHIKRM2NuAePdJPRL3U9Do_GAs&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI5OIA0zXCvGGCLAof_erIP0OTPQcg_TwEEA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Netflix's 'Apollo 10 1/2' Inspires the Next Generation ...",
+        "url": "https://lens.google.com/goto?url=CAESigEBxCJF10bV6xglr0E0_MmaGMLRWaD9A_dMjcTB5MBLiYpB1-onNG8alGFwgrcmV-_XtX1QYM-DU7JLsPyMhI_YoZyjw-IumstJ-dbCO9KXFMA-PVDImdK9IZtL8yCc_8yFjX1DNVeOhiJDwDSFGeFr00SST8ipsh3r-WDHpxK0zbNywviRf4iu6hk&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESigEBxCJF10bV6xglr0E0_MmaGMLRWaD9A_dMjcTB5MBLiYpB1-onNG8alGFwgrcmV-_XtX1QYM-DU7JLsPyMhI_YoZyjw-IumstJ-dbCO9KXFMA-PVDImdK9IZtL8yCc_8yFjX1DNVeOhiJDwDSFGeFr00SST8ipsh3r-WDHpxK0zbNywviRf4iu6hk&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJ2C4WcPr5CRSPpUqechMmv3-ddkbj9wbhA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF1y4diUgbRsDRooR6MDFTsOFdiUD2BLQqw9bMK81UxLCm8IYFoHw4TUTcUZtLvsC57qwnJnL_A3rwY2WzhHVeuMhEPiLqekpPLCYGJjzLCUPrGUYLyTDcBA66ai_j1_upckUKic4vptygIyV7tamUdbo4Bjs8lWMZPknbbQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF1y4diUgbRsDRooR6MDFTsOFdiUD2BLQqw9bMK81UxLCm8IYFoHw4TUTcUZtLvsC57qwnJnL_A3rwY2WzhHVeuMhEPiLqekpPLCYGJjzLCUPrGUYLyTDcBA66ai_j1_upckUKic4vptygIyV7tamUdbo4Bjs8lWMZPknbbQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgCSZwiwdhS0xDmGXKBpk3Q41i4BSaM831A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2 Review: A Beautifully Crafted Nostalgia Trip",
+        "url": "https://lens.google.com/goto?url=CAESjQEBxCJF1_6VAG_B5DD4dQC9R1oV31wTV7b9Dye0rbXXyVmnv54Qr0Ycz9hW2BnMz6RPxH3iZY7RBRRlgKVptDpp-u1HRWOKTvXHGnXbHc_JxYcc6cd-q8ZCxdBgxxVSkSKx3R8vOxTVqiSxKgdNWGtrSnJlrNVgTYyO1dyrb-emcs-md_FXQEM86Wp0Zqg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjQEBxCJF1_6VAG_B5DD4dQC9R1oV31wTV7b9Dye0rbXXyVmnv54Qr0Ycz9hW2BnMz6RPxH3iZY7RBRRlgKVptDpp-u1HRWOKTvXHGnXbHc_JxYcc6cd-q8ZCxdBgxxVSkSKx3R8vOxTVqiSxKgdNWGtrSnJlrNVgTYyO1dyrb-emcs-md_FXQEM86Wp0Zqg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9PcHdxzDlnPAqXTWu-KY4bq41GJ3siMzE9Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "CoverCity - DVD Covers & Labels - Apollo 10½: A Space Age ...",
+        "url": "https://lens.google.com/goto?url=CAESjQEBxCJF16IcWmyPHrvDwrfqXvqLAsi6uBDpuWP2Mfdhowd99cqWltSbZ9IFcPsZBX9YzwdQj_L3966Re26BGuJabee52no6Cl4OlGyzeDCpkVd0_A2OlFfgi5iFY0QuVMrZfn7mGpKXjMpVfFpop2MfPNDaiNRIzcPFFAt3ZA-074eZUw3jm2LXaA7aZCg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjQEBxCJF16IcWmyPHrvDwrfqXvqLAsi6uBDpuWP2Mfdhowd99cqWltSbZ9IFcPsZBX9YzwdQj_L3966Re26BGuJabee52no6Cl4OlGyzeDCpkVd0_A2OlFfgi5iFY0QuVMrZfn7mGpKXjMpVfFpop2MfPNDaiNRIzcPFFAt3ZA-074eZUw3jm2LXaA7aZCg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_oteaSNqe5v5_9CtRKsbL8DKrlRLpHMIig&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXWFs1Ywy7FcQZsYNbesksrU_NU-_VNlEWLkKMCilKqZx87lv2LxXtA6yZPYYuFWQ5YtO717UmQUVRQYvorFxKD9AvEYDjEcHHUk574UozHEUaobZrvkvjeMnvv_HnNQkA3wc&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXWFs1Ywy7FcQZsYNbesksrU_NU-_VNlEWLkKMCilKqZx87lv2LxXtA6yZPYYuFWQ5YtO717UmQUVRQYvorFxKD9AvEYDjEcHHUk574UozHEUaobZrvkvjeMnvv_HnNQkA3wc&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUpwL9AigfYNRsilFO8IrkJ-s7t2m-aH_-g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood (Western Animation) - TV ...",
+        "url": "https://lens.google.com/goto?url=CAESlwEBxCJF14rksWi-6ML6CNgX89xztH9JsEniCPTK5qeiVkRbU9S08jat5MWMKlSkb1by4u0OReSX8IOj4Cqgh0nErmRFNeHzPzjIVF_KYzkOx9NdwEbCMybENcE1REBsSQ48CjpoJyKQZlmJQkYREDEna2azflP7K7ogpExgvCDq2xhRNUXlt_1tJIzwaTQv0ig3hMriNiLU&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlwEBxCJF14rksWi-6ML6CNgX89xztH9JsEniCPTK5qeiVkRbU9S08jat5MWMKlSkb1by4u0OReSX8IOj4Cqgh0nErmRFNeHzPzjIVF_KYzkOx9NdwEbCMybENcE1REBsSQ48CjpoJyKQZlmJQkYREDEna2azflP7K7ogpExgvCDq2xhRNUXlt_1tJIzwaTQv0ig3hMriNiLU&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkIZ511CJraNnUpLi14Mue_QaOmbPbn1fBmg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½ A Space Age Childhood Movie Review: Richard ...",
+        "url": "https://lens.google.com/goto?url=CAES6QEBxCJF10gZYeow4lYoK97oaYyxN2mIu2VQICTYQweOtSiSyoJrPbONT9pyEEN0hAKX0E7ZiS01bF4TbIXlkpphfK5PbIrQX8hGRFnOiDjfP1HcmiEZcgqWJnRFPMdZEzagy3JElRHwuVN2QspH5BSBmb52YxPAj2auSPhEfANNwi5CTzYZ4UITXtnD_-qiPdTKSP7KTiIpWDr632RABppfJX2mcH-8Fe2omUGbLlJY3tQUhn-yJtl6xfhTnRdR7tzrelEbY_Mr6DkFBiMfWHgunwqmJAlp1DbmRn_YfxK-_6KMtENoXaNnug&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES6QEBxCJF10gZYeow4lYoK97oaYyxN2mIu2VQICTYQweOtSiSyoJrPbONT9pyEEN0hAKX0E7ZiS01bF4TbIXlkpphfK5PbIrQX8hGRFnOiDjfP1HcmiEZcgqWJnRFPMdZEzagy3JElRHwuVN2QspH5BSBmb52YxPAj2auSPhEfANNwi5CTzYZ4UITXtnD_-qiPdTKSP7KTiIpWDr632RABppfJX2mcH-8Fe2omUGbLlJY3tQUhn-yJtl6xfhTnRdR7tzrelEbY_Mr6DkFBiMfWHgunwqmJAlp1DbmRn_YfxK-_6KMtENoXaNnug&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFP3POqovLqiwHvFvRLl1rZL8LRdXUl-Yynw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Netflix Movie Set in Houston 1969 Evokes Nostalgic Memories",
+        "url": "https://lens.google.com/goto?url=CAESgwEBxCJF11YZaUi-DDfrR4T_ouDtDJq_-VgszZ6x-DXurL196S-0NfI-NTSmw-CYEe81I887nnJeHGmTx1WwkDA_BCKgHN0Py7GxNqE-1tsKLPG3MqCN1vF-oWXYi0pR-NSg3TftWBTDxTO2Mnosafc702l4sWWfmkF-8CGac6w1fUxhsA&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgwEBxCJF11YZaUi-DDfrR4T_ouDtDJq_-VgszZ6x-DXurL196S-0NfI-NTSmw-CYEe81I887nnJeHGmTx1WwkDA_BCKgHN0Py7GxNqE-1tsKLPG3MqCN1vF-oWXYi0pR-NSg3TftWBTDxTO2Mnosafc702l4sWWfmkF-8CGac6w1fUxhsA&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpstc5pZQ3-p4ks8IVLfj4jWmCTaaXlnPvnw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood (2022) Review by Jacob ...",
+        "url": "https://lens.google.com/goto?url=CAESswEBxCJF15Tg8kQnQKcB1PMOFAJj-71YhaxVmnz11_m-6vhbT_nlvWLM3HtM9USLOXnV5uFIWyzJ7IndVSgV46xBww1WPBqTJ4egPT1VEBSeXDjhKls7SKhf6Qmy-d3HeWg6-9Hf5QQcMbjPfbeLwy-BNc1nPvOo1RRPMCuuxz1II4u2EE4qGXQNwr5AGUZBHyoaEyvyS8sZmeaiK_fQlWASCgWL05XVoL44QuH_dzGuO0oiEw&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESswEBxCJF15Tg8kQnQKcB1PMOFAJj-71YhaxVmnz11_m-6vhbT_nlvWLM3HtM9USLOXnV5uFIWyzJ7IndVSgV46xBww1WPBqTJ4egPT1VEBSeXDjhKls7SKhf6Qmy-d3HeWg6-9Hf5QQcMbjPfbeLwy-BNc1nPvOo1RRPMCuuxz1II4u2EE4qGXQNwr5AGUZBHyoaEyvyS8sZmeaiK_fQlWASCgWL05XVoL44QuH_dzGuO0oiEw&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaoMSF9JcvJ5_agEh4UE6-WoWK0v5DyG8TA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXZNdA9YNDOikdxdm6bqSfVxL-5XgaOdn0L8jv0Va9EtayJgMy-uSEPu2SQwOhPbPSgLSuV1uSwmp2vgkOSWb1ssnKoTfftW3Ytn0OaifLfCqyfvMoW1hvvtfnoCZCN96OcrNvZ3F4Ow1hAvVGIx4_&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXZNdA9YNDOikdxdm6bqSfVxL-5XgaOdn0L8jv0Va9EtayJgMy-uSEPu2SQwOhPbPSgLSuV1uSwmp2vgkOSWb1ssnKoTfftW3Ytn0OaifLfCqyfvMoW1hvvtfnoCZCN96OcrNvZ3F4Ow1hAvVGIx4_&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7pxa3bUmyETYlkJCURaRY5N4maFi9zHb7Lg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood | MovieWeb",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXpgTc6AZ_33D7bwxDzghfyjqlX7dhGW3xW2-vPCtd54ZGHlBfwH7k1WMHo2L7zU-VL32GnjKewPthOJIXfBmFrSyhl3igF7jVXs8AQ766hPAJOgHFkX9ZxJRMIbtutbHU&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXpgTc6AZ_33D7bwxDzghfyjqlX7dhGW3xW2-vPCtd54ZGHlBfwH7k1WMHo2L7zU-VL32GnjKewPthOJIXfBmFrSyhl3igF7jVXs8AQ766hPAJOgHFkX9ZxJRMIbtutbHU&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh4TDNm5PJCEXdDjhD_US2qFHJAs6B-wKKBQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Richard Linklater 'Apollo 10 1/2: A Space Age Childhood ...",
+        "url": "https://lens.google.com/goto?url=CAESmQEBxCJF1zx_m7U7tEMVQ3Z50l0ci04dqQQvOl0ZFvLJs3ZC2Y2q8INz80UL-eC90vv3Q0b9VGTSNaY_qk11_M7v8oR0KTASUsxWuH68rsI3LrzcKmdzJ3V-ZNn7hYMeuPewHvvbCcEDfN2JRpkdODQXWCrtSKTOhuQAUQ92h9NpGWCNL4dpDtL9iNynWnpMfDOMONg8699oCck&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmQEBxCJF1zx_m7U7tEMVQ3Z50l0ci04dqQQvOl0ZFvLJs3ZC2Y2q8INz80UL-eC90vv3Q0b9VGTSNaY_qk11_M7v8oR0KTASUsxWuH68rsI3LrzcKmdzJ3V-ZNn7hYMeuPewHvvbCcEDfN2JRpkdODQXWCrtSKTOhuQAUQ92h9NpGWCNL4dpDtL9iNynWnpMfDOMONg8699oCck&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMWdEd-VDZgOd3dvv1XdAxeSnRNpDRpbyeA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Auteur Movies | Netflix Official Site",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXX3zI1iPyUWhFLQffrOj6Xp0TCPHA4YDwR0mVLytVz81eYty2pMdfJmt7oHDk17aR4ZcqH5W75VHZpX30W57OnyK1t3jqKkE9J7yccaE0lIGLOs0K-H7O32nM_urXahds10fr313I&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXX3zI1iPyUWhFLQffrOj6Xp0TCPHA4YDwR0mVLytVz81eYty2pMdfJmt7oHDk17aR4ZcqH5W75VHZpX30W57OnyK1t3jqKkE9J7yccaE0lIGLOs0K-H7O32nM_urXahds10fr313I&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsprQiDcSFIaVele3mkdN-uUP8y0OhM9Itgw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood (2022) directed by Richard ...",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXkzRmEoF_IgTjnf8baujaqCpLA_G8UjmfaI_GFvNw-UbwRFwkfxGvpAxzULSF07-shJ3gAmVUAsiBJ2wDXng1PRv7njVE-cKMKQkKaIS43dKwTrIUq0iDyLQUj_GB03rZ-OWBYzGt9PSRn_-RBlNuVvwr7w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXkzRmEoF_IgTjnf8baujaqCpLA_G8UjmfaI_GFvNw-UbwRFwkfxGvpAxzULSF07-shJ3gAmVUAsiBJ2wDXng1PRv7njVE-cKMKQkKaIS43dKwTrIUq0iDyLQUj_GB03rZ-OWBYzGt9PSRn_-RBlNuVvwr7w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8lOZO9KIB_20G11nZCGdMuwtguJcvxBJt4w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood (2022) Review!! – Welcome ...",
+        "url": "https://lens.google.com/goto?url=CAESjgEBxCJF1yBPHtA-k0tAaS-4GEXaBVaZIBqTtWBNKrp2Z6y0CCMuCqHrXFRJpYhLpM1t0ugTEwaMAhf6jAvYpFmxHPWAgjfyYNRGTTbNfIHWSoGmJVEUA6gZh71hl4q8P2A3Gh9gvRIegtP-8vQxuiJsvMOVTx-pd_JBfwAt84C5152Nz6skf9uzpiPeXmEr&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjgEBxCJF1yBPHtA-k0tAaS-4GEXaBVaZIBqTtWBNKrp2Z6y0CCMuCqHrXFRJpYhLpM1t0ugTEwaMAhf6jAvYpFmxHPWAgjfyYNRGTTbNfIHWSoGmJVEUA6gZh71hl4q8P2A3Gh9gvRIegtP-8vQxuiJsvMOVTx-pd_JBfwAt84C5152Nz6skf9uzpiPeXmEr&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIsiI8p-5XZIoO7wKhIjBkSgpfCd1wp6drUQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1⁄2: A Space Age Childhood – Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_IN",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_IN"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiK911QFgqJziM5AP5dBid9HXp_CI4nqGuPQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_IN"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_IN"
+      },
+      {
+        "title": "The Making Of | Apollo 10 1/2: A Space Age Adventure ...",
+        "url": "https://lens.google.com/goto?url=CAESkgEBxCJF1-19HXW8tD-IsHHDgj9wdKVOPlvJAYQIuQRfUmpufa-el83PTrFA3Wcae7xJ0eValvh5cLnDlmdbpvNuAXzeVJDMCNg56eKGojQ-QyxSdcAwzM5WQM8SToSpI05SL-xtzgqk-V34MJhkpNOk4K3w-iCUSW0ZPH0LKZjAO0N7UG9aAbCaGpsRvK29uRdCfg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkgEBxCJF1-19HXW8tD-IsHHDgj9wdKVOPlvJAYQIuQRfUmpufa-el83PTrFA3Wcae7xJ0eValvh5cLnDlmdbpvNuAXzeVJDMCNg56eKGojQ-QyxSdcAwzM5WQM8SToSpI05SL-xtzgqk-V34MJhkpNOk4K3w-iCUSW0ZPH0LKZjAO0N7UG9aAbCaGpsRvK29uRdCfg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8_ga3gMyR5fFGWSPnu3BhukW6vyM9xJwZg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "RATH'S REVIEWS: Apollo 10 1/2: A Space Age Childhood",
+        "url": "https://lens.google.com/goto?url=CAEShgEBxCJF1wrZjqlmjNmwQJjZtdekuDxq0bw6eqOD4a7SsKLXh81WadnzUTwBAMO75qP-ztyj5eDkmkTew29uxero_uuCExoxSGHAXIybWBLDxrfU1JJHcE_ePCxUqhyZyst3gApf4TTnEa0RnWvsaLgsWHhEuuXIuQD_nX-hqBMGwqCbyASdZw&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShgEBxCJF1wrZjqlmjNmwQJjZtdekuDxq0bw6eqOD4a7SsKLXh81WadnzUTwBAMO75qP-ztyj5eDkmkTew29uxero_uuCExoxSGHAXIybWBLDxrfU1JJHcE_ePCxUqhyZyst3gApf4TTnEa0RnWvsaLgsWHhEuuXIuQD_nX-hqBMGwqCbyASdZw&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOLvTe7j3iCyrmN3crqBw8u-dALIjPcvux4Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Review of 'Apollo 10 1/2: A Space Age Adventure' [Netflix ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXWNFjhlfa8qxBafpcqXK7hVHvJx1H6GyJXTyD7lJXeHwVrtwckYIfYgvUsKIxxtDU4uh4F7WHZfBQ8oY1sA9DFxPUvQTfcgjd3l8qri8bisY7TUend6HcsjhcqhPU7UqN4NY&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXWNFjhlfa8qxBafpcqXK7hVHvJx1H6GyJXTyD7lJXeHwVrtwckYIfYgvUsKIxxtDU4uh4F7WHZfBQ8oY1sA9DFxPUvQTfcgjd3l8qri8bisY7TUend6HcsjhcqhPU7UqN4NY&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuQ5l203lEjzQfc1JhWGoEBN9lDvQmlTazng&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "I Think for Every Story There is a Hidden Way to Tell it ...",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXnio-9dJfLrinkkaMUyLbzDhU0uBccdqFH0SDZfwupWNe_HINQMc8Ag70VABxyulyv9L-jofOuPwrTEHI-Ut6e0NU0z_QMstJ2SuADmF-N2sXm6F5L5zL5ajVWzyyzeQmGyjlSmsvRMv0hL2DGzQyCnZ8Em1kEWWGpw&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXnio-9dJfLrinkkaMUyLbzDhU0uBccdqFH0SDZfwupWNe_HINQMc8Ag70VABxyulyv9L-jofOuPwrTEHI-Ut6e0NU0z_QMstJ2SuADmF-N2sXm6F5L5zL5ajVWzyyzeQmGyjlSmsvRMv0hL2DGzQyCnZ8Em1kEWWGpw&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAYVm6RwbChOC4hxVghFeQmadBNiWlpOjIVA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1⁄2: A Space Age Childhood (2022) Blu-Ray - SKNMART",
+        "url": "https://lens.google.com/goto?url=CAESnQEBxCJF1zfPY6sLjsd-kyBO_UXhM5fBQOIp3CMNgTqRE06yBibzaJxoIhdTld7FN1J55mxpa719A8qriRlQdSV4tApdzcxhQbkYSQ_ndFhyDhK-vFJDI2pSxLmSJGMX_933g5R5saDiv2OAmqjeVOKvAgvuC9J-DP8J-gNQGb3cls9hP5TIvX1v7NlY3JXvgqzmiofyijjFKk7LYu71&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESnQEBxCJF1zfPY6sLjsd-kyBO_UXhM5fBQOIp3CMNgTqRE06yBibzaJxoIhdTld7FN1J55mxpa719A8qriRlQdSV4tApdzcxhQbkYSQ_ndFhyDhK-vFJDI2pSxLmSJGMX_933g5R5saDiv2OAmqjeVOKvAgvuC9J-DP8J-gNQGb3cls9hP5TIvX1v7NlY3JXvgqzmiofyijjFKk7LYu71&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZulhgOwSpRDQPurB4IOUl1hMiQO8tcvOIeg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "REVIEW: “Apollo 10 1/2: A Space Age Childhood” (2022 ...",
+        "url": "https://lens.google.com/goto?url=CAESlQEBxCJF166KSY6JMgGEQg4ikBQB5fJzuubm_9P3v5uAEo1xfbfY8-pMFLv0_VxxvffAuHNikz-AL6g8ko2spqgqnkTlu-aM29ozxudWWmhkRkIRctFx2naqf9BSJEq3YV3UA-rfjSr6GImml2h3i_x9TeskTh7sm5I0gardl4udRlXJWgMReVe-nzaQ31tKC8wwkXl5Ig&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlQEBxCJF166KSY6JMgGEQg4ikBQB5fJzuubm_9P3v5uAEo1xfbfY8-pMFLv0_VxxvffAuHNikz-AL6g8ko2spqgqnkTlu-aM29ozxudWWmhkRkIRctFx2naqf9BSJEq3YV3UA-rfjSr6GImml2h3i_x9TeskTh7sm5I0gardl4udRlXJWgMReVe-nzaQ31tKC8wwkXl5Ig&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEuQiADpsvK8F0db_GweZlfA75V_PUy4_fpw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood - Netflix Movie - Where ...",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXNneApApbR9Y-dcdTtZLRuLkr0MwcMMq_tGaSUAf9rGEQJ0FyryqNSsEepd3hFppwl0CzRXWOMj4UcZVNF4E-wVouJ4FwMNXHvzFAxB-jkb-5gznXvADVbZucNGaQTu4scNtxuozJF_csx5A&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXNneApApbR9Y-dcdTtZLRuLkr0MwcMMq_tGaSUAf9rGEQJ0FyryqNSsEepd3hFppwl0CzRXWOMj4UcZVNF4E-wVouJ4FwMNXHvzFAxB-jkb-5gznXvADVbZucNGaQTu4scNtxuozJF_csx5A&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJei6x-SfZESYYyPIl830Bi4TbNpds71QPgg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood | Rotten Tomatoes",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF12nmBmCSEYJ1rqc4KwZm5k4_NHe2FndyN0hsoM8Dvb8PrHCIlM1Wz1rsfuzvPEC-Z_VzulMumBzAcJdPfDSyTLKt6ri06y8eilCBhzG4gz8s_fDkoz8H-68exA_WwwqcnoOD0Ae6JzR1CGvxj36DwCDBhRnxKBRRSdh3Fg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF12nmBmCSEYJ1rqc4KwZm5k4_NHe2FndyN0hsoM8Dvb8PrHCIlM1Wz1rsfuzvPEC-Z_VzulMumBzAcJdPfDSyTLKt6ri06y8eilCBhzG4gz8s_fDkoz8H-68exA_WwwqcnoOD0Ae6JzR1CGvxj36DwCDBhRnxKBRRSdh3Fg&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8MhGOl01seH7V710vKb0kWRCojrTpVizoA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "So, Richard Linklater's latest film, Apollo 10 1/2: A Space ...",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF1xxvd-euhTWY9WAMDeF6C7tMIRIr0SvQh0-tfDJTpfnuDuR67Zz5h-xlNv9okkHcEaLRRMx9VLAkFEMSbXkLSgSK_OC_nWkNlZPiHI5LstZj7sh3eEyCv7kGVfsumhWWgprD2CNPXIF8Tjf4-ICCOQXnf66hwMIRBMx1s-8bM2PEKBo&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF1xxvd-euhTWY9WAMDeF6C7tMIRIr0SvQh0-tfDJTpfnuDuR67Zz5h-xlNv9okkHcEaLRRMx9VLAkFEMSbXkLSgSK_OC_nWkNlZPiHI5LstZj7sh3eEyCv7kGVfsumhWWgprD2CNPXIF8Tjf4-ICCOQXnf66hwMIRBMx1s-8bM2PEKBo&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXB-1YJ5s9JkTffYruYsH4HkFk8N-2YG3QSg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood' Review",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXL7SNwAb-CtDnrA9x7jGeyfJQh62clyy1FgOfAmpwHj_rTlXJHTz0_N6Nmi9krmQqnU25lGH2elwPvjXwgCXlrwv_QPp_52_9xIeLVLcWJvYPP2Y0AARqUyb-3LPTD0OB3w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXL7SNwAb-CtDnrA9x7jGeyfJQh62clyy1FgOfAmpwHj_rTlXJHTz0_N6Nmi9krmQqnU25lGH2elwPvjXwgCXlrwv_QPp_52_9xIeLVLcWJvYPP2Y0AARqUyb-3LPTD0OB3w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLRZn30GMQcoiFVvi8CBY8PY7Ogk3XaYVhA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "How come the Academy never cared for Richard Linklater's ...",
+        "url": "https://lens.google.com/goto?url=CAESmgEBxCJF1ygGc6D4OauiZD2TKdsj5naUcvv75yjgcxmKHV_BZC8wxDze2rRPDBTrA_2AjzwpqFy_EFeg6cPJx0AnCaP-KtuPvNPIU6uuvA9NbTokuAXcB6XSU5_bBKn3uLsnPj-JK-wfxVN0YJIKjCZ5Qh5W1hb3joELinlQ8ZKP0MfBMut9q1ixnD0pgakaT7pyP9YpyYBZuQGu&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmgEBxCJF1ygGc6D4OauiZD2TKdsj5naUcvv75yjgcxmKHV_BZC8wxDze2rRPDBTrA_2AjzwpqFy_EFeg6cPJx0AnCaP-KtuPvNPIU6uuvA9NbTokuAXcB6XSU5_bBKn3uLsnPj-JK-wfxVN0YJIKjCZ5Qh5W1hb3joELinlQ8ZKP0MfBMut9q1ixnD0pgakaT7pyP9YpyYBZuQGu&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZo9Eq5UdQoskmv7ouuxf_cMyNPsgWss24hA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1 2 Netflix | TikTok",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXGGAI5UbzjdaTsxOubSm4y8jIeq7ha-sjozYZAA0m2kzajEW4ySRmMZeTyExxKW0VlPy1XUogc9SLX0sGcsJVNM7YMrRAB1SOikTcPdQ51OAXbjPguMXjCQHZa8mnmoxuQvYe-y_LTrQECnnL&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXGGAI5UbzjdaTsxOubSm4y8jIeq7ha-sjozYZAA0m2kzajEW4ySRmMZeTyExxKW0VlPy1XUogc9SLX0sGcsJVNM7YMrRAB1SOikTcPdQ51OAXbjPguMXjCQHZa8mnmoxuQvYe-y_LTrQECnnL&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStqJcbIo7i2S6D3egjz-S7BzeMQ6r20b5NCw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Linklater's Apollo 10 1/2: A Space Age Childhood Movie Review",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF1zA4qoNHCJ9H1REtnR8SwPJmd1SHn6wpCXBgF6emKAW4ysdetJ8vam_Ad2zzwv7qpepO2lz2oOaxpEdzT3cpoZYjiwTZ5dzjzd1mKiw-ogE2WXOzYvzPRUHc4oY9tuS55n_RIEsB6FlmjstwtgJT4mYjIz4EIC44A8_l1t2H2e9hMwbG&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF1zA4qoNHCJ9H1REtnR8SwPJmd1SHn6wpCXBgF6emKAW4ysdetJ8vam_Ad2zzwv7qpepO2lz2oOaxpEdzT3cpoZYjiwTZ5dzjzd1mKiw-ogE2WXOzYvzPRUHc4oY9tuS55n_RIEsB6FlmjstwtgJT4mYjIz4EIC44A8_l1t2H2e9hMwbG&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqa7NgX5fENQi4e6oGYR35RoU_a8Lt4rA7Sw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10½: A Space Age Childhood (2022)",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXPQVDCYi1bjjWn6t7D3ucr1lxySRqxlvJ1N4Up81MtfLyBo-SoLuiCzvsOv28t8v7MxyvVIFq77BcMgOvddp5DRw8PaIl5_RImD3rTys7RA1k01BP1ZXm0wtm_RTImyVw47LwImuUh89YcJuy8M8l1QmmMVvQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXPQVDCYi1bjjWn6t7D3ucr1lxySRqxlvJ1N4Up81MtfLyBo-SoLuiCzvsOv28t8v7MxyvVIFq77BcMgOvddp5DRw8PaIl5_RImD3rTys7RA1k01BP1ZXm0wtm_RTImyVw47LwImuUh89YcJuy8M8l1QmmMVvQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqcm1zT8L0d2gSpkoX4d11v61w5wbMCRFhQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1⁄2: A Space Age Childhood - Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_US",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_US"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOryL9i8CWe_6Tww1swiZtTtaCGxLMZGELzw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_US"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood?id=72CD77EDFA63EFCBMV&hl=en_US"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood | Official Trailer | Netflix ...",
+        "url": "https://lens.google.com/goto?url=CAESmAEBxCJF1-GeTKc-H2hOz3LCy0lRjGhTfrNCR0IxNYgnrTnePKpldvGkeKYS61KqSRuaS3gPGC0AhJtJJKUZFXCUkwHCj8BS7GSe_PAiumF-V9KrL0MfTTb6tRmd-t8ex5FLORLnRQ4mLB2M3BcEOVjAHNl0HbdG1ypc3ob_SQYb3NTjaPs3YjQHjY-bI0MdP-GlgrN0QvOt1w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmAEBxCJF1-GeTKc-H2hOz3LCy0lRjGhTfrNCR0IxNYgnrTnePKpldvGkeKYS61KqSRuaS3gPGC0AhJtJJKUZFXCUkwHCj8BS7GSe_PAiumF-V9KrL0MfTTb6tRmd-t8ex5FLORLnRQ4mLB2M3BcEOVjAHNl0HbdG1ypc3ob_SQYb3NTjaPs3YjQHjY-bI0MdP-GlgrN0QvOt1w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJQyOnlH3XP157KJ5n3-U7wKEfXscB5l0P2A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood (2022)",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXMLT539rX1uZ08KnZjH2BHJwFhzqagZDEINMF5mZTo5VbBiZI28hq8Hc0uXYEs1y4k01nqfxBs-Hea8Sc8Kd4qBH43O3hDJKtTlYz0rEup30Kf-CrwWcxwNzMKwcNrvSLKTkTAq60tdzhnt8mYRZ8bjJpF-A&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXMLT539rX1uZ08KnZjH2BHJwFhzqagZDEINMF5mZTo5VbBiZI28hq8Hc0uXYEs1y4k01nqfxBs-Hea8Sc8Kd4qBH43O3hDJKtTlYz0rEup30Kf-CrwWcxwNzMKwcNrvSLKTkTAq60tdzhnt8mYRZ8bjJpF-A&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6Izx--RcxFnqGlZ8I2-s6lNYN3pkZjVCJQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood - Movie Review - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXX5vMNdIqUCpU6p5811qRy-MS-n1E-15jei17m6uGiiG4jC2UulafIz5LiYdyCBOaxWC5-oXhPBc2P8OeELML71z2ZYNC8Ag_SD6D-cASmgVVjQBbofiBzvo0LmTGAqngbR8g&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXX5vMNdIqUCpU6p5811qRy-MS-n1E-15jei17m6uGiiG4jC2UulafIz5LiYdyCBOaxWC5-oXhPBc2P8OeELML71z2ZYNC8Ag_SD6D-cASmgVVjQBbofiBzvo0LmTGAqngbR8g&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk6P6MhBsYNDX5noAPVefUlIVDGp7J7I8Okg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Movie Stuff",
+        "url": "https://lens.google.com/goto?url=CAESjgEBxCJF140zlj-VV7UsJusudKhAa-LNs2L1l3r3TyKEfYQWs5SdUWkcWy6O8D4pLAJGs3XgJ3pqf6W6I7Tts6TXxjzFf7_qg846gwApZMCcz2ANo7WHMfN3GTh_EUyXynhZBJeT7UmJ-Q_pp_l_Hd1GfK8VFpNDsNHUIO2POYW3mLfQXsHTnjLMogaLOSST&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjgEBxCJF140zlj-VV7UsJusudKhAa-LNs2L1l3r3TyKEfYQWs5SdUWkcWy6O8D4pLAJGs3XgJ3pqf6W6I7Tts6TXxjzFf7_qg846gwApZMCcz2ANo7WHMfN3GTh_EUyXynhZBJeT7UmJ-Q_pp_l_Hd1GfK8VFpNDsNHUIO2POYW3mLfQXsHTnjLMogaLOSST&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjvCkx3VC5FPnRkUr8CIyBdmUFuMsHMBQFwQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Relive your childhood with Apollo 10-1/2 on Netflix",
+        "url": "https://lens.google.com/goto?url=CAESgwEBxCJF107GC7v5cdQ2DmjTys9xoOsYWLkeW3An5Tc5iKYMEhvTTsVITl87aL_x-fRKhJzIPsW6GPLPfLyIaDkUMIeOCgCtoptL3UHYwwmCK005bK5T3rIi5vVM3a7gHaySyqsvrz7guEAyyCSqf2QiTKcsNVa7e16mWZAw2p5pzoKEeQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgwEBxCJF107GC7v5cdQ2DmjTys9xoOsYWLkeW3An5Tc5iKYMEhvTTsVITl87aL_x-fRKhJzIPsW6GPLPfLyIaDkUMIeOCgCtoptL3UHYwwmCK005bK5T3rIi5vVM3a7gHaySyqsvrz7guEAyyCSqf2QiTKcsNVa7e16mWZAw2p5pzoKEeQ&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj8-sJDEgMRi3Kp-En_DO1Gsuk37EjnYr16Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "El teaser animado de ARIRANG fue creado por un equipo ...",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXX0P14vT5J0kOcfb_JThs4e65kBV7lsL0UzFiqx98CrNgCQ41B3XnoGV6548Te2_bzktZyOeuUFUcS--oR6BlcHf41THk-h0ULvzEqmWGl2D2fYv63VvALiMQfgOqhXBc&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXX0P14vT5J0kOcfb_JThs4e65kBV7lsL0UzFiqx98CrNgCQ41B3XnoGV6548Te2_bzktZyOeuUFUcS--oR6BlcHf41THk-h0ULvzEqmWGl2D2fYv63VvALiMQfgOqhXBc&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpBmqbVlFz3xvRMEqg_HPIWpR_4Qy8ZDw6ww&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BTS \" ARIRANG \" 💜 teaser was created by an international ...",
+        "url": "https://lens.google.com/goto?url=CAESvQEBxCJF1xJlEw7v9CKySr0ATme3B7pLV9DewY9NdFIUCKb-RqpXhIf87-495YWWHhim5WDANtAS5n6jVBxcZIxFT_tiLc6Oy2TN7Tw9hS7I1F1ZibYB2jCha9Rp-uWNrk0a4e93Fhg3P1brTX3Tjv7d2PVqWOiIbXFNiIv0d1CeLMVeTFWy5ehf8ybm14tf0jgfIdHtxNwnUF-N3Ieo7Rz5_EJA3tSZV7VyqjkJzeYzNKIdUXOJJS0SR68Pl6w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESvQEBxCJF1xJlEw7v9CKySr0ATme3B7pLV9DewY9NdFIUCKb-RqpXhIf87-495YWWHhim5WDANtAS5n6jVBxcZIxFT_tiLc6Oy2TN7Tw9hS7I1F1ZibYB2jCha9Rp-uWNrk0a4e93Fhg3P1brTX3Tjv7d2PVqWOiIbXFNiIv0d1CeLMVeTFWy5ehf8ybm14tf0jgfIdHtxNwnUF-N3Ieo7Rz5_EJA3tSZV7VyqjkJzeYzNKIdUXOJJS0SR68Pl6w&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1U-nZOdStfhbfZWMgj3YBZr0HOV0MI4d3lw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Making of Richard Linklater's Apollo 10 1/2: A Space Age ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXjA6ZmBlsdl1b3RWX7ZIbWlWj2IzyBNKrL6SGvELPfLs_xMvli6SYooB1jeYQ0Ixid38UK5qlgkt2DlRbhddUSdyQeigV_IKYGDuaqrJTT9E7Kr_pmq6SMmfPVrt08StkolI&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXjA6ZmBlsdl1b3RWX7ZIbWlWj2IzyBNKrL6SGvELPfLs_xMvli6SYooB1jeYQ0Ixid38UK5qlgkt2DlRbhddUSdyQeigV_IKYGDuaqrJTT9E7Kr_pmq6SMmfPVrt08StkolI&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwAdBKeh3s6e_U28037fYH7g02SRrQz7CWng&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Il y a 31 ans, sortait dans les salles françaises le film ...",
+        "url": "https://lens.google.com/goto?url=CAES3wEBxCJF115MhP9FvVstioY89HgAI0VbKvAvPhWolFb7uKRkwtJpBWi6B0l_qYKwvx8As2_-mLLoGbbI71pJBtE2GAhBaNiwL-BzCuHzMBRd8H03RHZ456dVRG6RDM7YujmDW2jjrdzdYLTALqBZnZntlyJAJOFCgeGx-xHHmjXEAI6bZIZ47JlqBVV4xWJ6GrgWKDcg6QuruGumH3usqWCkFVR_zgrKRmbN7Z7KuvlkoOSSdoBzcnK30DJDpIS6APf9vMfLG00fHs8TxV4pFUSmrWY8Wo_jMdtCJ-w7c-DE&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES3wEBxCJF115MhP9FvVstioY89HgAI0VbKvAvPhWolFb7uKRkwtJpBWi6B0l_qYKwvx8As2_-mLLoGbbI71pJBtE2GAhBaNiwL-BzCuHzMBRd8H03RHZ456dVRG6RDM7YujmDW2jjrdzdYLTALqBZnZntlyJAJOFCgeGx-xHHmjXEAI6bZIZ47JlqBVV4xWJ6GrgWKDcg6QuruGumH3usqWCkFVR_zgrKRmbN7Z7KuvlkoOSSdoBzcnK30DJDpIS6APf9vMfLG00fHs8TxV4pFUSmrWY8Wo_jMdtCJ-w7c-DE&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1FJqwO_-Gmswo9IP2EfKohx9oZG8gY5_Iw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Постеры - Аполлон-10½: Ребенок космического века",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXk2A-QamkwckaMw2ad0UVlzBcaF2Uj7_47xe3lDOjPFjq27uhg3GMm2seM9rBdp0FLohpLbrgayrxofpyaJmug3GQXLRv3ZRvtoi0_gk0na4EkHTljjLR03-tkww5d-4y5sRmf7xF&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXk2A-QamkwckaMw2ad0UVlzBcaF2Uj7_47xe3lDOjPFjq27uhg3GMm2seM9rBdp0FLohpLbrgayrxofpyaJmug3GQXLRv3ZRvtoi0_gk0na4EkHTljjLR03-tkww5d-4y5sRmf7xF&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7CKl7H_fuctxRC7hnh-Jrv6LTQ-a349hrqQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Netflix Japan Title Designs :: Behance",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF19dDv-y0zzPM87G5ImaN85AL0wmsxTrSHv_QKI_tC_zkzOjGe2m0QeF4NLRAPqfQRbNoqr2gZKPJnREmgr6fySlkjFGJgKHb8A5DPitcRMuS3fVg1gEZpKjTv2LOXOxTlDcrdmnn-Y21-ri436zf2doDrMWMo2mOyE_ip14&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF19dDv-y0zzPM87G5ImaN85AL0wmsxTrSHv_QKI_tC_zkzOjGe2m0QeF4NLRAPqfQRbNoqr2gZKPJnREmgr6fySlkjFGJgKHb8A5DPitcRMuS3fVg1gEZpKjTv2LOXOxTlDcrdmnn-Y21-ri436zf2doDrMWMo2mOyE_ip14&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8LtjMjuzZD8VYjwFFAlL-HHBTY1DQkElh4g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXWfNmkMM3lx1v_gHzR-0JHvMBS6U_jvh4OmPWaTCRIr_sqBO0AvzWx1PIjQWeytvtfmsGtLmaDTpQferlphDHSLaz-BXuzw5xZbD8ePZG0Q4s-hqZu9pzG8xSAXR9B7bMwps&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXWfNmkMM3lx1v_gHzR-0JHvMBS6U_jvh4OmPWaTCRIr_sqBO0AvzWx1PIjQWeytvtfmsGtLmaDTpQferlphDHSLaz-BXuzw5xZbD8ePZG0Q4s-hqZu9pzG8xSAXR9B7bMwps&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSRDlUE67A9qbS7YT_q5c9gZ85-q7FSgaIIg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Netflix動畫電影】《阿波羅10號半：我要上太空Apollo 10 1/2: A ...",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXX8iYFahJgu5ooCFOlMB6WW3DcKjunx8-TjaWMVba9wJFSYuykIjlygPq7i20ZQQcbyYUCw3T5ip-vNdEkmpUR9YKs6gX2XXhpj7EZDt0J232TU6_CeZM0nF14jushbQR8KnkeyyfLaAhvK-8&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXX8iYFahJgu5ooCFOlMB6WW3DcKjunx8-TjaWMVba9wJFSYuykIjlygPq7i20ZQQcbyYUCw3T5ip-vNdEkmpUR9YKs6gX2XXhpj7EZDt0J232TU6_CeZM0nF14jushbQR8KnkeyyfLaAhvK-8&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkoYCWBd5jDqI3lWrQUaIyk2jIyTWnlgDLqg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 10 1/2: A Space Age Childhood (2022) Movie Poster 1 of 1",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXX79VJ24NAnF0zChRuertAB309kEryRPSgpIXR8-ajT13Iws7fL0BNKGUUNJjcOjZ4ESL0oZA6jYDq6VwFuYQT945lgB9bwf_7D6Fzm6tzvuDCff2IeSIcWNhEX8LRKehb60g&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXX79VJ24NAnF0zChRuertAB309kEryRPSgpIXR8-ajT13Iws7fL0BNKGUUNJjcOjZ4ESL0oZA6jYDq6VwFuYQT945lgB9bwf_7D6Fzm6tzvuDCff2IeSIcWNhEX8LRKehb60g&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUHMBvKX7lZRqLjarXYpO3UgL1Py5qvHnXKw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Apollo 13 Liftoff (full scene) | Apollo 13 - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXXO2fKF7qc-UUAAC43ltjUdYDOZjWQotbMb5CAvDSSmM1CtqqoUzrJRRydE26wl28BfjpcYn_nI_13A2QvSH8sYPHeB4yDAUdfuTBMfoJF4-i7UjthdlS_kUo2F4HlXhD-C4k&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXXO2fKF7qc-UUAAC43ltjUdYDOZjWQotbMb5CAvDSSmM1CtqqoUzrJRRydE26wl28BfjpcYn_nI_13A2QvSH8sYPHeB4yDAUdfuTBMfoJF4-i7UjthdlS_kUo2F4HlXhD-C4k&gsessionid=8M00O0JUlOW09fMfM6g5zioTYOI_S2IQYJZ1d5smm7jcHiNrdh7mfA"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv7IoCxOu0-cp5rYyg9tlyVURzCUeuk4ccMQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 57,
+              "play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood": 1,
+              "play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood": 1,
+          "play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood": 1
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 57,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 57,
+        "google_goto_direct_urls_kept": 2,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 57,
+        "google_goto_url_count": 57,
+        "result_url_paths": {
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/apollo_10_1_2_a_space_age_childhood": 1,
+          "play.google.com/store/movies/details/apollo_10_a_space_age_childhood": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 57,
+          "play.google.com": 2
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 11,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Apollo 10 1 2 A Space Age Childhood"
+        ],
+        "title_search_candidate_urls": 11,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 11
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "no_tmdb_id",
+        "tmdb_ids": [],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 0,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "candidate_identities": [],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "no_official_results",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Apollo 10 1 2 A Space Age Childhood"
+        ],
+        "year_hint": 2022,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 1,
+        "organic_result_count": 11,
+        "candidate_url_count": 11,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 11
+        },
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "disabled_by_configuration",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 57,
+              "play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood": 1,
+              "play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/Apollo_10_1_2_A_Space_Age_Childhood": 1,
+          "play.google.com/store/movies/details/Apollo_10_A_Space_Age_Childhood": 1
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 57,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 57,
+        "google_goto_direct_urls_kept": 2,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 57,
+        "google_goto_url_count": 57,
+        "result_url_paths": {
+          "lens.google.com/goto": 57,
+          "play.google.com/store/movies/details/apollo_10_1_2_a_space_age_childhood": 1,
+          "play.google.com/store/movies/details/apollo_10_a_space_age_childhood": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 57,
+          "play.google.com": 2
+        },
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 11,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Apollo 10 1 2 A Space Age Childhood"
+        ],
+        "title_search_candidate_urls": 11,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 11
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "disabled_by_configuration",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Apollo 101⁄2 A Space Age Childhood (2022)/Apollo 101⁄2 A Space Age Childhood (2022).json"
+}

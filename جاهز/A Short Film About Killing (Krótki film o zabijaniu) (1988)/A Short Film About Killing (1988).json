@@ -1,0 +1,1960 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T22:03:27.647190+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
+    "image_path": "جاهز/A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/A%20Short%20Film%20About%20Killing%20%28Kr%C3%B3tki%20film%20o%20zabijaniu%29%20%281988%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29_4.jpg",
+    "image_blob_sha": "a7f209453c7e4febe2042d5aab8fdf11d7de887d",
+    "original_image_path": "A Short Film About Killing (Krótki film o zabijaniu) (1988)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر)_4.jpg"
+  },
+  "original": {
+    "folder_name": "A Short Film About Killing (Krótki film o zabijaniu) (1988)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "identity_source": "google_lens_exact_title_tmdb_match",
+    "identity_method": "lens_exact_title_tmdb_search",
+    "tmdb_id": 10754,
+    "imdb_id": "tt0095468",
+    "folder_name_used_for_matching": false,
+    "reason": "The exact Google Lens title resolved to one exact TMDB movie and its official details confirmed the same title"
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "A Short Film About Killing | Amazon.com.br",
+        "url": "https://lens.google.com/goto?url=CAESfQHEIkXX-lcGUrzQZU1TAgkVsozvWiHjlC4AtkQpna0XEEmwhsjsaiSAeMs11J-ZTe-1SqbZNoJ_9HEB6R4byGDOUNHG3frs8XoZdUZ9Zw82NSFgrpJcDzzYScgrOaE7MsfvreLzb2zOQxzEVr7_95OfuPEhQdl7J2ZwUjLC&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfQHEIkXX-lcGUrzQZU1TAgkVsozvWiHjlC4AtkQpna0XEEmwhsjsaiSAeMs11J-ZTe-1SqbZNoJ_9HEB6R4byGDOUNHG3frs8XoZdUZ9Zw82NSFgrpJcDzzYScgrOaE7MsfvreLzb2zOQxzEVr7_95OfuPEhQdl7J2ZwUjLC&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Most \"Adum would love this\" film Adum hasn't seen? : r/YMS",
+        "url": "https://lens.google.com/goto?url=CAESmgEBxCJF1xXnAdTtJqm5Z8pIPrlxncR3ge4vRCM6didpGVTsD92nXAHFelMMeGASCc0hrwYIWv5fBDg_2Jptp2a9YVSQIW4yHTiKSwWOrXJoUf1GT7Onf3OvZ3ncEDGnSk57SIqes53rTdIRE-seoGX2WRlV4Kl12V2Kzjzqd_NIgwgXs5WB8-qUxNR-QtdZJrqZ6DvtKDLqCtfU&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmgEBxCJF1xXnAdTtJqm5Z8pIPrlxncR3ge4vRCM6didpGVTsD92nXAHFelMMeGASCc0hrwYIWv5fBDg_2Jptp2a9YVSQIW4yHTiKSwWOrXJoUf1GT7Onf3OvZ3ncEDGnSk57SIqes53rTdIRE-seoGX2WRlV4Kl12V2Kzjzqd_NIgwgXs5WB8-qUxNR-QtdZJrqZ6DvtKDLqCtfU&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Kieslowski: Dialogue (1991)",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXcUjtbb47JIVbddN4wgLHEZY_qWgyuU2zldmCKwxcLzPFH-UW9tfo4VAOfw21M8Roqeji6lV-uP8eJGtL7YEXVcxEAfRtI4MNzW-5kkLo26iUNvnb1K7NOHp-B8h8645X&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXcUjtbb47JIVbddN4wgLHEZY_qWgyuU2zldmCKwxcLzPFH-UW9tfo4VAOfw21M8Roqeji6lV-uP8eJGtL7YEXVcxEAfRtI4MNzW-5kkLo26iUNvnb1K7NOHp-B8h8645X&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX63B86uk2veN1WhlM2T1Q6GoSqHqCDn8pMxkPqTWVR_jPXfUMzWcvD1pR0zf8YUms-ZvFo0sWyMLTpL9TEPpheJJwYyY-lkW_rRkPxevBlQk2Qt1SC3Z5UUVzpg16fgBxPxJk&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX63B86uk2veN1WhlM2T1Q6GoSqHqCDn8pMxkPqTWVR_jPXfUMzWcvD1pR0zf8YUms-ZvFo0sWyMLTpL9TEPpheJJwYyY-lkW_rRkPxevBlQk2Qt1SC3Z5UUVzpg16fgBxPxJk&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Matarás – Filmes no Google Play",
+        "url": "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt"
+      },
+      {
+        "title": "Internationally acclaimed Polish film maker Krzysztof ...",
+        "url": "https://lens.google.com/goto?url=CAESzwEBxCJF1-l0G_9N77RhdeSfcHcusveBT2frK6WcapZavS2MLqc1sPwucgYHF63C2G6oOY7deL6hRuWKUAox2m-nik2Fiv3BeBhaFYOpG-Jf96zBZPYVvBIaMYqYnToAnRK1f1Ni2RsL_26FDx5xe_KZAPApju7uUvHz-y4OnG_mqsFiAineaA-8yriFwSJbjIthw4poBi2zwcG7_g5XUQKgkLT8V7bIBy-zCEogsExxXaegpA-KyYiv07snusC-5RA85dGafxJxh8gi0ZHG1q8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzwEBxCJF1-l0G_9N77RhdeSfcHcusveBT2frK6WcapZavS2MLqc1sPwucgYHF63C2G6oOY7deL6hRuWKUAox2m-nik2Fiv3BeBhaFYOpG-Jf96zBZPYVvBIaMYqYnToAnRK1f1Ni2RsL_26FDx5xe_KZAPApju7uUvHz-y4OnG_mqsFiAineaA-8yriFwSJbjIthw4poBi2zwcG7_g5XUQKgkLT8V7bIBy-zCEogsExxXaegpA-KyYiv07snusC-5RA85dGafxJxh8gi0ZHG1q8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing Alternative Film Movie Print Wall ...",
+        "url": "https://lens.google.com/goto?url=CAESqQEBxCJF17ikn0-CqbzlsjV4aXgYAL88JAqZE9p5kEnoGRiJ8RPYvFKH3LmUadMnycKVAwqsXf0utUSyp2OAgKwpzTtykSiOnwUlB8hRegNEmu05U7AqibHUGOtSJ1NThQPJChX4a19lr_Vc3MQd4XCuH6NwPdwpuOB6fbfpt2T_ur4UTe-WZpF0Onr9yLC0i29WBCGyxTkxDMXNehws9ND8Onfl78zkEniP&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqQEBxCJF17ikn0-CqbzlsjV4aXgYAL88JAqZE9p5kEnoGRiJ8RPYvFKH3LmUadMnycKVAwqsXf0utUSyp2OAgKwpzTtykSiOnwUlB8hRegNEmu05U7AqibHUGOtSJ1NThQPJChX4a19lr_Vc3MQd4XCuH6NwPdwpuOB6fbfpt2T_ur4UTe-WZpF0Onr9yLC0i29WBCGyxTkxDMXNehws9ND8Onfl78zkEniP&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Matarás – Filmes no Google Play",
+        "url": "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s?id=E504ABC08C3C3F46MV&hl=pt"
+      },
+      {
+        "title": "A Short Film about Killing 殺誡(1988) 160 **** – 電影、表演直觀",
+        "url": "https://lens.google.com/goto?url=CAESngEBxCJF15O9CmVnTjVr72pvu5BnLYmfhO_u3PlMaM-rPoHyndf_QmRdSVHi0ehipRbU0rDgmDCEtROwnQ_PZ6VRdOS6CxQ-VQnCBSG9a1ZYenuGpUOVxER6NLFUPlIRKSrUs39RSTYYTW_ACcqlR0CS2QxWtDBlma9xMIiNIOW_m5T5-lfXll--ugPwf1uzWC-nv2mXGl1InXI5njBD7A&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESngEBxCJF15O9CmVnTjVr72pvu5BnLYmfhO_u3PlMaM-rPoHyndf_QmRdSVHi0ehipRbU0rDgmDCEtROwnQ_PZ6VRdOS6CxQ-VQnCBSG9a1ZYenuGpUOVxER6NLFUPlIRKSrUs39RSTYYTW_ACcqlR0CS2QxWtDBlma9xMIiNIOW_m5T5-lfXll--ugPwf1uzWC-nv2mXGl1InXI5njBD7A&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski A Short Film About Killing \" Poster for ...",
+        "url": "https://lens.google.com/goto?url=CAESrgEBxCJF1-b8It1ojqbTUdjhYv4FWGyit28ECQBsqdcbI5BQl7pHHVYEn0kym_dmWVX3eg5Z0VtsG-LN7bY4EP5ou5KwS1wockdiaB0ilbGUStUHMg_87Mo85CVXyE1a7PfjFicomdc4mOv38tTuTZ8ZX12J4epaXcamn76VBELClsO8kPC3Ml1_olzTh8BsR_fXvSsLbv0EyLCLeObfmeYJfhna80bAhqeQ1CjZWIE&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrgEBxCJF1-b8It1ojqbTUdjhYv4FWGyit28ECQBsqdcbI5BQl7pHHVYEn0kym_dmWVX3eg5Z0VtsG-LN7bY4EP5ou5KwS1wockdiaB0ilbGUStUHMg_87Mo85CVXyE1a7PfjFicomdc4mOv38tTuTZ8ZX12J4epaXcamn76VBELClsO8kPC3Ml1_olzTh8BsR_fXvSsLbv0EyLCLeObfmeYJfhna80bAhqeQ1CjZWIE&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A SHORT FILM ABOUT KILLING- Limited to Japan promotion Mini ...",
+        "url": "https://lens.google.com/goto?url=CAESYgHEIkXXkD5ZXCL3S9PLHsAtXXJAZtYA50_-gPvIP66FyZf16HJEuQbonfil-kc6J0ETaMkzgDO6NFUBnC8U8rHyCnqF4tqU-T7_ySDevXgz67gAJITSBAMiT7vFFwCe6U2_&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYgHEIkXXkD5ZXCL3S9PLHsAtXXJAZtYA50_-gPvIP66FyZf16HJEuQbonfil-kc6J0ETaMkzgDO6NFUBnC8U8rHyCnqF4tqU-T7_ySDevXgz67gAJITSBAMiT7vFFwCe6U2_&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7QNQ9XruZv_OaJmwke3U0yStUasWJSDcBQw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film about Killing on Cinobo | Watch the film online",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXBRHAtLem8LrkjlCZwDDGMdIZJ8befRlxcX72OUCdsIwifVIDUvTQVi_GbuTSjae_CtgdI1_WCZQTwQJTMfhG8z_sVE9kHFZVnvDt0LGe-fb4qEcwt0QuID_hccwnq_W9nkqwEzammAPSGJAmTso&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXBRHAtLem8LrkjlCZwDDGMdIZJ8befRlxcX72OUCdsIwifVIDUvTQVi_GbuTSjae_CtgdI1_WCZQTwQJTMfhG8z_sVE9kHFZVnvDt0LGe-fb4qEcwt0QuID_hccwnq_W9nkqwEzammAPSGJAmTso&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5d0BW3uZmQ23MVJrrveQF50_LAUPvh2tdhA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Poster – Cinema Quad Posters",
+        "url": "https://lens.google.com/goto?url=CAESiwEBxCJF18nYq38FDpxjY-vEhNAxUerOKYW2FrnRb7pckcbLoZ6WSTAcWzsMO1qPPxaWHC9dpv4m8Lg1rrBgI50wbg4aD59s9i4vYppjiKzJuauKCs_GtkuZkqsjZyY7FjYodqhR3ugGAf-0sqY1gesgCrOz9nDNXj3B2k1T1JXjAVmmsZQQw21QNmeM&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiwEBxCJF18nYq38FDpxjY-vEhNAxUerOKYW2FrnRb7pckcbLoZ6WSTAcWzsMO1qPPxaWHC9dpv4m8Lg1rrBgI50wbg4aD59s9i4vYppjiKzJuauKCs_GtkuZkqsjZyY7FjYodqhR3ugGAf-0sqY1gesgCrOz9nDNXj3B2k1T1JXjAVmmsZQQw21QNmeM&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxiXHxT8mKFcN2rWOjFvtjbVGvrDXz1T0VTg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Matarás (1988) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXusL362PISkoXe8rS7KjY7Afq4iGp5crhwylXibc2Q6wAOA02x3tJv6XS_Nelue0fOrfUPwtTrBnxdQYfc8PiO1WZw-Nnl_mKBacLHtGI3TGGVo2iBd4k_PS4coVPFPFf&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXusL362PISkoXe8rS7KjY7Afq4iGp5crhwylXibc2Q6wAOA02x3tJv6XS_Nelue0fOrfUPwtTrBnxdQYfc8PiO1WZw-Nnl_mKBacLHtGI3TGGVo2iBd4k_PS4coVPFPFf&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFss_fhsllf2QxbZfZtnwkyAoah6e73WKJtQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Μικρή Ιστορία για ένα Φόνο (1988) hd greek trailer - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXQm0o9qYk1pX2EM19IczcFHFhodW9e8jmc0Attj5v7xWkg4I_Urfh0ou2VM3N4ftaHz3uQX1bk1ewUu6hhkGORwcQZA2LD4OU6jWR_VPRnA3ZLLbj8pXcEMLe01Aq_qLdo0Hj&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXQm0o9qYk1pX2EM19IczcFHFhodW9e8jmc0Attj5v7xWkg4I_Urfh0ou2VM3N4ftaHz3uQX1bk1ewUu6hhkGORwcQZA2LD4OU6jWR_VPRnA3ZLLbj8pXcEMLe01Aq_qLdo0Hj&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIu-6znE1fCFVnybu9oUMaoN8ShvRDxgMG1Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "En iyi Krzysztof Kieślowski filmleri | NTV Haber",
+        "url": "https://lens.google.com/goto?url=CAESuAEBxCJF12flxqBlSWtsbGhO---RMf2s_i-dl0NBz8jdDOyMhCQW70p81FYgsppNlJyYsBhdysmDUgnLmrc4fwaHez4BcbNJ2ir-mwcCS80a25n3k09qI5FmFkpChi0BCsZnA5kinXkVy96bjai7-qBimR3BqM2qsZ7XLZzq-l11lOcpewcg6_DlOtBE4hbcUb7WvRM2kfL3V-7CrPZpIhPGX9vHy1kiQtKWs45ejrsIQR6E1O4R79ab&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESuAEBxCJF12flxqBlSWtsbGhO---RMf2s_i-dl0NBz8jdDOyMhCQW70p81FYgsppNlJyYsBhdysmDUgnLmrc4fwaHez4BcbNJ2ir-mwcCS80a25n3k09qI5FmFkpChi0BCsZnA5kinXkVy96bjai7-qBimR3BqM2qsZ7XLZzq-l11lOcpewcg6_DlOtBE4hbcUb7WvRM2kfL3V-7CrPZpIhPGX9vHy1kiQtKWs45ejrsIQR6E1O4R79ab&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfdZLO1QPRWdjQqyKOeHaVxDn2VID5T2IzVA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing Alternative Film Movie Print Wall Art ...",
+        "url": "https://lens.google.com/goto?url=CAESqQEBxCJF17ikn0-CqbzlsjV4aXgYAL88JAqZE9p5kEnoGRiJ8RPYvFKH3LmUadMnycKVAwqsXf0utUSyp2OAgKwpzTtykSiOnwUlB8hRegNEmu05U7AqibHUGOtSJ1NThQPJChX4a19lr_Vc3MQd4XCuH6NwPdwpuOB6fbfpt2T_ur4UTe-WZpF0Onr9yLC0i29WBCGyxTkxDMXNehws9ND8Onfl78zkEniP&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqQEBxCJF17ikn0-CqbzlsjV4aXgYAL88JAqZE9p5kEnoGRiJ8RPYvFKH3LmUadMnycKVAwqsXf0utUSyp2OAgKwpzTtykSiOnwUlB8hRegNEmu05U7AqibHUGOtSJ1NThQPJChX4a19lr_Vc3MQd4XCuH6NwPdwpuOB6fbfpt2T_ur4UTe-WZpF0Onr9yLC0i29WBCGyxTkxDMXNehws9ND8Onfl78zkEniP&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScaKR5OL-aas96W4-XRFkelRvCCY2oVzDI1A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "326. TO KILL THE COMPETITION YOU HAVE TO KILL THE ...",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXxKUeldrlMpFa_4BjbreoVWB4oGQK2HLNAUIfyZ0uiwKS9A1fb2MF1MU1ymL-8_AmJSgbSs2VESqUNyb4hGzVq07E4xH6bCy_B-fX6OnR2ccVkLExFJeC025PiC7AEpAB&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXxKUeldrlMpFa_4BjbreoVWB4oGQK2HLNAUIfyZ0uiwKS9A1fb2MF1MU1ymL-8_AmJSgbSs2VESqUNyb4hGzVq07E4xH6bCy_B-fX6OnR2ccVkLExFJeC025PiC7AEpAB&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyGObpd73-wa5EqSPf_hrVxVypOfQZa5xmXQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Films of Krzysztof Kieslowski: A Short Film About ...",
+        "url": "https://lens.google.com/goto?url=CAESiQEBxCJF14z24ERt_PEOx56HAI-NDiutG9xdKsR0JWGNLw2TlJNHC-F-Vjt4UKEXoRqYIlGDPZKQk4Eyedr2q4ynBAbsxlvXaLsxKMiR5KvQYiM5OsFYHLrfZfmFxI27hmGAWg8dYWQ0lvQTivSdToHX7-ojKn4PMHQOg0PCfKADSlBE4qQNGonYIw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiQEBxCJF14z24ERt_PEOx56HAI-NDiutG9xdKsR0JWGNLw2TlJNHC-F-Vjt4UKEXoRqYIlGDPZKQk4Eyedr2q4ynBAbsxlvXaLsxKMiR5KvQYiM5OsFYHLrfZfmFxI27hmGAWg8dYWQ0lvQTivSdToHX7-ojKn4PMHQOg0PCfKADSlBE4qQNGonYIw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgJoPIJ2BxF5mkSPnPV-uGP5wMq5Suq_4EOQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski | TikTok",
+        "url": "https://lens.google.com/goto?url=CAEScQHEIkXXXPcqvp5x_woBW4G24I5n3DKR--KJISULKjb4FnJc86NpaptWA7agmdH7QyreTW0-VIMGm_0pZ94Pblq3cOo6tKGjz1FKjoJrf3ful-He7PCz89MdtBr_bZGKiYj8xs9mNAcXNqHzumuGRO5m&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScQHEIkXXXPcqvp5x_woBW4G24I5n3DKR--KJISULKjb4FnJc86NpaptWA7agmdH7QyreTW0-VIMGm_0pZ94Pblq3cOo6tKGjz1FKjoJrf3ful-He7PCz89MdtBr_bZGKiYj8xs9mNAcXNqHzumuGRO5m&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu29Lt367NFBlsruPvpeFt5mPpD8uvP6Misg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "\"Krzysztof Kieslowski A Short Film About Killing \" Poster for ...",
+        "url": "https://lens.google.com/goto?url=CAESrgEBxCJF1-b8It1ojqbTUdjhYv4FWGyit28ECQBsqdcbI5BQl7pHHVYEn0kym_dmWVX3eg5Z0VtsG-LN7bY4EP5ou5KwS1wockdiaB0ilbGUStUHMg_87Mo85CVXyE1a7PfjFicomdc4mOv38tTuTZ8ZX12J4epaXcamn76VBELClsO8kPC3Ml1_olzTh8BsR_fXvSsLbv0EyLCLeObfmeYJfhna80bAhqeQ1CjZWIE&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrgEBxCJF1-b8It1ojqbTUdjhYv4FWGyit28ECQBsqdcbI5BQl7pHHVYEn0kym_dmWVX3eg5Z0VtsG-LN7bY4EP5ou5KwS1wockdiaB0ilbGUStUHMg_87Mo85CVXyE1a7PfjFicomdc4mOv38tTuTZ8ZX12J4epaXcamn76VBELClsO8kPC3Ml1_olzTh8BsR_fXvSsLbv0EyLCLeObfmeYJfhna80bAhqeQ1CjZWIE&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNL55czu2gITN_hcxMYtXlgL4ikVYDx8RhbQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Amarás (1988) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXDG8GQLV3m0PdDU1ws02dOkGfp5YHBn_ChRkR_Dk0tjGE4u-C5QTw6wl9yXk_mtmNbWm-QkQF8puS7H9ZEy6HTvXKsRcFRTt4HRPSX5XPQ6CIVeOBm8z9xaOjVBhlyY4d&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXDG8GQLV3m0PdDU1ws02dOkGfp5YHBn_ChRkR_Dk0tjGE4u-C5QTw6wl9yXk_mtmNbWm-QkQF8puS7H9ZEy6HTvXKsRcFRTt4HRPSX5XPQ6CIVeOBm8z9xaOjVBhlyY4d&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTC2KfUQyuQkt7Ub0pLGtEmRrrSLHzPg5tfw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing - ricpiks",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXujVl1Zp5Fmj_hEGSJoyQk-pEEF032St0kO51QVo27UHftC9YsnnLkeMCZzTDlY045DX45p-4xPvYb_V41_qv_48fDAgbek4vr81YCjBtEzKB3QE6OeTZVqxj9TVvPhb_rZpfpx2bQw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXujVl1Zp5Fmj_hEGSJoyQk-pEEF032St0kO51QVo27UHftC9YsnnLkeMCZzTDlY045DX45p-4xPvYb_V41_qv_48fDAgbek4vr81YCjBtEzKB3QE6OeTZVqxj9TVvPhb_rZpfpx2bQw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHVUGMkMsNDm-gHWCx8jaWvacgOS6XMvKxAg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: A Short Film About Killing",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXgwzgLGEZF8BBkbykAHWbOlc1gpoI6Mnsgogm5arDApNj70yzQN4Kn9mi_-iVo_Api7K7FeZpt6qv9OS1877jn8PeFEPsJ00tdEi5PFgh4bM2X2BwQcZEVbPjLUKpN1Q5Vx0QFTpKjfUoYhuGZ-1yOgwp_BxRKS_NhA&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXgwzgLGEZF8BBkbykAHWbOlc1gpoI6Mnsgogm5arDApNj70yzQN4Kn9mi_-iVo_Api7K7FeZpt6qv9OS1877jn8PeFEPsJ00tdEi5PFgh4bM2X2BwQcZEVbPjLUKpN1Q5Vx0QFTpKjfUoYhuGZ-1yOgwp_BxRKS_NhA&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdlHXtvLx2rWkGYJ1tqw5X5WP5WvQpvuyoPg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Power doesn't protect innocence. Gangster's Daughter 3 shows ...",
+        "url": "https://lens.google.com/goto?url=CAES0QEBxCJF10i9O_w4Zb1u4iFl30UHuzdZ-KqdO2ZR41jjfNAcdeKgYdyu_0DQC_G2_jyiD-6m0NkUb4QZXdZF9qNzLptJ-lYaSs_EoTB46bvRElfm3_1JcB1AyRGddXm5L5ytJl8t8T-oKWFiKBCGi4-eI_ol7WJgiy45C2jYaJcFeHRun0DEdQ2U4CThZApI-Kei7DZN9-WwyhNOBHk0tk1RRw1FV0SWOghH741KMo7zp6l1mjGjioDAnpDkHL5cbLEglrkA-XaKGIXiXAhTRUkB-A&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES0QEBxCJF10i9O_w4Zb1u4iFl30UHuzdZ-KqdO2ZR41jjfNAcdeKgYdyu_0DQC_G2_jyiD-6m0NkUb4QZXdZF9qNzLptJ-lYaSs_EoTB46bvRElfm3_1JcB1AyRGddXm5L5ytJl8t8T-oKWFiKBCGi4-eI_ol7WJgiy45C2jYaJcFeHRun0DEdQ2U4CThZApI-Kei7DZN9-WwyhNOBHk0tk1RRw1FV0SWOghH741KMo7zp6l1mjGjioDAnpDkHL5cbLEglrkA-XaKGIXiXAhTRUkB-A&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfGa0-pKLycEndMw9Gh5vfcWVHvAzb4HdJjA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXUhLotBxfiyo5EfgrceuDbrcl_0U3imhOGB9oGZwIEPpE_cXcW05JRlm2DT69KLCgcs9htaVVQ16NhLJFKgf0mj9bPFKaSE3bSpkero4HFKqhHjNE-m4GyjBmaCNeLRe5MxKL&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXUhLotBxfiyo5EfgrceuDbrcl_0U3imhOGB9oGZwIEPpE_cXcW05JRlm2DT69KLCgcs9htaVVQ16NhLJFKgf0mj9bPFKaSE3bSpkero4HFKqhHjNE-m4GyjBmaCNeLRe5MxKL&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZWY_eNTkJEZHHNTyPiYOxbg5aVRkR9cDlGA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Matarás (Filme), Trailer, Sinopse e Curiosidades - Cinema10",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXX2KZ0Ie4d4fm5XCeiooyJDeYbQe6juDT1gOfy9P0ReRd4jHo_BP7-GXWn9fUToOCDdd_JCnVqwVqFDALXi3nZc4DEK4qpyXfOQ0Kbugb0OftGucagzfGk7EzPL_bPqJTsyQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXX2KZ0Ie4d4fm5XCeiooyJDeYbQe6juDT1gOfy9P0ReRd4jHo_BP7-GXWn9fUToOCDdd_JCnVqwVqFDALXi3nZc4DEK4qpyXfOQ0Kbugb0OftGucagzfGk7EzPL_bPqJTsyQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtPsvzbJDGO3R6TrQPmpKWUY_7Gx0geP6P_Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski, diretor de 'Trilogia das Cores', ganha ...",
+        "url": "https://lens.google.com/goto?url=CAESxQEBxCJF19UyuPuDOyOgnabk1DEcZ5LfXwwWf2j30gowKI8XQKj_S1UBPhYmNLYBsrtN1ob9NgKUCZUGzR_v7CM1OIjeqT09yPB4I5djqw_RC2c8-hXMUDOgrj-yeFcTlvsl9e7-8w3ZmulMmj5p0PuMFFQF4a7rUbdA55Oa9KhWfWeDr09puykxvukFV-h8MUFGtej59W52SgB7JI19ghwiZvKgPGbB_lgO3igSsOeA2B9fzrbtSl-RMmRPFYFcZHDHj3DNFg&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESxQEBxCJF19UyuPuDOyOgnabk1DEcZ5LfXwwWf2j30gowKI8XQKj_S1UBPhYmNLYBsrtN1ob9NgKUCZUGzR_v7CM1OIjeqT09yPB4I5djqw_RC2c8-hXMUDOgrj-yeFcTlvsl9e7-8w3ZmulMmj5p0PuMFFQF4a7rUbdA55Oa9KhWfWeDr09puykxvukFV-h8MUFGtej59W52SgB7JI19ghwiZvKgPGbB_lgO3igSsOeA2B9fzrbtSl-RMmRPFYFcZHDHj3DNFg&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrF8HGbZV8BBiAu24cHpzeBUDZIx7c9N-KGA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: A Short Film About Killing",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXgwzgLGEZF8BBkbykAHWbOlc1gpoI6Mnsgogm5arDApNj70yzQN4Kn9mi_-iVo_Api7K7FeZpt6qv9OS1877jn8PeFEPsJ00tdEi5PFgh4bM2X2BwQcZEVbPjLUKpN1Q5Vx0QFTpKjfUoYhuGZ-1yOgwp_BxRKS_NhA&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXgwzgLGEZF8BBkbykAHWbOlc1gpoI6Mnsgogm5arDApNj70yzQN4Kn9mi_-iVo_Api7K7FeZpt6qv9OS1877jn8PeFEPsJ00tdEi5PFgh4bM2X2BwQcZEVbPjLUKpN1Q5Vx0QFTpKjfUoYhuGZ-1yOgwp_BxRKS_NhA&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROF3TpynyKJn2y83M1Ky5Yi1jlLbP4g0MzVw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Filmes do Kieślowski | Lista | Filmow",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXNtDPNpWj_GbVLZmAKhlnOaj9Q6Xo11lkRBDEYgMEnYDZ5l3WV_WuCHhI6iZQSqgMFXMqsk8WZgEuzQYjSe8lW6410oKjz8Vxj4Bi-lp-9nf0yqM0cmnOdhlYmZRsvrdtSHSrPvD8fbu6-lEtzf8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXNtDPNpWj_GbVLZmAKhlnOaj9Q6Xo11lkRBDEYgMEnYDZ5l3WV_WuCHhI6iZQSqgMFXMqsk8WZgEuzQYjSe8lW6410oKjz8Vxj4Bi-lp-9nf0yqM0cmnOdhlYmZRsvrdtSHSrPvD8fbu6-lEtzf8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnFthLz1BFoJRq8N8fqkkqL7Bo_ux5wtig9Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Imovision",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXXXAN1Mtoax2VhtIXVUwK5lVYyoL4-USIiVemMr6LxFEx3Fsmen--McAzD5ndKFi2gZxyaeWVb5obyq30_TWVVEzePX0bC_QnWlJ7P1rE_ylToQFZGtYOTBkTDhw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXXXAN1Mtoax2VhtIXVUwK5lVYyoL4-USIiVemMr6LxFEx3Fsmen--McAzD5ndKFi2gZxyaeWVb5obyq30_TWVVEzePX0bC_QnWlJ7P1rE_ylToQFZGtYOTBkTDhw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-HLwQdKx9aph2G5r9df390LAUutj5ezJ9yA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Coleção MUBI: KRZYSZTOF KIEŚLOWSKI: TRILOGIA DAS CORES | MUBI",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXX4Og6VZfzQ49kseFa3FT053w9_WhjWj9OA_4pzX8VfJUNF-t6-vFK87OMyPaEdNMhNyP4gHuwjeYCXpp6NXGnyfAkuLCZhr-BqcPLEx5NcSpBxxNpswctypx9TfBvWxlencpZh_U&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXX4Og6VZfzQ49kseFa3FT053w9_WhjWj9OA_4pzX8VfJUNF-t6-vFK87OMyPaEdNMhNyP4gHuwjeYCXpp6NXGnyfAkuLCZhr-BqcPLEx5NcSpBxxNpswctypx9TfBvWxlencpZh_U&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1P24ktgP5BcDSErPHdMUcGM5f7TG8PpOUQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Amarás / Krotki Film o Milosci – + de 50 Anos de Filmes",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF14sQkBMieQc5Z9PO4XsIeT262eHUJSpXNhukGYafUwfHJV6daN-BaB6LIvpnu8qVL_GWdRQ7Mv0Ztd6X3_4OZfVGxkfkHqoCS80rBgbGEsMAhADO97hHPi0QUQgzHPQ9265eI7CQ3OjA2pKVBSFJI3WDW8xezY_nRf7YKyQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF14sQkBMieQc5Z9PO4XsIeT262eHUJSpXNhukGYafUwfHJV6daN-BaB6LIvpnu8qVL_GWdRQ7Mv0Ztd6X3_4OZfVGxkfkHqoCS80rBgbGEsMAhADO97hHPi0QUQgzHPQ9265eI7CQ3OjA2pKVBSFJI3WDW8xezY_nRf7YKyQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrXrhSYAXU2gJY1ruMUSuS1IZi1CxoZToU_A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Filmes dirigidos por Krzysztof Kieslowski * Melhores Filmes",
+        "url": "https://lens.google.com/goto?url=CAESfQHEIkXXNPcLrCs5mSJsLItsJ2i1nnyQzQ7EldpD2_Hs9hLsLfKzzniSO6EMkl7T-jKpRUl5ZR7DLGC28upiCoVcOJDCnjYQV5WqhbSGrs7EX2C6a_nqPbdNE3641UY4C7XND6DlPauzBTzjZCFveL31DelREN7PYisLHCJW&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfQHEIkXXNPcLrCs5mSJsLItsJ2i1nnyQzQ7EldpD2_Hs9hLsLfKzzniSO6EMkl7T-jKpRUl5ZR7DLGC28upiCoVcOJDCnjYQV5WqhbSGrs7EX2C6a_nqPbdNE3641UY4C7XND6DlPauzBTzjZCFveL31DelREN7PYisLHCJW&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7qSomOHjobWQTSQ_zQt30Ab5YOkfQyXgTqg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "杀人短片(1988) - 标志— The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESqQEBxCJF10QCGGBm7ZiwEc3LJ52ynsRoSC4nt50cE6TY3-h90uE0AMk_aOTncZ8d837pAGyAZcbv4YPrMXx9NKr_WfjsbQWdBtWN3XkoE3tcmJwnQzXFmbjGC3HVvDSVoBNGyG8O15BlcZ4zM1Ek8YVq08JS4ptdsjuCcqbfIazSSe5DB38VeiTki-SusK9WHCOVOuWed3Z4GREzrytOAZgHz_dabDdAPqAD&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqQEBxCJF10QCGGBm7ZiwEc3LJ52ynsRoSC4nt50cE6TY3-h90uE0AMk_aOTncZ8d837pAGyAZcbv4YPrMXx9NKr_WfjsbQWdBtWN3XkoE3tcmJwnQzXFmbjGC3HVvDSVoBNGyG8O15BlcZ4zM1Ek8YVq08JS4ptdsjuCcqbfIazSSe5DB38VeiTki-SusK9WHCOVOuWed3Z4GREzrytOAZgHz_dabDdAPqAD&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwiP8stQPm2XyHS8le6F-TMPOz5iEm7DgzPw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing Alternative Film Movie Print Wall ...",
+        "url": "https://lens.google.com/goto?url=CAESqQEBxCJF17ikn0-CqbzlsjV4aXgYAL88JAqZE9p5kEnoGRiJ8RPYvFKH3LmUadMnycKVAwqsXf0utUSyp2OAgKwpzTtykSiOnwUlB8hRegNEmu05U7AqibHUGOtSJ1NThQPJChX4a19lr_Vc3MQd4XCuH6NwPdwpuOB6fbfpt2T_ur4UTe-WZpF0Onr9yLC0i29WBCGyxTkxDMXNehws9ND8Onfl78zkEniP&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqQEBxCJF17ikn0-CqbzlsjV4aXgYAL88JAqZE9p5kEnoGRiJ8RPYvFKH3LmUadMnycKVAwqsXf0utUSyp2OAgKwpzTtykSiOnwUlB8hRegNEmu05U7AqibHUGOtSJ1NThQPJChX4a19lr_Vc3MQd4XCuH6NwPdwpuOB6fbfpt2T_ur4UTe-WZpF0Onr9yLC0i29WBCGyxTkxDMXNehws9ND8Onfl78zkEniP&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMAEz_mqQSD_avF51LkEG2VARHa8VbgQxglQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Imovision",
+        "url": "https://lens.google.com/goto?url=CAESYAHEIkXXXAN1Mtoax2VhtIXVUwK5lVYyoL4-USIiVemMr6LxFEx3Fsmen--McAzD5ndKFi2gZxyaeWVb5obyq30_TWVVEzePX0bC_QnWlJ7P1rE_ylToQFZGtYOTBkTDhw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYAHEIkXXXAN1Mtoax2VhtIXVUwK5lVYyoL4-USIiVemMr6LxFEx3Fsmen--McAzD5ndKFi2gZxyaeWVb5obyq30_TWVVEzePX0bC_QnWlJ7P1rE_ylToQFZGtYOTBkTDhw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Zu-LNO37ARTLBiCgUrhtcGjlugHUfRV8pw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "In Memoriam :: Krzysztof Kieslowski (1941-1996) - Papo de Cinema",
+        "url": "https://lens.google.com/goto?url=CAESkgEBxCJF1yuSfPdwEZVvt3Wth004hy-LRe14ACT-UqJcZxdXUNLgPU0tHQa7GqSHWbLbS7XVBUuNgKrw40ksybfn4EPHi8K8_gMXwG5tz-dE0m-hPzDFxcMKIkhw9xDFu8uVX3rCFIW3n2IuUdv9xKhLD1dedNeVMGw1mdePses7sGHtspJ883ZITC1VjzkFtj-pgQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkgEBxCJF1yuSfPdwEZVvt3Wth004hy-LRe14ACT-UqJcZxdXUNLgPU0tHQa7GqSHWbLbS7XVBUuNgKrw40ksybfn4EPHi8K8_gMXwG5tz-dE0m-hPzDFxcMKIkhw9xDFu8uVX3rCFIW3n2IuUdv9xKhLD1dedNeVMGw1mdePses7sGHtspJ883ZITC1VjzkFtj-pgQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRd9DqAjQ0FAbL9FhetY-ZkJe6nDwxAuM7lw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieślowski – Wikipédia, a enciclopédia livre",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXuzWpKAG9MsmM6lrMkIZt2LM5RzqBpwRpmLCx1VZj0KLmV8QMXXNaGH7iL85NrImMaL1S2tEBW6mzn12AyacjMQWOx44Lp-wOWOCxqxmzQ368rE2AbdVZUgmL3gWUz_WZDAyWQ-_GdEiqSwvtOFWn&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXuzWpKAG9MsmM6lrMkIZt2LM5RzqBpwRpmLCx1VZj0KLmV8QMXXNaGH7iL85NrImMaL1S2tEBW6mzn12AyacjMQWOx44Lp-wOWOCxqxmzQ368rE2AbdVZUgmL3gWUz_WZDAyWQ-_GdEiqSwvtOFWn&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGSmMfILlxJIp_t2RJdHanTJiRjC2nzF3KpA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "7 filmes para entender Kieślowski - Set por Sete",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXEZsqd8fWxrgI_gKWPhxh1rMwXpwjFEUwwhqDeewI2WDq5cNlKoELVLErsKqh_dAMmc7c6VFOWynrCC6l0IvMBqPKZH_wwvdlhzSbFDm3fREnCPZEY6Gk3IFNhxrrfLq1MNjYfeOVdz--MmBSbwRhhmNg9T8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXEZsqd8fWxrgI_gKWPhxh1rMwXpwjFEUwwhqDeewI2WDq5cNlKoELVLErsKqh_dAMmc7c6VFOWynrCC6l0IvMBqPKZH_wwvdlhzSbFDm3fREnCPZEY6Gk3IFNhxrrfLq1MNjYfeOVdz--MmBSbwRhhmNg9T8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWvOAwZy65mRYsbdyfHvHz6gIMtxWqXN3izA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A Short Film About Killing (1988) - Krzysztof Kieslowski ...",
+        "url": "https://lens.google.com/goto?url=CAEShgEBxCJF19ikiOppbFzmRZyUfyiBWMqV5c-TxVqMj-8A0JKLwqeCpBm70eh_9CYEyOw5BVtvspmjwlhISuqr7COXTr-7N1dnQFBqTj_9_vuhdAJ98kxJSw9iX_X_kW3uOLnIAFzF2o_vajQWfblyILE6woIsxRnXcVn4HeFcBqMK1Y7iBDEXyQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShgEBxCJF19ikiOppbFzmRZyUfyiBWMqV5c-TxVqMj-8A0JKLwqeCpBm70eh_9CYEyOw5BVtvspmjwlhISuqr7COXTr-7N1dnQFBqTj_9_vuhdAJ98kxJSw9iX_X_kW3uOLnIAFzF2o_vajQWfblyILE6woIsxRnXcVn4HeFcBqMK1Y7iBDEXyQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQocUPFoYq3qeImm3W4vAbhQir2VIZ4uzt2hA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski – Cinematographe",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF1x6ps7GmvPz1nnZtwVm3zRu_EvsC1x2-gqhxTiw52hyOkVeC8yYsPBLfAwqkJvxIghfsVLXfShgV8Ux6jf9V5Xz-5zAXjxt36nx2_WCD7fNO2EcyW-2F-F39L9aNbv9-fGkmEZB2_AParwMl6N_Ny2iY5M3jTs32AsaiZAKIFPwBNaw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF1x6ps7GmvPz1nnZtwVm3zRu_EvsC1x2-gqhxTiw52hyOkVeC8yYsPBLfAwqkJvxIghfsVLXfShgV8Ux6jf9V5Xz-5zAXjxt36nx2_WCD7fNO2EcyW-2F-F39L9aNbv9-fGkmEZB2_AParwMl6N_Ny2iY5M3jTs32AsaiZAKIFPwBNaw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH6zNztFTGqq9-qjKX85Js6TRutBtepc7vYw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski — Filmografia | A Casa do Colecionador",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXz6E9sXw3-QiePYeJrMaDXPWcr7KH1KUfIcbiJuEyuA9QHv2ajaHZLivwOUexlDqXh2uExj_H8B_WdhNYnYLRtzc68fCE5LR15_cCO3QlRuEnrcFVnyMr0uiq9IlIi-Mwyifz-7NrNF4w7_c66iJvNqK_ejE&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXz6E9sXw3-QiePYeJrMaDXPWcr7KH1KUfIcbiJuEyuA9QHv2ajaHZLivwOUexlDqXh2uExj_H8B_WdhNYnYLRtzc68fCE5LR15_cCO3QlRuEnrcFVnyMr0uiq9IlIi-Mwyifz-7NrNF4w7_c66iJvNqK_ejE&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9EQhDL7y7YeuPMJ1NwysedO228CRaOGFkVg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Um dos cineastas mais relevantes do cinema europeu do final ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXwxAw2UOeByBGY_1XYNtwGcgK-PnKJQsawf2K3j5Zfd3TPHZrJr87YElHBX-7E-du7Hm7jdehEThcIgu-PpHBzdaGgINTkGbSVI8sjTJRsimILZQKL7bwtx-dkAT2npKyuwvq&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXwxAw2UOeByBGY_1XYNtwGcgK-PnKJQsawf2K3j5Zfd3TPHZrJr87YElHBX-7E-du7Hm7jdehEThcIgu-PpHBzdaGgINTkGbSVI8sjTJRsimILZQKL7bwtx-dkAT2npKyuwvq&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQj3pTcvzgZXMAVyH9P6bNkVWWfs4r1lgFgg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski | Filmow",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXw3nInUDf_GaeC_n9CFJaVRa39m0USbNluv1_qvGgix5bgB923p9q4J2jMSTxeH64G_X8gj_hdVRRBWGfo9clNovaUzsv2-lJNd9Nyci0A88fJd4wWMrK4v8SZh-MUyKI3Tae1kswng&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXw3nInUDf_GaeC_n9CFJaVRa39m0USbNluv1_qvGgix5bgB923p9q4J2jMSTxeH64G_X8gj_hdVRRBWGfo9clNovaUzsv2-lJNd9Nyci0A88fJd4wWMrK4v8SZh-MUyKI3Tae1kswng&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOV40H1pJ0jpeP9Ln4n5fO6kFc3lHwVIn6wg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "De films van Kieślowski | Eye Filmmuseum",
+        "url": "https://lens.google.com/goto?url=CAESiQEBxCJF1_s-_IASJScMA5japQudJlbLBckDHY7IcIqO8bHP_X9NbE16Na3RRlnmvwavDwVFW6W6x-_bWbZrKO4uwoRnb7YGNP5S8Xij3wJxrWTJcgl_LsKu3HS6i564wcI4-mHpR1NWsrJZP9BgSL6PoCuwT1Wouu9UwUGMzWPZkxhHcGmwUyLRUw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiQEBxCJF1_s-_IASJScMA5japQudJlbLBckDHY7IcIqO8bHP_X9NbE16Na3RRlnmvwavDwVFW6W6x-_bWbZrKO4uwoRnb7YGNP5S8Xij3wJxrWTJcgl_LsKu3HS6i564wcI4-mHpR1NWsrJZP9BgSL6PoCuwT1Wouu9UwUGMzWPZkxhHcGmwUyLRUw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNiJbrA8OKRAhMQ6BcJqX9IuCvr3_0Rs1Arg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieslowski - Papo de Cinema",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXX9OhbCAkaB36KsiILKRye5KUwFKqLjmSwidFyx4wtv_ZBVWo4AwH9ltQeNk9oGF_yzPMbzjvrlovcw6vLGfq8Qq6C35ZfqP8-MNjiaaYvBej_Kd1wi2v8kItwXu0eHXNeDuJHj6O-fpEU8yaTvtqHdh5gt7xZcQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXX9OhbCAkaB36KsiILKRye5KUwFKqLjmSwidFyx4wtv_ZBVWo4AwH9ltQeNk9oGF_yzPMbzjvrlovcw6vLGfq8Qq6C35ZfqP8-MNjiaaYvBej_Kd1wi2v8kItwXu0eHXNeDuJHj6O-fpEU8yaTvtqHdh5gt7xZcQ&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfUEirhuSGmVeTUA_e3KYLrvggGbfqbXAvCg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieślowski: Movies, TV, and Bio",
+        "url": "https://lens.google.com/goto?url=CAEStAEBxCJF1_L4Vm82FSq0n8SEeM8ogcJNQ71g7pdtbOVutQpT3XNCnvezgbXb9irW4m84U6POCY-Cd7QY6PTe2PHyzV1EI_JWMUzonAT8ZhB7S73zcjOx7Cp45C3lgClBxNO594ajiHXfEziZQp5u_yHkDKhtUvxmql4Ex4yi2P5zkH6cQEdlgirAqNQivPn2EQQQnBfw60jK3iGoS2YLbJyNgAYtw9PfqBwG12eBBJ_zyunKLRw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEStAEBxCJF1_L4Vm82FSq0n8SEeM8ogcJNQ71g7pdtbOVutQpT3XNCnvezgbXb9irW4m84U6POCY-Cd7QY6PTe2PHyzV1EI_JWMUzonAT8ZhB7S73zcjOx7Cp45C3lgClBxNO594ajiHXfEziZQp5u_yHkDKhtUvxmql4Ex4yi2P5zkH6cQEdlgirAqNQivPn2EQQQnBfw60jK3iGoS2YLbJyNgAYtw9PfqBwG12eBBJ_zyunKLRw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNFua8YXXMTWiQ-aGdPHcncfI4Gm0tNKs9Ag&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Kieslowski's 'A Short Film About Killing' review",
+        "url": "https://lens.google.com/goto?url=CAESgwEBxCJF14qZ-lSPPxZWRvn9OcEJDyQxnNLxog5k0p5DvDO3zmH3hZ2_Rqmwn8FE5Ob8DI_c4kaeBVPLmz6sNtfhiE3OelcBXLYr0VhdwJK7rP7-WdbOgOnO6EkXizgtByNLVFJVTNdRvPWx75CTtYxsl2Dh60iqkRojP93kYnjnLq7mQw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgwEBxCJF14qZ-lSPPxZWRvn9OcEJDyQxnNLxog5k0p5DvDO3zmH3hZ2_Rqmwn8FE5Ob8DI_c4kaeBVPLmz6sNtfhiE3OelcBXLYr0VhdwJK7rP7-WdbOgOnO6EkXizgtByNLVFJVTNdRvPWx75CTtYxsl2Dh60iqkRojP93kYnjnLq7mQw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPtlW-EXVKi7oQGie2WGzSobiKAmHjEPtntw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Coleção Krzysztof Kieślowski",
+        "url": "https://lens.google.com/goto?url=CAESggEBxCJF14t97eqDPgiwWZXe1KoL03gFE_4eUj6H9E1Bv_1Rp2ESen_-A-uGMTwy-GKq_LoOKXs1AedEIqtxMu8exEMk3h17fP5u5jl_o8wgFjq-kMB2G7liYPw9MUtN1wPgwm10F76H_r3aafABAuXqEgmNlDBQ5WWUBFoRP4n3YCN8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESggEBxCJF14t97eqDPgiwWZXe1KoL03gFE_4eUj6H9E1Bv_1Rp2ESen_-A-uGMTwy-GKq_LoOKXs1AedEIqtxMu8exEMk3h17fP5u5jl_o8wgFjq-kMB2G7liYPw9MUtN1wPgwm10F76H_r3aafABAuXqEgmNlDBQ5WWUBFoRP4n3YCN8&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOMzoXtqo4DdGxLKPfmPXS0BWI15k02x81mw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Trailers do filme Stop Making Sense - Ingresso.com",
+        "url": "https://lens.google.com/goto?url=CAESqAEBxCJF1wcN4KjRDGAekegDulXyEyOZVehUscT47qYu43NBZ8xi9QQJabmuZKQ8vpGSiHSrNk73bmVcCNndQDTIiHTZW7mgLynJGGJqhE5c42VUUnlp7o_op1zc3mU68Grq7LGfCBIuEduc4Zz8xOMKlgFWe_OtjSQ6DV0Opqs_DJKGBt7DBGnhHdbGUkoIdEJPwf_xRupFhtWr1Wo-Vjh_ingT3gH8700&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESqAEBxCJF1wcN4KjRDGAekegDulXyEyOZVehUscT47qYu43NBZ8xi9QQJabmuZKQ8vpGSiHSrNk73bmVcCNndQDTIiHTZW7mgLynJGGJqhE5c42VUUnlp7o_op1zc3mU68Grq7LGfCBIuEduc4Zz8xOMKlgFWe_OtjSQ6DV0Opqs_DJKGBt7DBGnhHdbGUkoIdEJPwf_xRupFhtWr1Wo-Vjh_ingT3gH8700&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT61_WsW84mZSgIawvXD5HYMNfkD05ovm4Lpg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Tudo Sobre a Mostra Krzysztof Kieslowski | Vertentes do Cinema",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF15ZLwg9aOdRtbcNI5NswCGY1K49r07ZMDeXYtNuH1EPlIVjG2qZPTYyp2CGgSUKjtMRWWIzPe1Gz-xuxl-6qlTM8JXj3xTgb4S5Gl4MgwWSu9lJeGO4-g2kLAOcwO58M2ECX0KBeMwwWtEw6rXGdu8O-zk2ha6P8F94KmxPH1Xw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF15ZLwg9aOdRtbcNI5NswCGY1K49r07ZMDeXYtNuH1EPlIVjG2qZPTYyp2CGgSUKjtMRWWIzPe1Gz-xuxl-6qlTM8JXj3xTgb4S5Gl4MgwWSu9lJeGO4-g2kLAOcwO58M2ECX0KBeMwwWtEw6rXGdu8O-zk2ha6P8F94KmxPH1Xw&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQioZl7J5s4BWQ21bUOpW22FmLh8Uk3E-9EHg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Imovision",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXOW4tY_IXcAQqRv1jUnBkdZr1evPcpVabr0BAV5PJQ_qC6Jsq9yXk_sJgpivrt97qRAxvnO5fUy0depp9dN2Fl0FEwUUTDFq47jj5QXvSuTRISvVm0Ex28TP1yyDq19Ip_cpQ1X37LisCYZ4eOKs&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXOW4tY_IXcAQqRv1jUnBkdZr1evPcpVabr0BAV5PJQ_qC6Jsq9yXk_sJgpivrt97qRAxvnO5fUy0depp9dN2Fl0FEwUUTDFq47jj5QXvSuTRISvVm0Ex28TP1yyDq19Ip_cpQ1X37LisCYZ4eOKs&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdDs_748-DTUqzH3JyHt2ZO88DsFdnDysokQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Krzysztof Kieślowski: migratory filmmaker | Europeana",
+        "url": "https://lens.google.com/goto?url=CAESiQEBxCJF1zFzSJJstk9ihMqs8u3y0LGzYD3aV4ds5Vr4LAT39RbjU5AQ8qMsLUwOe7J9fs9tlKtFqOHFxFeoB5A0JmCePX1rCOdnlpf78OLcgCJp_OyzFj9oKKNPtUOfV7YzeEr6LDsfvrUz0pwdVQY-ZlJxdYNJtbVZY3OwlIv2AES-8fWR-a3fyg&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiQEBxCJF1zFzSJJstk9ihMqs8u3y0LGzYD3aV4ds5Vr4LAT39RbjU5AQ8qMsLUwOe7J9fs9tlKtFqOHFxFeoB5A0JmCePX1rCOdnlpf78OLcgCJp_OyzFj9oKKNPtUOfV7YzeEr6LDsfvrUz0pwdVQY-ZlJxdYNJtbVZY3OwlIv2AES-8fWR-a3fyg&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTazbBm_tiVwGBRGUvJgzNUOis0Y4aKemb1zw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Where to Watch A Short Film About Killing (1988) - Plex",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXQ-vbtfn7ethLCubFIlI5uHWgUjXfFn8PSq-pIjX-SXr6sA_baQIkcfgi6-vemW1wnvTuXQOptQMkBrczX-w_XlXjzQacJwclJf9UVj7dzs9MBzXo6E6j1_0mQiKn38Qjytoe-n0ul_-9FhtnZb0&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXQ-vbtfn7ethLCubFIlI5uHWgUjXfFn8PSq-pIjX-SXr6sA_baQIkcfgi6-vemW1wnvTuXQOptQMkBrczX-w_XlXjzQacJwclJf9UVj7dzs9MBzXo6E6j1_0mQiKn38Qjytoe-n0ul_-9FhtnZb0&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT93cz49Erg40Sm38MGIoO2VtqJggVCBnrZtw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Não Amarás (1988) - IMDb",
+        "url": "https://lens.google.com/goto?url=CAESZQHEIkXXDG8GQLV3m0PdDU1ws02dOkGfp5YHBn_ChRkR_Dk0tjGE4u-C5QTw6wl9yXk_mtmNbWm-QkQF8puS7H9ZEy6HTvXKsRcFRTt4HRPSX5XPQ6CIVeOBm8z9xaOjVBhlyY4d&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZQHEIkXXDG8GQLV3m0PdDU1ws02dOkGfp5YHBn_ChRkR_Dk0tjGE4u-C5QTw6wl9yXk_mtmNbWm-QkQF8puS7H9ZEy6HTvXKsRcFRTt4HRPSX5XPQ6CIVeOBm8z9xaOjVBhlyY4d&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5A7lFGw3a1jpskE4QCGoMLdKbDouAPizfgQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Films of Krzysztof Kieslowski: The Liminal Image by ...",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF1xi0ghjR01tN8ymetrmDjiuPSZvlZctCOWhXWcV7EKD3FlEjKPDk4jSWhx2JHLfvH8Em3Js6HLaaoQy_mypjvtLJNocQ4nC6kUsJZwmSS0m8NqQjL7pHtF1kpXYlPn9ZrumXEyfqdAOVpoSFf-v8tSgVaUgVCNaZYE50iUQncFnxmXA3&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF1xi0ghjR01tN8ymetrmDjiuPSZvlZctCOWhXWcV7EKD3FlEjKPDk4jSWhx2JHLfvH8Em3Js6HLaaoQy_mypjvtLJNocQ4nC6kUsJZwmSS0m8NqQjL7pHtF1kpXYlPn9ZrumXEyfqdAOVpoSFf-v8tSgVaUgVCNaZYE50iUQncFnxmXA3&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWIok9Nn0Crr0tTxwHrqbeSy1JXoOjIl_m5w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Crítica | Curtas de Krzysztof Kieslowski - Plano Crítico",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF19FaHMsn3D3OLbNya1HpC56sSabY-qbV8hzGv1ihXjKpib7RgmViAojGCJzUj0Xym3le_UhrfqgXDZDkVDUl2HsOKjgAT0eTAFoyp5yPQtzwPETlP-6O_7v58zud_M1ic3_RrryBc7ipL0-akP_vj26O8UBdTeROAiQMwiU&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF19FaHMsn3D3OLbNya1HpC56sSabY-qbV8hzGv1ihXjKpib7RgmViAojGCJzUj0Xym3le_UhrfqgXDZDkVDUl2HsOKjgAT0eTAFoyp5yPQtzwPETlP-6O_7v58zud_M1ic3_RrryBc7ipL0-akP_vj26O8UBdTeROAiQMwiU&gsessionid=xLhLQ5l3C2DoylTt3wdWwzUlA2uAx73aFziLLi0fVHuZ2cb_BcfFCw"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEnPiLHVgPrK5Kl-pYSYW_1Jfb1TSxBo0X1Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 61,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 58,
+            "raw_result_count": 58,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 56,
+              "play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s": 2
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 58,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 56,
+          "play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s": 2
+        },
+        "exact_matches_result_count": 58,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 58,
+        "google_goto_candidates": 56,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 56,
+        "google_goto_direct_urls_kept": 2,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 58,
+        "google_wrapper_count": 56,
+        "google_goto_url_count": 56,
+        "result_url_paths": {
+          "lens.google.com/goto": 56,
+          "play.google.com/store/movies/details/n%c3%a3o_matar%c3%a1s": 2
+        },
+        "result_hosts": {
+          "lens.google.com": 56,
+          "play.google.com": 2
+        },
+        "lens_tmdb_title_resolution_status": "resolved",
+        "lens_tmdb_title_query_count": 1,
+        "lens_tmdb_title_hint": "A Short Film about Killing",
+        "lens_tmdb_title_selected_id": 10754,
+        "title_search_status": "skipped_exact_lens_title_resolved",
+        "title_search_response_format": "json",
+        "title_search_http_status": null,
+        "title_search_payload_shape": null,
+        "title_search_attempts": 0,
+        "title_search_results": 0,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 0,
+        "title_search_query_variants": [],
+        "title_search_hints": [
+          "A Short Film about Killing"
+        ],
+        "title_search_candidate_urls": 0,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {},
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "google_lens_exact_title_tmdb_match",
+      "tmdb_ids": [
+        10754
+      ],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "resolved",
+        "tmdb_ids": [
+          10754
+        ],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 1,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "lens_title_tmdb_ids": [
+          10754
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [
+          10754
+        ],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "lens_title_tmdb_ids": [
+          10754
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [],
+        "ignored_secondary_imdb_errors": [],
+        "ignored_secondary_detail_errors": []
+      },
+      "candidate_identities": [
+        {
+          "tmdb_id": 10754,
+          "imdb_id": "tt0095468",
+          "title": "A Short Film About Killing",
+          "original_title": "Krótki film o zabijaniu",
+          "year": 1988,
+          "tmdb_data": {
+            "year": 1988,
+            "countries": [
+              "Poland"
+            ],
+            "directors": [
+              "Krzysztof Kieślowski"
+            ],
+            "cast": [
+              {
+                "name": "Mirosław Baka",
+                "character": "Jacek Łazar"
+              },
+              {
+                "name": "Krzysztof Globisz",
+                "character": "Piotr Balicki"
+              },
+              {
+                "name": "Jan Tesarz",
+                "character": "Waldemar Rekowski"
+              },
+              {
+                "name": "Zbigniew Zapasiewicz",
+                "character": "Committee Chairman"
+              },
+              {
+                "name": "Barbara Dziekan",
+                "character": "Cashier"
+              },
+              {
+                "name": "Aleksander Bednarz",
+                "character": "The Executioner"
+              },
+              {
+                "name": "Jerzy Zass",
+                "character": "Police Commander"
+              },
+              {
+                "name": "Zdzisław Tobiasz",
+                "character": "Judge"
+              }
+            ],
+            "rating": 7.619,
+            "rating_votes": 419,
+            "poster_count": 15
+          }
+        }
+      ],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "skipped_exact_lens_title_resolved",
+        "query_count": 0,
+        "query_variants": [],
+        "title_hints": [
+          "A Short Film about Killing"
+        ],
+        "year_hint": null,
+        "response_format": "json",
+        "payload_shape": null,
+        "http_status": null,
+        "attempts": 0,
+        "organic_result_count": 0,
+        "candidate_url_count": 0,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {},
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "lens_title_resolution": {
+        "status": "resolved",
+        "provider": "tmdb_search_movie",
+        "query_count": 1,
+        "title_hint": "A Short Film about Killing",
+        "year_hint": null,
+        "exact_candidate_count": 1,
+        "candidate_tmdb_ids": [
+          10754
+        ],
+        "selected_tmdb_id": 10754,
+        "details_verified": true,
+        "reason": "One exact Lens title matched one complete TMDB result and official movie details confirmed it",
+        "tmdb_total_results": 4,
+        "tmdb_returned_results": 4
+      },
+      "identity_consistency": {
+        "status": "passed",
+        "allowed": true,
+        "reason": "No confirmed title-and-year contradiction with the source-folder label",
+        "folder_year": 1988,
+        "candidate_year": 1988,
+        "title_match": true,
+        "year_match": true,
+        "clear_title_and_year_conflict": false,
+        "matching_title_aliases": [
+          "A Short Film About Killing",
+          "Krótki film o zabijaniu"
+        ],
+        "folder_name_used_for_search": false,
+        "folder_name_used_to_select_candidate": false,
+        "folder_name_used_for_conflict_veto": true
+      },
+      "resolved_identity": {
+        "tmdb_id": 10754,
+        "imdb_id": "tt0095468",
+        "source": "google_lens_exact_title_tmdb_match",
+        "verification": "exact_google_lens_title_then_unique_complete_tmdb_search_and_matching_movie_details",
+        "official_tmdb_ids": [],
+        "official_imdb_ids": [],
+        "lens_title_tmdb_ids": [
+          10754
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [],
+        "title_disambiguation": null,
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "identity_consistency": {
+          "status": "passed",
+          "allowed": true,
+          "reason": "No confirmed title-and-year contradiction with the source-folder label",
+          "folder_year": 1988,
+          "candidate_year": 1988,
+          "title_match": true,
+          "year_match": true,
+          "clear_title_and_year_conflict": false,
+          "matching_title_aliases": [
+            "A Short Film About Killing",
+            "Krótki film o zabijaniu"
+          ],
+          "folder_name_used_for_search": false,
+          "folder_name_used_to_select_candidate": false,
+          "folder_name_used_for_conflict_veto": true
+        }
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "skipped_official_identity_resolved",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 58,
+            "raw_result_count": 58,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 56,
+              "play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s": 2
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 58,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 56,
+          "play.google.com/store/movies/details/N%C3%A3o_Matar%C3%A1s": 2
+        },
+        "exact_matches_result_count": 58,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 58,
+        "google_goto_candidates": 56,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 56,
+        "google_goto_direct_urls_kept": 2,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 58,
+        "google_wrapper_count": 56,
+        "google_goto_url_count": 56,
+        "result_url_paths": {
+          "lens.google.com/goto": 56,
+          "play.google.com/store/movies/details/n%c3%a3o_matar%c3%a1s": 2
+        },
+        "result_hosts": {
+          "lens.google.com": 56,
+          "play.google.com": 2
+        },
+        "lens_tmdb_title_resolution_status": "resolved",
+        "lens_tmdb_title_query_count": 1,
+        "lens_tmdb_title_hint": "A Short Film about Killing",
+        "lens_tmdb_title_selected_id": 10754,
+        "title_search_status": "skipped_exact_lens_title_resolved",
+        "title_search_response_format": "json",
+        "title_search_http_status": null,
+        "title_search_payload_shape": null,
+        "title_search_attempts": 0,
+        "title_search_results": 0,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 0,
+        "title_search_query_variants": [],
+        "title_search_hints": [
+          "A Short Film about Killing"
+        ],
+        "title_search_candidate_urls": 0,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {},
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "skipped_official_identity_resolved",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 10754,
+    "media_type": "movie",
+    "title": "A Short Film About Killing",
+    "original_title": "Krótki film o zabijaniu",
+    "release_date": "1988-03-11",
+    "year": 1988,
+    "original_language": "pl",
+    "origin_country": [
+      "PL"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "PL",
+        "name": "Poland"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 19356,
+        "logo_path": "/9Ted1p5fSDVl12wJa3JgVagYNCr.png",
+        "name": "PRF \"Zespoły Filmowe\"",
+        "origin_country": "PL"
+      },
+      {
+        "id": 266296,
+        "logo_path": null,
+        "name": "Zespół Filmowy \"Tor\"",
+        "origin_country": "PL"
+      }
+    ],
+    "genres": [
+      {
+        "id": 80,
+        "name": "Crime"
+      },
+      {
+        "id": 18,
+        "name": "Drama"
+      }
+    ],
+    "runtime": 85,
+    "status": "Released",
+    "overview": "Jacek climbs into the taxi driven by Waldemar, tells him to drive to a remote location, then brutally strangles him, seemingly without motive.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+    "poster_url": "https://image.tmdb.org/t/p/w500/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+    "posters": [
+      {
+        "file_path": "/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/x8zenootZTTB1iEdUQA9dnEuLqv.jpg",
+        "language": "en",
+        "width": 624,
+        "height": 880,
+        "vote_average": 6.722,
+        "vote_count": 6
+      },
+      {
+        "file_path": "/k7sk4yNdoXY7iwp1M9QTZuBDiJS.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/k7sk4yNdoXY7iwp1M9QTZuBDiJS.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/k7sk4yNdoXY7iwp1M9QTZuBDiJS.jpg",
+        "language": "en",
+        "width": 950,
+        "height": 1426,
+        "vote_average": 4.062,
+        "vote_count": 16
+      },
+      {
+        "file_path": "/lP9troLWH4RA6vwOYLFHYdGaFmI.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/lP9troLWH4RA6vwOYLFHYdGaFmI.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/lP9troLWH4RA6vwOYLFHYdGaFmI.jpg",
+        "language": "en",
+        "width": 718,
+        "height": 1076,
+        "vote_average": 2.278,
+        "vote_count": 3
+      },
+      {
+        "file_path": "/ykOxIbDG2Jy44UrZBTMpyWjHez1.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/ykOxIbDG2Jy44UrZBTMpyWjHez1.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/ykOxIbDG2Jy44UrZBTMpyWjHez1.jpg",
+        "language": "en",
+        "width": 713,
+        "height": 1070,
+        "vote_average": 2.066,
+        "vote_count": 5
+      },
+      {
+        "file_path": "/h7Y7ZaVeeEtwL7q5cLfxSiX8fg1.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/h7Y7ZaVeeEtwL7q5cLfxSiX8fg1.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/h7Y7ZaVeeEtwL7q5cLfxSiX8fg1.jpg",
+        "language": "en",
+        "width": 1999,
+        "height": 3000,
+        "vote_average": 1.75,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/u6qiR5JOEE2HgyAFmi7GakqwgS0.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/u6qiR5JOEE2HgyAFmi7GakqwgS0.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/u6qiR5JOEE2HgyAFmi7GakqwgS0.jpg",
+        "language": "en",
+        "width": 500,
+        "height": 750,
+        "vote_average": 1.75,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/fxdTFJuTL0XVf7xl8FPVITDHxbx.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/fxdTFJuTL0XVf7xl8FPVITDHxbx.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/fxdTFJuTL0XVf7xl8FPVITDHxbx.jpg",
+        "language": "en",
+        "width": 1000,
+        "height": 1500,
+        "vote_average": 0.958,
+        "vote_count": 4
+      },
+      {
+        "file_path": "/zEb5HD0WaByrxyDFYCFE0SDlGi.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/zEb5HD0WaByrxyDFYCFE0SDlGi.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/zEb5HD0WaByrxyDFYCFE0SDlGi.jpg",
+        "language": "en",
+        "width": 1516,
+        "height": 2158,
+        "vote_average": 0.166,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/nUhg75REW4bIHWe1K7kxeNE8KXM.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/nUhg75REW4bIHWe1K7kxeNE8KXM.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/nUhg75REW4bIHWe1K7kxeNE8KXM.jpg",
+        "language": "en",
+        "width": 708,
+        "height": 999,
+        "vote_average": 0.166,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/eeYVHgvicnSgO6k5ycn6WzEfa6A.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/eeYVHgvicnSgO6k5ycn6WzEfa6A.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/eeYVHgvicnSgO6k5ycn6WzEfa6A.jpg",
+        "language": "en",
+        "width": 570,
+        "height": 800,
+        "vote_average": 0.166,
+        "vote_count": 2
+      },
+      {
+        "file_path": "/avYlL8QXJYuDLVNFKu7U0MRqaEq.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/avYlL8QXJYuDLVNFKu7U0MRqaEq.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/avYlL8QXJYuDLVNFKu7U0MRqaEq.jpg",
+        "language": "en",
+        "width": 1481,
+        "height": 2222,
+        "vote_average": 0.166,
+        "vote_count": 1
+      },
+      {
+        "file_path": "/rfC7RYQADbIqhEesa3SygGUVJKQ.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/rfC7RYQADbIqhEesa3SygGUVJKQ.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/rfC7RYQADbIqhEesa3SygGUVJKQ.jpg",
+        "language": "en",
+        "width": 500,
+        "height": 750,
+        "vote_average": 0.166,
+        "vote_count": 1
+      },
+      {
+        "file_path": "/rPAOMjy56IVhZVMwweQVUZG9C4M.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/rPAOMjy56IVhZVMwweQVUZG9C4M.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/rPAOMjy56IVhZVMwweQVUZG9C4M.jpg",
+        "language": "en",
+        "width": 735,
+        "height": 1103,
+        "vote_average": 0.0,
+        "vote_count": 1
+      },
+      {
+        "file_path": "/g74FgDt734ufrW4P9vTVr5TjqgM.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/g74FgDt734ufrW4P9vTVr5TjqgM.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/g74FgDt734ufrW4P9vTVr5TjqgM.jpg",
+        "language": "en",
+        "width": 1975,
+        "height": 2963,
+        "vote_average": 0.0,
+        "vote_count": 0
+      },
+      {
+        "file_path": "/ma20bTESBYpXvR0WHCSmA4Pkvh.jpg",
+        "url": "https://image.tmdb.org/t/p/w500/ma20bTESBYpXvR0WHCSmA4Pkvh.jpg",
+        "original_url": "https://image.tmdb.org/t/p/original/ma20bTESBYpXvR0WHCSmA4Pkvh.jpg",
+        "language": "en",
+        "width": 950,
+        "height": 1426,
+        "vote_average": 0.0,
+        "vote_count": 0
+      }
+    ],
+    "backdrop_path": "/wsZm5xX4r2ARPsjz5sRxHh3hA6D.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/wsZm5xX4r2ARPsjz5sRxHh3hA6D.jpg",
+    "popularity": 1.4915,
+    "vote_average": 7.619,
+    "vote_count": 419,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt0095468",
+      "wikidata_id": "Q72325",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [
+      {
+        "title": "Breve film sull'uccidere",
+        "country": "IT",
+        "type": ""
+      },
+      {
+        "title": "Tu ne tueras point",
+        "country": "FR",
+        "type": ""
+      },
+      {
+        "title": "살인에 관한 짧은 필름",
+        "country": "KR",
+        "type": ""
+      },
+      {
+        "title": "En lille film om kunsten at dræbe",
+        "country": "DK",
+        "type": ""
+      }
+    ],
+    "certifications_by_country": {
+      "CH": [
+        {
+          "certification": "16",
+          "release_date": "1988-08-01T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "DE": [
+        {
+          "certification": "16",
+          "release_date": "1989-01-26T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "FI": [
+        {
+          "certification": "K-16",
+          "release_date": "1990-08-03T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "GR": [
+        {
+          "certification": "",
+          "release_date": "2024-08-22T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "KR": [
+        {
+          "certification": "18",
+          "release_date": "1997-07-05T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "18",
+          "release_date": "2016-09-17T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "NL": [
+        {
+          "certification": "16",
+          "release_date": "1989-02-09T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "16",
+          "release_date": "2008-11-24T00:00:00.000Z",
+          "type": 5
+        }
+      ],
+      "PL": [
+        {
+          "certification": "",
+          "release_date": "1988-03-11T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "RU": [
+        {
+          "certification": "18+",
+          "release_date": "2026-07-16T00:00:00.000Z",
+          "type": 3
+        },
+        {
+          "certification": "",
+          "release_date": "2006-10-25T00:00:00.000Z",
+          "type": 5
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 66459,
+        "name": "Mirosław Baka",
+        "character": "Jacek Łazar",
+        "order": 0
+      },
+      {
+        "id": 66460,
+        "name": "Krzysztof Globisz",
+        "character": "Piotr Balicki",
+        "order": 1
+      },
+      {
+        "id": 66462,
+        "name": "Jan Tesarz",
+        "character": "Waldemar Rekowski",
+        "order": 2
+      },
+      {
+        "id": 1405,
+        "name": "Zbigniew Zapasiewicz",
+        "character": "Committee Chairman",
+        "order": 3
+      },
+      {
+        "id": 66463,
+        "name": "Barbara Dziekan",
+        "character": "Cashier",
+        "order": 4
+      },
+      {
+        "id": 66464,
+        "name": "Aleksander Bednarz",
+        "character": "The Executioner",
+        "order": 5
+      },
+      {
+        "id": 66465,
+        "name": "Jerzy Zass",
+        "character": "Police Commander",
+        "order": 6
+      },
+      {
+        "id": 66466,
+        "name": "Zdzisław Tobiasz",
+        "character": "Judge",
+        "order": 7
+      },
+      {
+        "id": 1387,
+        "name": "Artur Barciś",
+        "character": "Young Man",
+        "order": 8
+      },
+      {
+        "id": 2807,
+        "name": "Krystyna Janda",
+        "character": "Dorota",
+        "order": 9
+      },
+      {
+        "id": 66469,
+        "name": "Olgierd Łukaszewicz",
+        "character": "Andrzej",
+        "order": 10
+      },
+      {
+        "id": 66470,
+        "name": "Leonard Andrzejewski",
+        "character": "",
+        "order": 11
+      },
+      {
+        "id": 66471,
+        "name": "Wieslaw Bednarz",
+        "character": "",
+        "order": 12
+      },
+      {
+        "id": 66472,
+        "name": "Zbigniew Borek",
+        "character": "",
+        "order": 13
+      },
+      {
+        "id": 66473,
+        "name": "Ryszard W. Borsucki",
+        "character": "",
+        "order": 14
+      },
+      {
+        "id": 66474,
+        "name": "Władysław Byrdy",
+        "character": "",
+        "order": 15
+      },
+      {
+        "id": 2225423,
+        "name": "Andrzej Gawroński",
+        "character": "",
+        "order": 16
+      },
+      {
+        "id": 66477,
+        "name": "Henryk Guzek",
+        "character": "",
+        "order": 17
+      },
+      {
+        "id": 66476,
+        "name": "Iwona Głębicka",
+        "character": "Photo Store Clerk",
+        "order": 18
+      },
+      {
+        "id": 66478,
+        "name": "Elżbieta Helman",
+        "character": "Beatka",
+        "order": 19
+      },
+      {
+        "id": 1281779,
+        "name": "Marzena Manteska",
+        "character": "Piotr's Wife",
+        "order": 20
+      },
+      {
+        "id": 144694,
+        "name": "Małgorzata Pieczyńska",
+        "character": "Fortune Teller",
+        "order": 21
+      },
+      {
+        "id": 1139825,
+        "name": "Zdzisław Rychter",
+        "character": "Cartoonist",
+        "order": 22
+      }
+    ],
+    "directors": [
+      {
+        "id": 1126,
+        "name": "Krzysztof Kieślowski",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1126,
+        "name": "Krzysztof Kieślowski",
+        "job": "Screenplay",
+        "department": "Writing"
+      },
+      {
+        "id": 1132,
+        "name": "Krzysztof Piesiewicz",
+        "job": "Screenplay",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 378,
+        "name": "prison"
+      },
+      {
+        "id": 6148,
+        "name": "court"
+      },
+      {
+        "id": 1749,
+        "name": "taxi driver"
+      },
+      {
+        "id": 9826,
+        "name": "murder"
+      },
+      {
+        "id": 10909,
+        "name": "lawyer"
+      },
+      {
+        "id": 212914,
+        "name": "warsaw, poland"
+      },
+      {
+        "id": 309029,
+        "name": "psychological drama"
+      }
+    ],
+    "worldwide_title": "A Short Film About Killing",
+    "worldwide_title_selection": {
+      "title": "A Short Film About Killing",
+      "source": "tmdb_movie_details"
+    }
+  },
+  "tmdb_id": 10754,
+  "imdb_id": "tt0095468",
+  "identity": {
+    "tmdb_id": 10754,
+    "imdb_id": "tt0095468",
+    "source": "google_lens_exact_title_tmdb_match",
+    "verification": "lens_exact_title_tmdb_search",
+    "folder_name_used": false
+  },
+  "correction": {
+    "canonical_folder_name": "A Short Film About Killing (1988)",
+    "canonical_json_name": "A Short Film About Killing (1988)",
+    "worldwide_title": "A Short Film About Killing",
+    "title_selection": {
+      "title": "A Short Film About Killing",
+      "source": "tmdb_movie_details"
+    },
+    "json_rename_required": true,
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/A Short Film About Killing (Krótki film o zabijaniu) (1988)/A Short Film About Killing (1988).json"
+}

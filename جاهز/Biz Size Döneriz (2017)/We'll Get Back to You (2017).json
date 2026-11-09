@@ -1,0 +1,1631 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T22:05:03.877915+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Biz Size Döneriz (2017)",
+    "image_path": "جاهز/Biz Size Döneriz (2017)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D8%AC%D8%A7%D9%87%D8%B2/Biz%20Size%20D%C3%B6neriz%20%282017%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "image_blob_sha": "51c32e21db8d707a1d1294a831f39e3b133abfbf",
+    "original_image_path": "Biz Size Döneriz (2017)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Biz Size Döneriz (2017)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "ready",
+    "confidence": 1.0,
+    "identity_source": "google_lens_exact_title_tmdb_match",
+    "identity_method": "lens_exact_title_tmdb_search",
+    "tmdb_id": 450456,
+    "imdb_id": "tt6559642",
+    "folder_name_used_for_matching": false,
+    "reason": "The exact Google Lens title resolved to one exact TMDB movie and its official details confirmed the same title"
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "skipped_official_identity_resolved",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "skipped_official_identity_resolved",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Biz Size Döneriz (2017)",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXX8ZKoE-XE71UZSTN1wr0uann_MdZBn1ey0jRGX_K3VYt7Q3NxJnIaW3ARoZwNgxCV2HNhRlGZo_LaKH6tEMwyGaFNI6PDyXrVTPh6mRv7kKpVgrf7vRZd1sCXeNmYxLKdcHUrqozoE6CmeBbU-f-Bj2RyzHI6&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXX8ZKoE-XE71UZSTN1wr0uann_MdZBn1ey0jRGX_K3VYt7Q3NxJnIaW3ARoZwNgxCV2HNhRlGZo_LaKH6tEMwyGaFNI6PDyXrVTPh6mRv7kKpVgrf7vRZd1sCXeNmYxLKdcHUrqozoE6CmeBbU-f-Bj2RyzHI6&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017)",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXlLnCTkx3Nl75mFY82RLL_rvx68s6g2LBVBmWUwMyR2oB9Wl9zCP3mSJgDHKXW5BCYiocaWs7ldeikV9hkcp7_GWQiw0XtK0gXN3z-nYpx4WihcS5KmCFmMaA8E4uVGNpjLeRIopVbIVKA6ICutECo_nkOY7QU0rU4g&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXlLnCTkx3Nl75mFY82RLL_rvx68s6g2LBVBmWUwMyR2oB9Wl9zCP3mSJgDHKXW5BCYiocaWs7ldeikV9hkcp7_GWQiw0XtK0gXN3z-nYpx4WihcS5KmCFmMaA8E4uVGNpjLeRIopVbIVKA6ICutECo_nkOY7QU0rU4g&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017) - Afişler — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESkwEBxCJF12Mv10MRz0Mw8dbJXP7D_vXwKNfGVz8mJE5PKJupKVTvh3DgPHT4RIx88apARbleUyFAuqoexEk-62Jm7pUzkDu9xKJxC4eFWLvU7_0Iywe2gm5qooioTaCKn-u45T9WSD5jne935Z_cHXa9AaGRIaWsTo2SLgCk3TZzVsTloeDenD9mrfgUPGv1l-GF4ME&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkwEBxCJF12Mv10MRz0Mw8dbJXP7D_vXwKNfGVz8mJE5PKJupKVTvh3DgPHT4RIx88apARbleUyFAuqoexEk-62Jm7pUzkDu9xKJxC4eFWLvU7_0Iywe2gm5qooioTaCKn-u45T9WSD5jne935Z_cHXa9AaGRIaWsTo2SLgCk3TZzVsTloeDenD9mrfgUPGv1l-GF4ME&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017) - Filmweb",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXSMJADepyNsqqEehJ-w7drHaq3lIJxJC-zTgrz1uzOppG5D56PP20McK_KWa4OmoNDlniBv6w6rU1vNHWE9Xz3d9GKiBTnpHtoeT0mFpTR9LUXQ3s-kmYSROcgW0Ed1xD5IOxYeru54cpx3Qn8xw81mlRg2j1&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXSMJADepyNsqqEehJ-w7drHaq3lIJxJC-zTgrz1uzOppG5D56PP20McK_KWa4OmoNDlniBv6w6rU1vNHWE9Xz3d9GKiBTnpHtoeT0mFpTR9LUXQ3s-kmYSROcgW0Ed1xD5IOxYeru54cpx3Qn8xw81mlRg2j1&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Sakarya Büyükşehir Belediyesi",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXX68pKJyy67s-9DO6dhlJqa0e9jfX9mCNCUYCwc0hexJf_-1splFKro0dFqhu08_Uo2xBmtQw5jzA-Zcjwe9esBqQ2bveCiXc52JxzdVexA42CHWcCOwpiTameyP7OxXYaEZCLAN31cJbQlZpvVd5kWUdcebXRYGk&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXX68pKJyy67s-9DO6dhlJqa0e9jfX9mCNCUYCwc0hexJf_-1splFKro0dFqhu08_Uo2xBmtQw5jzA-Zcjwe9esBqQ2bveCiXc52JxzdVexA42CHWcCOwpiTameyP7OxXYaEZCLAN31cJbQlZpvVd5kWUdcebXRYGk&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (@bizsizedonerizfilm) • Facebook",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXrF-fM-cLHOb9uBcsUwL0XHJwmur79YE-SYJix6y3Fimaz27QEis0jkL0e3utDZuHC0Fmokvk0yrIJig-oZgS_w7utyIpDDAjCQOd_UyVknlPcNRJ-GNR5mhENRZWuWIEGQBaVrksMf3uT5YMaN-ks80&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXrF-fM-cLHOb9uBcsUwL0XHJwmur79YE-SYJix6y3Fimaz27QEis0jkL0e3utDZuHC0Fmokvk0yrIJig-oZgS_w7utyIpDDAjCQOd_UyVknlPcNRJ-GNR5mhENRZWuWIEGQBaVrksMf3uT5YMaN-ks80&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz - 2017 filmi - Beyazperde.com",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXCy9j7616sM6HKwmV301WolfLsNIAk1QV9E_N-VRaMemu2wtNJ2NihOdDf1eQeSCoPnHh8sib8GjikElI9rEbXnr3Ddip5vBRwkKHQbRB6QHq7IvANLz1II-tpvxNZY1mQYop2Gv4eQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXCy9j7616sM6HKwmV301WolfLsNIAk1QV9E_N-VRaMemu2wtNJ2NihOdDf1eQeSCoPnHh8sib8GjikElI9rEbXnr3Ddip5vBRwkKHQbRB6QHq7IvANLz1II-tpvxNZY1mQYop2Gv4eQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz - Film 2017 - FILMSTARTS.de",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXX8hNbWzD8bmPkPJKo4tRE5xOVXmO1ceQ4JjzAW_Z2lNOC5uAi4WN0eD-uwFMkM-YZRn58rz1eYWNkwkoEtsBZV1hTuKf_0veV2OutkOYxG2yhAU5TRAZoxbmlHoaA4Xz3R-FoR3U6&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXX8hNbWzD8bmPkPJKo4tRE5xOVXmO1ceQ4JjzAW_Z2lNOC5uAi4WN0eD-uwFMkM-YZRn58rz1eYWNkwkoEtsBZV1hTuKf_0veV2OutkOYxG2yhAU5TRAZoxbmlHoaA4Xz3R-FoR3U6&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Kral - \"Biz Size Döneriz\" filmi sinemalarda! Hande Soral ...",
+        "url": "https://lens.google.com/goto?url=CAES0gEBxCJF1xZ38W0cUejcAtM49S-uQzJYPm5BTh3nQaDEudvgDN0wWvYarscgMM8jVivJDv2h10MkpfywqtO4yEOIBN9X88iJB3063Dq0Yuf12UiMiejjqw-ukD-3KeelO-bqsTenUKgMOAwEVvb6MgJ2tR1GVIv6NOVDBVxprljwiwquAGCjTTG40QM2Df88r4FRA4jIl5RCRouT2Zkw-7ane8NRFKbDyY7liCWUuLY4b7jSOamHYHDGrPsSvzNB5_QgjO4H9X6Q2V8T23osBFGR3ps&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES0gEBxCJF1xZ38W0cUejcAtM49S-uQzJYPm5BTh3nQaDEudvgDN0wWvYarscgMM8jVivJDv2h10MkpfywqtO4yEOIBN9X88iJB3063Dq0Yuf12UiMiejjqw-ukD-3KeelO-bqsTenUKgMOAwEVvb6MgJ2tR1GVIv6NOVDBVxprljwiwquAGCjTTG40QM2Df88r4FRA4jIl5RCRouT2Zkw-7ane8NRFKbDyY7liCWUuLY4b7jSOamHYHDGrPsSvzNB5_QgjO4H9X6Q2V8T23osBFGR3ps&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Amazon.com.tr Çok Satanlar: Maskeler adlı listedeki en ...",
+        "url": "https://lens.google.com/goto?url=CAESkAEBxCJF1zTVZYx13GYskKZglDyXi71Qf0y1w8QM5vZWsyHEu5HK-WKQD5aD6pAyKrMTD4WGU768kWrsdOdBUToJT4oB3d2HnsYS85YrWPFyn4BuZrBq1MzcPMfL2Xydk2dr084ttZjVQDxGIKPaAQvg_EcL4lRTXQk2qfL_aS1rjLQanUOD20puyaCEG_7vJPg&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkAEBxCJF1zTVZYx13GYskKZglDyXi71Qf0y1w8QM5vZWsyHEu5HK-WKQD5aD6pAyKrMTD4WGU768kWrsdOdBUToJT4oB3d2HnsYS85YrWPFyn4BuZrBq1MzcPMfL2Xydk2dr084ttZjVQDxGIKPaAQvg_EcL4lRTXQk2qfL_aS1rjLQanUOD20puyaCEG_7vJPg&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz - Vikipedi",
+        "url": "https://lens.google.com/goto?url=CAEScAHEIkXXrD0E9H8MpZrI_hiV3zGIwKcqtmOGwC4i6fzSBlxOD_Cv5oVJMoFbSrbDQkPVqGOCSi7hOn4qqQ1S9XMzSsWveDUIv0liqCRgozjt0v6cFQxriJiR46aCEMazzj9ErOoaut0KwuF6wg2JGA0&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScAHEIkXXrD0E9H8MpZrI_hiV3zGIwKcqtmOGwC4i6fzSBlxOD_Cv5oVJMoFbSrbDQkPVqGOCSi7hOn4qqQ1S9XMzSsWveDUIv0liqCRgozjt0v6cFQxriJiR46aCEMazzj9ErOoaut0KwuF6wg2JGA0&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Sultan (ozsultan310) – Profile | Pinterest",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXKtnwaBoNToSUfCgzLS-iGOlNpD-HkuXCzBJS4JbJivCkxeYosNq7ebox0ITAlhqzmvCVDBHOzs7hEdMbh0VouwYDFqkofv-VByRx-vDK2e6N3i_V9bCBm0vTly8&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXKtnwaBoNToSUfCgzLS-iGOlNpD-HkuXCzBJS4JbJivCkxeYosNq7ebox0ITAlhqzmvCVDBHOzs7hEdMbh0VouwYDFqkofv-VByRx-vDK2e6N3i_V9bCBm0vTly8&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqLkT1LfhTfcPpaSpnGIFEt430dMAFKVh8EA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "МЫ ВАМ ПЕРЕЗВОНИМ (озвучка SesDizi) — Видео от Стамбул ТВ-2 ...",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXX4gxMQ1drejYMBiWFwA5yeTk_NCWXJy0244H9vVSPVWD4H9CbDL-EGm43AGHrfJO_AUhl3X5ejEW0hJyhPo25_1TdZnpN2bFHGwzy4pdosieOiXHC0QsdVB27hAgXDuH0QLOjrxV3&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXX4gxMQ1drejYMBiWFwA5yeTk_NCWXJy0244H9vVSPVWD4H9CbDL-EGm43AGHrfJO_AUhl3X5ejEW0hJyhPo25_1TdZnpN2bFHGwzy4pdosieOiXHC0QsdVB27hAgXDuH0QLOjrxV3&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBPfkQTsAoI9dx4MWzXAr5hrEP6f6w5OHTFA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017)",
+        "url": "https://lens.google.com/goto?url=CAESgQEBxCJF13cmdYPHlowpSUmEbfB121-N_y-Y04QeRXTrLvx8IhAOlAgSV2jTn7s7IR1IGOM2sUq-Uk7wA8NlqIFrAE_Kzk5yYe0DFfHkRcQpzaDRNfOGsC7242D5shLQ2HXwwmScwWhuBVlmeAeQq8g00G-CoFK9GiWbm_M9bqJqK0A&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgQEBxCJF13cmdYPHlowpSUmEbfB121-N_y-Y04QeRXTrLvx8IhAOlAgSV2jTn7s7IR1IGOM2sUq-Uk7wA8NlqIFrAE_Kzk5yYe0DFfHkRcQpzaDRNfOGsC7242D5shLQ2HXwwmScwWhuBVlmeAeQq8g00G-CoFK9GiWbm_M9bqJqK0A&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbpPR3oi_HMZ84aU1zZH0_CSfG7kI7P5T1EQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz: D-Smart GO",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXUqw5RE1adJiv1myRMtkGevrGLWW8-WpAXrjJhdJl_akzCvNJPBkwX0xWZgr-Dc9eLL6RPtBbWlaxIK0YCgozEkGsEOVQ9HuSP8rsYwnmbHAp_D4VCMogmE5wWFQxsy7MzWgxy8SSzG1VJXX459nGRKhKrR1N8o9m8w&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXUqw5RE1adJiv1myRMtkGevrGLWW8-WpAXrjJhdJl_akzCvNJPBkwX0xWZgr-Dc9eLL6RPtBbWlaxIK0YCgozEkGsEOVQ9HuSP8rsYwnmbHAp_D4VCMogmE5wWFQxsy7MzWgxy8SSzG1VJXX459nGRKhKrR1N8o9m8w&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFxAR7zXq2sgsniC3ADS3VcpqhlSvNNAoTHg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "7.SanatMovieGameMusic - BİZ SİZE DÖNERİZ TÜRK FİLMİ DİVX VE ...",
+        "url": "https://lens.google.com/goto?url=CAES6gEBxCJF1_NX8ALSkuSCgVi3PE4CMJ7pAaUC5YMOKVuSzHWjrIswCvyYHIpJE2RyJho1FXiMAi047q8FI5p-OxYkY0sNg85IJY53IAOLlqMNP-kpsmtYxOycb-7otiQa2_kVGRklL01xg4CDudftjGWAh5SqahnpBnSWvWhDugZ11s1DGHscoAR4ecA_V27K8jlAB2nONsuL9W2_2afMSkKPi8G-2cU9JHrYuoRnXynYt9_msZ5BMKTeC91k1m2YkIriYjg_V5IE1xQGV0Ls3pfZLih-w7JBcLLHJBOwF-bPmVf6KqBpOYIabXc&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES6gEBxCJF1_NX8ALSkuSCgVi3PE4CMJ7pAaUC5YMOKVuSzHWjrIswCvyYHIpJE2RyJho1FXiMAi047q8FI5p-OxYkY0sNg85IJY53IAOLlqMNP-kpsmtYxOycb-7otiQa2_kVGRklL01xg4CDudftjGWAh5SqahnpBnSWvWhDugZ11s1DGHscoAR4ecA_V27K8jlAB2nONsuL9W2_2afMSkKPi8G-2cU9JHrYuoRnXynYt9_msZ5BMKTeC91k1m2YkIriYjg_V5IE1xQGV0Ls3pfZLih-w7JBcLLHJBOwF-bPmVf6KqBpOYIabXc&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSztUcmnFuDk0IXtSfow7--U6Yuy2TNFv3svQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Prime Video: BİZ SİZE DÖNERİZ",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXiBWa9VfGvdOUoVYt8ktsYA9avIXk87BvH-X6D2u46GPRzDzTizX6Mnc0EZswEWir2BhWZxuksVsRNmCs0ilw01blR8pfSxjTzW3MfrW3TfWQ8d5B6Z3X6IloOE-88oGRm5FcPe4FK_ri3BgDKpdLLoiegitr8hSfaw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXiBWa9VfGvdOUoVYt8ktsYA9avIXk87BvH-X6D2u46GPRzDzTizX6Mnc0EZswEWir2BhWZxuksVsRNmCs0ilw01blR8pfSxjTzW3MfrW3TfWQ8d5B6Z3X6IloOE-88oGRm5FcPe4FK_ri3BgDKpdLLoiegitr8hSfaw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSPgpgG5Mr3Ju-i7oXxPyFcGk9AYQOM_iKww&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Мы вам перезвоним фильм, 2017, дата выхода трейлеры актеры ...",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXNOz-wOiY3q4EqrkghMl7HxNQ9Mj8t820-eyr_MXrb028-kGDSyj6A-b62Ve1ru-DO1xLvp8COBrR7FXg8X8GvwfjD4agUctcj92z8ZLWOdsoN8wPfQMl4bCNHwG2cw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXNOz-wOiY3q4EqrkghMl7HxNQ9Mj8t820-eyr_MXrb028-kGDSyj6A-b62Ve1ru-DO1xLvp8COBrR7FXg8X8GvwfjD4agUctcj92z8ZLWOdsoN8wPfQMl4bCNHwG2cw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOS0qmtdx-B9KJjn5OlPUBdxEOgA_1e-ENA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz'' Hangi Kanalda? Saat Kaçta? | Ne İzledik?",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXXea1RnEpTaWWhVNMMbVQHDD3dOZo6WsT2KZTpISbeeP3sLUQ5BFbmVV4YLa_XsPgsqLUsc6nENLxpz9G-PoH9ymzX3OSceSJA56WtmzkJ4ybPK_dKsT_e_Flhc1wwlZh5viRXhoTQxe2QWftfigAUbsO6lijdIX8bNOI&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXXea1RnEpTaWWhVNMMbVQHDD3dOZo6WsT2KZTpISbeeP3sLUQ5BFbmVV4YLa_XsPgsqLUsc6nENLxpz9G-PoH9ymzX3OSceSJA56WtmzkJ4ybPK_dKsT_e_Flhc1wwlZh5viRXhoTQxe2QWftfigAUbsO6lijdIX8bNOI&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy67zCXTWEvuPDmIFwhozWdmfPe60-qUH44w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXxxe9Ykxp8saHsrz2gPiQ4YIEe_-tQXCIR0WIE7gWt1jzAy2j1vtLCBK9oXQfWOcTxNX8GMGAd5jjunIijTu_j2Ss9G_U5o9ndxef8ePLPCzwCFtQ8rLtPwVofPTy9yyrRkaWWQ6-9Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXxxe9Ykxp8saHsrz2gPiQ4YIEe_-tQXCIR0WIE7gWt1jzAy2j1vtLCBK9oXQfWOcTxNX8GMGAd5jjunIijTu_j2Ss9G_U5o9ndxef8ePLPCzwCFtQ8rLtPwVofPTy9yyrRkaWWQ6-9Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtxOXoEmilgD_RjgCyQvX88I8I256g3kHnnw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "We'll Get Back to You (2017) | ČSFD.cz",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXXwaZuAA6qnPqSb7wwVev1YABlgMCq4FSREuriYxoXal4ZZLc1iKl717AWkQPEtEc55OIib6tdReNnk-tcxc2hlauyeQbo7-XYoFUwAaRSF9vOXlIbL1ExWRuEULblQCIdM2GdknkI5USaXl42hj_YoD5sTgc4PmrgcL8&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXXwaZuAA6qnPqSb7wwVev1YABlgMCq4FSREuriYxoXal4ZZLc1iKl717AWkQPEtEc55OIib6tdReNnk-tcxc2hlauyeQbo7-XYoFUwAaRSF9vOXlIbL1ExWRuEULblQCIdM2GdknkI5USaXl42hj_YoD5sTgc4PmrgcL8&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRdTeQ46eWiUv2szHPR5hfARYNivXf3ayMxQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017)",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXXwfpVbyxesxTSZIWPQWQ1lYugDlVA_OVWszu9SgSJ4jwrsB8AmWqoemhrQzgpQB3no08hFZXWhDx_i2kJWnT8i9J31xe7AIUDN5Ysex98Hjtw75PNHR5I6cBqICrymre6X4grS7o3QxXpT5LaWVDo4d8pCxRrTA&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXXwfpVbyxesxTSZIWPQWQ1lYugDlVA_OVWszu9SgSJ4jwrsB8AmWqoemhrQzgpQB3no08hFZXWhDx_i2kJWnT8i9J31xe7AIUDN5Ysex98Hjtw75PNHR5I6cBqICrymre6X4grS7o3QxXpT5LaWVDo4d8pCxRrTA&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRWVXdli0vJphOZmrdi8WvNXkk5cOKBQct9g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz afiş - Afiş 1 - Beyazperde.com",
+        "url": "https://lens.google.com/goto?url=CAESjgEBxCJF14_sAJ5B7Frhpvewl1enKf8cSFnmxBl24y0u1xzIaGlCk_oi6-daqy9N5fvh6fcW1BXejXqpLPCL_nJKBdK70H2-1abThestDVaBCK89qjumETwJdDXvS7ygju7FNwBlSNmz8TZWW2U7a0y-jgQQCHv1tanGB8Z52YaIBlkuFyJ321U5coQPZ_x1&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjgEBxCJF14_sAJ5B7Frhpvewl1enKf8cSFnmxBl24y0u1xzIaGlCk_oi6-daqy9N5fvh6fcW1BXejXqpLPCL_nJKBdK70H2-1abThestDVaBCK89qjumETwJdDXvS7ygju7FNwBlSNmz8TZWW2U7a0y-jgQQCHv1tanGB8Z52YaIBlkuFyJ321U5coQPZ_x1&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwzSdeJyYZ3DvFlneKZF5iDxA1l_mfvLWiPw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Böyleyiz (#2 of 2): Mega Sized Movie Poster Image - IMP ...",
+        "url": "https://lens.google.com/goto?url=CAESggEBxCJF13rY6ibvoDaSxrZt3QVlcgxDnpT5_pE9SXZ9emOXoST0HGVhtkZXGcaP8S8QsB6vjNhgi-sWqcXDa7bREoUqxwnDZ1dIF5JF3XcydDNG6Bse7jhjyUoR1T-TDmUqb4T4B6T9PCO4miTE89abYOM4z3j2iSYice_RXj0y-0qC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESggEBxCJF13rY6ibvoDaSxrZt3QVlcgxDnpT5_pE9SXZ9emOXoST0HGVhtkZXGcaP8S8QsB6vjNhgi-sWqcXDa7bREoUqxwnDZ1dIF5JF3XcydDNG6Bse7jhjyUoR1T-TDmUqb4T4B6T9PCO4miTE89abYOM4z3j2iSYice_RXj0y-0qC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRok85f24m0vekjpmJHIHMy0RWi-32vYsAY1A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Hemen Döneriz (2019) directed by Haydar Işık • Reviews, film ...",
+        "url": "https://lens.google.com/goto?url=CAESZwHEIkXX2vPOOiJdsvkDBcUnZ6OnljL5NCLcKyHqZP4aMyNSxfLSpWJUxgB_PuKRzg4mb6TTfH79k3Eh3DIMe-DyOMggmYeq0GrFA4NfpnYeVtx4D6_usfWAlsxO2-im2GOJExYnRoQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZwHEIkXX2vPOOiJdsvkDBcUnZ6OnljL5NCLcKyHqZP4aMyNSxfLSpWJUxgB_PuKRzg4mb6TTfH79k3Eh3DIMe-DyOMggmYeq0GrFA4NfpnYeVtx4D6_usfWAlsxO2-im2GOJExYnRoQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JKq-RBb2bkjNcgF6LLQA3mkWKihpKfNBZQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Dönerse Senindir - Box Office Mojo",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXA9QrnAUejaozeLOCBdgJyMa0ohkBC8qde8864NB3pZrk5ZG5mHAfHIHjnXc3L1fKMiBIxkVp0XtxytyFtzJZRgt42HZC8BYKMN4TfVp_vPTjBJwQP56n3xqMSa-fU5O4-b54goWJ0nLR6wRL0XNRmTZTHQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXA9QrnAUejaozeLOCBdgJyMa0ohkBC8qde8864NB3pZrk5ZG5mHAfHIHjnXc3L1fKMiBIxkVp0XtxytyFtzJZRgt42HZC8BYKMN4TfVp_vPTjBJwQP56n3xqMSa-fU5O4-b54goWJ0nLR6wRL0XNRmTZTHQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBcT2KvBfqFZey_qT4UvyyjzerQ3pew2zldg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Candan, Serden Geçen Gelsin - Diriliş Ertuğrul Episode 61 ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX-iOhOX1lYZJSZWqL_J1rtKzMa-2dgDZFVf3vhFEn-UM0J9Pfd706C26L40rSLAxPN2VK7G2rLVqWjZHd5RyRCPQ4aFzWBsrnVfyOZ4KKR3v27dQ0mSTBj2Y0j3emc2EcJOVC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX-iOhOX1lYZJSZWqL_J1rtKzMa-2dgDZFVf3vhFEn-UM0J9Pfd706C26L40rSLAxPN2VK7G2rLVqWjZHd5RyRCPQ4aFzWBsrnVfyOZ4KKR3v27dQ0mSTBj2Y0j3emc2EcJOVC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn6nhbWqXFM4e9b9yxqib1eEq61K0nKK47KQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017) - Box Office Türkiye",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXX-vHL4ChI1P16dyhA-wcfneSuYaIGcm-WNqIzvoEoITm2IbNJY3_FW8HN6uYoPee1ENpb8B1g2y8amPgWQFGx4sNqJ8fg5wDilOkgMs47wXh0BkBngv4fn-Q1eX-OPSdfAqMyuXWBgvOcZVDx6EVPWrXXJw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXX-vHL4ChI1P16dyhA-wcfneSuYaIGcm-WNqIzvoEoITm2IbNJY3_FW8HN6uYoPee1ENpb8B1g2y8amPgWQFGx4sNqJ8fg5wDilOkgMs47wXh0BkBngv4fn-Q1eX-OPSdfAqMyuXWBgvOcZVDx6EVPWrXXJw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpN3DIL9Xy8w1d91yH1f4ZETisLQQe_cAcXA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "We'll Get Back to You (2017) — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESdQHEIkXXInwwgcC-qxF3VeBT62_KvY--aXx3fUYcjG1g8GnOul6eI_8I416HDvduWCjsgNkDupKC_z1ZDte7CcBhTzmazS0EKNvcun-Femnoe6nwM-lSAzJx00-FZUCfsazEaQIdu87zS_eqgwcZAX4WdXpbmw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdQHEIkXXInwwgcC-qxF3VeBT62_KvY--aXx3fUYcjG1g8GnOul6eI_8I416HDvduWCjsgNkDupKC_z1ZDte7CcBhTzmazS0EKNvcun-Femnoe6nwM-lSAzJx00-FZUCfsazEaQIdu87zS_eqgwcZAX4WdXpbmw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCLwT5TWbscv7U0dwAPjDAPyDH95qCjcmfcw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Murat Boz: Biografie & Filmografie",
+        "url": "https://lens.google.com/goto?url=CAESsgEBxCJF18Jst7bUqXiAZgcaJoQZPZVjMBFC1T4UcGka3wnUb8rL1yoBXI0yfs2U2FJy1TKz9XXY8PziLaNssPgZG9Kd5qZws1uhARWW2Ph6lx7_jN_0-lzpdeFRbpBMm8TtlFN_dK_bont6upBBy5lw4xXLOaRL8qP-w5bYnomAoyRon14hFs9mGaVevCmWm3yslpTcV9ieWvZhTRTSwRstsRGXMKjCu40tzAe5ixBA0HUi&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESsgEBxCJF18Jst7bUqXiAZgcaJoQZPZVjMBFC1T4UcGka3wnUb8rL1yoBXI0yfs2U2FJy1TKz9XXY8PziLaNssPgZG9Kd5qZws1uhARWW2Ph6lx7_jN_0-lzpdeFRbpBMm8TtlFN_dK_bont6upBBy5lw4xXLOaRL8qP-w5bYnomAoyRon14hFs9mGaVevCmWm3yslpTcV9ieWvZhTRTSwRstsRGXMKjCu40tzAe5ixBA0HUi&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScJDGtLT7SD2WitvQ_ZI3CUg4_VA_Q6T47cA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz Film Konusu ve Oyuncuları - MaksatBilgi",
+        "url": "https://lens.google.com/goto?url=CAESgAEBxCJF19HV_ahKV95vznO01ZDjIfvMjs48_pEzV5Kand0KUZtwD9-ajrV0J3eDzsouNtLvfwy0kfiyP9LUByUImEhgUEIcZh5L77csxJDrRv54hLkMBFN43EdpQXBN_yogyQtQmR7NZViB7BQRLevXC0c4F3uoJ8TToSfMNmgnBQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESgAEBxCJF19HV_ahKV95vznO01ZDjIfvMjs48_pEzV5Kand0KUZtwD9-ajrV0J3eDzsouNtLvfwy0kfiyP9LUByUImEhgUEIcZh5L77csxJDrRv54hLkMBFN43EdpQXBN_yogyQtQmR7NZViB7BQRLevXC0c4F3uoJ8TToSfMNmgnBQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD_5ki9QBuTFL3d6l_X2KQQ4b6awZA79VBMg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Watch Love, Surreal and Odd | Netflix",
+        "url": "https://lens.google.com/goto?url=CAESYwHEIkXXiXujP0lRO2z3R4oIxq6OIUVc_Tk9KYNGTBBdFBgl12EPfp5jl7OsYdUFPIz_2KH8hw0bH7I5DPjttoVhgVK6KtfVD0YB6dYJ4kb5CNmykvXAG0usESeh-ntU1Roe3A&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYwHEIkXXiXujP0lRO2z3R4oIxq6OIUVc_Tk9KYNGTBBdFBgl12EPfp5jl7OsYdUFPIz_2KH8hw0bH7I5DPjttoVhgVK6KtfVD0YB6dYJ4kb5CNmykvXAG0usESeh-ntU1Roe3A&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFwBWNldd-kJRgNtPw4rtJ4Pu7aFU-ZgucUQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DAYI",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXXiS4ywbQN-BGObRwtm1EsoMp6GpyV5UY8z2UwM_AQHP99ISZitV3LeV0uWlbPDIkXQTwug4zff8m-SwB6Du2gEz2sweQpbmBNvWRx4rfrXaTGXJ7uaV7EiWo__DJ7OsAaWsn&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXXiS4ywbQN-BGObRwtm1EsoMp6GpyV5UY8z2UwM_AQHP99ISZitV3LeV0uWlbPDIkXQTwug4zff8m-SwB6Du2gEz2sweQpbmBNvWRx4rfrXaTGXJ7uaV7EiWo__DJ7OsAaWsn&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvexI1jDyQkVyzCECsJ1gpEdqei5mw0o864A&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017) | Film, Trailer, Kritik",
+        "url": "https://lens.google.com/goto?url=CAESjAEBxCJF1y2eYVpaYglRYnnbs86gXv5FChWaMVejQDGBPEQPDlnXxZ-S7RfVxDNz8w7PAOiVrbooyCdnSoYjlRjmEnUf9j_l-PkXcEU9xe7srRxBXYjxm5GfyoEG4Tr2RCnTo8_onR4P1JybrqHbOniw2_gQQL_IOCjTjyOhPk95uCSx0jzF7aBQwLJsOg&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjAEBxCJF1y2eYVpaYglRYnnbs86gXv5FChWaMVejQDGBPEQPDlnXxZ-S7RfVxDNz8w7PAOiVrbooyCdnSoYjlRjmEnUf9j_l-PkXcEU9xe7srRxBXYjxm5GfyoEG4Tr2RCnTo8_onR4P1JybrqHbOniw2_gQQL_IOCjTjyOhPk95uCSx0jzF7aBQwLJsOg&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNd-F4Fq5Vxe7Ql9XPyhUXhrr2sHM6trDglQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Best Movies Like Love, Surreal and Odd | BestSimilar",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXXkXMm6Iyym2JaOHwftZ6Pi02f-vxDI1u4k-g0tItUNRJDY1ryyo_B6hf8N-bmV2yRfRahZLtbvxkHvHqrC91fYBGGdQegaJFbhv9CJmNmbUfF0qhouWl5NXVNTn4gKXjgdi7WVQ1B5VtvRqFDdhLanLc&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXXkXMm6Iyym2JaOHwftZ6Pi02f-vxDI1u4k-g0tItUNRJDY1ryyo_B6hf8N-bmV2yRfRahZLtbvxkHvHqrC91fYBGGdQegaJFbhv9CJmNmbUfF0qhouWl5NXVNTn4gKXjgdi7WVQ1B5VtvRqFDdhLanLc&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1nsEAGB8UOCj_PJraA5-nxRC-Ko2uZiKDeA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017)",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXX50Z1x9qBFzsU3t8eyCJJ5NZG5zuzhTp0UrdJqwSo2EX19AIiT5NLSk4Trr3bpNa1OnP7oL6dGd1mZZ5mJqc4RtkiQldpdPR6oHgmuNsr0eeD13glqq4qPaI8diI2s2bslqLzPBXjd6_Ye60oiSadDcradWDNG4WdoA&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXX50Z1x9qBFzsU3t8eyCJJ5NZG5zuzhTp0UrdJqwSo2EX19AIiT5NLSk4Trr3bpNa1OnP7oL6dGd1mZZ5mJqc4RtkiQldpdPR6oHgmuNsr0eeD13glqq4qPaI8diI2s2bslqLzPBXjd6_Ye60oiSadDcradWDNG4WdoA&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0ZzBPvE8FheNpmR1fpxnMYSjONUMgimlgqA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "We'll Be Right Back (2019) | ČSFD.sk",
+        "url": "https://lens.google.com/goto?url=CAESdwHEIkXXCVJuLXIDVerRjkOCQtTwqMoIkmLAZy9Ein-NXV7oEc2UgKd4gppz-aJT7cfxz01o1Hv6k-J8FeSZ_5x9p4WrSZ1QtqSzu4Rff3khMVMbPdwGJu1WjIXwVdCMtgU7mh7_LZEDBWNy5-8gQVA0-MhgBxgt&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdwHEIkXXCVJuLXIDVerRjkOCQtTwqMoIkmLAZy9Ein-NXV7oEc2UgKd4gppz-aJT7cfxz01o1Hv6k-J8FeSZ_5x9p4WrSZ1QtqSzu4Rff3khMVMbPdwGJu1WjIXwVdCMtgU7mh7_LZEDBWNy5-8gQVA0-MhgBxgt&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0Mvlo7axxwkJ_nkOBHWicAS0oQFLWBSJVLQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Love, Surreal and Odd | Rotten Tomatoes",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXXrKulybAM8b0RzW_khQTsJkaOy4f0TR6NF9wysRolFDfwo368Km_qpapnm81MsR2Mgkq-ZkO-JYeTfxIhgekqXFLekZl89RV9rpcAiCGjrfSrW1oBeZ52NSD9BnJmWYXM1Hb8sY_BLXqyv13s-Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXXrKulybAM8b0RzW_khQTsJkaOy4f0TR6NF9wysRolFDfwo368Km_qpapnm81MsR2Mgkq-ZkO-JYeTfxIhgekqXFLekZl89RV9rpcAiCGjrfSrW1oBeZ52NSD9BnJmWYXM1Hb8sY_BLXqyv13s-Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr0wrPEmPWnwyV1RE9aZTvc73hpNEi7kunIA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (2017) – Konusu, Fragmanı ve Yorumları ...",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXkmtgCzilD9l4vThVbXZwWepWmZeXbez4ZjGgbMVUChCR-5ZYiP5NJsXDbx0Dwa0wCN4MMtiqGel2NO3fAcnAjQ0n8jdEgPCLNzquleRKl4HGELOiOfFxf61VbxzIzaXfm1BfBeBqFg60aXgQubA&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXkmtgCzilD9l4vThVbXZwWepWmZeXbez4ZjGgbMVUChCR-5ZYiP5NJsXDbx0Dwa0wCN4MMtiqGel2NO3fAcnAjQ0n8jdEgPCLNzquleRKl4HGELOiOfFxf61VbxzIzaXfm1BfBeBqFg60aXgQubA&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2PWyBjJCeykGNiohG7_GEuQ1H8DwelCbOPg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Мы вам перезвоним (фильм, 2017)",
+        "url": "https://lens.google.com/goto?url=CAESXQHEIkXXQ_ZelLlBguVOLxuVsLDDWBVTJA1cO_1MPuL4wqrWtMPSfBW9KMCH6sGLsgTea5YlN1LRDztJlM_o9t_owoeUNU-jwWLJLGtOuTp8uT4EJkZ-7NLDweOrLQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXQHEIkXXQ_ZelLlBguVOLxuVsLDDWBVTJA1cO_1MPuL4wqrWtMPSfBW9KMCH6sGLsgTea5YlN1LRDztJlM_o9t_owoeUNU-jwWLJLGtOuTp8uT4EJkZ-7NLDweOrLQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRRZGW9b3CH-ubbzm6jFL5PBsHHaDj3q-pHA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Patron Wants a Happy Ending (Film) | KÜRE Encyclopedia",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF14dEI1lVKQDmTnTzvWiNjqpVJzgqjQduOPSr7XkoqLY9JVSYmbB5ZkllMtzN8Zr-0mqJ1yB4YiEd9xfHST3GI9TUQYb1miOQTB0xfUz31W-ZB3bt0qOCAdzqCuQLF3bsd-GbIpdmN28eOunwapj3aRcE2iyTj5TMhSVtI5tRG-4tb-rC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF14dEI1lVKQDmTnTzvWiNjqpVJzgqjQduOPSr7XkoqLY9JVSYmbB5ZkllMtzN8Zr-0mqJ1yB4YiEd9xfHST3GI9TUQYb1miOQTB0xfUz31W-ZB3bt0qOCAdzqCuQLF3bsd-GbIpdmN28eOunwapj3aRcE2iyTj5TMhSVtI5tRG-4tb-rC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTRBm7vuJ5E8_-TVmlCojZgZAb1H8EbDeGuA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Vicky Donor (Original Motion Picture Soundtrack) – Tuyển tập ...",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXvGbGyzD_KuOZtsGLaKLCTVdeALA_L2WS3ZdPeX09NxlR6axAzAgfYqsCQkmefeHI7TIaXWOaqLTytcC1MmuAzq4SCsCD4f5EL3hE9AxzLYTA17nhfK_nolAmJIJ_HRQ7zBk1cP-tI_GH31t7YuNG3RvHZLo2&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXvGbGyzD_KuOZtsGLaKLCTVdeALA_L2WS3ZdPeX09NxlR6axAzAgfYqsCQkmefeHI7TIaXWOaqLTytcC1MmuAzq4SCsCD4f5EL3hE9AxzLYTA17nhfK_nolAmJIJ_HRQ7zBk1cP-tI_GH31t7YuNG3RvHZLo2&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6CYI95qXd-1hl4-u7umNIruOtifSayDsF8g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "MAD Solutions Official website - Cairo - Abu Dhabi - Lisbon ...",
+        "url": "https://lens.google.com/goto?url=CAESjQEBxCJF18GJ-WByj0mFMKpI4euKTmlaZXocoE_0IgZE44jXMeqDe7-Uy_LUA0UcxYEz_vklb1iaB6IWfIgkIdcKfHB_jGpwFAmgnF0oQzDqBFCHxvtEOqrsuLuY3jlOb0D7oNdDNXsIdxRAmzVU4iWikJShfRfmMmknyzFr2TwjFSDRWOhj2VP1p6wOQdU&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjQEBxCJF18GJ-WByj0mFMKpI4euKTmlaZXocoE_0IgZE44jXMeqDe7-Uy_LUA0UcxYEz_vklb1iaB6IWfIgkIdcKfHB_jGpwFAmgnF0oQzDqBFCHxvtEOqrsuLuY3jlOb0D7oNdDNXsIdxRAmzVU4iWikJShfRfmMmknyzFr2TwjFSDRWOhj2VP1p6wOQdU&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuZ-gFeXaYhUJmgxUu1m3c6My9KDrXSaO2cg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "O İş Bende – Movies on Google Play",
+        "url": "https://play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende?id=nXckHoxGm4w.P&hl=en_IE",
+        "url_candidates": [
+          "https://play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende?id=nXckHoxGm4w.P&hl=en_IE"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXldnomal695NyWKFW5nJDAoiiX2ek9aA9eg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [
+          "https://play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende?id=nXckHoxGm4w.P&hl=en_IE"
+        ],
+        "resolved_url": "https://play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende?id=nXckHoxGm4w.P&hl=en_IE"
+      },
+      {
+        "title": "An Aromantic American Saw the Movie 'Husband Factor' (Part 1 ...",
+        "url": "https://lens.google.com/goto?url=CAESrgEBxCJF16FfPyzD7YLXbRAbuo3L2ctLd7_VyCD4oOTeWwl3UHLnizf7--gDoFRdrwY5ekVbrauyJ727PXaWDDOuOdHWjW3_tvAxqhGU5KRfe2FDde2pKFD4uAIvzkFx6tVzeLq4ddgIRumvo5AtYd9PNraNCAMa-jRcTPfivbvpgS18egkTKEkFMs3xcYMYmZc-d25g8e4Nyppn52V9lAftk7bMvLiaFubn6OKSt80&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrgEBxCJF16FfPyzD7YLXbRAbuo3L2ctLd7_VyCD4oOTeWwl3UHLnizf7--gDoFRdrwY5ekVbrauyJ727PXaWDDOuOdHWjW3_tvAxqhGU5KRfe2FDde2pKFD4uAIvzkFx6tVzeLq4ddgIRumvo5AtYd9PNraNCAMa-jRcTPfivbvpgS18egkTKEkFMs3xcYMYmZc-d25g8e4Nyppn52V9lAftk7bMvLiaFubn6OKSt80&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtVo-9PpFWtWZj4mgeRyWSqt1qXMXr6UIOg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "JA Entertainment",
+        "url": "https://lens.google.com/goto?url=CAESUQHEIkXXCNhH6CZkDxudpoJgjH36Y2X3AdRqdTPkk60JqkZEbflIWSKxR-p4E2McYT_f95NMJyZ9Mod9nEdNXHM28lyuL2MrFlqag6mq7fFG3Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESUQHEIkXXCNhH6CZkDxudpoJgjH36Y2X3AdRqdTPkk60JqkZEbflIWSKxR-p4E2McYT_f95NMJyZ9Mod9nEdNXHM28lyuL2MrFlqag6mq7fFG3Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoJC8vcXl2yU-ktGd7gwIKkgEbsyNI8nA5w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz - Pera Sinema",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXkpEhJw3auFZqjeUGESWvy1bmwzce-ibsIf_1xmZARg1N6vNwcJCNXYm8ll_kbUI2b5KWmF5zpYaS30myu4hp1ESZKyci7EveBPsDMQejvBgCPdrNvzJgtCphGGjfFGWILDP93w&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXkpEhJw3auFZqjeUGESWvy1bmwzce-ibsIf_1xmZARg1N6vNwcJCNXYm8ll_kbUI2b5KWmF5zpYaS30myu4hp1ESZKyci7EveBPsDMQejvBgCPdrNvzJgtCphGGjfFGWILDP93w&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWI1LhCLo_gOY87K0UwZETPu-6dT061rZxhw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz size döneriz | Cinestar",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXwKzViDc9UD87BccDmYhJ3Bfbv50k6s5aW-nqPhJ2QyVyLuNRAxpvpj-1Ew2FJsoK13kmLJuxbluwBXV0PrWD3Z-8rGpWVKrDyz2cr-l1KubP5wGex_XwcsBKv-cWCHgdY3cvg-Y5&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXwKzViDc9UD87BccDmYhJ3Bfbv50k6s5aW-nqPhJ2QyVyLuNRAxpvpj-1Ew2FJsoK13kmLJuxbluwBXV0PrWD3Z-8rGpWVKrDyz2cr-l1KubP5wGex_XwcsBKv-cWCHgdY3cvg-Y5&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsFeTpS5VM9ODRmmT8zJle32gIE49LQ9EMlw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz - Film Arşivi sinema salon seans film ...",
+        "url": "https://lens.google.com/goto?url=CAESjQEBxCJF12RNP4MSjBFqBKANMLQZ5jcdAVC3IeElHx7E7eL6tmvVF88NBBj7YOMtOuhYLcBTH2lkHkgU2dBgHcbCwrQs70pZse9XKkY6DkKGx0C-6slA-_Vx29UFnMn_GQhzrjQ9FhNfSvVcZ6ecGKdqq-mbXL4CbxiWwDtSmlLC8GraiyDVZ2CIKHCdAc8&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjQEBxCJF12RNP4MSjBFqBKANMLQZ5jcdAVC3IeElHx7E7eL6tmvVF88NBBj7YOMtOuhYLcBTH2lkHkgU2dBgHcbCwrQs70pZse9XKkY6DkKGx0C-6slA-_Vx29UFnMn_GQhzrjQ9FhNfSvVcZ6ecGKdqq-mbXL4CbxiWwDtSmlLC8GraiyDVZ2CIKHCdAc8&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoECRNIeGOAMGPLitP8vqxiz_bPlrsHMOMCg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Vicky Donor (2012) - Movie | Reviews, Cast & Release Date ...",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXPYiqOmvEOsi3jUJbY1qZNy00GZlc2oTAPMCNdLdBiDNNDyNU8hkYYxz7BneJA_BfEXUvAY7HMb5X_48tDx8sRSFnsufQEJ3Q6T2Q9RziQVCJDER5_Z8JR12hW4LxzB7umKLZNs6D63Y1YWPdI4lDy_wcQTE&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXPYiqOmvEOsi3jUJbY1qZNy00GZlc2oTAPMCNdLdBiDNNDyNU8hkYYxz7BneJA_BfEXUvAY7HMb5X_48tDx8sRSFnsufQEJ3Q6T2Q9RziQVCJDER5_Z8JR12hW4LxzB7umKLZNs6D63Y1YWPdI4lDy_wcQTE&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIxcAjkFhsXuF_3sNgy6pdbTsR4noTUt2y6w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Biz Size Döneriz (@bizsizedonerizfilm) • Facebook",
+        "url": "https://lens.google.com/goto?url=CAESdgHEIkXX6hwtVLqSnZFjl05NsneaOuzTKd-7Q5FsKQgmbjayIagrIvCfoVmbHtwf5tmsR_08uM3kGj1Re2Z2InrtQUYjHaTj1otKDvkYP2gBv7q_4GtjzlCofEQitPKtT7kyyKWfXk10OCfaqTTvx2qfYKDsTJU&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdgHEIkXX6hwtVLqSnZFjl05NsneaOuzTKd-7Q5FsKQgmbjayIagrIvCfoVmbHtwf5tmsR_08uM3kGj1Re2Z2InrtQUYjHaTj1otKDvkYP2gBv7q_4GtjzlCofEQitPKtT7kyyKWfXk10OCfaqTTvx2qfYKDsTJU&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzbNYzv3uf3Mwe-yvQBZh5tbL3UsznH_z0Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Çok keyif alarak hazırladığımız bir iş oldu herkese keyifli ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXNY6g1zRpWf8LcnBVvXZELpuWs3dY5F-Z80ki7HYZ9SazCDYe4-FIeV8f1BayKuajowF6_5CJ72lXXub8m36cBYMYAgLZ30ms70TpQboxRlW7HgKl-f8dv55NE3CuDCi5Go84&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXNY6g1zRpWf8LcnBVvXZELpuWs3dY5F-Z80ki7HYZ9SazCDYe4-FIeV8f1BayKuajowF6_5CJ72lXXub8m36cBYMYAgLZ30ms70TpQboxRlW7HgKl-f8dv55NE3CuDCi5Go84&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZcS6QTb35X8MatAfs5H_Pd14gqqaSarKAg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Adel Mesh Adel – Cairo 360 Guide to Cairo, Egypt",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXXwYfWDQsUAsL1HbxowLCTS4_xwjomXMUDo-7Vg609_3TRjkgYqLyTyp_B_NnsBAnGOHJIH-IyGaIzKVQeNqMUS6BG0ATC9Abu_HaPui18O3WJO-3WR0RnIgaKzEv02PjFPCzciME&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXXwYfWDQsUAsL1HbxowLCTS4_xwjomXMUDo-7Vg609_3TRjkgYqLyTyp_B_NnsBAnGOHJIH-IyGaIzKVQeNqMUS6BG0ATC9Abu_HaPui18O3WJO-3WR0RnIgaKzEv02PjFPCzciME&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAVODzFfNJABKXamSZ5im1jS8KBFXIHR2buQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Vicky Donor - Wikipedia",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXTsG79_4PE7zolzgC_-1zBnCpEr5K1lb7fnJ8R0gVxpt5ah_AjS4RnHbXa1gFb6DTZZb6-8y0oBSSk6HzRwxCX4Yd3dSMsy0EJLJg8uIDtE4A1aXAwuMc86QGuF_gYmExMw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXTsG79_4PE7zolzgC_-1zBnCpEr5K1lb7fnJ8R0gVxpt5ah_AjS4RnHbXa1gFb6DTZZb6-8y0oBSSk6HzRwxCX4Yd3dSMsy0EJLJg8uIDtE4A1aXAwuMc86QGuF_gYmExMw&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiWfno4eR-vA6o7sik6TxgFwI9SsUZFeuW7Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Capuchino - nhạc và lời của Sachin-Jigar, Abhishek Nailwal ...",
+        "url": "https://lens.google.com/goto?url=CAESegHEIkXXxyYIQl5siQIR5rtzkQYkef_BrfFwx2-FvpbCUGRIl5W7dhuGPVwnn1HnDfHBJsLWqi0zmy9q5x6vi25W1M0L0rgAtoNEqlkNBkeG3mzNkKep8EwaGKTsG4d6TDVv7kNjF1UDltaedncSLrDIqd6CA1TOjliC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESegHEIkXXxyYIQl5siQIR5rtzkQYkef_BrfFwx2-FvpbCUGRIl5W7dhuGPVwnn1HnDfHBJsLWqi0zmy9q5x6vi25W1M0L0rgAtoNEqlkNBkeG3mzNkKep8EwaGKTsG4d6TDVv7kNjF1UDltaedncSLrDIqd6CA1TOjliC&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm-AgN125xxaE42Q5ExXhU0s2mNxr5Cm5_oA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Cinema | CityMall",
+        "url": "https://lens.google.com/goto?url=CAESWAHEIkXXZRmZRPUn9egW6WESOn4eLaV0DyraFZFre7Rz5cALuy73ArkMhe_3f9x7VUWTG62lxj1ER4-YZ17hbbTGm_2R8UrZLmdVvSFA9MrC29LriKH0vzM&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESWAHEIkXXZRmZRPUn9egW6WESOn4eLaV0DyraFZFre7Rz5cALuy73ArkMhe_3f9x7VUWTG62lxj1ER4-YZ17hbbTGm_2R8UrZLmdVvSFA9MrC29LriKH0vzM&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRddBcDsk3cOxGdleQ_dMvMocNZ6kXKDXcJ7g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Vicky Donor (2012) - Cast, Reviews & Showtimes - District",
+        "url": "https://lens.google.com/goto?url=CAESjAEBxCJF1zMP-200K_pi1xv8tVE2vBOhmGg7oCzKaqwMa1bxTq3ZpR7M0JStM2lCBBCbiNb2oxuqxX_BBaACa53XTieSTPXWXmefwUmP6fSi2KqO6u0P8qvXN0wJK7zeLueG1yfag-5ZBmS_zeDvbNY2NJq3frTX2j-ai1PN8yrVgKU56bgW5Ur2p7D2uQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjAEBxCJF1zMP-200K_pi1xv8tVE2vBOhmGg7oCzKaqwMa1bxTq3ZpR7M0JStM2lCBBCbiNb2oxuqxX_BBaACa53XTieSTPXWXmefwUmP6fSi2KqO6u0P8qvXN0wJK7zeLueG1yfag-5ZBmS_zeDvbNY2NJq3frTX2j-ai1PN8yrVgKU56bgW5Ur2p7D2uQ&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOCre0ig25DbMpihz3XfPv7lL39usNs9JBhg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "'Vicky Donor' to re-release in theatres on this date, check out ...",
+        "url": "https://lens.google.com/goto?url=CAES2wEBxCJF1_TirlB6rXnw5Rpq4DHP8sAgfvnNiAvAruni6NRy2Ogv9LClZ5-SsUa6IfdSF0F4apGEoZQSjnBeh3z0WqnAdBFZGAl2WLFSs3Rx6AQT3Mx2F2CZ1Tkx7h0prJ0nDVl4BFuJKZ39O-AZ4Wpp5J08Wd_9uKqzS41GGtwMMwIfV2E_fJ7DzKBpOC1jfsfTJiJonCrT7vFtTYtov1NDbj6ISO5gwZuabd9GrWaKrmZ5DoHkaOCUXq6McSfHxaSGY--bTA2bUez5qUp58U9rEYDXzHrtECtP5wg&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES2wEBxCJF1_TirlB6rXnw5Rpq4DHP8sAgfvnNiAvAruni6NRy2Ogv9LClZ5-SsUa6IfdSF0F4apGEoZQSjnBeh3z0WqnAdBFZGAl2WLFSs3Rx6AQT3Mx2F2CZ1Tkx7h0prJ0nDVl4BFuJKZ39O-AZ4Wpp5J08Wd_9uKqzS41GGtwMMwIfV2E_fJ7DzKBpOC1jfsfTJiJonCrT7vFtTYtov1NDbj6ISO5gwZuabd9GrWaKrmZ5DoHkaOCUXq6McSfHxaSGY--bTA2bUez5qUp58U9rEYDXzHrtECtP5wg&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-Jn9eZcDP4-ozHNFe-GFYDsLzM2q1IEKgtQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 61,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Benden Ne Olur? | Rotten Tomatoes",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXVebb1rZHPZgLxHaba0b519rEW02OqyNvO4bSdYwt1kRtyeuZqbeGnZv2dmaqiMXyy7Vnz4vjJBskrjWq_3giyV-OqCji3lHO6-Vuqh9fv5ctmODsAT-0LFYjMFuvmnMiuJNSvnTS7Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXVebb1rZHPZgLxHaba0b519rEW02OqyNvO4bSdYwt1kRtyeuZqbeGnZv2dmaqiMXyy7Vnz4vjJBskrjWq_3giyV-OqCji3lHO6-Vuqh9fv5ctmODsAT-0LFYjMFuvmnMiuJNSvnTS7Q&gsessionid=kH-r8JXIKVjxtEW_qaKN48foyuhXAtn2L-XdQ0JgTEZtZPTeE69tLQ"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDX7bJ-PQteOi798B2NyBdMf8legfl67-DJg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 62,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 58,
+              "play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 58,
+          "play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende": 1
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 58,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 58,
+        "google_goto_direct_urls_kept": 1,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 58,
+        "google_goto_url_count": 58,
+        "result_url_paths": {
+          "lens.google.com/goto": 58,
+          "play.google.com/store/movies/details/o_%c4%b0%c5%9f_bende": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 58,
+          "play.google.com": 1
+        },
+        "lens_tmdb_title_resolution_status": "resolved",
+        "lens_tmdb_title_query_count": 1,
+        "lens_tmdb_title_hint": "Biz Size Döneriz",
+        "lens_tmdb_title_selected_id": 450456,
+        "title_search_status": "skipped_exact_lens_title_resolved",
+        "title_search_response_format": "json",
+        "title_search_http_status": null,
+        "title_search_payload_shape": null,
+        "title_search_attempts": 0,
+        "title_search_results": 0,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 0,
+        "title_search_query_variants": [],
+        "title_search_hints": [
+          "Biz Size Döneriz"
+        ],
+        "title_search_candidate_urls": 0,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {},
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "google_lens_exact_title_tmdb_match",
+      "tmdb_ids": [
+        450456
+      ],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "resolved",
+        "tmdb_ids": [
+          450456
+        ],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 1,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "lens_title_tmdb_ids": [
+          450456
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [
+          450456
+        ],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "lens_title_tmdb_ids": [
+          450456
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [],
+        "ignored_secondary_imdb_errors": [],
+        "ignored_secondary_detail_errors": []
+      },
+      "candidate_identities": [
+        {
+          "tmdb_id": 450456,
+          "imdb_id": "tt6559642",
+          "title": "We'll Get Back to You",
+          "original_title": "Biz Size Döneriz",
+          "year": 2017,
+          "tmdb_data": {
+            "year": 2017,
+            "countries": [
+              "Turkey"
+            ],
+            "directors": [
+              "Doğa Can Anafarta"
+            ],
+            "cast": [
+              {
+                "name": "Hande Soral",
+                "character": "Lale"
+              },
+              {
+                "name": "Çağlar Ertuğrul",
+                "character": "Akın"
+              },
+              {
+                "name": "Fırat Albayram",
+                "character": "Cahit"
+              },
+              {
+                "name": "Bestemsu Özdemir",
+                "character": "Defne"
+              },
+              {
+                "name": "Tuğçe Kurşunoğlu",
+                "character": "Nur"
+              },
+              {
+                "name": "Tarık Ündüz",
+                "character": "Yusuf"
+              },
+              {
+                "name": "Ceyda Kasabalı",
+                "character": "Didem"
+              },
+              {
+                "name": "Tuana Naz Tiryaki",
+                "character": "Child Lale"
+              }
+            ],
+            "rating": 5.2,
+            "rating_votes": 13,
+            "poster_count": 0
+          }
+        }
+      ],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "skipped_exact_lens_title_resolved",
+        "query_count": 0,
+        "query_variants": [],
+        "title_hints": [
+          "Biz Size Döneriz"
+        ],
+        "year_hint": 2017,
+        "response_format": "json",
+        "payload_shape": null,
+        "http_status": null,
+        "attempts": 0,
+        "organic_result_count": 0,
+        "candidate_url_count": 0,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {},
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "lens_title_resolution": {
+        "status": "resolved",
+        "provider": "tmdb_search_movie",
+        "query_count": 1,
+        "title_hint": "Biz Size Döneriz",
+        "year_hint": 2017,
+        "exact_candidate_count": 1,
+        "candidate_tmdb_ids": [
+          450456
+        ],
+        "selected_tmdb_id": 450456,
+        "details_verified": true,
+        "reason": "One exact Lens title matched one complete TMDB result and official movie details confirmed it",
+        "tmdb_total_results": 1,
+        "tmdb_returned_results": 1
+      },
+      "identity_consistency": {
+        "status": "passed",
+        "allowed": true,
+        "reason": "No confirmed title-and-year contradiction with the source-folder label",
+        "folder_year": 2017,
+        "candidate_year": 2017,
+        "title_match": true,
+        "year_match": true,
+        "clear_title_and_year_conflict": false,
+        "matching_title_aliases": [
+          "Biz Size Döneriz"
+        ],
+        "folder_name_used_for_search": false,
+        "folder_name_used_to_select_candidate": false,
+        "folder_name_used_for_conflict_veto": true
+      },
+      "resolved_identity": {
+        "tmdb_id": 450456,
+        "imdb_id": "tt6559642",
+        "source": "google_lens_exact_title_tmdb_match",
+        "verification": "exact_google_lens_title_then_unique_complete_tmdb_search_and_matching_movie_details",
+        "official_tmdb_ids": [],
+        "official_imdb_ids": [],
+        "lens_title_tmdb_ids": [
+          450456
+        ],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": [],
+        "title_disambiguation": null,
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "identity_consistency": {
+          "status": "passed",
+          "allowed": true,
+          "reason": "No confirmed title-and-year contradiction with the source-folder label",
+          "folder_year": 2017,
+          "candidate_year": 2017,
+          "title_match": true,
+          "year_match": true,
+          "clear_title_and_year_conflict": false,
+          "matching_title_aliases": [
+            "Biz Size Döneriz"
+          ],
+          "folder_name_used_for_search": false,
+          "folder_name_used_to_select_candidate": false,
+          "folder_name_used_for_conflict_veto": true
+        }
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "skipped_official_identity_resolved",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 58,
+              "play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende": 1
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 58,
+          "play.google.com/store/movies/details/O_%C4%B0%C5%9F_Bende": 1
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 58,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 58,
+        "google_goto_direct_urls_kept": 1,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 58,
+        "google_goto_url_count": 58,
+        "result_url_paths": {
+          "lens.google.com/goto": 58,
+          "play.google.com/store/movies/details/o_%c4%b0%c5%9f_bende": 1
+        },
+        "result_hosts": {
+          "lens.google.com": 58,
+          "play.google.com": 1
+        },
+        "lens_tmdb_title_resolution_status": "resolved",
+        "lens_tmdb_title_query_count": 1,
+        "lens_tmdb_title_hint": "Biz Size Döneriz",
+        "lens_tmdb_title_selected_id": 450456,
+        "title_search_status": "skipped_exact_lens_title_resolved",
+        "title_search_response_format": "json",
+        "title_search_http_status": null,
+        "title_search_payload_shape": null,
+        "title_search_attempts": 0,
+        "title_search_results": 0,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 0,
+        "title_search_query_variants": [],
+        "title_search_hints": [
+          "Biz Size Döneriz"
+        ],
+        "title_search_candidate_urls": 0,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {},
+        "wikipedia_status": "skipped_official_identity_resolved",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "skipped_official_identity_resolved",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "skipped_official_identity_resolved",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": {
+    "tmdb_id": 450456,
+    "media_type": "movie",
+    "title": "We'll Get Back to You",
+    "original_title": "Biz Size Döneriz",
+    "release_date": "2017-03-31",
+    "year": 2017,
+    "original_language": "tr",
+    "origin_country": [
+      "TR"
+    ],
+    "production_countries": [
+      {
+        "iso_3166_1": "TR",
+        "name": "Turkey"
+      }
+    ],
+    "production_companies": [
+      {
+        "id": 47231,
+        "logo_path": "/fFnXcpc9G34LbHg6Fayrio49yPH.png",
+        "name": "Pinema",
+        "origin_country": "TR"
+      }
+    ],
+    "genres": [
+      {
+        "id": 18,
+        "name": "Drama"
+      },
+      {
+        "id": 35,
+        "name": "Comedy"
+      },
+      {
+        "id": 10749,
+        "name": "Romance"
+      }
+    ],
+    "runtime": 105,
+    "status": "Released",
+    "overview": "The only cure of being jobelessness, unhappy and hopelessness is friendship, life is beautiful together.",
+    "tagline": "",
+    "homepage": "",
+    "poster_path": "/xXtco41oFrZy0cuREcbnakrD9iw.jpg",
+    "poster_url": "https://image.tmdb.org/t/p/w500/xXtco41oFrZy0cuREcbnakrD9iw.jpg",
+    "posters": [],
+    "backdrop_path": "/dvISyhsOylrSDWLEcuH8G9ekjHp.jpg",
+    "backdrop_url": "https://image.tmdb.org/t/p/w780/dvISyhsOylrSDWLEcuH8G9ekjHp.jpg",
+    "popularity": 0.8805,
+    "vote_average": 5.2,
+    "vote_count": 13,
+    "collection": null,
+    "external_ids": {
+      "imdb_id": "tt6559642",
+      "wikidata_id": "Q29022411",
+      "facebook_id": null,
+      "instagram_id": null,
+      "twitter_id": null
+    },
+    "alternative_titles": [],
+    "certifications_by_country": {
+      "RO": [
+        {
+          "certification": "15",
+          "release_date": "2017-03-31T00:00:00.000Z",
+          "type": 3
+        }
+      ],
+      "TR": [
+        {
+          "certification": "13A",
+          "release_date": "2017-03-31T00:00:00.000Z",
+          "type": 3
+        }
+      ]
+    },
+    "cast": [
+      {
+        "id": 1556546,
+        "name": "Hande Soral",
+        "character": "Lale",
+        "order": 0
+      },
+      {
+        "id": 1282320,
+        "name": "Çağlar Ertuğrul",
+        "character": "Akın",
+        "order": 1
+      },
+      {
+        "id": 1749768,
+        "name": "Fırat Albayram",
+        "character": "Cahit",
+        "order": 2
+      },
+      {
+        "id": 1789115,
+        "name": "Bestemsu Özdemir",
+        "character": "Defne",
+        "order": 3
+      },
+      {
+        "id": 1570722,
+        "name": "Tuğçe Kurşunoğlu",
+        "character": "Nur",
+        "order": 4
+      },
+      {
+        "id": 1789117,
+        "name": "Tarık Ündüz",
+        "character": "Yusuf",
+        "order": 5
+      },
+      {
+        "id": 1652977,
+        "name": "Ceyda Kasabalı",
+        "character": "Didem",
+        "order": 6
+      },
+      {
+        "id": 2342736,
+        "name": "Tuana Naz Tiryaki",
+        "character": "Child Lale",
+        "order": 7
+      },
+      {
+        "id": 1584596,
+        "name": "Erşan Utku Ölmez",
+        "character": "Yapımcı",
+        "order": 8
+      }
+    ],
+    "directors": [
+      {
+        "id": 1789118,
+        "name": "Doğa Can Anafarta",
+        "job": "Director",
+        "department": "Directing"
+      }
+    ],
+    "writers": [
+      {
+        "id": 1789118,
+        "name": "Doğa Can Anafarta",
+        "job": "Screenplay",
+        "department": "Writing"
+      }
+    ],
+    "keywords": [
+      {
+        "id": 6054,
+        "name": "friendship"
+      },
+      {
+        "id": 156052,
+        "name": "unemployment"
+      }
+    ],
+    "worldwide_title": "We'll Get Back to You",
+    "worldwide_title_selection": {
+      "title": "We'll Get Back to You",
+      "source": "tmdb_movie_details"
+    }
+  },
+  "tmdb_id": 450456,
+  "imdb_id": "tt6559642",
+  "identity": {
+    "tmdb_id": 450456,
+    "imdb_id": "tt6559642",
+    "source": "google_lens_exact_title_tmdb_match",
+    "verification": "lens_exact_title_tmdb_search",
+    "folder_name_used": false
+  },
+  "correction": {
+    "canonical_folder_name": "We'll Get Back to You (2017)",
+    "canonical_json_name": "We'll Get Back to You (2017)",
+    "worldwide_title": "We'll Get Back to You",
+    "title_selection": {
+      "title": "We'll Get Back to You",
+      "source": "tmdb_movie_details"
+    },
+    "json_rename_required": true,
+    "rename_required": false,
+    "source_folder_unchanged": true
+  },
+  "status": "ready",
+  "output_path": "جاهز/Biz Size Döneriz (2017)/We'll Get Back to You (2017).json"
+}

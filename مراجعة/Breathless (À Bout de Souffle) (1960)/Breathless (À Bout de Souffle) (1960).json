@@ -1,0 +1,1333 @@
+{
+  "schema_version": 3,
+  "processed_utc": "2026-11-09T22:05:38.432000+00:00",
+  "source": {
+    "repository": "zqzqhesam11-blip/KafiaNet-Movie-Posters",
+    "branch": "main",
+    "folder": "Breathless (À Bout de Souffle) (1960)",
+    "image_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg",
+    "image_url": "https://raw.githubusercontent.com/zqzqhesam11-blip/KafiaNet-Movie-Posters/main/%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9/Breathless%20%28%C3%80%20Bout%20de%20Souffle%29%20%281960%29/%D9%83%D8%A7%D9%81%D9%8A%D8%A9%20%D9%86%D8%AA%20-%20%D8%A7%D9%84%D8%B3%D9%86%D9%8A%D9%86%D8%A9%20-%20%D8%A7%D9%85%D8%A7%D9%85%20%D9%85%D8%B3%D8%AA%D8%B4%D9%81%D9%89%20%D8%A7%D9%84%D9%83%D9%85%D8%A7%D9%84%D9%8A%20-%20%28%D8%A7%D9%85%D8%A7%D9%85%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D9%86%D8%A7%D8%B5%D8%B1%29.jpg",
+    "image_blob_sha": "efacd3f4056ea3ba46fdd95e1740849c3245168c",
+    "original_image_path": "Breathless (À Bout de Souffle) (1960)/كافية نت - السنينة - امام مستشفى الكمالي - (امام جامعة الناصر).jpg"
+  },
+  "original": {
+    "folder_name": "Breathless (À Bout de Souffle) (1960)",
+    "folder_name_used_for_matching": false
+  },
+  "match": {
+    "status": "review",
+    "confidence": 0.0,
+    "reason": "Neither Google Lens nor its title-derived search produced an official TMDB/IMDb movie ID",
+    "candidate_ids": []
+  },
+  "wikipedia": {
+    "provider": "wikipedia_mediawiki_api",
+    "tmdb_provider": "tmdb_search_movie",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "title_hints": [],
+    "wikipedia_query_count": 0,
+    "wikipedia_article_count": 0,
+    "tmdb_query_count": 0,
+    "tmdb_result_count": 0,
+    "exact_title_year_match_count": 0,
+    "wikipedia": {},
+    "queries": [],
+    "errors": [],
+    "wikidata": {
+      "provider": "wikidata_action_api",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "candidate_count": 0,
+      "candidates": [],
+      "errors": []
+    }
+  },
+  "wikidata": {
+    "provider": "wikidata_action_api",
+    "status": "disabled_by_configuration",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "candidate_count": 0,
+    "candidates": [],
+    "errors": []
+  },
+  "catalog_sources": {
+    "status": "no_results",
+    "identity_evidence": false,
+    "automatic_match_allowed": false,
+    "afi_catalog": [],
+    "bfi_national_archive": []
+  },
+  "ocr": {
+    "provider": "rapidocr_onnxruntime_cpu",
+    "source": "poster_image_pixels",
+    "identity_evidence": false,
+    "status": "disabled_by_configuration",
+    "text_lines": [],
+    "title_hints": [],
+    "tmdb_suggestions": {
+      "provider": "tmdb_search_movie",
+      "status": "disabled_by_configuration",
+      "identity_evidence": false,
+      "automatic_match_allowed": false,
+      "query_count": 0,
+      "queries": []
+    }
+  },
+  "reverse_image": {
+    "enabled": true,
+    "provider": "google_lens_brightdata",
+    "results": [
+      {
+        "title": "Breathless - 50th Anniversary Special Edition * Digitally ...",
+        "url": "https://lens.google.com/goto?url=CAEShQEBxCJF1wDBSi8JRnA15UxnVskOWw3SGZ9CrgXpQbeXSmFBlbIzzIN7eiRhJfoOPxLttM4-y2oStyw3Lkoe4MupHM-ckfixkD2rmjoX4sNTKDo6KdksxD4TzBgKactnaTB23d1JGZck4FKtwNcka5LJ6P8zYOYr4e48Lf-H5YJrsaN0QfjF&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShQEBxCJF1wDBSi8JRnA15UxnVskOWw3SGZ9CrgXpQbeXSmFBlbIzzIN7eiRhJfoOPxLttM4-y2oStyw3Lkoe4MupHM-ckfixkD2rmjoX4sNTKDo6KdksxD4TzBgKactnaTB23d1JGZck4FKtwNcka5LJ6P8zYOYr4e48Lf-H5YJrsaN0QfjF&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 1,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На Последнем Дыхании / Франция, 1960, реж. Жан-Люк Годар ...",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXAa7GOaCrQlJDOS8SywONYXigkGe-6i41JnPBUzGinmKyJuC5GTdKj4oVr0D4k1NYQR5bHKveL0ohTXLLve7AKLwUfEFuydVYEEGvtqpRQJMFkBnpb5Z92AXOCETtrKEtJL5WNVcJ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXAa7GOaCrQlJDOS8SywONYXigkGe-6i41JnPBUzGinmKyJuC5GTdKj4oVr0D4k1NYQR5bHKveL0ohTXLLve7AKLwUfEFuydVYEEGvtqpRQJMFkBnpb5Z92AXOCETtrKEtJL5WNVcJ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 4,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless DVD (2010) Jean-Paul Belmondo, Godard (DIR) cert ...",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXLfqBzvevNNaRy8ULKdVs3YOsBFFP2BWPWkF_W4VUt4AaH-lMsdP0saSckNowMjGkvlb0QgGqnxpiZb4Ws6U-I8-Fi6JWYT9gD0cxDep8TRWuOIB7TThC37p8fYs8msU&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXLfqBzvevNNaRy8ULKdVs3YOsBFFP2BWPWkF_W4VUt4AaH-lMsdP0saSckNowMjGkvlb0QgGqnxpiZb4Ws6U-I8-Fi6JWYT9gD0cxDep8TRWuOIB7TThC37p8fYs8msU&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 5,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Tallenge - Breathless (A Bout De Souffle) - Jean-Luc Godard ...",
+        "url": "https://lens.google.com/goto?url=CAESlQEBxCJF19PRVgvjAdIaZa3F1PZYte96MWo5lB7FKY9n0ZfRxyCO0N2C5jz3unurMzGL5Nf7imuj79uF_ih9mYN4g-PLrBLA3As1ZRKTkLgJdrBpvCgepfqeXXF2TyYZsgG4J4CaRGHCuevB3F4hdSdio4sgSqujfLEi8c_I4WepTk-aqJ1J_BwB0pk1KXv2p2EJtKPafA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlQEBxCJF19PRVgvjAdIaZa3F1PZYte96MWo5lB7FKY9n0ZfRxyCO0N2C5jz3unurMzGL5Nf7imuj79uF_ih9mYN4g-PLrBLA3As1ZRKTkLgJdrBpvCgepfqeXXF2TyYZsgG4J4CaRGHCuevB3F4hdSdio4sgSqujfLEi8c_I4WepTk-aqJ1J_BwB0pk1KXv2p2EJtKPafA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 6,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Roter Holunder - (1974) - My Movies - The Movie & TV Network ...",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXP1iaQ9NjyQZ1GsH0S7aD2I8DAeBE0CPfHZpsg6JY2vk1KXeb-yS-PXk19zH95xxnIFPy9e8xhK8ZmIywf4QksGqJ7aFWi8MjYzU6O0CSxF4lLq0XNwVVX9D4w_p8oniZBgmM6ky7yvSHTHtBRrTMCqiaxXmGcIbv5g&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXP1iaQ9NjyQZ1GsH0S7aD2I8DAeBE0CPfHZpsg6JY2vk1KXeb-yS-PXk19zH95xxnIFPy9e8xhK8ZmIywf4QksGqJ7aFWi8MjYzU6O0CSxF4lLq0XNwVVX9D4w_p8oniZBgmM6ky7yvSHTHtBRrTMCqiaxXmGcIbv5g&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 7,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BREATHLESS: 50TH ANNIVERSARY EDITION – GFD Film Library",
+        "url": "https://lens.google.com/goto?url=CAEShQEBxCJF14ZZQ0URX3ug66NEyms8KcZlrJ9ziSbmW1xpIhHheAT2NYT3fxFCeAFZq_30yXSzGTTwfpQ9vIi1J15shBSrnT0xl8Wldr5oV8s6eKN8sR1XQ1JThWTOX7tvxY0jHnLwlGJKotf13Ulk0XjbCf2uLj8pB18ZQOLnEEz_5_nKSO8A&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShQEBxCJF14ZZQ0URX3ug66NEyms8KcZlrJ9ziSbmW1xpIhHheAT2NYT3fxFCeAFZq_30yXSzGTTwfpQ9vIi1J15shBSrnT0xl8Wldr5oV8s6eKN8sR1XQ1JThWTOX7tvxY0jHnLwlGJKotf13Ulk0XjbCf2uLj8pB18ZQOLnEEz_5_nKSO8A&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 8,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless - A bout de souffle - YouTube",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXmXvohd8tpfJhjZfbgSu1GyyV7wv25DByL2UW8GWxZswAmdmOpryx8W6fsJp14m8ueROwgV1MdBMVC18xNRnrJq5x2THbbUuQc-UABN3RjcgcvjAF413_YCiusXhxikYL91zU&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXmXvohd8tpfJhjZfbgSu1GyyV7wv25DByL2UW8GWxZswAmdmOpryx8W6fsJp14m8ueROwgV1MdBMVC18xNRnrJq5x2THbbUuQc-UABN3RjcgcvjAF413_YCiusXhxikYL91zU&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 9,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BREATHLESS (1960) *Premiere*🚨 Saturday 29th November at 9pm ...",
+        "url": "https://lens.google.com/goto?url=CAES0QEBxCJF18YOsYaXuSppzHAWkBnHKHIoRCFqIwfo4tNubl-ho4YjU1klT2kjAathavIbCqcVvcmiYxM3e-sBy4wMM3Mnh1dD1JwwXySrHZq-KOnozgbQBwvVeKA-RhtrXfCbEC21qKfIpKo90hna8GyOdxfu5SIbNlXEI1YjzdOiRExt6Oklcr2TZwEixyeYoOd52Pj-FIiSP_eoUhb3rjHAl8iYIdOEizNvUmDuGfoFtC-w836yIHAVSG_fiUQL7-QWS96NIeYjEVemxaLU41BOYQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES0QEBxCJF18YOsYaXuSppzHAWkBnHKHIoRCFqIwfo4tNubl-ho4YjU1klT2kjAathavIbCqcVvcmiYxM3e-sBy4wMM3Mnh1dD1JwwXySrHZq-KOnozgbQBwvVeKA-RhtrXfCbEC21qKfIpKo90hna8GyOdxfu5SIbNlXEI1YjzdOiRExt6Oklcr2TZwEixyeYoOd52Pj-FIiSP_eoUhb3rjHAl8iYIdOEizNvUmDuGfoFtC-w836yIHAVSG_fiUQL7-QWS96NIeYjEVemxaLU41BOYQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 10,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (1960) - Posters — The Movie Database (TMDB)",
+        "url": "https://lens.google.com/goto?url=CAESggEBxCJF19cfrI9a_mRYbss85-Q8SJ1IvA-0m14q8eZe6Q46_OAQlyG2ygt-jEmUIu2ux2wItGeF3HUZLih0L1UOwILQnqB_68sl905yDZAJXU2GMIknyPZXFIxkr-i3_c6S0x3ZWW42T6qAfLs2QScAfl92FGpa4kpIjw6kJpnAcmeD&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESggEBxCJF19cfrI9a_mRYbss85-Q8SJ1IvA-0m14q8eZe6Q46_OAQlyG2ygt-jEmUIu2ux2wItGeF3HUZLih0L1UOwILQnqB_68sl905yDZAJXU2GMIknyPZXFIxkr-i3_c6S0x3ZWW42T6qAfLs2QScAfl92FGpa4kpIjw6kJpnAcmeD&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 11,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless, Jean-Luc Godard",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXkZ1fo-ooYtp4m6Koe9A2wjjoYQQp78oj7kug5B54eA6vcUF4FR3Wcif0sKFleUl4x9M__IKB92BN2Mp86EydSm4_HQuF6RP1rtZ_FaSV-2CBpjn9HmeofzApnqXZQdy6ytxqP68YuPrc&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXkZ1fo-ooYtp4m6Koe9A2wjjoYQQp78oj7kug5B54eA6vcUF4FR3Wcif0sKFleUl4x9M__IKB92BN2Mp86EydSm4_HQuF6RP1rtZ_FaSV-2CBpjn9HmeofzApnqXZQdy6ytxqP68YuPrc&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 12,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (1960) смотреть онлайн бесплатно",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXX3P4CzdLS3BK66mUVY_L7uF94ZhXS9_KUZZIn7h2di2H_C-VPXqJW6Q2CzS_Hz3FS7FssAxM8699WJNukfqTDnchsjRiF9-G9Yp4rLwwUGFN9BWUvfJwUrJNYBxNjU0T5gffRiB03F1L5kzhZH93f&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXX3P4CzdLS3BK66mUVY_L7uF94ZhXS9_KUZZIn7h2di2H_C-VPXqJW6Q2CzS_Hz3FS7FssAxM8699WJNukfqTDnchsjRiF9-G9Yp4rLwwUGFN9BWUvfJwUrJNYBxNjU0T5gffRiB03F1L5kzhZH93f&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 13,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "British Quad 30\" x 40\" – Tagged \"Breathless Poster\" – At The ...",
+        "url": "https://lens.google.com/goto?url=CAEShgEBxCJF16IFmxWZqnSiXyQK4xO_m7_K1oWZ2Nl6nsjAjK_rvI56N0Dtma1lEEN_2JrEz3K-6JCyt5IkrbwZew8tRzcDJ8NxoDPmk8tCvV-WP_MUJ-1jPEc5MFRjI43Cca4CX66GblEK1Wq2MQU7uOdQp79Cdp1ARs5nJAHEYjWgxR88V72C_A&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShgEBxCJF16IFmxWZqnSiXyQK4xO_m7_K1oWZ2Nl6nsjAjK_rvI56N0Dtma1lEEN_2JrEz3K-6JCyt5IkrbwZew8tRzcDJ8NxoDPmk8tCvV-WP_MUJ-1jPEc5MFRjI43Cca4CX66GblEK1Wq2MQU7uOdQp79Cdp1ARs5nJAHEYjWgxR88V72C_A&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFmG4bXws5weH896XAXBDH7rmgN7fve2JdA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 14,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Red Dirt Film Club presents Breathless (1960) | Broken Hill ...",
+        "url": "https://lens.google.com/goto?url=CAESpAEBxCJF17YpJPbbB_SCDaXFwhYY_AxpLXGtgsgJPRHYesjoknTJyuE3-9bgax2RWRSrz42xspJAYmLQ_n-0oBxGXmw_SGgY5EeltIZHM0ojFIcpcSt4RHU6Y9U5km00qYTRqiDf7Yxn1eDnT___0n6pwbKgZeu5kl6A4zyq9XE63da8yUGmvJo1DFOkoFODiN-5T55HZhhrrpHHsLrQlIhORBLhqA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESpAEBxCJF17YpJPbbB_SCDaXFwhYY_AxpLXGtgsgJPRHYesjoknTJyuE3-9bgax2RWRSrz42xspJAYmLQ_n-0oBxGXmw_SGgY5EeltIZHM0ojFIcpcSt4RHU6Y9U5km00qYTRqiDf7Yxn1eDnT___0n6pwbKgZeu5kl6A4zyq9XE63da8yUGmvJo1DFOkoFODiN-5T55HZhhrrpHHsLrQlIhORBLhqA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS26IPYwRqQExqlsnR1GuqJq-6zuj2_KSqWig&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 15,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXX_6qPvUBZNKVxmlYqtSZXawOYmWpotRYiPkYN4_em6iR_-qm1CTUIrW77aWfzQvWdM3WYwVffu4DyBiJGLw_kaaYM6n_VysuupRQvnE88Nu_jvbRECo-f8EP15CUq_XbaT3OJbgCUtRNv-oHEh9NkmVmvD3fBShA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXX_6qPvUBZNKVxmlYqtSZXawOYmWpotRYiPkYN4_em6iR_-qm1CTUIrW77aWfzQvWdM3WYwVffu4DyBiJGLw_kaaYM6n_VysuupRQvnE88Nu_jvbRECo-f8EP15CUq_XbaT3OJbgCUtRNv-oHEh9NkmVmvD3fBShA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFz5PaFYBT4FLOpIwv5KBFfK2IXxtMGJdMg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 16,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (1960) смотреть онлайн бесплатно в ...",
+        "url": "https://lens.google.com/goto?url=CAESeAHEIkXXBghf3yzKl16Z9adJV679xk0r8mJsNPBEclYauqD0qVhHtwHPFDHAslJhKJRVMrx05WrJFPdUJrXe6r9Q_mlpDx9SAT1sbs2sIWrnNbxXKn3e4VXOD-ehSEcp3l_5d3QmrV3AaWqtQxRSxHkoAt3f4OoiGQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeAHEIkXXBghf3yzKl16Z9adJV679xk0r8mJsNPBEclYauqD0qVhHtwHPFDHAslJhKJRVMrx05WrJFPdUJrXe6r9Q_mlpDx9SAT1sbs2sIWrnNbxXKn3e4VXOD-ehSEcp3l_5d3QmrV3AaWqtQxRSxHkoAt3f4OoiGQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJyFthTo-UPWKqm92ffpfBboDnQaMMbHtuTQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 17,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "À bout de souffle (1960) British dvd movie cover",
+        "url": "https://lens.google.com/goto?url=CAEShAEBxCJF18GiFsCSMZLsApzUmsoH2a6bzYFLJFO9-KjbczMOWjCK4kEhmXtYBKPaP6EgufqzfiW-y57wJ9atFQ5Z9CcBEWZ96XC-oAM8edqZJ2kZ8246bUbyaJWKCNSIHKLJWNnQ0bSuHZB5ER-1Z51qV8MYnlNJ1eZEivcjBpijDDaDfoM&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShAEBxCJF18GiFsCSMZLsApzUmsoH2a6bzYFLJFO9-KjbczMOWjCK4kEhmXtYBKPaP6EgufqzfiW-y57wJ9atFQ5Z9CcBEWZ96XC-oAM8edqZJ2kZ8246bUbyaJWKCNSIHKLJWNnQ0bSuHZB5ER-1Z51qV8MYnlNJ1eZEivcjBpijDDaDfoM&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvVt9aYBuLWwQiTkRWONAnFFdaaobILnrrCQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 18,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (1960) - STUDIOCANAL",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXXKR57i2EZ4eB3SYdiJG-D-J5Qy0QWm2Z9Bm-WQon4X-epXMMifdcGGVT0rprXSqUHyNTtMq8Xg0xyRWASwtlOlHKhJo-a3VOEK9VfA5Y9HE-QmYfNAFcF4rdphQX1VclZwjieplmKQ37oig&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXXKR57i2EZ4eB3SYdiJG-D-J5Qy0QWm2Z9Bm-WQon4X-epXMMifdcGGVT0rprXSqUHyNTtMq8Xg0xyRWASwtlOlHKhJo-a3VOEK9VfA5Y9HE-QmYfNAFcF4rdphQX1VclZwjieplmKQ37oig&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfx3fZ14vxwttGKRJLgoEZTAgCaV2c9gmtHA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 19,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless - 50Th Anniversary Special Edition [DVD] (PG ...",
+        "url": "https://lens.google.com/goto?url=CAESiAEBxCJF1xeX2YG5GbBghoGSs_05RxHphF0soZSPS-xzaZ7O72EEluhDzQ0p3XrPuGLkepGqQIG3GuRBywrGWNljCn1cjJ7ZDECCa0UF5A88c3Ze61PfHEh-Th-acsaXmqZ4H54W3nuBVzaFoy2KoqJ65Fv-4ebxeyK0rNfAkONleLHHDnm5jNL9&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESiAEBxCJF1xeX2YG5GbBghoGSs_05RxHphF0soZSPS-xzaZ7O72EEluhDzQ0p3XrPuGLkepGqQIG3GuRBywrGWNljCn1cjJ7ZDECCa0UF5A88c3Ze61PfHEh-Th-acsaXmqZ4H54W3nuBVzaFoy2KoqJ65Fv-4ebxeyK0rNfAkONleLHHDnm5jNL9&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-HSf05Ss5JWhjkUNnm4u0hZHrAs4eoV2r5g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 20,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless Movie Poster (#4 of 4) - IMP Awards",
+        "url": "https://lens.google.com/goto?url=CAESbwHEIkXXUiK9BjpkpSVcYp484VWtopv2Rz4TDWAD1mnywsfsO2RTr0ygL8x2r8Os6XilrRMGaIJhOWUzjo1eTJ031vwYW1nQkVUy1smeky0NfTFv-jHq2D6NhKYd96OYnvE5UsN8ikn9ksBnog_wTg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbwHEIkXXUiK9BjpkpSVcYp484VWtopv2Rz4TDWAD1mnywsfsO2RTr0ygL8x2r8Os6XilrRMGaIJhOWUzjo1eTJ031vwYW1nQkVUy1smeky0NfTFv-jHq2D6NhKYd96OYnvE5UsN8ikn9ksBnog_wTg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWCZ0oywi81xXnAV_8kgg6SdzfgIP1hHliRw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 21,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (фильм, 1960) – смотреть онлайн ...",
+        "url": "https://lens.google.com/goto?url=CAEScgHEIkXXq10yA19SLreJiB0kqVUCyavToFalEgubs3i7GYxwgpAmh29L24OVFhwtZ131uwGggXdVl1l81UPzwD0usF72eDYOI_mfiLGiWnH2gO0g2Cw8R_KP7AgwZr3O7Zq_V7fp-3nPUnGN1zpB1MvOCQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScgHEIkXXq10yA19SLreJiB0kqVUCyavToFalEgubs3i7GYxwgpAmh29L24OVFhwtZ131uwGggXdVl1l81UPzwD0usF72eDYOI_mfiLGiWnH2gO0g2Cw8R_KP7AgwZr3O7Zq_V7fp-3nPUnGN1zpB1MvOCQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMvnFxXjv5esfpe0Sxu_C_yIRxoo6cyHRBNA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 22,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (1960). Jean-Luc Godard. Rebellious Noir. Noir ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXX9sZyTI6JBQTUwDql0Pr0W_V5cMS8GFeCZZCyEMiG9B8CHLfM1vsSVhTrsvY8yOJ_RQYqUCfbh-Hh2KcOZWm8hhdgC2etB-WVCwJ2PC7VPEDw_bp8EHrQMXthMmSqf6ynl44v&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXX9sZyTI6JBQTUwDql0Pr0W_V5cMS8GFeCZZCyEMiG9B8CHLfM1vsSVhTrsvY8yOJ_RQYqUCfbh-Hh2KcOZWm8hhdgC2etB-WVCwJ2PC7VPEDw_bp8EHrQMXthMmSqf6ynl44v&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBrQBl5SYXIZwD_DRR_av3jvKK9P1u7NXwvg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 23,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (A Bout De Souffle) - Jean-Luc Godard - French ...",
+        "url": "https://lens.google.com/goto?url=CAESzgEBxCJF1_euPv-uDKM0TADL8bUbK9HtN2ENI_1o5esO8Xw8hCPz8MKqfRWSZ3oUFz0Bj7doaTHteRvvPqnMLVmiKXESpABvhl6JLMO7W7iyy1HN7YtHHhprUl_HgumosPjzhilMgla2Xup-9D3wd1uWEuL-KGkvtI39r7dKj-yNC8tcV5myYs1ijz5x0bF3hXrUO_MBZAd2zipuSrMx74Ig_oDP8zTy3q3_oyCnFhnE1hKdYmq33qmB5Ysrl9VUe4PUCVTbGBHYG1p_5ax5Sw&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzgEBxCJF1_euPv-uDKM0TADL8bUbK9HtN2ENI_1o5esO8Xw8hCPz8MKqfRWSZ3oUFz0Bj7doaTHteRvvPqnMLVmiKXESpABvhl6JLMO7W7iyy1HN7YtHHhprUl_HgumosPjzhilMgla2Xup-9D3wd1uWEuL-KGkvtI39r7dKj-yNC8tcV5myYs1ijz5x0bF3hXrUO_MBZAd2zipuSrMx74Ig_oDP8zTy3q3_oyCnFhnE1hKdYmq33qmB5Ysrl9VUe4PUCVTbGBHYG1p_5ax5Sw&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs_gQAhPHmwVj9Ja0Oqx8MJe_d7hy18dKtaQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 24,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (фильм, 1960)",
+        "url": "https://lens.google.com/goto?url=CAESWwHEIkXXXabcvAG5UgnqJkJlyfWRISFFhzOsPpcojnVC-n6fMWipFi05Fnnr6MyvhRhbxiU4Mek8IFnZLTPFBq4uzi6orsD_IxkbLfaz7CLpDQ29GUyXA-HwP74&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESWwHEIkXXXabcvAG5UgnqJkJlyfWRISFFhzOsPpcojnVC-n6fMWipFi05Fnnr6MyvhRhbxiU4Mek8IFnZLTPFBq4uzi6orsD_IxkbLfaz7CLpDQ29GUyXA-HwP74&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpR6VN3SfeTbL594E2ycXa686921yzM1YEew&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 25,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (1960)",
+        "url": "https://lens.google.com/goto?url=CAESewHEIkXXNvqvLuHztHBR4aIUEk2ZszsJ_-h1vU0YgBID_cqCbCj0vaQaM5h_SBmHSSfPsqJm0ABOfDn-GkRmzAESzhUKneedINI810O3dV9hSIrLP7cNEOStLR7gp6Z9KNhlKS_oCQdsJ_TF8UNEAAaOk3Syj74DG8dK1w&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESewHEIkXXNvqvLuHztHBR4aIUEk2ZszsJ_-h1vU0YgBID_cqCbCj0vaQaM5h_SBmHSSfPsqJm0ABOfDn-GkRmzAESzhUKneedINI810O3dV9hSIrLP7cNEOStLR7gp6Z9KNhlKS_oCQdsJ_TF8UNEAAaOk3Syj74DG8dK1w&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREehecm-xnYd8c_K9Et7eeyM3lRLDF6sQdGQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 26,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "BREATHLESS DVD JEAN-PAUL Belmondo 1960 B&W Jean Luc Goddard ...",
+        "url": "https://lens.google.com/goto?url=CAESmAEBxCJF1-65Av54VStk1BQkKRxf5wKoA5cwXt0C5NZLDtL4QzR7Hb_i3TitmKLC3D0zXSdchCc1dfN8miLmnEbjIQToFX9aQhC7oOY3BsWrm83rpmVpwgzc9borrIaItD2Vko-DOeOLUC0tc51oUsSg882DsrTdUGfLRMb82NbYK4_ik0kP3ZobAQ9Sdw8CrL6R_WIvpwCLTA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmAEBxCJF1-65Av54VStk1BQkKRxf5wKoA5cwXt0C5NZLDtL4QzR7Hb_i3TitmKLC3D0zXSdchCc1dfN8miLmnEbjIQToFX9aQhC7oOY3BsWrm83rpmVpwgzc9borrIaItD2Vko-DOeOLUC0tc51oUsSg882DsrTdUGfLRMb82NbYK4_ik0kP3ZobAQ9Sdw8CrL6R_WIvpwCLTA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5xPjodeu3DEFqJuRyAZolOn6E3lkrXPYTdQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 27,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Jean-Luc Godard's “Breathless” (1960): A Petite Review with ...",
+        "url": "https://lens.google.com/goto?url=CAESrAEBxCJF146ABp4STSm7vuI9ZeKLMhm0_aQUWgb7BjdpdWqgDNBwY1MfRk-Fjs2GU76cCsnkfzS8s-SJWdiGwye0D4i6Rs9YULZYzdTI-hjIN0xzoBVyc4LIuvGeCaGlqEPPdQhPD_Om5hzASN8nUBN1QQIYDRcyg6DqyFR5x3JibyjtP6IQMrNuJNENRW0Ji4Uy92CO8K5F3aTfXxJ1er_C2XoQMyfA9Ukn95S_&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESrAEBxCJF146ABp4STSm7vuI9ZeKLMhm0_aQUWgb7BjdpdWqgDNBwY1MfRk-Fjs2GU76cCsnkfzS8s-SJWdiGwye0D4i6Rs9YULZYzdTI-hjIN0xzoBVyc4LIuvGeCaGlqEPPdQhPD_Om5hzASN8nUBN1QQIYDRcyg6DqyFR5x3JibyjtP6IQMrNuJNENRW0Ji4Uy92CO8K5F3aTfXxJ1er_C2XoQMyfA9Ukn95S_&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2v29Rc8cYeihD8UDCyN6ipQ-PpnNi7Oiuew&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 28,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "🚨 A limited amount of special booklets will be available at ...",
+        "url": "https://lens.google.com/goto?url=CAESyAEBxCJF1_vvW_M90SSmnX51W-r_k53ZXWC-YW2dY6DzEy5OCz_6lzE7Rusf9qYZ6UBGDbvQtl50Kw0nDU1b8alDXx2wyxpowZXhR5y0i-XTfBftn5foERfZ1anj4uM9zC0hfqDn2rlA1FUQIQiNneK5WtuquqkgA20ollUFZZa34XR4StlhShJJQTVGgqX7gOpB5fIfdANNjwKxyZNLNKD-IY4SLUgnHSl7If8xBN1lpry_JEbUvBjPFb5u_BHEI55aq7zD_A4JiQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESyAEBxCJF1_vvW_M90SSmnX51W-r_k53ZXWC-YW2dY6DzEy5OCz_6lzE7Rusf9qYZ6UBGDbvQtl50Kw0nDU1b8alDXx2wyxpowZXhR5y0i-XTfBftn5foERfZ1anj4uM9zC0hfqDn2rlA1FUQIQiNneK5WtuquqkgA20ollUFZZa34XR4StlhShJJQTVGgqX7gOpB5fIfdANNjwKxyZNLNKD-IY4SLUgnHSl7If8xBN1lpry_JEbUvBjPFb5u_BHEI55aq7zD_A4JiQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6jVlQ9boF2elcwyV5_U22EjRnnkRuGL1uBg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 29,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (1960) Poster French Crime Drama Film Wall Decor ...",
+        "url": "https://lens.google.com/goto?url=CAEShwEBxCJF1z_55QVH2otb8oD5fN3AGgo_kSl2lEy7zL2WPo67WPI0tYIUMqNtDtILlW12nsUTxCsLFjRy8qn_Vz6m24QgmHBXoq1GcUIRU3QOSmt_v-NJ39ia5ctwY1BlcNavKR59-uYmFV0YPcWyV0daOeRljFL5KV1L7UXc1sAhCZt2f9B3Oe4&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEShwEBxCJF1z_55QVH2otb8oD5fN3AGgo_kSl2lEy7zL2WPo67WPI0tYIUMqNtDtILlW12nsUTxCsLFjRy8qn_Vz6m24QgmHBXoq1GcUIRU3QOSmt_v-NJ39ia5ctwY1BlcNavKR59-uYmFV0YPcWyV0daOeRljFL5KV1L7UXc1sAhCZt2f9B3Oe4&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IucoQAJMgmyD5epwz_--fEHwFU1_1lY1Qw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 30,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Wolf of Wall Street - Marketing – @charliecouvefilms on ...",
+        "url": "https://lens.google.com/goto?url=CAESkwEBxCJF1-y504-ffrTSwvNK5kzIb08eMpGlBT9pvdVCc1hOiYpBIR4XGO6XrWtcsb_HA1xk5elozJgZS1NBS2deNizS4hxO_9flr8TqWjhB2eS_wN4B23zcjpPk112euoiShIPgGhyCqJeDyfcHajk2y8tKO9tC48AMjiFqfJBXpQ7hiS9HmKfDBYzi1VGvF8yem3s&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESkwEBxCJF1-y504-ffrTSwvNK5kzIb08eMpGlBT9pvdVCc1hOiYpBIR4XGO6XrWtcsb_HA1xk5elozJgZS1NBS2deNizS4hxO_9flr8TqWjhB2eS_wN4B23zcjpPk112euoiShIPgGhyCqJeDyfcHajk2y8tKO9tC48AMjiFqfJBXpQ7hiS9HmKfDBYzi1VGvF8yem3s&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPOwrxFxXDhrarFOJ6PjG9JRL9h7IH9dVmzg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 31,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (фильм, 1960) - смотреть онлайн ...",
+        "url": "https://lens.google.com/goto?url=CAESfgHEIkXXAPVlVsGtN3MmxuBzc1MAP0T1JJuW00ScfhAYcQ5kRVTfvzLii5x3JmuNi8Nw1mT8A8vL5HBBFxZrA_z4yrUb-ZiAxMYOSDlMWWZqpnIlOArOXUXSnUmUSgY2DLDt3ljBhgFPbaqhoG2IfcPNILvrz95yZyZo73A7bg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfgHEIkXXAPVlVsGtN3MmxuBzc1MAP0T1JJuW00ScfhAYcQ5kRVTfvzLii5x3JmuNi8Nw1mT8A8vL5HBBFxZrA_z4yrUb-ZiAxMYOSDlMWWZqpnIlOArOXUXSnUmUSgY2DLDt3ljBhgFPbaqhoG2IfcPNILvrz95yZyZo73A7bg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStB72bbGB4A87oJeXLsW-wy2Xyg3tVYgiYVw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 32,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Bill & Ted's Bogus Journey UK quad poster | Big Screen ...",
+        "url": "https://lens.google.com/goto?url=CAESjAEBxCJF11rS0rebk_lZrJRbxtVhaY45rz1Wv0L3nJnlxpRvCuhcKh1fgSSVr52gjrCyFe0eo9SyErQUJiANJ9G270T4o6oqWBJW7BMW9W6RC7UB_Q_Yru0uUh9OJfanlURhKkxdi3ZXUGTqrbmgyHtVCfpaIGRKN3l5pEtS6finWbuqyQ9-x5bYfIEDbQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESjAEBxCJF11rS0rebk_lZrJRbxtVhaY45rz1Wv0L3nJnlxpRvCuhcKh1fgSSVr52gjrCyFe0eo9SyErQUJiANJ9G270T4o6oqWBJW7BMW9W6RC7UB_Q_Yru0uUh9OJfanlURhKkxdi3ZXUGTqrbmgyHtVCfpaIGRKN3l5pEtS6finWbuqyQ9-x5bYfIEDbQ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzJb-V8iTA5Ox_lZz43r7OOw8C7Xb8r5DEsQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 33,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Film Forum · Jean Seberg and Jean-Paul Belmondo in Jean-Luc ...",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXzkygFmxL4IuUq4ZRSLAx7RJnmqN7gmeatmXQtYfi-nBCcP9ilxwC2GcrXTzU8E8jBxnQTqJBF9ptfLVgMyIBE0JJyxAO2PF0H6pKL12a9l_BB76G0D0EqPS0YtmrP5KKWE8qvEbdBooRE6JbyNM&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXzkygFmxL4IuUq4ZRSLAx7RJnmqN7gmeatmXQtYfi-nBCcP9ilxwC2GcrXTzU8E8jBxnQTqJBF9ptfLVgMyIBE0JJyxAO2PF0H6pKL12a9l_BB76G0D0EqPS0YtmrP5KKWE8qvEbdBooRE6JbyNM&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDeYsFjEE6gPLHDarDhnlo4q7-wWM1Hn0YJA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 34,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (1960) Original Movie Posters - Posteritati Movie ...",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXT6MwgBoqA0XRmDrvpwMGXFCaX4MamZuEmRWkCN9qh11fLF8Y4DEba8inegfvswiQC6wUtQaRU8mR4R0MBNrWslliOzaijZ7_rH9YVOZltpBjDbpze7oks7_6b6xAa3w3ii0YTg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXT6MwgBoqA0XRmDrvpwMGXFCaX4MamZuEmRWkCN9qh11fLF8Y4DEba8inegfvswiQC6wUtQaRU8mR4R0MBNrWslliOzaijZ7_rH9YVOZltpBjDbpze7oks7_6b6xAa3w3ii0YTg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNot2Hww1gb4yuXuvj71_rQVX7TEB1lr5Xlg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 35,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "À bout de souffle | TIFF",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXyvb4V4l_2TM0esW5fwRt67gj-UCqF7eAWMEiPJkm5DjSEebC-A7A6M3qvQvgWs9jLnVD69XrnEPB1kC4_DBLz1W-oOI7X-Q4g_-Qq0PpGDKUeMqqLCoYtcsxj_z22Ac&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXyvb4V4l_2TM0esW5fwRt67gj-UCqF7eAWMEiPJkm5DjSEebC-A7A6M3qvQvgWs9jLnVD69XrnEPB1kC4_DBLz1W-oOI7X-Q4g_-Qq0PpGDKUeMqqLCoYtcsxj_z22Ac&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7fICgrlbq19dqVfCU7UT-SW9PElIU7bCxCA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 36,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (фильм, 1960) — Википедия",
+        "url": "https://lens.google.com/goto?url=CAES8QEBxCJF1yVCzM2tA2ByqAxLodkVIgHhgPLJUD6enojSrE7V9FMo_TSTnnuBQ-V7k6ocnYuN6J6Z3HPOnhekUTfRIrQdOQmeuuGJJCgDbJSURIlFlCoUi0-UmZg2pVnSQc2VvtkdllmZUkQx6By80I9ldvFkrPqtO5iaaOrmtv-oLrJuCN0HYyoulPAMDIZksTI6FoGaDi9QVrANrtO4GFOAXBXnSEyu8poJBL5ri85QaqDnaHKQ8Q90D7ua0QaePKUsfP1tOf3Ta7dFSifzFqHQexqAaDvpEsSRqgZTL0_6v72rlQ5GEECao4xKMLqJ3ldH&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAES8QEBxCJF1yVCzM2tA2ByqAxLodkVIgHhgPLJUD6enojSrE7V9FMo_TSTnnuBQ-V7k6ocnYuN6J6Z3HPOnhekUTfRIrQdOQmeuuGJJCgDbJSURIlFlCoUi0-UmZg2pVnSQc2VvtkdllmZUkQx6By80I9ldvFkrPqtO5iaaOrmtv-oLrJuCN0HYyoulPAMDIZksTI6FoGaDi9QVrANrtO4GFOAXBXnSEyu8poJBL5ri85QaqDnaHKQ8Q90D7ua0QaePKUsfP1tOf3Ta7dFSifzFqHQexqAaDvpEsSRqgZTL0_6v72rlQ5GEECao4xKMLqJ3ldH&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4InryBOK4tWciY5c8gqO0c1vp2SFMSXISyw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 37,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (2020RR) | Original Movie Poster | Vintage Film ...",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXhywI4GL-fB6kfyo1xi8U11mf2HpaGtaCdlgqLRSkKp7YyuqBlpzTA23AJ3kgkjJ6GKkomkvc2BIcdC-Iwpd5cG_q7J2Gyl_MaTsOPZluQb1amPwSXP05uA5K1_Nmsct3x8ZAQasS0nty&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXhywI4GL-fB6kfyo1xi8U11mf2HpaGtaCdlgqLRSkKp7YyuqBlpzTA23AJ3kgkjJ6GKkomkvc2BIcdC-Iwpd5cG_q7J2Gyl_MaTsOPZluQb1amPwSXP05uA5K1_Nmsct3x8ZAQasS0nty&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWpZtiJ-ggclMs5TaOhSxbJcLUoUCL0rdjSw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 38,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "The Genius of Jean-Luc Godard's Breathless",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXDNoRyvSes6Fi1mTLNKrcPa3OahdKNROKa5vpxJtiiJ1C1Mo6XBdgv7ZohS5MDC17CDYE98aWKuUBUc_1kdk-c7zmkK_0KXeWz9itQisPdmb7cCl2AUNiRK8Q6BXzmUZpL8DS&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXDNoRyvSes6Fi1mTLNKrcPa3OahdKNROKa5vpxJtiiJ1C1Mo6XBdgv7ZohS5MDC17CDYE98aWKuUBUc_1kdk-c7zmkK_0KXeWz9itQisPdmb7cCl2AUNiRK8Q6BXzmUZpL8DS&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv6TJeYeLTduryVGefOjkxQJvyOIB2i8efVw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 39,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании\"/\"A bout de souffle\" [1960]",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXhry2BXT6sh9XjoUrYVEXeujvLm2N20EiwE52e1oXLqxUVMz9XYO5K2EZuIsBXsBYmRZjgVpw4BqK7tfjD1uSklwuDPApktkIQr5bubEPj30BH97cypNf-n1-tr8HeHtaxWke5tbUkA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXhry2BXT6sh9XjoUrYVEXeujvLm2N20EiwE52e1oXLqxUVMz9XYO5K2EZuIsBXsBYmRZjgVpw4BqK7tfjD1uSklwuDPApktkIQr5bubEPj30BH97cypNf-n1-tr8HeHtaxWke5tbUkA&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR98SCqShDxHdSflo3tBc3jllQdU1ekjKgXw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 40,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Фильм Жан-Люка Годара «На последнем дыхании» | Belcanto.ru",
+        "url": "https://lens.google.com/goto?url=CAESZgHEIkXXa3PgRGXFkYibtfPzB3d8GNXeBx_4W2r_IBZWRpTVlUjBmHZvxUHl6hyKXbvoJf4k7ny_uJCSU-wfpQblDPpbQBJA5e_F4Jt8Rzf3JJ2tp6gtfgwW00r0O9OJO3RenGx5Qw&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZgHEIkXXa3PgRGXFkYibtfPzB3d8GNXeBx_4W2r_IBZWRpTVlUjBmHZvxUHl6hyKXbvoJf4k7ny_uJCSU-wfpQblDPpbQBJA5e_F4Jt8Rzf3JJ2tp6gtfgwW00r0O9OJO3RenGx5Qw&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTftXG6NM9xd3FT5YYWlu7BzSHyFtwA8hf1w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 41,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании»: разбор фильма Жан-Люка Годара",
+        "url": "https://lens.google.com/goto?url=CAESmgEBxCJF16EmjzCid3X6a_Bo6GLpH4Ti5Ss6Z35F6zbQeb_gAKtmGxXzDARoROiAp9W1LDqO6kXIA43GMmRDqK_Bpy0S_pVRjcOK1tm9tA3-nIIyj-te1aFa379Ame4TImCah7jWxN60CxEwySqj4wUBggN8o3TJnK_yZh323iadEncDHJBqcCZdquq5EZ0U_mJWoRfEobCQzIpJ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESmgEBxCJF16EmjzCid3X6a_Bo6GLpH4Ti5Ss6Z35F6zbQeb_gAKtmGxXzDARoROiAp9W1LDqO6kXIA43GMmRDqK_Bpy0S_pVRjcOK1tm9tA3-nIIyj-te1aFa379Ame4TImCah7jWxN60CxEwySqj4wUBggN8o3TJnK_yZh323iadEncDHJBqcCZdquq5EZ0U_mJWoRfEobCQzIpJ&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkvxwDDewsBNTaCMIBU95-3S4-gmNXwYLmrQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 42,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Фільм На останньому подиху 1960 дивитись онлайн українською в HD",
+        "url": "https://lens.google.com/goto?url=CAESbQHEIkXXRpnPrIRCR6rCqfWe14RB2u2fU9gW0QHbxeemhgCEIhdO7jtFji6PzTfSOeCcWQEe44iV4pkJtgtKnrtHzL579FpVt-_M2pt_th-gnbTBqRo6xv5C_ulCF1JATa7cr8y5ddgqf0JyRes&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbQHEIkXXRpnPrIRCR6rCqfWe14RB2u2fU9gW0QHbxeemhgCEIhdO7jtFji6PzTfSOeCcWQEe44iV4pkJtgtKnrtHzL579FpVt-_M2pt_th-gnbTBqRo6xv5C_ulCF1JATa7cr8y5ddgqf0JyRes&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW8C5tLRFrwWJUULwet__NvSxVjmP808fMiQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 43,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (фильм 1960) смотреть онлайн бесплатно ...",
+        "url": "https://lens.google.com/goto?url=CAESXAHEIkXXqD_aSFjOz3Fwt6hbT0WfJBbF3osG9bTdSzcRXwLaMbw0r8Gra4X2-ePvPysozKwjFF6zWWUEHfl6jsFKBP76rZm_bI8xMwEdMt3J5A_x23fb8A8ANFxu&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESXAHEIkXXqD_aSFjOz3Fwt6hbT0WfJBbF3osG9bTdSzcRXwLaMbw0r8Gra4X2-ePvPysozKwjFF6zWWUEHfl6jsFKBP76rZm_bI8xMwEdMt3J5A_x23fb8A8ANFxu&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi_lC17d-_2ZQTDDhdRD12Z_ykj4Mv8HAC2Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 44,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "À bout de souffle (1960). На последнем дыхании | by 2 ...",
+        "url": "https://lens.google.com/goto?url=CAESfwHEIkXX5oD8iNMPmmQApce9M34z-Bybk7l6qKMp34NGOItk9rRJQv6w6pdox1sz9sOPruliEuZdnNqEWJuqgOSU_ywYTXBGbFjdxr7xwoSyZlBuDdhTXCgbxP8pRg_OGY2W-dBoAS0L5_6DlzgyivGq1m5s9MIitMI8i1R7xak&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfwHEIkXX5oD8iNMPmmQApce9M34z-Bybk7l6qKMp34NGOItk9rRJQv6w6pdox1sz9sOPruliEuZdnNqEWJuqgOSU_ywYTXBGbFjdxr7xwoSyZlBuDdhTXCgbxP8pRg_OGY2W-dBoAS0L5_6DlzgyivGq1m5s9MIitMI8i1R7xak&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeuPNZ0WHFoj-YrG8PDid4Um2Ii1M8YokZQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 45,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании — Русский трейлер (Субтитры, 1960 ...",
+        "url": "https://lens.google.com/goto?url=CAESaAHEIkXXAi4f4PShI74YLlbWy6o-R_9fuUPMGJ6Lv_uilcbxmRfnmQw6WusV1DBnK-1gLquvhhcDHwXQngomF2FI5Qm1Vkjmtv4LTV8RItpHqjvyUfOdVtan23TDMpDXJz3Ch3pPMtTX&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaAHEIkXXAi4f4PShI74YLlbWy6o-R_9fuUPMGJ6Lv_uilcbxmRfnmQw6WusV1DBnK-1gLquvhhcDHwXQngomF2FI5Qm1Vkjmtv4LTV8RItpHqjvyUfOdVtan23TDMpDXJz3Ch3pPMtTX&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBnSc0AzUiiU1SL0cJyjRsr19JHJaSifCvzA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 46,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Джин Сиберг в фильме На последнем дыхании /A Bout de Souffle ...",
+        "url": "https://lens.google.com/goto?url=CAESbAHEIkXXi-IdbCcb4h63NBdog8hWx3CoFb8m4SckTYC_fceiE0tLNPOIVnCdnW3Nh_LwQjAJr_dqe9lS8jza6-5VE6vJnIb9H-GTWh64b9cgy1S8LiqRCtXfi5W9XxTxRIAM2xEIkQOTsgMQ8A&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbAHEIkXXi-IdbCcb4h63NBdog8hWx3CoFb8m4SckTYC_fceiE0tLNPOIVnCdnW3Nh_LwQjAJr_dqe9lS8jza6-5VE6vJnIb9H-GTWh64b9cgy1S8LiqRCtXfi5W9XxTxRIAM2xEIkQOTsgMQ8A&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkxG5ZjEZdd5G3Gw4aL287yopJMncfM9nj0Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 47,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (1960): отзывы, смотреть трейлер ...",
+        "url": "https://lens.google.com/goto?url=CAESdAHEIkXXIp5xInpjo-FUfzkTLa8fknsOKtozRzAksQhWYsruEEnMIeqY0K5t4iw6dDhfGJnhF_G0YXuyp9Y67gl08XBx9r82VUnbPt3x4rY4Vab1jhTOeUUU-NI5MtwlzZn8H2_zTKSsiz3YU5wTGFXIHPoa&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESdAHEIkXXIp5xInpjo-FUfzkTLa8fknsOKtozRzAksQhWYsruEEnMIeqY0K5t4iw6dDhfGJnhF_G0YXuyp9Y67gl08XBx9r82VUnbPt3x4rY4Vab1jhTOeUUU-NI5MtwlzZn8H2_zTKSsiz3YU5wTGFXIHPoa&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_zr-PGJ2AeS3ej6kJu0oIT6ea6Iso67bH-Q&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 48,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании cмотреть в хорошем качестве, На ...",
+        "url": "https://lens.google.com/goto?url=CAESawHEIkXXhgm6bFErunpM0wVIsN97tEORVb-ncH5ARpL8b13t_U2IECXBs0nBuTJFpq6eVbx569Q1QOLPUSWytSXEa3cb7qbSuvX3XrJ-w7gaEzrd-tQZrHHarxBWh-qMtt1rcVxZfGofiz7P&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESawHEIkXXhgm6bFErunpM0wVIsN97tEORVb-ncH5ARpL8b13t_U2IECXBs0nBuTJFpq6eVbx569Q1QOLPUSWytSXEa3cb7qbSuvX3XrJ-w7gaEzrd-tQZrHHarxBWh-qMtt1rcVxZfGofiz7P&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7rTYZHiBESMmlX0Y8f29MDNxKWrUF3umVTw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 49,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании», Режиссер Жан-Люк Годар - KinoVoid.com",
+        "url": "https://lens.google.com/goto?url=CAESaQHEIkXXU2f6h-OrdkAifLuLpwuA9kohivudrKs_jk-jIydL2W-dv7OH5ikub2CckeXzVOOjmvsAN51X2cJxj7P3_sQCdPcbTFXcatrRphY_6DejFVHOFqcLzTZrXfL8WHq1x_Fw-6FGug&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESaQHEIkXXU2f6h-OrdkAifLuLpwuA9kohivudrKs_jk-jIydL2W-dv7OH5ikub2CckeXzVOOjmvsAN51X2cJxj7P3_sQCdPcbTFXcatrRphY_6DejFVHOFqcLzTZrXfL8WHq1x_Fw-6FGug&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdfy0A31z71oE-ectEJWyVvUsOlxofKKnRKQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 50,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании (1960) — Фильм.ру",
+        "url": "https://lens.google.com/goto?url=CAESbgHEIkXXOnBmIjOX7OeEedCrLwZohrkgGXR_EMWMki1j8OOSjRXG11ZurfWOHiYoP-JDgu8oeKTLkEd9lKBOEz_kP8_HKFoTG9J2_aFbfGmuAfzIq7Xker7josFpzQZtky_qGD2kcC-a6HI79UI-&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESbgHEIkXXOnBmIjOX7OeEedCrLwZohrkgGXR_EMWMki1j8OOSjRXG11ZurfWOHiYoP-JDgu8oeKTLkEd9lKBOEz_kP8_HKFoTG9J2_aFbfGmuAfzIq7Xker7josFpzQZtky_qGD2kcC-a6HI79UI-&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN5DB1gjsc-QPbVNO2Jlj7Ye_rtfi71rsrw&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 51,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании» Жана-Люка Годара с Михаилом Трофименковым",
+        "url": "https://lens.google.com/goto?url=CAESnwEBxCJF170Z7lbXEyUGbJrYLz-HPy6NF1hA74exRFKy9Nq1LU7Cw17syqQpoOcYwvGFCYGbpkJ--g3UDHzRhYilzaN1bhKNwTNDjmC5KpxkJdPYFPcv0v2UlbDqaLgjYChCKezFCQC9SllYUmZtymYF8q8oPU4J_39b8UgDfQYvLm-TxhalOxi-MrJpCgWonlVwmgp42dKeNiOHkBtkF3c&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESnwEBxCJF170Z7lbXEyUGbJrYLz-HPy6NF1hA74exRFKy9Nq1LU7Cw17syqQpoOcYwvGFCYGbpkJ--g3UDHzRhYilzaN1bhKNwTNDjmC5KpxkJdPYFPcv0v2UlbDqaLgjYChCKezFCQC9SllYUmZtymYF8q8oPU4J_39b8UgDfQYvLm-TxhalOxi-MrJpCgWonlVwmgp42dKeNiOHkBtkF3c&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTI8NNdsYEvLP_r0DZCQpNffaRPluBa9VkbiQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 52,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless - JB Hi-Fi",
+        "url": "https://lens.google.com/goto?url=CAESeQHEIkXXDFTLWepWpLXjTBp8vtKooZbPRlhkOjT280mTnJ2ZKt8mLDZCjqM-Kt_3GsWiBpFQUMnqQCzLmQU5n2i6A3ZLDw7GYNn1PZKbWhlhEOTvpTNKby5RRPwLg9IODlrADu-ohtcSfkeUaVEL0DdNtNd5AQPoNHU&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESeQHEIkXXDFTLWepWpLXjTBp8vtKooZbPRlhkOjT280mTnJ2ZKt8mLDZCjqM-Kt_3GsWiBpFQUMnqQCzLmQU5n2i6A3ZLDw7GYNn1PZKbWhlhEOTvpTNKby5RRPwLg9IODlrADu-ohtcSfkeUaVEL0DdNtNd5AQPoNHU&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrYhP2dI5JRki-C8juKa5MYIfjc4D7_ufAA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 53,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (A Bout De Souffle) - Jean-Luc Godard - French ...",
+        "url": "https://lens.google.com/goto?url=CAESzgEBxCJF184lKG6nxS7uxq537jXuL0qgFlo4nsqww1wfZ5NXibL9Ps2g-isRqLEew4dlL2ooLr2DVWKC_zCQtPk65w4G24lMHnGdiEZ1ZQtyWNxCAWL3qgoPWEQeYCZL9A9SKUWV7SCE9C-x59jqbDH4IW7vJxqu7oZ3Dbt-R_SB7yd42enZB5WhWOUbH_aDy0T21L37ikq56aeYu-HM5oJjPTOeFLO6YO5C9z0mf5Imj9l9bPbezLNO-OBGJsMf8e3q99jO-ag9hG4r7xAuTg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESzgEBxCJF184lKG6nxS7uxq537jXuL0qgFlo4nsqww1wfZ5NXibL9Ps2g-isRqLEew4dlL2ooLr2DVWKC_zCQtPk65w4G24lMHnGdiEZ1ZQtyWNxCAWL3qgoPWEQeYCZL9A9SKUWV7SCE9C-x59jqbDH4IW7vJxqu7oZ3Dbt-R_SB7yd42enZB5WhWOUbH_aDy0T21L37ikq56aeYu-HM5oJjPTOeFLO6YO5C9z0mf5Imj9l9bPbezLNO-OBGJsMf8e3q99jO-ag9hG4r7xAuTg&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0IF4J9W8FLwAEbToZB14Kh3mRjjKHhu7_3w&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 54,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "На последнем дыхании фильм, 1960, дата выхода трейлеры ...",
+        "url": "https://lens.google.com/goto?url=CAESYQHEIkXXfq-YjuP-lSBK5o09wP1DIw-g36xiI0nLTE3D2hL65_DQYVThuqEuMJ9rRLk1u1oceWYzKgbnrydjt0SD3tzIOw0B9RmbsPSnj4tsoazlpFKXqLXpYmewTB3psTI&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESYQHEIkXXfq-YjuP-lSBK5o09wP1DIw-g36xiI0nLTE3D2hL65_DQYVThuqEuMJ9rRLk1u1oceWYzKgbnrydjt0SD3tzIOw0B9RmbsPSnj4tsoazlpFKXqLXpYmewTB3psTI&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0b2WuAiEtiTCAPmxBoI3m-LdGnKRgOAcjg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 55,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "КиноКухня рекомендует: \"На последнем дыхании\" / Кинозал ...",
+        "url": "https://lens.google.com/goto?url=CAESZAHEIkXXEHLZJ8XvNWeQlySEmtTOnb21fwUMsEye9q9_Z8wV8u9ithED9kcBGT44HjEkISJxmbQedhGi0UckVl4mzZisrXQ0igj8zkuH0wqvzggW8SPKJfem0uE-ZewZEuU2rQk&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESZAHEIkXXEHLZJ8XvNWeQlySEmtTOnb21fwUMsEye9q9_Z8wV8u9ithED9kcBGT44HjEkISJxmbQedhGi0UckVl4mzZisrXQ0igj8zkuH0wqvzggW8SPKJfem0uE-ZewZEuU2rQk&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1zgm216JMQ4j9diRXmBRO8sAqPfAJ4Z9qKA&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 56,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "A bout de souffle poster hi-res stock photography and images ...",
+        "url": "https://lens.google.com/goto?url=CAESfAHEIkXXFtbYVMjKIJBccWenSxuu61T1fqxKPpPwkzhQLAzFyHy_pyPgaI6C8qwwpsKM3gIG87crKRSwJkunQq7QDI2zjCgXtLQiqGmolIdEfRzL38bps3ZQUP8K5gQkctFPsZApA3bZ8zGG1-WxxreeQJ6ugktmZQRAj98&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESfAHEIkXXFtbYVMjKIJBccWenSxuu61T1fqxKPpPwkzhQLAzFyHy_pyPgaI6C8qwwpsKM3gIG87crKRSwJkunQq7QDI2zjCgXtLQiqGmolIdEfRzL38bps3ZQUP8K5gQkctFPsZApA3bZ8zGG1-WxxreeQJ6ugktmZQRAj98&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2M85nNVOmneV2aqKOWQGUoTxdQ6bbAZNYKQ&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 57,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "NICE BLANCHE JEAN Claude Brisseau DVD Brand New & Sealed ...",
+        "url": "https://lens.google.com/goto?url=CAESlQEBxCJF19tjIkThghGKQnxjDOec41esjR17kTuE9tC9xD-3rqpJF_45MkrAtuDF-VPXfjAOcto8WRj0jOPHPEbv3k449Ae8oAgOXREeN6EBLh23MHAi5tgpLwZR8PdCgEkgBzR6XU0ZvJHheejkpLSGcsrSjD51yUS532Da3KsjrVO_tQah2zY3KxnxgYK4feqnhOMNuw&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlQEBxCJF19tjIkThghGKQnxjDOec41esjR17kTuE9tC9xD-3rqpJF_45MkrAtuDF-VPXfjAOcto8WRj0jOPHPEbv3k449Ae8oAgOXREeN6EBLh23MHAi5tgpLwZR8PdCgEkgBzR6XU0ZvJHheejkpLSGcsrSjD51yUS532Da3KsjrVO_tQah2zY3KxnxgYK4feqnhOMNuw&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAczETEC4Od3JrBhRyvinrYjTMOXQmKMcg7g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 58,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless Movie Poster (#1 of 4) - IMP Awards",
+        "url": "https://lens.google.com/goto?url=CAESagHEIkXXnhX99qM-uRPqiHj7RU8FLdatcRIb1phSMQf0EoNFB82cg_BgoTsVyVKIgOFt_DHpEIRiViCiGzzNJKeteJZ3PJRKnJo43Z4-5rlwNajjum5E9PUnwwmzGVxxOgaoKN658Xcd_bc&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESagHEIkXXnhX99qM-uRPqiHj7RU8FLdatcRIb1phSMQf0EoNFB82cg_BgoTsVyVKIgOFt_DHpEIRiViCiGzzNJKeteJZ3PJRKnJo43Z4-5rlwNajjum5E9PUnwwmzGVxxOgaoKN658Xcd_bc&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCjOjwvzHPgy8vsAat0Cy2OMJWkVqJgO31Rg&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 59,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "Breathless (2000R) | Original Movie Poster | Vintage Film ...",
+        "url": "https://lens.google.com/goto?url=CAEScwHEIkXXiCwZ4WI5CnHgPgoC0Psq1EzltKb08Le5BOEx4XxM-g-KFVVRN0VVFWDi8A2B6TwAAcOXWNsZ5HKRZamRyxDyO0sjUDMNTA9SkKzDr_6RuS9FQECYlapu4F4JgLW0jxJmOXKBOnP085L-4ua-tAs&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAEScwHEIkXXiCwZ4WI5CnHgPgoC0Psq1EzltKb08Le5BOEx4XxM-g-KFVVRN0VVFWDi8A2B6TwAAcOXWNsZ5HKRZamRyxDyO0sjUDMNTA9SkKzDr_6RuS9FQECYlapu4F4JgLW0jxJmOXKBOnP085L-4ua-tAs&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmu5f6fsBrnkib-kkPf6L_aqA7Ci8unL3Wng&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 60,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      },
+      {
+        "title": "DVD Releases: 'Breathless: 50th Anniversary Special Edition'",
+        "url": "https://lens.google.com/goto?url=CAESlwEBxCJF16bwRBBxykO4ms7ar7pBCQ8PIyw1gOT9riskmELhV7M9GYBueram4n56aQ4JzFIvcbNANv-sdakfObLorl3Ju-0j3C-OoD5W0SQj11rOzl9Q1jnI9vdlpsYfrA7sWBc78MaAG1TVfyS5QwKOMT_0fP1kmWskYchoo_nsiuf8nifzNUoW1aL-L8eWhio6h29jWmqS&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg",
+        "url_candidates": [
+          "https://lens.google.com/goto?url=CAESlwEBxCJF16bwRBBxykO4ms7ar7pBCQ8PIyw1gOT9riskmELhV7M9GYBueram4n56aQ4JzFIvcbNANv-sdakfObLorl3Ju-0j3C-OoD5W0SQj11rOzl9Q1jnI9vdlpsYfrA7sWBc78MaAG1TVfyS5QwKOMT_0fP1kmWskYchoo_nsiuf8nifzNUoW1aL-L8eWhio6h29jWmqS&gsessionid=IfWHPSdZ1Sd4mcZl6Kl8VYo1QcfL59YFImx2txJen7D7Vbor-3M9Dg"
+        ],
+        "source": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkvwWlK2Hp6jijQMOFzooqfB6u25FsHlp87g&s",
+        "content": "",
+        "provider": "google_lens_brightdata",
+        "position": 61,
+        "lens_tab": "exact_matches",
+        "resolved_urls": [],
+        "resolved_url": "",
+        "url_resolution_status": "google_goto_skipped_no_documented_destination"
+      }
+    ],
+    "results_source": "live",
+    "latest_query": {
+      "status": "ok",
+      "errors": [],
+      "diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 59
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 59
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 59,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 59,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 59,
+        "google_goto_url_count": 59,
+        "result_url_paths": {
+          "lens.google.com/goto": 59
+        },
+        "result_hosts": {
+          "lens.google.com": 59
+        },
+        "lens_tmdb_title_resolution_status": "no_exact_tmdb_title",
+        "lens_tmdb_title_query_count": 1,
+        "lens_tmdb_title_hint": "Breathless A Bout De Souffle - Jean-Luc Godard - French",
+        "lens_tmdb_title_selected_id": null,
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 11,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Breathless A Bout De Souffle - Jean-Luc Godard - French"
+        ],
+        "title_search_candidate_urls": 11,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 11
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      }
+    },
+    "evidence": {
+      "strategy": "lens_derived_google_official_title_search",
+      "tmdb_ids": [],
+      "imdb_ids": [],
+      "tmdb_id_lookup": {
+        "status": "no_tmdb_id",
+        "tmdb_ids": [],
+        "direct_tmdb_ids": [],
+        "imdb_ids": [],
+        "imdb_find_results": {},
+        "imdb_find_errors": [],
+        "details_resolved": 0,
+        "errors": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "lens_title_tmdb_ids": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "id_resolution": {
+        "strategy": "official_lens_or_lens_derived_title_search_then_tmdb_find",
+        "tmdb_ids_seen": [],
+        "imdb_ids_seen": [],
+        "imdb_to_tmdb_ids": {},
+        "unresolved_tmdb_ids": [],
+        "folder_name_used": false,
+        "image_filename_used": false,
+        "errors": [],
+        "lens_title_tmdb_ids": [],
+        "google_title_search_tmdb_ids": [],
+        "google_title_search_imdb_ids": []
+      },
+      "candidate_identities": [],
+      "official_title_search": {
+        "source": "google_serp_official_movie_and_archive_catalog_search",
+        "status": "no_official_results",
+        "query_count": 1,
+        "query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_hints": [
+          "Breathless A Bout De Souffle - Jean-Luc Godard - French"
+        ],
+        "year_hint": null,
+        "response_format": "json",
+        "payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "http_status": 200,
+        "attempts": 1,
+        "organic_result_count": 11,
+        "candidate_url_count": 11,
+        "google_redirect_count": 0,
+        "google_redirect_unwrapped_count": 0,
+        "candidate_domains": {
+          "www.google.com": 11
+        },
+        "official_url_count": 0,
+        "catalog_source_count": 0,
+        "afi_catalog_result_count": 0,
+        "bfi_archive_result_count": 0,
+        "error": null,
+        "tmdb_ids": [],
+        "imdb_ids": []
+      },
+      "lens_title_resolution": {
+        "status": "no_exact_tmdb_title",
+        "provider": "tmdb_search_movie",
+        "query_count": 1,
+        "title_hint": "Breathless A Bout De Souffle - Jean-Luc Godard - French",
+        "year_hint": null,
+        "exact_candidate_count": 0,
+        "candidate_tmdb_ids": [],
+        "selected_tmdb_id": null,
+        "details_verified": false,
+        "reason": "No TMDB movie exactly matches the Lens title and available Lens year",
+        "tmdb_total_results": 0,
+        "tmdb_returned_results": 0
+      },
+      "official_catalog_sources": {
+        "status": "no_results",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "afi_catalog": [],
+        "bfi_national_archive": []
+      },
+      "wikidata": {
+        "status": "disabled_by_configuration",
+        "candidate_count": 0,
+        "identity_evidence": false,
+        "automatic_match_allowed": false
+      },
+      "results_source": "live",
+      "lens_diagnostics": {
+        "status": "ok",
+        "lens_tab": "exact_matches",
+        "lens_tabs_attempted": [
+          "exact_matches"
+        ],
+        "lens_tab_diagnostics": {
+          "exact_matches": {
+            "status": "ok",
+            "http_status": 200,
+            "attempts": 1,
+            "result_count": 59,
+            "raw_result_count": 59,
+            "rate_limit_retries": 0,
+            "rate_limit_wait_seconds": 0,
+            "raw_result_fields": [
+              "global_rank",
+              "image",
+              "image_base64",
+              "image_url",
+              "link",
+              "logo",
+              "rank",
+              "source",
+              "title"
+            ],
+            "raw_result_field_types": {
+              "global_rank": "int",
+              "image": "str",
+              "image_base64": "str",
+              "image_url": "str",
+              "link": "str",
+              "logo": "str",
+              "rank": "int",
+              "source": "str",
+              "title": "str"
+            },
+            "raw_link_paths": {
+              "encrypted-tbn0.gstatic.com/images": 96,
+              "lens.google.com/goto": 59
+            }
+          }
+        },
+        "data_format": "parsed_light",
+        "http_status": 200,
+        "attempts": 1,
+        "result_count": 59,
+        "error": null,
+        "rate_limit_retries": 0,
+        "rate_limit_wait_seconds": 0,
+        "raw_result_fields": [
+          "global_rank",
+          "image",
+          "image_base64",
+          "image_url",
+          "link",
+          "logo",
+          "rank",
+          "source",
+          "title"
+        ],
+        "raw_link_paths": {
+          "encrypted-tbn0.gstatic.com/images": 96,
+          "lens.google.com/goto": 59
+        },
+        "exact_matches_result_count": 59,
+        "visual_matches_result_count": 0,
+        "visual_fallback_skipped_reason": "exact_matches_has_usable_title_hint",
+        "raw_result_count": 59,
+        "google_goto_candidates": 59,
+        "google_goto_resolved": 0,
+        "google_goto_failed": 0,
+        "google_goto_skipped": 59,
+        "google_goto_direct_urls_kept": 0,
+        "google_goto_http_statuses": {},
+        "google_goto_methods": {},
+        "google_goto_error_kinds": {},
+        "google_goto_error_samples": [],
+        "official_tmdb_url_count": 0,
+        "official_tmdb_ids": [],
+        "official_imdb_url_count": 0,
+        "official_imdb_ids": [],
+        "result_url_count": 59,
+        "google_wrapper_count": 59,
+        "google_goto_url_count": 59,
+        "result_url_paths": {
+          "lens.google.com/goto": 59
+        },
+        "result_hosts": {
+          "lens.google.com": 59
+        },
+        "lens_tmdb_title_resolution_status": "no_exact_tmdb_title",
+        "lens_tmdb_title_query_count": 1,
+        "lens_tmdb_title_hint": "Breathless A Bout De Souffle - Jean-Luc Godard - French",
+        "lens_tmdb_title_selected_id": null,
+        "title_search_status": "no_official_results",
+        "title_search_response_format": "json",
+        "title_search_http_status": 200,
+        "title_search_payload_shape": "top_level=status_code=int;headers=object[accept-ch,alt-svc,cache-control,content-security-policy,content-type,cross-origin-opener-policy,date,expires];body=str",
+        "title_search_attempts": 1,
+        "title_search_results": 11,
+        "title_search_official_urls": 0,
+        "title_search_query_count": 1,
+        "title_search_query_variants": [
+          "broad_site_scoped"
+        ],
+        "title_search_hints": [
+          "Breathless A Bout De Souffle - Jean-Luc Godard - French"
+        ],
+        "title_search_candidate_urls": 11,
+        "title_search_google_redirects": 0,
+        "title_search_unwrapped_redirects": 0,
+        "title_search_candidate_domains": {
+          "www.google.com": 11
+        },
+        "wikipedia_status": "disabled_by_configuration",
+        "wikipedia_query_count": 0,
+        "wikipedia_article_count": 0,
+        "wikipedia_tmdb_query_count": 0,
+        "wikipedia_tmdb_result_count": 0,
+        "wikipedia_tmdb_exact_title_year_matches": 0,
+        "wikidata_status": "disabled_by_configuration",
+        "wikidata_candidates": 0,
+        "afi_catalog_results": 0,
+        "bfi_archive_results": 0
+      },
+      "wikipedia_tmdb_suggestions": {
+        "status": "disabled_by_configuration",
+        "identity_evidence": false,
+        "automatic_match_allowed": false,
+        "exact_title_year_match_count": 0
+      }
+    }
+  },
+  "tmdb": null,
+  "tmdb_id": null,
+  "imdb_id": null,
+  "identity": null,
+  "correction": null,
+  "status": "review",
+  "output_path": "مراجعة/Breathless (À Bout de Souffle) (1960)/Breathless (À Bout de Souffle) (1960).json"
+}
